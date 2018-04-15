@@ -55,7 +55,21 @@
 </section>
 
 <section class="section-padding">
-<div class="container  ">
+<div class="container">
+    <div class="text-center section-padding">
+        <img src="/materilaHTML/assets/images/ArchitecturalDesign/Material/0.Intro.png" alt="" class="img-fluid w-75">
+    </div>
+    <div class="text-justify">
+        <ul>
+            <li>Sustainability and efficiency of a building is largely dependent on the sustainability of building materials. Building industry is dependent on endless supply of high quality materials and energy resources.</li>
+            <li>This can be justified by the fact that <strong>buildings on a global scale consume about 40 % of the raw stone, gravel and sand, 25 % of wood, 40 % of energy and 16 % of the water each year.</strong></li>
+            <li>These result in depletion of non-renewable materials and resources, production of waste byproducts, release of pollutants and deterioration of the air, water, soils and the habitat that surrounds it.</li>
+            <li>The present time demands use of sustainably managed materials.</li>
+            <li>These are the materials that are environmentally preferable and have a mitigated degree of adverse impact on environment and human ecosystem when compared with equivalent products for the same application.</li>
+            <li>Use of sustainably managed materials is an environmental responsibility in contributing towards a sustainable habitat.</li>
+            <li>Their basic characteristics that are required in the present scenario are, ability of natural resource conservation, low embodied energy, potential of recyclability and reuse and low emission levels of toxic substances or pollutant release in each stage of material life cycle.</li>
+        </ul>
+    </div>
     <table class="table table-hover section-padding">
         <thead>
         <tr>
@@ -66,27 +80,27 @@
         <tbody>
         <tr>
         <th scope="row">1</th>
-        <td><a href="index.php">Handling of Non-Process Waste (During Construction)</a></td>
+        <td><a href="MaterialWasteConstruction.php">Handling of Non-Process Waste (During Construction)</a></td>
         </tr>
         <tr>
             <th scope="row">2</th>
-            <td><a href="index.php">Handling of Non-Process Waste (Post Occupancy)</a></td>
+            <td><a href="MaterialWasteOccupancy.php">Handling of Non-Process Waste (Post Occupancy)</a></td>
         </tr>
         <tr>
             <th scope="row">3</th>
-            <td><a href="index.php">Materials with Recycled Content</a></td>
+            <td><a href="MaterialRecycleContent.php">Materials with Recycled Content</a></td>
         </tr>
         <tr>
             <th scope="row">4</th>
-            <td><a href="index.php">Local Materials</a></td>
+            <td><a href="MaterialLocal.php">Local Materials</a></td>
         </tr>
         <tr>
             <th scope="row">5</th>
-            <td><a href="index.php">Material Reuse</a></td>
+            <td><a href="MaterialReuse.php">Material Reuse</a></td>
         </tr>
         <tr>
             <th scope="row">6</th>
-            <td><a href="index.php">Certified Wood / Rapidly Renewable Building Materials and Furniture</a></td>
+            <td><a href="MaterialCertifiedWood.php">Certified Wood / Rapidly Renewable Building Materials and Furniture</a></td>
         </tr>
 
         </tbody>
