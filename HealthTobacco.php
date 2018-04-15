@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Material - Material Design Bootstrap 4 Template</title>
+    <title>Tobacco Smoke Control</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -35,105 +35,107 @@
 </head>
 <body>
 
-<!-- Header Start -->
 <!--    NAVBAR-->
 <?php include "navBar.php"; ?>
 <!--        navbar-->
-<!-- Header End -->
 
+<!-- Page Titile Area -->
 <section class="page-title-section section-padding">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="title-center">
                     <div class="title-middle">
-                        <h2 class="page-tagline">Architectural Design</h2>
-                        <h1 class="page-title text-center">Indoor Environment Quality </h1>
+                        <h1 class="page-title text-center text-center">Tobacco Smoke Control</h1>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
+<!-- Page Titile Area End -->
 
-<section class="section-padding">
-<div class="container">
-    <div class="text-center section-padding">
-        <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/0.Intro.jpg" alt=" " class="img-fluid w-50">
+<!-- error section -->
+<section class="Material-error-section section-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/1.Tobacco.jpg" class="img-fluid w-25">
+                <div class="text-justify section-padding">
+                    <div class="table-responsive">
+                        <table class="table table-bordered table-striped">
+                            <tbody>
+                            <tr>
+                                <td class="text-center align-middle">
+                                    <p><strong>Type</strong></p>
+                                </td>
+                                <td>
+                                    <p>Suggested Requirement</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="text-center align-middle">
+                                    <p><strong>Aim</strong></p>
+                                </td>
+                                <td>
+                                    <p>Minimize exposure of non-smokers to the adverse health impacts arising due to passive smoking, post occupancy.</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="text-center align-middle">
+                                    <p><strong>Steps</strong></p>
+                                </td>
+                                <td>
+                                    <p>&middot; Smoking should be prohibited inside the factory.</p>
+                                    <p>OR</p>
+                                    <p>&middot; Indoor areas/Building providing designated/isolated smoking zones within the building designed with separate ventilation systems with higher</p>
+                                    <p>ventilation rates and separated from the nonsmoking areas by full height impermeable internal partitions. <a href="https://igbc.in/igbc/">IGBC</a></p>
+                                    <p>&middot; Prohibit smoking outside the building except in designated smoking areas located at least 25 feet (7.5 meters) from all entries, outdoor air intakes, and operable windows. Also prohibit smoking outside the property line in spaces used for business purposes. <a href="https://igbc.in/igbc/">IGBC</a> Smoking zone is exhausted directly to the outdoors such that there is no recirculation of the tobacco smoke air to the nonsmoking zone of the building.</p>
+                                    <p>&middot; For conditioned space, Smoking zone is operated on separate ventilation systems, with higher ventilation rates than the non-smoking areas, and is designed for at least 60 cfm (cubic feet per minute)/person. <a href="http://www.grihaindia.org/">GRIHA</a></p>
+                                    <p>AND</p>
+                                    <p>Smoking zone operates at a negative pressure in comparison with the surrounding nonsmoking zone, of at least an average of 5 Pascals (Pa) (0.02 inches of water gauge) and a minimum of 1 Pa (0.004 inches of water gauge) when the doors to the smoking rooms are closed. <a href="https://igbc.in/igbc/">IGBC</a></p>
+                                    <p>&middot; For non-conditioned space, Designated smoking zone if mechanically ventilated is designed for not less than 30 ACH</p>
+                                    <p>(air changes per hour). <a href="http://www.grihaindia.org/">GRIHA</a></p>
+                                    <p>&middot; If the local law permits, locate specifically assigned outdoor smoking areas at a minimum of7.6 meters (25 feet) from entrance doors, window openings and outdoor air intakes. <a href="https://igbc.in/igbc/">IGBC</a></p>
+                                    <p>&middot; Signage must be posted within 10 feet (3 meters) of all building entrances indicating the no-smoking policy<a href="https://igbc.in">.<u>IGBC</u></a></p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="text-center align-middle">
+                                    <p><strong>Documents Required</strong></p>
+                                </td>
+                                <td>
+                                    <p>&middot; Provide details on how the building complies with the requirement. Also provide details on how this would be implemented.</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="text-center align-middle">
+                                    <p><strong>Approach</strong></p>
+                                </td>
+                                <td>
+                                    <img src="materilaHTML/assets/images/ArchitecturalDesign/Health/ProcessFlow/1.png" alt="" class="img-responsive">
+
+                                    <p>(Source- <a href="https://igbc.in/igbc/">IGBC</a>, <a href="http://www.grihaindia.org/">GRIHA</a>)</p>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table></div>
+                    <hr class="section-padding">
+                    <p>The U.S. Clean Air Council suggests the following tips to help eliminate tobacco pollution from your home and environment:</p>
+                    <ul>
+                        <li>Prevent smoking inside the premises.</li>
+                        <li>Open windows and encourage ventilation.</li>
+                        <li>Remove smoke-infused wallpaper.</li>
+                        <li>Remove tobacco-infused carpet.</li>
+                        <li>Replace all heating and air filters regularly.</li>
+                        <li>Get a high-quality, indoor air purification system.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="text-justify">
-        <p><strong>Indoor environmental quality (IEQ) refers to the quality of a building&rsquo;s environment in relation to the health and wellbeing of those who occupy space within it.</strong></p>
-        <ul>
-            <li>IEQ is determined by many factors, including lighting, air quality, and damp conditions.</li>
-            <li>Workers are often concerned that they have symptoms or health conditions from exposures to contaminants in the buildings where they work.</li>
-            <li>One reason for this concern is that their symptoms often get better when they are not in the building.</li>
-            <li>While research has shown that some respiratory symptoms and illnesses can be associated with damp buildings, it is still unclear what measurements of indoor contaminants show that workers are at risk for disease.</li>
-            <li>In most instances where a worker and his or her physician suspect that the building environment is causing a specific health condition, the information available from medical tests and tests of the environment is not sufficient to establish which contaminants are responsible.</li>
-            <li>Despite uncertainty about what to measure and how to interpret what is measured, research shows that building-related symptoms are associated with building characteristics, including dampness, cleanliness, and ventilation characteristics.</li>
-            <li>Indoor environments are highly complex and building occupants may be exposed to a variety of contaminants (in the form of gases and particles) from office machines, cleaning products, construction activities, carpets and furnishings, perfumes, cigarette smoke, water-damaged building materials, microbial growth (fungal, mold, and bacterial), insects, and outdoor pollutants. Other factors such as indoor temperatures, relative humidity, and ventilation levels can also affect how individuals respond to the indoor environment.</li>
-            <li>Understanding the sources of indoor environmental contaminants and controlling them can often help prevent or resolve building-related worker symptoms. Practical guidance for improving and maintaining the indoor environment is available.</li>
-        </ul>
-        <p><strong>(Source- </strong><a href="https://www.cdc.gov/niosh/topics/indoorenv/default.html"><strong>Centers for Disease Control and Prevention</strong></a><strong>)</strong></p>
-    </div>
-    <table class="table table-hover section-padding">
-        <thead>
-        <tr>
-            <th scope="col">#</th>
-            <th scope="col">Indoor Environment Quality and Occupational Health</th>
-        </tr>
-        </thead>
-        <tbody>
-        <tr>
-        <th scope="row">1</th>
-        <td><a href="HealthTobacco.php">Tobacco Smoke Control</a></td>
-        </tr>
-        <tr>
-            <th scope="row">2</th>
-            <td><a href="HealthHouseKeepingChem.php">Minimum Fresh Air Requirements</a></td>
-        </tr>
-        <tr>
-            <th scope="row">3</th>
-            <td><a href="HealthVentilation.php">Improved Fresh Air Ventilation</a></td>
-        </tr>
-        <tr>
-            <th scope="row">4</th>
-            <td><a href="HealthAsbestos.php">Avoid use of Asbestos in the Building</a></td>
-        </tr>
-        <tr>
-            <th scope="row">5</th>
-            <td><a href="HealthFlushOut.php">Building Flush Out</a></td>
-        </tr>
-
-        <tr>
-            <th scope="row">6</th>
-            <td><a href="HealthVOC.php">Low VOC Materials</a></td>
-        </tr>
-        <tr>
-            <th scope="row">7</th>
-            <td><a href="HealthBreakOut.php">Reduction of Workmen Fatigue (Break out spaces)</a></td>
-        </tr>
-        <tr>
-            <th scope="row">8</th>
-            <td><a href="HealthHouseKeepingChem.php">Eco-Friendly House-Keeping Chemicals</a></td>
-        </tr>
-        <tr>
-            <th scope="row">9</th>
-            <td><a href="HealthGym.php">Aerobic & Cardiovascular Gymnasium</a></td>
-        </tr>
-        <tr>
-            <th scope="row">10</th>
-            <td><a href="index.php">Acceptable outdoor and indoor noise levels</a></td>
-        </tr>
-        <tr>
-            <th scope="row">11</th>
-            <td><a href="HealthWaterQuality.php">Ensure Quality Water</a></td>
-        </tr>
-
-        </tbody>
-    </table>
-</div>
 </section>
-
+<!-- error section end -->
 
 <!--Footer-->
 <footer class="page-footer center-on-small-only  pt-0 footer-widget-container">
@@ -166,7 +168,7 @@
 
             <!--Second column-->
             <div class="col-md-6 col-lg-3 col-xl-3 recent-widget">
-                <h3 class="footer-title">Recent Posts</h3>
+                <h3 class="footer-title">Popular Posts</h3>
                 <ul class="image-list">
                     <li>
                         <figure class="overlay">
@@ -175,7 +177,7 @@
                         </figure>
                         <div class="post-content">
                             <h6 class="post-title"> <a href="blog-single.php">Fusce gravida tortor felis</a> </h6>
-                            <div class="meta"><span class="date">12 Jan 2019</span></div>
+                            <div class="meta"><span class="date">12 Jan 2018</span></div>
                         </div>
                     </li>
                     <li>
@@ -185,7 +187,7 @@
                         </figure>
                         <div class="post-content">
                             <h6 class="post-title"><a href="blog-single.php">Ornare Nullam Risus Cursus</a></h6>
-                            <div class="meta"><span class="date">12 Jan 2019</span></div>
+                            <div class="meta"><span class="date">12 Jan 2018</span></div>
                         </div>
                     </li>
                     <li>
@@ -195,7 +197,7 @@
                         </figure>
                         <div class="post-content">
                             <h6 class="post-title"> <a href="blog-single.php">Euismod Nullam Fusce Dapibus</a> </h6>
-                            <div class="meta"><span class="date">12 Jan 2019</span></div>
+                            <div class="meta"><span class="date">12 Jan 2018</span></div>
                         </div>
                     </li>
                 </ul>
@@ -208,10 +210,10 @@
                 <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Etiam porta sem malesuada magna mollis euismod. Praesent commodo cursus.</p>
                 <div class="mt-3"></div>
                 <ul class="icon-list">
-                    <li><i class="mdi mdi-map-marker"></i> 548 San Francisco, CA </li>
-                    <li><i class="mdi mdi-email"></i> <a href="mailto:mail@material.com" class="nocolor">mail@material.com</a> </li>
+                    <li><i class="mdi mdi-map-marker"></i> Moonshine St. 14/05 Light City </li>
+                    <li><i class="mdi mdi-email"></i> <a href="mailto:first.last@email.com" class="nocolor">first.last@email.com</a> </li>
                     <li><i class="mdi mdi-phone-classic"></i> +00 (123) 456 78 90 </li>
-                    <li><i class="mdi mdi-cellphone-iphone"></i> +00 (121) 455 47 54 </li>
+                    <li><i class="mdi mdi-cellphone-iphone"></i> +80 (547) 455 47 54 </li>
                 </ul>
             </div>
             <!--/.Third column-->
@@ -232,12 +234,12 @@
                 </div>
                 <!-- /.widget -->
                 <div class="widget">
-                    <h5 class="widget-title">Useful Links</h5>
+                    <h5 class="widget-title">Categories</h5>
                     <ul class="unordered-list">
-                        <li><a href="#" class="nocolor">Terms of Use</a></li>
-                        <li><a href="#" class="nocolor">Privacy Policy</a></li>
-                        <li><a href="#" class="nocolor">Company Profile</a></li>
-                        <li><a href="#" class="nocolor">Why Choose Us</a></li>
+                        <li><a href="#" class="nocolor">Lifestyle (21)</a></li>
+                        <li><a href="#" class="nocolor">Photography (19)</a></li>
+                        <li><a href="#" class="nocolor">Journal (16)</a></li>
+                        <li><a href="#" class="nocolor">Works (7)</a></li>
                     </ul>
                 </div>
             </div>
@@ -275,6 +277,7 @@
     <div class="loader" id="loader-1"></div>
 </div>
 <!-- End Preloader -->
+
 
 <!-- Optional JavaScript -->
 <script src="assets/js/jquery-min.js"></script>
