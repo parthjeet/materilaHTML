@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>WRAP</title>
+    <title>Avoid use of Asbestos in the Building</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -30,7 +30,7 @@
 
 
     <!-- Color CSS Styles  -->
-    <link rel="stylesheet" type="text/css" href="assets/css/colors/green.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="assets/css/colors/green.css" media="screen"/>
 
 </head>
 <body>
@@ -46,7 +46,7 @@
             <div class="col-md-12">
                 <div class="title-center">
                     <div class="title-middle">
-                        <h1 class="page-title text-center text-center">Worldwide Responsible Accredited Production</h1>
+                        <h1 class="page-title text-center text-center">Avoid use of Asbestos in the Building</h1>
                     </div>
                 </div>
             </div>
@@ -60,217 +60,473 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <img src="/materilaHTML/assets/images/Regulations/WRAP/0-Logo.png" class="img-fluid">
-                <div class="text-left section-padding">
+                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/4.Asbestos.jpg" class="img-fluid w-50">
+                <div class="text-justify section-padding">
+                    <div class="table-responsive">
+                        <table class="table table-bordered table-striped">
+                            <tbody>
+                            <tr>
+                                <td class="text-center align-middle">
+                                    <p><strong>Type</strong></p>
+                                </td>
+                                <td>
+                                    <p>Mandatory Requirement</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="text-center align-middle">
+                                    <p><strong>Aim</strong></p>
+                                </td>
+                                <td>
+                                    <p>To encourage factory design that eliminates the risk of major health effects
+                                        associated with asbestos exposure.</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="text-center align-middle">
+                                    <p><strong>Steps</strong></p>
+                                </td>
+                                <td>
+                                    <p>Eliminate the use of asbestos in new factory building design.</p>
+                                    <p>In case of existing buildings, if asbestos is already being used, have a
+                                        phase-out plan in place.</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="text-center align-middle">
+                                    <p><strong>Documents Required</strong></p>
+                                </td>
+                                <td>
+                                    <p>Provide details on how the building complies with the requirement.</p>
+                                    <p><em>For Existing Factory Buildings:</em></p>
+                                    <p>For initial certification, provide a copy of organizational policy that meets the
+                                        requirement of this prerequisite. For recertification, provide documentation
+                                        demonstrating the prerequisite compliance.</p>
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="text-center align-middle">
+                                    <p><strong>Approach</strong></p>
+                                </td>
+                                <td>
+                                    <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/ProcessFlow/4.png"
+                                         alt="" class="img-responsive w-100">
+                                    <p>(Source- <a href="https://igbc.in/igbc/">IGBC</a>, <a
+                                                href="http://www.grihaindia.org/">GRIHA</a>)</p>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <hr class="section-padding">
+                    <p class="h4"><strong>ASBESTOS PRODUCTS</strong></p>
+                    <p>Asbestos Containing Products Still Pose Dangers</p>
+                    <p>Asbestos fibers are strong, durable, and resist heat, acids, and friction. They are virtually
+                        indestructible. Because of these useful physical properties, asbestos fibers were often combined
+                        with other materials for use in thousands of industrial, maritime, automotive, scientific and
+                        building products. The following list shows the wide range of materials that could contain
+                        asbestos:</p>
                     <ul>
-                        <li>Headquartered in Arlington, Virginia, USA with offices in Hong Kong and Bangladesh and full-time staff in India and Southeast Asia, Worldwide Responsible Accredited Production (WRAP) is an independent, objective, non-profit team of global social compliance experts dedicated to promoting safe, lawful, humane and ethical manufacturing around the world through certification and education.</li>
-                        <li>The WRAP Principles are based on generally accepted international workplace standards, local laws and workplace regulations, and include the spirit or language of relevant conventions of the International Labor Organization (ILO). The Principles encompass human resources management, health and safety, environmental practices, and legal compliance including import/export and customs compliance and security standards.</li>
-                        <li>The WRAP Certification Program&rsquo;s objective is to independently monitor and certify compliance with these standards, to ensure that sewn products are being produced under lawful, humane and ethical conditions. Participating facilities voluntarily commit to ensuring that their manufacturing practices will meet these standards, and further commit to passing along, on their part, the expectation that their contractors and suppliers likewise comply with these standards.</li>
+                        <li><strong>Insulation</strong>&nbsp;(Pipe, boiler, corrugated air-cell, breaching, and block
+                            insulation; HVAC duct insulation; sprayed-in insulation; blown-in insulation; thermal paper
+                            products; electrical wiring insulation)
+                        </li>
+                        <li><strong>Fireproofing/Acoustical Texture Products</strong>&nbsp;(includes acoustical plaster,
+                            decorative plaster, textured paint or coatings, fire blankets, fire curtains, fire doors)
+                        </li>
+                        <li><strong>Textile and Cloth Products</strong>&nbsp;(includes blankets, protective cloth
+                            coverings, garments, asbestos gloves, threads, cords, yarns, braids)
+                        </li>
+                        <li><strong>Spackling, Patching &amp; Taping Compounds</strong>&nbsp;(includes caulking,
+                            putties, joint compounds, adhesives, tapes, thermal taping compounds)
+                        </li>
+                        <li><strong>Gaskets and Packing</strong>&nbsp;(includes high temperature gaskets, packing for
+                            industrial products, high pressure packing, asbestos packing reinforced with steel or copper
+                            wire)
+                        </li>
+                        <li><strong>Asbestos-cement Pipe and Sheet Material</strong></li>
+                        <li><strong>Tiles, Wallboard, Siding and Roofing</strong>&nbsp;(includes roofing shingles,
+                            roofing felt, base flashing, cement wallboard, cement siding, ceiling tiles and lay-in
+                            panels, asphalt floor tile, vinyl floor tile, vinyl sheet flooring, flooring backing, vinyl
+                            wall coverings)
+                        </li>
+                        <li><strong>Friction Materials</strong>&nbsp;(automotive and railroad brakes and clutches)</li>
+                        <li><strong>Vermiculite</strong>&nbsp;(used in some horticultural potting mixes, brake pads,
+                            acoustic tiles, insulation)
+                        </li>
+                        <li><strong>Laboratory hoods and table tops</strong></li>
                     </ul>
-                </div>
-                <div class="table-responsive">
-                    <table class="table table-responsive table-bordered">
+                    <p>Asbestos may also be found in elevator brake shoes, elevator equipment panels, ductwork,
+                        electrical panel partitions, electrical cloth, cooling towers, and chalkboards (Environmental
+                        Protection Agency Region 6 Guide).</p>
+                    <p><strong>&nbsp;</strong></p>
+                    <hr class="section-padding">
+                    <p class="h4"><strong>ASBESTOS CONSUMER PRODUCTS</strong></p>
+                    <p>Asbestos has been used in home appliances (coffee pots, toasters, irons, popcorn poppers, and
+                        crock pots) and in portable heaters, portable dishwashers, wood burning stoves, and gas-fired
+                        decorative logs. Until 1980, asbestos was contained in most handheld hair dryers. These are but
+                        a small sampling of the thousands of products that contained asbestos.</p>
+                    <div class="text-center section-padding">
+                        <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Asbestos/0.jpg"
+                             class="img-fluid ">
+                    </div>
+
+                    <div class="text-center section-padding">
+                        <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Asbestos/1.jpg"
+                             class="img-fluid ">
+                    </div>
+
+
+                    <p><a href="https://www.asbestosnetwork.com/Asbestos-Use/Asbestos-Products.shtml"><strong>Read more
+                                about this</strong></a></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <hr class="section-padding">
+                    <p class="h4"><strong>INNOVATIVE BUILDING MATERIALS IN INDIA</strong></p>
+                    <p>Way back in 1990, the central government took an initiative to set up the Building Materials
+                        &amp; Technology Promotion Council (BMTPC) to promote cost-effective, eco-friendly and energy
+                        efficient building materials and technologies. Some of the natural materials that were
+                        considered by BMTPC as potentially viable building materials are: 27 types of agro-industrial
+                        wastes, by-products, residues, natural fibers, plantation timbers, including rice and wheat
+                        husk, bagasse from sugarcane, coir, hemp etc., that are cultivated on a large scale in Indian
+                        farms.</p>
+                    <p>Among these building materials, some of them stand out due to their durability, cost
+                        effectiveness and local availability:</p>
+                    <div class="table-responsive">
+                        <table class="table table-bordered table-striped-green">
+                            <tbody>
+                            <tr>
+                                <td class="text-center align-middle">
+                                    <p><strong>Material</strong></p>
+                                </td>
+                                <td class="text-center align-middle">
+                                    <p><strong>Image</strong></p>
+                                </td>
+                                <td class="text-center align-middle">
+                                    <p><strong>Features</strong></p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="text-center align-middle">
+                                    <p><strong>Bamboo corrugated sheet </strong></p>
+                                </td>
+                                <td class="text-center align-middle">
+                                    <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Asbestos/Building_Materials/1.jpg" alt="" class="img-responsive">
+                                </td>
+                                <td>
+                                    <p>&middot; The bamboo mat corrugated sheet is an ideal substitute for asbestos and
+                                        galvanized steel sheets for roofing purposes.</p>
+                                    <p>&middot; The Indian Plywood Industries Research &amp; Training Institute (IPIRTI)
+                                        has developed this technique, which has proved to be a boon for the housing
+                                        industries among North Eastern states.</p>
+                                    <p>&middot; Since corrugated sheets are most versatile for roofing, development of
+                                        corrugated sheets from bamboo mats was taken up at IPIRTI, under a project
+                                        sponsored by the BMTPC.</p>
+                                    <p>&middot; Sinusoidal wave platens have been designed for hot pressing phenol
+                                        formaldehyde resin coated and preservative treated bamboo mats into corrugated
+                                        sheets.</p>
+                                    <p>&middot; These sheets are environment friendly, energy efficient and possess good
+                                        fire resistance as well.</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="text-center align-middle">
+                                    <p><strong>Rice Husk Ash Concrete</strong></p>
+                                </td>
+                                <td class="text-center align-middle">
+                                    <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Asbestos/Building_Materials/2.jpg" alt="" class="img-responsive">
+                                </td>
+                                <td>
+                                    <p>&middot; Rice Husk Ash (RHA) produced after burning of rice husks can be used as
+                                        an admixture for concrete.</p>
+                                    <p>&middot; RHA has high reactivity and pozzolanic property, which improves the
+                                        workability and solidity of the cement.</p>
+                                    <p>&middot; Portland cement contains 60-65% Calcium oxide and, upon hydration, a
+                                        considerable portion of lime is released as free Calcium Hydroxide.</p>
+                                    <p>&middot; This is primarily responsible for the poor performance of Portland
+                                        cement concretes in acidic environments. Silica present in Rice husk ash
+                                        combines with the calcium hydroxide resulting in excellent resistance to acidic
+                                        environments.</p>
+                                    <p>&middot; RHA concrete also reduces heat evolution during slaking, increases
+                                        strength, impermeability and durability by strengthening transition zone,
+                                        modifying the pore-structure and also plugs the voids in the hydrated cement
+                                        paste through the pozzolanic reaction.</p>
+                                    <p>&middot; Minimizing the alkali-aggregate reaction, it also reduces expansion and
+                                        distills pore structure and hinders diffusion of alkali ions to the surface of
+                                        aggregate by micro porous structure.</p>
+                                    <p>&middot; Silica in the RHA combines with the calcium hydroxide resulting in
+                                        excellent resistance to the acidic environments.</p>
+                                    <p>&middot; RHA mixed concrete has been found to be very workable and durable based
+                                        on the several tests.</p>
+                                    <p>&middot; RHA-concrete can prove to be boon for the cement and the concrete
+                                        industry in several parts of the country because of large production of paddy in
+                                        India.</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="text-center align-middle">
+                                    <p><strong>Plastic Bricks</strong></p>
+                                </td>
+                                <td class="text-center align-middle">
+                                    <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Asbestos/Building_Materials/3.jpg" alt="" class="img-responsive">
+                                </td>
+                                <td>
+                                    <p>&middot; The concept of plastic bricks first came up in Africa when in an
+                                        experimental project financed by a European Union, plastic bags were melted and
+                                        transformed into bricks with a cement mold saving both money and time.</p>
+                                    <p>&middot; The plastic bags were used to fill the potholes in Niger in a way to
+                                        solve the problem of waste disposal.</p>
+                                    <p>&middot; Plastic waste bricks are not only inexpensive but are also easily
+                                        workable.</p>
+                                    <p>&middot; The waste plastic is collected from various sources and then diligently
+                                        sorted. It is then washed and sanitized.</p>
+                                    <p>&middot; After that, it is shredded to cotton like consistency to form what is
+                                        known as &lsquo;plastic cotton.</p>
+                                    <p>&middot; The shredded plastic is then mixed with mud and packed away as
+                                        bricks.</p>
+                                    <p>&middot; Plastic bricks have been extensively used in highway and railway
+                                        infrastructure.</p>
+                                    <p>&middot; Plastic from the millions of the bottles and bags are melted and molded
+                                        in the form of bricks are used in the construction of the roads.</p>
+                                    <p>&middot; This has considerably enhanced the elastic nature of the surface helping
+                                        in more load-bearing capacity of highways.</p>
+                                    <p>&middot; In India, this technology has been initiated on an experimental basis
+                                        for railway sleepers, but was stopped since the danger to fire is a major
+                                        concern.</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="text-center align-middle">
+                                    <p><strong>Bagasse Particle Board</strong></p>
+                                </td>
+                                <td class="text-center align-middle">
+                                    <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Asbestos/Building_Materials/4.jpg" alt="" class="img-responsive">
+                                </td>
+                                <td>
+                                    <p>&middot; Bagasse is the residual pulp from sugarcane after the juice has been
+                                        extracted.</p>
+                                    <p>&middot; A considerable amount of excess bagasse generated from sugar mills is
+                                        left to rot or burnt as fuel for boilers.</p>
+                                    <p>&middot; This by-product is now being used as a substitute for wood in particle
+                                        boards that are light and low cost.</p>
+                                    <p>&middot; Bagasse-based composites offer potential as the core material for
+                                        laminated floors, replacing high-density and expensive wood fiberboard.</p>
+                                    <p>&middot; As such, bagasse does not have enough strength and water resistance to
+                                        be used on its own. However, if it is made into a laminated particle board with&nbsp;resin
+                                        as a bonding agent and wax as dimensional stabilizer, then it can be used for
+                                        laminated floor and furniture applications.</p>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <p>
+                        <a href="http://greencleanguide.com/innovative-building-materials-in-india-need-sustainable-innovation/"><strong>Read
+                                More about this</strong></a></p>
+                    <hr class="section-padding">
+                    <p class="h4"><strong>ECO-FRIENDLY FLOORING OPTION</strong></p>
+                    <div class="table-responsive">
+                        <table class="table table-bordered table-striped-green">
                         <tbody>
                         <tr>
-                            <td>
-                                <p><strong>Sl. No.</strong></p>
+                            <td class="text-center align-middle">
+                                <p><strong>Material</strong></p>
                             </td>
-                            <td>
-                                <p><strong>Regulation</strong></p>
+                            <td class="text-center align-middle">
+                                <p><strong>Image</strong></p>
                             </td>
-                            <td>
-                                <p><strong>Description</strong></p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>1.</p>
-                            </td>
-                            <td>
-                                <p>Compliance with Laws and Workplace Regulations</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/1.Compliance%20Rules.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will comply with laws and regulations in all locations where they conduct business.</p>
-                                <p>&middot; All facilities will comply with the legal requirements and standards of their industry under the local and national laws of the jurisdictions in which the facilities are doing business, along with any applicable international laws.</p>
-                                <p>&middot; This will cover all labor and employment laws of those jurisdictions, as well as laws governing the conduct of business in general, including rules and standards of ethics dealing with corruption and transparency, and any relevant environmental laws.</p>
+                            <td class="text-center align-middle">
+                                <p><strong>Features</strong></p>
                             </td>
                         </tr>
                         <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Sisal</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Asbestos/Flooring/1.jpg" alt="" class="img-responsive">
+                            </td>
                             <td>
-                                <p>2.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Prohibition of Forced Labor</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/2.Forced_labor.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will not use involuntary, forced or trafficked labor.</p>
-                                <p>&middot; Facilities will maintain employment strictly on a voluntary basis.</p>
-                                <p>&middot; Facilities will not use any forced, prison, indentured, bonded or trafficked labor.</p>
-                                <p>&middot; This will include ensuring that any workers they hire will be under labor contracts that fully comply with all relevant legal requirements and do not impose any form of coercion (including imposing substantial fines or loss of residency papers by workers leaving employment or restricting a worker&rsquo;s ability to voluntarily end his/her employment).</p>
-                                <p>&middot; In addition, when hiring workers through an employment broker or agency, facilities will ensure that the workers&rsquo; passports are not withheld, all written contracts are in the native language of the workers, and recruitment fees are not borne by the workers themselves.</p>
+                                <p>&middot; Sourced from the Agave sisalana plant, flooring fibers are extracted from crushed, soaked leaves.</p>
+                                <p>&middot; Sisal fibers spin like yarn and can be woven in a variety of patterns ranging from loosely intricate to closed and airtight.</p>
+                                <p>&middot; While hard-wearing, sisal flooring should not be exposed to moisture.</p>
+                                <p>&middot; Water is easily absorbed causing fibers to expand and stilt the material&rsquo;s appearance.</p>
                             </td>
                         </tr>
                         <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Sisool</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Asbestos/Flooring/2.jpg" alt="" class="img-responsive">
+                            </td>
                             <td>
-                                <p>3.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Prohibition of Child Labor</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/3.Child_labor.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will not hire any employee under the age of 14 or under the minimum age established by law for employment, whichever is greater, or any employee whose employment would interfere with compulsory schooling.</p>
-                                <p>&middot; Facilities will ensure they do not engage in any form of child labor, including, but not limited to, the internationally recognized worst forms of child labor.</p>
-                                <p>&middot; Facilities may not employ any person at an age younger than the law of the jurisdiction allows and in any case not below the age of 14, even if permitted by local law.</p>
-                                <p>&middot; In addition, facilities will adhere to local legal requirements regarding mandatory schooling.</p>
-                                <p>&middot; Further, if, where permitted by local law, a facility employs young workers (defined as workers whose age is between the minimum age of employment and 18 years), the facility will also comply with any applicable legal restrictions on the nature and volume of work performed by such young workers, as well as any other requirements imposed by law, including ensuring that such young workers do not perform any hazardous work (e.g., chemical handling or operating heavy machinery).</p>
+                                <p>&middot; Sisool, as the name indicates, is a fun mix of sisal with wool.</p>
+                                <p>&middot; In this option, the softness of wool plays off sisal&rsquo;s sturdy bark-like nature to create a dual-textured combination that is as striking as it is strong.</p>
+                                <p>&middot; Like sisal, however, this material does not fare well in damp areas such as the kitchen, mud or bathrooms.</p>
                             </td>
                         </tr>
                         <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Seagrass</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Asbestos/Flooring/3.jpg" alt="" class="img-responsive">
+                            </td>
                             <td>
-                                <p>4.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Prohibition of Harassment or Abuse</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/4.Harassment.png" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will provide a work environment free of supervisory or co-worker harassment or abuse, and free of corporal punishment in any form.</p>
-                                <p>&middot; Facilities will ensure a workplace that is respectful of a worker&rsquo;s rights and dignity.</p>
-                                <p>&middot; This includes ensuring that no corporal punishment or physical coercion be used.</p>
-                                <p>&middot; Facilities will not engage in or tolerate sexual harassment, indecent or threatening gestures, abusive tone or language or any other kind of undesired physical or verbal contact, such as bullying.</p>
-                                <p>&middot; In particular, facilities will ensure proper training at all levels - including management, supervisors and workers - to secure a workplace free of harassment or abuse.</p>
+                                <p>&middot; Grown in seawater-flooded paddy fields, harvested seagrass is dried and spun.</p>
+                                <p>&middot; It&rsquo;s naturally waxy surface makes it hard to die, but creates flooring that remains highly stain and water resistant.</p>
+                                <p>&middot; Seagrass&rsquo;s earth tones bring the outdoors in; this material even maintains its sweet, grassy smell over time!</p>
                             </td>
                         </tr>
                         <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Paper</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Asbestos/Flooring/4.jpg" alt="" class="img-responsive">
+                            </td>
                             <td>
-                                <p>5.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Compensation and Benefits</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/5.Compensation.png" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will pay at least the minimum total compensation required by local law, including all mandated wages, allowances &amp; benefits.</p>
-                                <p>&middot; Facilities will ensure proper compensation for their employees for all the work done, by providing in a timely manner all the wages and benefits that are in compliance with the local and national laws of the jurisdiction in which they are located.</p>
-                                <p>&middot; This will include any premiums for overtime work or work done during holidays, as well as any other allowances or benefits, including any mandatory social insurance, required by local law.</p>
+                                <p>&middot; A delicate take on traditional wood flooring, paper product can also be twisted to form a woven textile.</p>
+                                <p>&middot; Paper flooring is treated with natural resins, which renders it a surprising contender for wet environments.</p>
+                                <p>&middot; Sometimes combined with sisal fibers, this material is easily dyed and can be used to achieve customized hues.</p>
                             </td>
                         </tr>
                         <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Jute</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Asbestos/Flooring/5.jpg" alt="" class="img-responsive">
+                            </td>
                             <td>
-                                <p>6.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Hours of Work</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/6.Hours_of_work.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Hours worked each day, and days worked each week, should not exceed the limitations of the country&rsquo;s law.</p>
-                                <p>&middot; Facilities will provide at least one day off in every seven-day period, except as required to meet urgent business needs.</p>
-                                <p>&middot; Facilities are required by local law to adhere to any limits set on regular working hours as well as any limits set on overtime work.</p>
-                                <p>&middot; Long term participation in the WRAP Certification Program is contingent upon meeting the limitations set by local law.</p>
-                                <p>&middot; WRAP recognizes that this can be a particularly challenging requirement, especially when taking into account local enforcement norms and customs.</p>
-                                <p>&middot; In light of this reality, WRAP will permit full compliance with local laws on working hours to be achieved incrementally, provided that a given facility meets the following conditions:</p>
-                                <p>&uuml; Is fully transparent about its working hours;</p>
-                                <p>&uuml; Ensures that those hours are all being worked voluntarily, in conditions that protect worker safety and health;</p>
-                                <p>&uuml; Compensates all employees in keeping with WRAP Principle 5;</p>
-                                <p>&uuml; Shows improvement toward meeting the working hours requirements from one audit to the next.</p>
+                                <p>&middot; Similar to hemp, jute is a part of the Corchorus plant family.</p>
+                                <p>&middot; Weaving strands are derived from the plant&rsquo;s inner stems, which are soaked and pounded, then allowed to dry.</p>
+                                <p>&middot; Jute floor coverings are quite soft and best laid in low traffic areas of the home.</p>
+                                <p>&middot; This material should also be kept dry, as water can easily be reabsorbed.</p>
                             </td>
                         </tr>
                         <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Coir</strong></p>
+                            </td>
+                            <td >
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Asbestos/Flooring/6.jpg" alt="" class="img-responsive">
+                            </td>
                             <td>
-                                <p>7.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Prohibition of Discrimination</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/7.Discrimination.gif" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will employ, pay, promote, and terminate workers on the basis of their ability to do the job, rather than on the basis of personal characteristics or beliefs.</p>
-                                <p>&middot; Facilities will ensure that all terms and conditions of employment are based on an individual&rsquo;s ability to do the job, and not on the basis of any personal characteristics or beliefs.</p>
-                                <p>&middot; Facilities will ensure that any employment decision - involving hiring, firing, assigning work, paying or promoting - is made without discriminating against the employees on the basis of race, color, national origin, gender, sexual orientation, religion, disability, or other similar factors (pregnancy, political opinion or affiliation, social status, etc.).</p>
+                                <p>&middot; In stark contrast to the relative flexibility of jute, sturdy coir fibers are pulled directly off coconut shell husks.</p>
+                                <p>&middot; Also soaked, pounded then dried, yarn made from coir maintains a spiky wire-like appearance.</p>
+                                <p>&middot; One of the most durable floor covering options, coir offers a distinctively raw design texture.</p>
+                                <p>&middot; Coir flooring is the perfect choice for entranceways and halls; it can take a lot of wear and tear.</p>
                             </td>
                         </tr>
                         <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>P.E.T Berber</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Asbestos/Flooring/7.jpg" alt="" class="img-responsive">
+                            </td>
                             <td>
-                                <p>8.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Health and Safety</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/8.Health&safety.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will provide a safe and healthy work environment. Where residential housing is provided for workers, facilities will provide safe and healthy housing.</p>
-                                <p>&middot; Facilities will provide a safe, clean, healthy and productive workplace for their employees.</p>
-                                <p>&middot; Facilities shall prioritize worker health and safety above all else, and proactively address any safety issues that could arise.</p>
-                                <p>&middot; This will include a wide variety of requirements, such as, ensuring, among other things, the availability of clean drinking water (at no charge to workers), adequate medical resources, fire exits and safety equipment, well-lighted and comfortable workstations, clean restrooms.</p>
-                                <p>&middot; Further, facilities shall adequately train all their workers on how to perform their jobs safely</p>
+                                <p>&middot; Made out of recycled plastic bottles, P.E.T. Berber is full-loop sustainable.</p>
+                                <p>&middot; This material displays a unique flecked appearance that plays with natural lighting.</p>
+                                <p>&middot; Durable, stain and water resistant, P.E.T. Berber flooring nevertheless tends to unravel and can be uncomfortable to walk on in bare feet.</p>
                             </td>
                         </tr>
                         <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Rugs</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Asbestos/Flooring/8.jpg" alt="" class="img-responsive">
+                            </td>
                             <td>
-                                <p>9.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Freedom of Association and Collective Bargaining</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/9.Collecive_bargaining.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will recognize and respect the right of employees to exercise their lawful rights of free association and collective bargaining.</p>
-                                <p>&middot; Facilities will respect the freedom of each employee to choose for him- or her-self whether or not to join a workers&rsquo; association.</p>
-                                <p>&middot; Facilities cannot discriminate against workers based on whether or not they choose to associate.</p>
-                                <p>&middot; Both the facility and the workers shall ensure they conduct themselves in accordance with all relevant laws in this regard.</p>
-                                <p>&middot; Facilities will ensure an effective mechanism is in place to address any workplace grievances.</p>
+                                <p>&middot; Rugs woven with natural fibers such as cotton or wool offer a classic eco-friendly possibility.</p>
+                                <p>&middot; These textiles tend to be soft underfoot and comfortable to lie on.</p>
+                                <p>&middot; Rugs can be found in a wide range of patterns and colors &mdash; often a well-placed piece stands as a room&rsquo;s feature focal point.</p>
+                                <p>&middot; Highly durable and known to last decades if not centuries, woven rugs are often passed down from generation to generation as treasured heirlooms.</p>
                             </td>
                         </tr>
                         <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Linoleum</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Asbestos/Flooring/9.jpg" alt="" class="img-responsive">
+                            </td>
                             <td>
-                                <p>10.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Environment</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/10-Environment.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will comply with environmental rules, regulations and standards applicable to their operations, and will observe environmentally conscious practices in all locations where they operate.</p>
-                                <p>&middot; Facilities will ensure compliance with all applicable legally mandated environmental standards, and should demonstrate a commitment to protecting the environment by actively monitoring their environmental practices.</p>
-                                <p>&middot; In particular, facilities will ensure proper waste management, including monitoring the disposal of any waste material - whether solid, liquid or gaseous - to ensure such disposal is done safely and in a manner consistent with all relevant laws.</p>
+                                <p>&middot; Largely associated with a by-gone design era, linoleum may surprise you as an environmentally sound modern option.</p>
+                                <p>&middot; Highly renewable, linoleum is made of linseed oil, cork dust, tree resins, wood flour and ground limestone.</p>
+                                <p>&middot; While most manufacturers offer rolls or sheets which require being glued down to an already existing subfloor, newer varieties are wood-backed and can be laid like tile. Linoleum is hypoallergenic, water-tight and available in a plethora of designs and color schemes. Boasting a lifespan of 25-40 years, linoleum that no longer can be used may be burned as fuel!</p>
                             </td>
                         </tr>
                         <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Cork</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Asbestos/Flooring/10.jpg" alt="" class="img-responsive">
+                            </td>
                             <td>
-                                <p>11.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Customs Compliance</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/11.Custom_compliance.png" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will comply with applicable customs laws, and in particular, will establish and maintain programs to comply with customs laws regarding illegal transshipment of finished products.</p>
-                                <p>&middot; Facilities will ensure that all merchandise is accurately marked or labeled in compliance with all applicable laws.</p>
-                                <p>&middot; In addition, facilities will keep records for all materials and orders, as well as maintain detailed production records.</p>
+                                <p>&middot; Cork is extracted from bark, which naturally replenishes itself in a three-year cycle while the host tree continues to grow.</p>
+                                <p>&middot; Cork flooring provides thermal insulation and acts as an acoustic barrier, making it a highly energy efficient option as well.</p>
+                                <p>&middot; Cork floor tiles are fire-resistant, insect repellant and have a bounce-back consistency which makes them impervious to damage caused by high heels and heavy furniture.</p>
+                                <p>&middot; Due to cork&rsquo;s high durability, floor upgrades are known to last between 10 and 30 years.</p>
                             </td>
                         </tr>
                         <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Rubber</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Asbestos/Flooring/11.jpg" alt="" class="img-responsive">
+                            </td>
                             <td>
-                                <p>12.</p>
+                                <p>&middot; Made from recycled tires, this material is naturally water repellant and would be perfect for play or sunrooms.</p>
+                                <p>&middot; Rubber flooring comes in a surprising number of color and pattern options and is, of course, quite easy to walk on.</p>
                             </td>
-                            <td class="align-middle">
-                                <p><br /> Security</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/12.Security.jpg" class="img-responsive">
+                        </tr>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Hardwood</strong></p>
                             </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will maintain facility security procedures to guard against the introduction of non-manifested cargo into outbound shipments (i.e. drugs, explosives biohazards and/or other contraband).</p>
-                                <p>&middot; Facilities will ensure adequate controls are in place to safeguard against introduction of any non-manifested cargo.</p>
-                                <p>&middot; In this regard, WRAP recognizes the United States Customs and Border Protection (CBP)&rsquo;s C-TPAT Guidelines for Foreign Manufacturers as a best practice program, and has adopted those guidelines under this Principle.</p>
+                            <td class="text-center align-middle">
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Asbestos/Flooring/12.jpg" alt="" class="img-responsive">
+                            </td>
+                            <td>
+                                <p>&middot; For hardwood flooring to be considered eco-friendly, it must be constructed using reclaimed &mdash; or salvaged &mdash; lumber.</p>
+                                <p>&middot; Virgin planks are softer and much less durable than those harvested from trees felled a hundred years ago.</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Glass Tiles</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Asbestos/Flooring/13.jpg" alt="" class="img-responsive">
+                            </td>
+                            <td>
+                                <p>&middot; Made with recycled beer and wine bottles as well as broken windows, renewable glass tiles reflect light as opposed to absorbing it.</p>
+                                <p>&middot; Available in many bright colors and glazes, these tiles are water, mold and mildew resistant making them ideal for bath and kitchen areas.</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Concrete</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Asbestos/Flooring/14.jpg" alt="" class="img-responsive">
+                            </td>
+                            <td>
+                                <p>&middot; Traditionally used as sub-floor foundation, concrete can be polished and tinted to stand on its own as a decorative floor covering.</p>
+                                <p>&middot; Cement is durable, easy to clean and will never need replacing. It lends an industrialized feel unmatched by other flooring options.</p>
                             </td>
                         </tr>
                         </tbody>
-                    </table>
-                </div>
-                <p>(Source- <a href="http://www.wrapcompliance.org/">Worldwide Responsible Accredited Production (WRAP)</a>)</p>
+                    </table></div>
+                    <p><a href="http://greencleanguide.com/eco-friendly-flooring-options/"><strong>Read more about this</strong></a></p>
+                    <p><a href="AlterAsbestos.php"><strong>Click here to know about the Suppliers</strong></a></p>
+                   </div>
             </div>
         </div>
     </div>
@@ -285,7 +541,9 @@
             <!--First column-->
             <div class="col-md-6 col-lg-3 col-xl-3 footer-contact-widget">
                 <h3 class="footer-title">About Us</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates eos minus expedita illo recusandae esse labore obcaecati nisi amet quia odio sapiente! Fugiat, voluptatibus nemo necessitatibus porro.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates eos minus expedita illo
+                    recusandae esse labore obcaecati nisi amet quia odio sapiente! Fugiat, voluptatibus nemo
+                    necessitatibus porro.</p>
                 <ul>
                     <li>
                         <a href="#"><i class="mdi mdi-facebook"></i></a>
@@ -313,17 +571,19 @@
                     <li>
                         <figure class="overlay">
                             <img class="img-fluid" src="assets/images/art/a1.jpg" alt="">
-                            <figcaption><a href="blog-single.php"><i class="mdi mdi-link-variant from-top icon-xs"></i></a></figcaption>
+                            <figcaption><a href="blog-single.php"><i class="mdi mdi-link-variant from-top icon-xs"></i></a>
+                            </figcaption>
                         </figure>
                         <div class="post-content">
-                            <h6 class="post-title"> <a href="blog-single.php">Fusce gravida tortor felis</a> </h6>
+                            <h6 class="post-title"><a href="blog-single.php">Fusce gravida tortor felis</a></h6>
                             <div class="meta"><span class="date">12 Jan 2018</span></div>
                         </div>
                     </li>
                     <li>
                         <figure class="overlay">
                             <img class="img-fluid" src="assets/images/art/a2.jpg" alt="">
-                            <figcaption><a href="blog-single.php"><i class="mdi mdi-link-variant from-top icon-xs"></i></a></figcaption>
+                            <figcaption><a href="blog-single.php"><i class="mdi mdi-link-variant from-top icon-xs"></i></a>
+                            </figcaption>
                         </figure>
                         <div class="post-content">
                             <h6 class="post-title"><a href="blog-single.php">Ornare Nullam Risus Cursus</a></h6>
@@ -333,10 +593,11 @@
                     <li>
                         <figure class="overlay">
                             <img class="img-fluid" src="assets/images/art/a3.jpg" alt="">
-                            <figcaption><a href="blog-single.php"><i class="mdi mdi-link-variant from-top icon-xs"></i></a></figcaption>
+                            <figcaption><a href="blog-single.php"><i class="mdi mdi-link-variant from-top icon-xs"></i></a>
+                            </figcaption>
                         </figure>
                         <div class="post-content">
-                            <h6 class="post-title"> <a href="blog-single.php">Euismod Nullam Fusce Dapibus</a> </h6>
+                            <h6 class="post-title"><a href="blog-single.php">Euismod Nullam Fusce Dapibus</a></h6>
                             <div class="meta"><span class="date">12 Jan 2018</span></div>
                         </div>
                     </li>
@@ -347,13 +608,15 @@
             <!--Third column-->
             <div class="col-md-6 col-lg-3 col-xl-3 link-widget">
                 <h3 class="footer-title">Get in Touch</h3>
-                <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Etiam porta sem malesuada magna mollis euismod. Praesent commodo cursus.</p>
+                <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Etiam porta sem
+                    malesuada magna mollis euismod. Praesent commodo cursus.</p>
                 <div class="mt-3"></div>
                 <ul class="icon-list">
-                    <li><i class="mdi mdi-map-marker"></i> Moonshine St. 14/05 Light City </li>
-                    <li><i class="mdi mdi-email"></i> <a href="mailto:first.last@email.com" class="nocolor">first.last@email.com</a> </li>
-                    <li><i class="mdi mdi-phone-classic"></i> +00 (123) 456 78 90 </li>
-                    <li><i class="mdi mdi-cellphone-iphone"></i> +80 (547) 455 47 54 </li>
+                    <li><i class="mdi mdi-map-marker"></i> Moonshine St. 14/05 Light City</li>
+                    <li><i class="mdi mdi-email"></i> <a href="mailto:first.last@email.com" class="nocolor">first.last@email.com</a>
+                    </li>
+                    <li><i class="mdi mdi-phone-classic"></i> +00 (123) 456 78 90</li>
+                    <li><i class="mdi mdi-cellphone-iphone"></i> +80 (547) 455 47 54</li>
                 </ul>
             </div>
             <!--/.Third column-->
@@ -365,8 +628,11 @@
                     <div class="newsletter-wrapper">
                         <form method="post" id="subscribe-form" name="subscribe-form" class="validate">
                             <div class="form-group">
-                                <input type="email" value="" name="EMAIL" class="email form-control" id="EMAIL" placeholder="Email Address" required="">
-                                <button type="submit" name="subscribe" id="subscribe" class="btn btn-common pull-right">Join</button>
+                                <input type="email" value="" name="EMAIL" class="email form-control" id="EMAIL"
+                                       placeholder="Email Address" required="">
+                                <button type="submit" name="subscribe" id="subscribe" class="btn btn-common pull-right">
+                                    Join
+                                </button>
                                 <div class="clearfix"></div>
                             </div>
                         </form>
@@ -394,7 +660,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <p>&copy; 2018 Material Studio, All right reserved. Designed with <i class="mdi mdi-heart"></i> by <a href="#">UIdeck</a></p>
+                    <p>&copy; 2018 Material Studio, All right reserved. Designed with <i class="mdi mdi-heart"></i> by
+                        <a href="#">UIdeck</a></p>
                 </div>
             </div>
         </div>

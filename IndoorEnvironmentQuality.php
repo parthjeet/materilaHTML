@@ -122,7 +122,7 @@
         </tr>
         <tr>
             <th scope="row">10</th>
-            <td><a href="index.php">Acceptable outdoor and indoor noise levels</a></td>
+            <td><a href="HealthNoise.php">Acceptable Outdoor and Indoor Noise levels</a></td>
         </tr>
         <tr>
             <th scope="row">11</th>

@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>WRAP</title>
+    <title>Acceptable Outdoor and Indoor Noise levels</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -46,7 +46,7 @@
             <div class="col-md-12">
                 <div class="title-center">
                     <div class="title-middle">
-                        <h1 class="page-title text-center text-center">Worldwide Responsible Accredited Production</h1>
+                        <h1 class="page-title text-center text-center">Acceptable Outdoor and Indoor Noise levels</h1>
                     </div>
                 </div>
             </div>
@@ -60,216 +60,186 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <img src="/materilaHTML/assets/images/Regulations/WRAP/0-Logo.png" class="img-fluid">
-                <div class="text-left section-padding">
-                    <ul>
-                        <li>Headquartered in Arlington, Virginia, USA with offices in Hong Kong and Bangladesh and full-time staff in India and Southeast Asia, Worldwide Responsible Accredited Production (WRAP) is an independent, objective, non-profit team of global social compliance experts dedicated to promoting safe, lawful, humane and ethical manufacturing around the world through certification and education.</li>
-                        <li>The WRAP Principles are based on generally accepted international workplace standards, local laws and workplace regulations, and include the spirit or language of relevant conventions of the International Labor Organization (ILO). The Principles encompass human resources management, health and safety, environmental practices, and legal compliance including import/export and customs compliance and security standards.</li>
-                        <li>The WRAP Certification Program&rsquo;s objective is to independently monitor and certify compliance with these standards, to ensure that sewn products are being produced under lawful, humane and ethical conditions. Participating facilities voluntarily commit to ensuring that their manufacturing practices will meet these standards, and further commit to passing along, on their part, the expectation that their contractors and suppliers likewise comply with these standards.</li>
-                    </ul>
-                </div>
-                <div class="table-responsive">
-                    <table class="table table-responsive table-bordered">
+                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/10.Noise.jpg" class="img-fluid">
+                <div class="text-justify section-padding">
+                    <div class="table-responsive">
+                    <table class="table table-bordered table-striped">
                         <tbody>
                         <tr>
-                            <td>
-                                <p><strong>Sl. No.</strong></p>
+                            <td class="text-center align-middle">
+                                <p><strong>Type</strong></p>
                             </td>
                             <td>
-                                <p><strong>Regulation</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Description</strong></p>
+                                <p>Suggested Requirement</p>
                             </td>
                         </tr>
                         <tr>
-                            <td>
-                                <p>1.</p>
+                            <td class="text-center align-middle">
+                                <p><strong>Aim</strong></p>
                             </td>
                             <td>
-                                <p>Compliance with Laws and Workplace Regulations</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/1.Compliance%20Rules.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will comply with laws and regulations in all locations where they conduct business.</p>
-                                <p>&middot; All facilities will comply with the legal requirements and standards of their industry under the local and national laws of the jurisdictions in which the facilities are doing business, along with any applicable international laws.</p>
-                                <p>&middot; This will cover all labor and employment laws of those jurisdictions, as well as laws governing the conduct of business in general, including rules and standards of ethics dealing with corruption and transparency, and any relevant environmental laws.</p>
+                                <p>To use appropriate noise controls for providing acceptable levels of outdoor and indoor noise levels to enhance comfort.</p>
                             </td>
                         </tr>
                         <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Steps</strong></p>
+                            </td>
                             <td>
-                                <p>2.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Prohibition of Forced Labor</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/2.Forced_labor.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will not use involuntary, forced or trafficked labor.</p>
-                                <p>&middot; Facilities will maintain employment strictly on a voluntary basis.</p>
-                                <p>&middot; Facilities will not use any forced, prison, indentured, bonded or trafficked labor.</p>
-                                <p>&middot; This will include ensuring that any workers they hire will be under labor contracts that fully comply with all relevant legal requirements and do not impose any form of coercion (including imposing substantial fines or loss of residency papers by workers leaving employment or restricting a worker&rsquo;s ability to voluntarily end his/her employment).</p>
-                                <p>&middot; In addition, when hiring workers through an employment broker or agency, facilities will ensure that the workers&rsquo; passports are not withheld, all written contracts are in the native language of the workers, and recruitment fees are not borne by the workers themselves.</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>3.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Prohibition of Child Labor</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/3.Child_labor.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will not hire any employee under the age of 14 or under the minimum age established by law for employment, whichever is greater, or any employee whose employment would interfere with compulsory schooling.</p>
-                                <p>&middot; Facilities will ensure they do not engage in any form of child labor, including, but not limited to, the internationally recognized worst forms of child labor.</p>
-                                <p>&middot; Facilities may not employ any person at an age younger than the law of the jurisdiction allows and in any case not below the age of 14, even if permitted by local law.</p>
-                                <p>&middot; In addition, facilities will adhere to local legal requirements regarding mandatory schooling.</p>
-                                <p>&middot; Further, if, where permitted by local law, a facility employs young workers (defined as workers whose age is between the minimum age of employment and 18 years), the facility will also comply with any applicable legal restrictions on the nature and volume of work performed by such young workers, as well as any other requirements imposed by law, including ensuring that such young workers do not perform any hazardous work (e.g., chemical handling or operating heavy machinery).</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>4.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Prohibition of Harassment or Abuse</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/4.Harassment.png" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will provide a work environment free of supervisory or co-worker harassment or abuse, and free of corporal punishment in any form.</p>
-                                <p>&middot; Facilities will ensure a workplace that is respectful of a worker&rsquo;s rights and dignity.</p>
-                                <p>&middot; This includes ensuring that no corporal punishment or physical coercion be used.</p>
-                                <p>&middot; Facilities will not engage in or tolerate sexual harassment, indecent or threatening gestures, abusive tone or language or any other kind of undesired physical or verbal contact, such as bullying.</p>
-                                <p>&middot; In particular, facilities will ensure proper training at all levels - including management, supervisors and workers - to secure a workplace free of harassment or abuse.</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>5.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Compensation and Benefits</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/5.Compensation.png" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will pay at least the minimum total compensation required by local law, including all mandated wages, allowances &amp; benefits.</p>
-                                <p>&middot; Facilities will ensure proper compensation for their employees for all the work done, by providing in a timely manner all the wages and benefits that are in compliance with the local and national laws of the jurisdiction in which they are located.</p>
-                                <p>&middot; This will include any premiums for overtime work or work done during holidays, as well as any other allowances or benefits, including any mandatory social insurance, required by local law.</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>6.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Hours of Work</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/6.Hours_of_work.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Hours worked each day, and days worked each week, should not exceed the limitations of the country&rsquo;s law.</p>
-                                <p>&middot; Facilities will provide at least one day off in every seven-day period, except as required to meet urgent business needs.</p>
-                                <p>&middot; Facilities are required by local law to adhere to any limits set on regular working hours as well as any limits set on overtime work.</p>
-                                <p>&middot; Long term participation in the WRAP Certification Program is contingent upon meeting the limitations set by local law.</p>
-                                <p>&middot; WRAP recognizes that this can be a particularly challenging requirement, especially when taking into account local enforcement norms and customs.</p>
-                                <p>&middot; In light of this reality, WRAP will permit full compliance with local laws on working hours to be achieved incrementally, provided that a given facility meets the following conditions:</p>
-                                <p>&uuml; Is fully transparent about its working hours;</p>
-                                <p>&uuml; Ensures that those hours are all being worked voluntarily, in conditions that protect worker safety and health;</p>
-                                <p>&uuml; Compensates all employees in keeping with WRAP Principle 5;</p>
-                                <p>&uuml; Shows improvement toward meeting the working hours requirements from one audit to the next.</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>7.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Prohibition of Discrimination</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/7.Discrimination.gif" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will employ, pay, promote, and terminate workers on the basis of their ability to do the job, rather than on the basis of personal characteristics or beliefs.</p>
-                                <p>&middot; Facilities will ensure that all terms and conditions of employment are based on an individual&rsquo;s ability to do the job, and not on the basis of any personal characteristics or beliefs.</p>
-                                <p>&middot; Facilities will ensure that any employment decision - involving hiring, firing, assigning work, paying or promoting - is made without discriminating against the employees on the basis of race, color, national origin, gender, sexual orientation, religion, disability, or other similar factors (pregnancy, political opinion or affiliation, social status, etc.).</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>8.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Health and Safety</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/8.Health&safety.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will provide a safe and healthy work environment. Where residential housing is provided for workers, facilities will provide safe and healthy housing.</p>
-                                <p>&middot; Facilities will provide a safe, clean, healthy and productive workplace for their employees.</p>
-                                <p>&middot; Facilities shall prioritize worker health and safety above all else, and proactively address any safety issues that could arise.</p>
-                                <p>&middot; This will include a wide variety of requirements, such as, ensuring, among other things, the availability of clean drinking water (at no charge to workers), adequate medical resources, fire exits and safety equipment, well-lighted and comfortable workstations, clean restrooms.</p>
-                                <p>&middot; Further, facilities shall adequately train all their workers on how to perform their jobs safely</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>9.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Freedom of Association and Collective Bargaining</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/9.Collecive_bargaining.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will recognize and respect the right of employees to exercise their lawful rights of free association and collective bargaining.</p>
-                                <p>&middot; Facilities will respect the freedom of each employee to choose for him- or her-self whether or not to join a workers&rsquo; association.</p>
-                                <p>&middot; Facilities cannot discriminate against workers based on whether or not they choose to associate.</p>
-                                <p>&middot; Both the facility and the workers shall ensure they conduct themselves in accordance with all relevant laws in this regard.</p>
-                                <p>&middot; Facilities will ensure an effective mechanism is in place to address any workplace grievances.</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>10.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Environment</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/10-Environment.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will comply with environmental rules, regulations and standards applicable to their operations, and will observe environmentally conscious practices in all locations where they operate.</p>
-                                <p>&middot; Facilities will ensure compliance with all applicable legally mandated environmental standards, and should demonstrate a commitment to protecting the environment by actively monitoring their environmental practices.</p>
-                                <p>&middot; In particular, facilities will ensure proper waste management, including monitoring the disposal of any waste material - whether solid, liquid or gaseous - to ensure such disposal is done safely and in a manner consistent with all relevant laws.</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>11.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Customs Compliance</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/11.Custom_compliance.png" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will comply with applicable customs laws, and in particular, will establish and maintain programs to comply with customs laws regarding illegal transshipment of finished products.</p>
-                                <p>&middot; Facilities will ensure that all merchandise is accurately marked or labeled in compliance with all applicable laws.</p>
-                                <p>&middot; In addition, facilities will keep records for all materials and orders, as well as maintain detailed production records.</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>12.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p><br /> Security</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/12.Security.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will maintain facility security procedures to guard against the introduction of non-manifested cargo into outbound shipments (i.e. drugs, explosives biohazards and/or other contraband).</p>
-                                <p>&middot; Facilities will ensure adequate controls are in place to safeguard against introduction of any non-manifested cargo.</p>
-                                <p>&middot; In this regard, WRAP recognizes the United States Customs and Border Protection (CBP)&rsquo;s C-TPAT Guidelines for Foreign Manufacturers as a best practice program, and has adopted those guidelines under this Principle.</p>
+                                <ul>
+                                    <li> Ensure that the outdoor noise level conforms to the CPCB-Environmental Standards- Noise (ambient standards).</li>
+                                    <li>Ensure that the indoor noise levels conform to the levels described in NBC 2005 (BIS 2005a).</li>
+                                    <li>Ventilation and air conditioning installation shall aim at controlling and optimizing noise &amp;vibration. (NBC)</li>
+                                    <li> Wherever necessary, acoustic treatment should be provided in plant room space to prevent noise transmission to adjacent occupied areas. (NBC)</li>
+                                    <li>Excessive water velocities should be avoided, as they may lead to noise at pipe junctions and bends.</li>
+
+                                </ul>
+                                <p>(Source- <a href="https://igbc.in/igbc/">IGBC</a>, <a href="http://www.grihaindia.org/">GRIHA</a>)</p>
                             </td>
                         </tr>
                         </tbody>
-                    </table>
-                </div>
+                    </table></>
+                    <hr class="section-padding"
+                    <p><strong>CPCB-Environmental Standards- Noise (ambient standards)</strong></p>
+
+                      <div>
+                          <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/10/new.png" class="img-fluid img-padding-left-right"><br>
+                          <p><strong>*</strong>Daytime is reckoned in between 6 a.m., and 9 p.m.</p>
+                          <p><strong>**</strong>Night time is reckoned in between 9 p.m., and 6 a.m.</p>
+                          <br>
+                          <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/10/1.png" class="img-fluid img-padding-left-right">
+                          <br><br>
+                          <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/10/4.png" class="img-fluid img-padding-left-right">
+                          <br><br>
+                          <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/10/2.png" class="img-fluid img-padding-left-right">
+                          <br><br>
+                          <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/10/3.png" class="img-fluid img-padding-left-right">
+                      </div>
+
+                    <p><a href="http://bis.org.in/sf/nbc.asp"></a> <strong>NBC 2005 (BIS 2005a)</strong></p>
+
+                    <p><strong>NOISE CONTROL</strong></p>
+                    <ol>
+                        <li><strong><em> From Room Air Conditioners (RAC)</em></strong></li>
+                    </ol>
+                    <p>The following measures should be adopted:</p>
+                    <ol>
+                        <li>Selection of RAC which has the least noise at various fan speeds.</li>
+                        <li>Install it at a serviceable height.</li>
+                        <li>Install preferably in a wall or on a rigid window.</li>
+                        <li>Provide only necessary slope as specified byte manufacturer, to avoid any unusual noise from the compressor because of tilting.</li>
+                        <li>Install it preferably in the middle portion of the wall/window to avoid additional directivity (do not install at the end of a wall.)</li>
+                        <li>Ensure all leaks are sealed properly.</li>
+                        <li>Avoid condenser facing any high noisy areas, such as road/factory to avoid any such noise predominantly entering into the room.</li>
+                        <li>Do not provide any props at the back Sidebottom of the air conditioner unless specified by the manufacturer.</li>
+                        <li>Prepare the opening to suit the chassis with wooden frame of adequate rigidity and thickness.</li>
+                        <li><strong><em> From Split Air Conditioner/Furred Inn</em></strong></li>
+                    </ol>
+                    <p>The following measures should be adopted:</p>
+                    <ol>
+                        <li>Install the evaporator only on a rigid wall/ceiling or on a pedestal.</li>
+                        <li>Avoid installation over wooden/gypsum board partition. Should a need arise anchor the evaporator rigidly by using mild steel frame work from the roof to avoid vibration.</li>
+                        <li>Provide proper &lsquo;u&rsquo; trap in the condensate water line to ensure a good water seal, which will also avoid sound penetration into the room from outside.</li>
+                        <li>If the capillary is in the evaporator, ensure that flow noise is avoided.</li>
+                        <li>Ensure proper return air entry back to the coil, since blowers working at higher <em>static pressure </em>will create higher noise.</li>
+                        <li>Select the condensers with top/side discharge depending upon location to avoid nuisance to neighbors.</li>
+                        <li>Place condensers on rigid platform, properly supported propped and fixed firmly.</li>
+                        <li>Ensure all screws, bolts and nuts are firmly tightened since stiffening is more advantageous in higher frequencies for vibration reduction.</li>
+                        <li><strong><em> Air Handling Units (Floor Mounted and Ceiling Suspended)</em></strong></li>
+                    </ol>
+                    <p>The following measures should be adopted:</p>
+                    <ol>
+                        <li>Selected indoor machine for specific air quantity and static pressure.</li>
+                        <li>Suspend the indoor machine and ducts without touching the members of the false ceiling or partitions.</li>
+                    </ol>
+                    <ol>
+                        <li>Ensure that ducts/duct supports do not touch the evaporator.</li>
+                        <li><strong><em> From Plenum Chamber</em></strong></li>
+                    </ol>
+                    <p>The following measures should be adopted/considered:</p>
+                    <ol>
+                        <li>If possible and if pressures allow, expand them to a plenum chamber (of 2.5 m/s for normal office), which is acoustically lined inside.</li>
+                        <li>Stiffening of the plenum body is very critical since it could create a drumming noise.</li>
+                        <li>Plenum chambers with sound absorbing material are frequently used as silencers in air conditioning and ventilating systems and in testing facilities to reduce flow velocity and turbulence. The attenuation of these devices may be due to both dissipative and reactive effects.</li>
+                        <li><strong><em> From Fans</em></strong></li>
+                    </ol>
+                    <p>To reduce fan noise, the following should be adopted:</p>
+                    <ol>
+                        <li>Design the air distribution system for minimum resistance, since the sound generated by a fan, regardless of type, increase by the square of the static pressure. Turbulence can increase the flow noise generated by duct fittings and dampers in the air distribution systems especially at low frequencies.</li>
+                        <li>Examine the specific sound power levels of the fan designs for any given job. Different fans generate different levels of sound and produce different octave band spectra.</li>
+                        <li>Selecta fan that will generate the lowest possible sound level, commensurate with other fans election parameters.</li>
+                        <li>Fans with relatively few blades (less than 15) tend to generate tones, which may dominate the spectrum. These tones occur at the blade passage frequency and its harmonies. The intensity of these tones depends on resonance with the duct system, fan design, and inlet flow distortions.</li>
+                        <li>Select a fan to operate as near as possible to its rated peak efficiency when handling the required quantity of air and static pressure. Also, select a fan that generates the lowest</li>
+                        <li>possible noise but still meets the required design conditions for which it is selected. Using an oversized or undersized fan, that does not operate at or near rated peak efficiency, may result in substantially higher noise levels.</li>
+                        <li>Design duct connections at both the fan inlet and outlet for uniform and straight airflow. Avoid unstable, gusting, and swirling inlet airflow. Deviation from accepted applications can severely degrade both the aerodynamic and acoustic performance of any fan and invalidate manufacturers ratings or other performance predictions.</li>
+                        <li>Select duct silencers that do not significantly increase the required fan total static pressure.</li>
+                        <li><strong><em> From Chillers, Pumps and Pipes</em></strong></li>
+                    </ol>
+                    <p>Sizing and selecting a chiller is an important aspect in noise control. The following guidelines may be considered for noise control:</p>
+                    <ol>
+                        <li>For roof top installation of chillers, these maybe placed on beams connected on the elevated levels of pillars on correctly chosen vibration isolators.</li>
+                        <li>Water cooled chillers have less vibration. However, if air cooled chillers have to be chosen, choose them with fan of less speeds and compressors must be jacketed without</li>
+                        <li>compromising their ventilation requirement.</li>
+                        <li>If much more silencing is required, plan silencer on the exhaust of the fans and also an acoustic enclosure around the chillers. Care must be taken for the additional static demanding the fan.</li>
+                        <li><strong><em> From Ducting Work</em></strong></li>
+                    </ol>
+                    <p>The following measures should be adopted:</p>
+                    <ol>
+                        <li>Shorter ducts with flanges and bracings is very advantageous for noise reduction.</li>
+                        <li>Choose the right thickness of sheets for ducting.</li>
+                        <li>Provide calculated turning vanes in all bends.</li>
+                        <li>Provide take off pieces in all branches and collars.</li>
+                        <li>Minimize the number of terminals since each terminal of equal noise will create a higher overall noise inside the room &mdash; Two equal noise source increase the noise by 3 dB.</li>
+                        <li>Velocities of supply and return ducts and also terminals are important for noise control.</li>
+                        <li>For auditoriums, conference halls etc., choose the right silencers in the supply. Define clear opening for return air and fix return air silencers (parallel baffle silencer). The pressure drop expected across these silencers varies from 6 mm to 10 mm of water column.</li>
+                        <li>Selecting double skin air handling unit should be done with care. If used without supply and return air silencers it adds to the noise in the duct patch. However, by using double skin air handling unit the noise inside the plant room can be lowered.</li>
+                        <li>Instead of insulating the plant room, increasing the density of the plant room wall and providing return air baffles in the return air patch is more helpful in noise reduction. The</li>
+                        <li>doors to the air handling unit room should be either with an attic entry or dense enough to avoid noise transmission.</li>
+                        <li>Avoid terminal dampers and grilles if the noise criteria are of the order of NC 20(recording studios).</li>
+                        <li>If ducts have to be routed outside the conditioned space, the density of the insulating materials over the duct surface is very critical. Higher the density, lower is its noise transmitality and hence break in noise inside the duct can be avoided. The density is to be decided based on the outside noise level.</li>
+                        <li>Selection of a proper terminal device helps in noise reduction.</li>
+                        <li>VAV shall be planned along with relevant VFD or bypass arrangement. Otherwise the duct is subjected to variable pressures resulting in variable noise pattern.</li>
+                        <li>Minimize flow-generated noise by elbows or duct branch takeoffs, whenever possible, by locating them at least four to five duct diameters from each other. For high velocity systems, it may be necessary to increase this distance to up to ten duct diameters in critical noise areas.</li>
+                        <li>Keep airflow velocity in the duct as low as possible (7.5 m/s or less) near critical noise areas by expanding the duct cross-section area. However, do not exceed an included expansion angle of greater than 15&deg;. Flow separation, resulting from expansion angles greater than 15&deg;, may produce rumble noise. Expanding the duct cross-section area reduces potential flow noise associated with turbulence in these areas.</li>
+                        <li>Use turning vanes in large 90&deg; rectangular elbows and branch takeoffs. This provides a smoother transmission in which the air can change flow direction, thus reducing turbulence.</li>
+                        <li>Place grilles, diffusers and registers into occupied space as far as possible from elbows and branch takeoffs.</li>
+                        <li>Minimize the use of volume dampers near grilles, diffusers and registers in acoustically critical situations.</li>
+                        <li>Vibration isolate ducts and pipes, using spring and/or neoprene hangers for atleast the first15 m from the vibration-isolated equipment.</li>
+                    </ol>
+                    <ol>
+                        <li><strong> Structure Borne Noise</strong></li>
+                    </ol>
+                    <p>Most obvious paths for solid-borne noise are the attached piping and pump support systems. Oscillatory energy generated near the pump can be conducted as solid-borne noise for substantial distances before it is radiated as acoustic noise. It can be controlled using flexible couplings and mechanical isolation.</p>
+                    <p><strong>INDUSTRIAL NOISES</strong></p>
+                    <p>&nbsp;</p>
+                    <ul>
+                        <li>Industrial buildings are primarily producers rather than receivers of noise. The level of industrial noise commonly exceeds that from any other source with the exception of aircraft. As compared with traffic noise, its effects are less widespread but it is often more annoying in character.</li>
+                        <li>Many industrial noises contain very strong high frequency whines, screeches and clatter &mdash; these components are relatively more attenuated by passage through the air and by the insulation of light structure than are lower frequencies.</li>
+                        <li>Intermittent noises are either isolated explosions or reports, or noises of a periodic nature, such as those of pressure relief valves of blow off, or the noises of work occurring at random intervals, for example, hammering, grinding and sawing operations; the latter class may be especially irritating because of high frequency components.</li>
+                    </ul>
+                    <p><strong>Methods of Reducing Noise</strong></p>
+                    <ol>
+                        <li><strong><em>Noise Control by Location</em></strong></li>
+                    </ol>
+                    <p>Machines, processes and work areas which are approximately equally noisy should be located together as far as possible. Areas that are particularly noisy should be segregated from quiet areas by buffer zones that produce and may tolerate intermediate noise levels.</p>
+                    <ol>
+                        <li><strong><em>Noise Reduction by Layout</em></strong></li>
+                    </ol>
+                    <p>The office space in a factory should be as far as possible located preferably in a separate building. This building should not have a wall common with the production area.</p>
+                    <p>Where a common wall is unavoidable, it should be heavy with few connecting doors and no permanent openings.</p>
+                    <ol>
+                        <li><strong><em>Noise Reduction at Source</em></strong></li>
+                    </ol>
+                    <p>&nbsp;</p>
+                    <p><strong>3.1 </strong><em>Selection of machinery</em></p>
+                    <p>Noise should be reduced as near the source as possible. While the operational processes in a factory may be fixed and may have no quieter alternative, careful selection of the machine tools and equipment to be used may considerably help attaining lower noise levels</p>
+                    <p><strong>3.2 </strong><em>Reducing noise from potential sources</em></p>
+                    <p>Impact that is not essential to a process should be quietened. Noise from handling and dropping of materials on hard surface may be reduced by using soft resilient materials on containers, fixing rubber tyres on trucks, trolleys, etc. Machine noise may be kept to a minimum by proper maintenance. Proper lubrication will</p>
+                    <p>reduce noise by friction conveyors, rollers, etc.</p>
+                    <p><strong>3.3 </strong>The <em>noise from the radiating surfaces</em> maybe reduced by reducing the radiating area. For example, if the area is halved, the noise intensity will be reduced by 3 dB and at low frequencies the reduction will be much greater.</p>
+                    <p><strong>3.4 </strong>Supporting structures for vibrating machines and other equipment should be frames rather than cabinets or sheeted enclosures. If an enclosure is used, precaution should be taken to isolate it and line it on the inside with sound-absorbent material. The noise radiated by machinery guards can be minimized by making them of perforated sheet or of wire mesh.</p>
+                    <p><strong>3.5 </strong><em>Reducing transmission of mechanical vibration </em>A vibrating sources does not usually contain a large radiating surface but the vibration is conducted along mechanically rigid paths to surfaces that can act as effective radiator. If the rigid connecting paths are interrupted by resilient materials, the transmission of vibration and consequently the noise radiated may be greatly reduced. The reduction depends on the ratio of the driving (forcing) frequency of the source to the natural frequency of the resilient system.</p>
+                     </DIV>
                 <p>(Source- <a href="http://www.wrapcompliance.org/">Worldwide Responsible Accredited Production (WRAP)</a>)</p>
             </div>
         </div>

@@ -111,7 +111,7 @@
                             </tbody>
                         </table></div>
                         <hr class="section-padding">
-                        <p><strong>Ventilation Requirements</strong></p>
+                        <p class="h4"><strong>VENTILATION REQUIREMENTS</strong></p>
                         <p>Within a building, all enclosed spaces that are normally used by humans must be continuously ventilated during occupied hours with outdoor air, using either natural or mechanical ventilation. An exception is provided to refrigerated warehouses or other buildings or spaces that are not normally used for human occupancy or work.</p>
                         <p>The standards allow for ventilation to use transfer air as long as it doesn&rsquo;t have any &ldquo;unusual sources of indoor air contaminants&rdquo; and &ldquo;the outdoor air that is supplied to all spaces combined, is sufficient to meet the requirements. Good practice dictates that sources of contaminants be isolated and controlled with local exhaust. The designation and treatment of such spaces is subject to the designer&rsquo;s discretion.</p>
                         <p><strong>Natural Ventilation</strong></p>
@@ -131,7 +131,8 @@
                             <li>However, specifying more ventilation air than the minimum allowable ventilation rates increases energy consumption and electrical peak demand and increases the costs of operating the HVAC equipment. Thus the designer should have a compelling reason to specify higher design minimum outside air rates than the calculated minimum outside air requirements in the Standards.</li>
                         </ul>
                         <p>(Source- <a href="https://energycodeace.com/site/custom/public/reference-ace-2013/index.html#!Documents/43ventilationrequirements.htm">Energy Code Ace</a>)</p>
-                        <p><strong>WHY IS FRESH AIR REQUIRED IN THE WORKPLACE?</strong></p>
+                    <hr class="section-padding">
+                    <p class="h4"><strong>WHY IS FRESH AIR REQUIRED IN THE WORKPLACE?</strong></p>
                         <p>You need to provide fresh air to:</p>
                         <ul>
                             <li>provide oxygen for breathing in and to remove carbon dioxide from breathing out;</li>
@@ -139,7 +140,8 @@
                             <li>dilute and remove body and other types of odors (e.g. food); and</li>
                             <li>dilute any contaminants caused by workplace activities (i.e. the use of 'dilution' ventilation following a risk assessment).</li>
                         </ul>
-                        <p><strong>HOW TO ACHIEVE EFFECTIVE VENTILATION IN YOUR WORKPLACE</strong></p>
+                    <hr class="section-padding">
+                        <p class="h4"><strong>HOW TO ACHIEVE EFFECTIVE VENTILATION IN YOUR WORKPLACE</strong></p>
                         <ol>
                             <li>If your workplace is appropriately designed, for example by providing space for flexibility, and if the building is situated where there is enough shade to minimize summer heat, then you should be able to obtain adequate natural ventilation.</li>
                             <li>In most buildings make up air (air to replace that lost from the building) will be supplied indirectly through gaps around door? and window frames or directly through vents, windows, grilles and open doors.</li>

@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>WRAP</title>
+    <title>Building Flush Out</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -46,7 +46,7 @@
             <div class="col-md-12">
                 <div class="title-center">
                     <div class="title-middle">
-                        <h1 class="page-title text-center text-center">Worldwide Responsible Accredited Production</h1>
+                        <h1 class="page-title text-center text-center">Building Flush Out</h1>
                     </div>
                 </div>
             </div>
@@ -60,218 +60,163 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <img src="/materilaHTML/assets/images/Regulations/WRAP/0-Logo.png" class="img-fluid">
-                <div class="text-left section-padding">
-                    <ul>
-                        <li>Headquartered in Arlington, Virginia, USA with offices in Hong Kong and Bangladesh and full-time staff in India and Southeast Asia, Worldwide Responsible Accredited Production (WRAP) is an independent, objective, non-profit team of global social compliance experts dedicated to promoting safe, lawful, humane and ethical manufacturing around the world through certification and education.</li>
-                        <li>The WRAP Principles are based on generally accepted international workplace standards, local laws and workplace regulations, and include the spirit or language of relevant conventions of the International Labor Organization (ILO). The Principles encompass human resources management, health and safety, environmental practices, and legal compliance including import/export and customs compliance and security standards.</li>
-                        <li>The WRAP Certification Program&rsquo;s objective is to independently monitor and certify compliance with these standards, to ensure that sewn products are being produced under lawful, humane and ethical conditions. Participating facilities voluntarily commit to ensuring that their manufacturing practices will meet these standards, and further commit to passing along, on their part, the expectation that their contractors and suppliers likewise comply with these standards.</li>
-                    </ul>
-                </div>
-                <div class="table-responsive">
-                    <table class="table table-responsive table-bordered">
+                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/5.Building_flush_out.jpg" class="img-fluid">
+                <div class="text-justify section-padding">
+                    <div class="table-responsive">
+                    <table class="table table-bordered table-striped">
                         <tbody>
                         <tr>
-                            <td>
-                                <p><strong>Sl. No.</strong></p>
+                            <td class="text-center align-middle">
+                                <p><strong>Type</strong></p>
                             </td>
-                            <td>
-                                <p><strong>Regulation</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Description</strong></p>
+                            <td >
+                                <p>Mandatory Requirement</p>
                             </td>
                         </tr>
                         <tr>
-                            <td>
-                                <p>1.</p>
+                            <td class="text-center align-middle">
+                                <p><strong>Aim</strong></p>
                             </td>
                             <td>
-                                <p>Compliance with Laws and Workplace Regulations</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/1.Compliance%20Rules.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will comply with laws and regulations in all locations where they conduct business.</p>
-                                <p>&middot; All facilities will comply with the legal requirements and standards of their industry under the local and national laws of the jurisdictions in which the facilities are doing business, along with any applicable international laws.</p>
-                                <p>&middot; This will cover all labor and employment laws of those jurisdictions, as well as laws governing the conduct of business in general, including rules and standards of ethics dealing with corruption and transparency, and any relevant environmental laws.</p>
+                                <p>To avoid occupant&rsquo;s exposure to indoor airborne contaminants before occupying the premises.</p>
                             </td>
                         </tr>
                         <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Steps</strong></p>
+                            </td>
                             <td>
-                                <p>2.</p>
+                                <p>Before the building is occupied and aft.er paints, adhesives and sealants have been used, a building flush out needs to be carried out for ten days by keeping all windows open.</p>
+                                <p><strong>OR</strong></p>
+                                <p>If the building prefers to carry out the flush out using forced ventilation systems, the flush out can be carried out for 5 days.</p>
+                                <p><strong>OR</strong></p>
+                                <p class="h6">AIR QUALITY TESTING</p>
+                                <p>Conduct baseline IAQ testing, aft.er construction ends and prior to occupancy, using testing protocols such that the Maximum contaminant</p>
+                                <p>concentrations listed below should not be exceeded:</p>
+                                <table class="table-condensed img-padding-left-right table-responsive text-center table-striped-white">
+                                    <tbody>
+                                    <tr>
+                                        <td>
+                                            <p><strong>Contaminant</strong></p>
+                                        </td>
+                                        <td>
+                                            <p><strong>Maximum Concentration</strong></p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <p>Formaldehyde</p>
+                                        </td>
+                                        <td>
+                                            <p>50 parts per billion</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <p>Particulates (PM10)</p>
+                                        </td>
+                                        <td>
+                                            <p>50 micrograms per cubic meter</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <p>Total Volatile Organic Compounds (TVOC)</p>
+                                        </td>
+                                        <td>
+                                            <p>500 micrograms per cubic meter</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <p>4-Phenylcyclohexene (4-PCH)</p>
+                                        </td>
+                                        <td>
+                                            <p>6.5 micrograms per cubic meter</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <p>Carbon Monoxide (CO)</p>
+                                        </td>
+                                        <td>
+                                            <p>9 parts per million and no greater than 2 parts per million above outdoor levels</p>
+                                        </td>
+                                    </tr>
+                                    </tbody>
+                                </table> <br>
+                                <p>For each sampling point where the maximum concentration limits are exceeded, conduct additional flush-out with outside air and retest the specific parameter(s) exceeded to comply with the requirement. Repeat procedure until all requirements have been met. When retesting non-complying building areas, take samples from the same locations as in the first test. The air sample testing shall be conducted as follows:</p>
+                                <ul>
+                                    <li>All air sample testing measurements to be conducted before occupancy and during normal occupied hours. The ventilation system should be operational starting at the normal start time operated at minimum outside air flow rate under the occupied mode.</li>
+                                    <li>Prior to testing the building shall have all interior finishes installed.</li>
+                                    <li>The number of sampling locations will vary depending upon the size of the building and number of ventilation systems. For each portion of the building served by a separate ventilation system, the number of sampling points shall not be less than one per 25,000 sq. ft. OR for each contiguous floor area, whichever is larger, and include areas with the least ventilation and greatest presumed source strength.</li>
+                                    <li>Air samples shall be collected between 3 feet and 6 feet from the floor to represent the breathing zone of occupants, and over a minimum 4-hour period.</li>
+
+                                </ul>
+                                </td>
+                        </tr>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Documents Required</strong></p>
                             </td>
                             <td class="align-middle">
-                                <p>Prohibition of Forced Labor</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/2.Forced_labor.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will not use involuntary, forced or trafficked labor.</p>
-                                <p>&middot; Facilities will maintain employment strictly on a voluntary basis.</p>
-                                <p>&middot; Facilities will not use any forced, prison, indentured, bonded or trafficked labor.</p>
-                                <p>&middot; This will include ensuring that any workers they hire will be under labor contracts that fully comply with all relevant legal requirements and do not impose any form of coercion (including imposing substantial fines or loss of residency papers by workers leaving employment or restricting a worker&rsquo;s ability to voluntarily end his/her employment).</p>
-                                <p>&middot; In addition, when hiring workers through an employment broker or agency, facilities will ensure that the workers&rsquo; passports are not withheld, all written contracts are in the native language of the workers, and recruitment fees are not borne by the workers themselves.</p>
+                                <p>Provide a narrative describing the flush out procedure implemented.</p>
                             </td>
                         </tr>
                         <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Approach</strong></p>
+                            </td>
                             <td>
-                                <p>3.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Prohibition of Child Labor</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/3.Child_labor.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will not hire any employee under the age of 14 or under the minimum age established by law for employment, whichever is greater, or any employee whose employment would interfere with compulsory schooling.</p>
-                                <p>&middot; Facilities will ensure they do not engage in any form of child labor, including, but not limited to, the internationally recognized worst forms of child labor.</p>
-                                <p>&middot; Facilities may not employ any person at an age younger than the law of the jurisdiction allows and in any case not below the age of 14, even if permitted by local law.</p>
-                                <p>&middot; In addition, facilities will adhere to local legal requirements regarding mandatory schooling.</p>
-                                <p>&middot; Further, if, where permitted by local law, a facility employs young workers (defined as workers whose age is between the minimum age of employment and 18 years), the facility will also comply with any applicable legal restrictions on the nature and volume of work performed by such young workers, as well as any other requirements imposed by law, including ensuring that such young workers do not perform any hazardous work (e.g., chemical handling or operating heavy machinery).</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>4.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Prohibition of Harassment or Abuse</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/4.Harassment.png" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will provide a work environment free of supervisory or co-worker harassment or abuse, and free of corporal punishment in any form.</p>
-                                <p>&middot; Facilities will ensure a workplace that is respectful of a worker&rsquo;s rights and dignity.</p>
-                                <p>&middot; This includes ensuring that no corporal punishment or physical coercion be used.</p>
-                                <p>&middot; Facilities will not engage in or tolerate sexual harassment, indecent or threatening gestures, abusive tone or language or any other kind of undesired physical or verbal contact, such as bullying.</p>
-                                <p>&middot; In particular, facilities will ensure proper training at all levels - including management, supervisors and workers - to secure a workplace free of harassment or abuse.</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>5.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Compensation and Benefits</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/5.Compensation.png" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will pay at least the minimum total compensation required by local law, including all mandated wages, allowances &amp; benefits.</p>
-                                <p>&middot; Facilities will ensure proper compensation for their employees for all the work done, by providing in a timely manner all the wages and benefits that are in compliance with the local and national laws of the jurisdiction in which they are located.</p>
-                                <p>&middot; This will include any premiums for overtime work or work done during holidays, as well as any other allowances or benefits, including any mandatory social insurance, required by local law.</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>6.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Hours of Work</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/6.Hours_of_work.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Hours worked each day, and days worked each week, should not exceed the limitations of the country&rsquo;s law.</p>
-                                <p>&middot; Facilities will provide at least one day off in every seven-day period, except as required to meet urgent business needs.</p>
-                                <p>&middot; Facilities are required by local law to adhere to any limits set on regular working hours as well as any limits set on overtime work.</p>
-                                <p>&middot; Long term participation in the WRAP Certification Program is contingent upon meeting the limitations set by local law.</p>
-                                <p>&middot; WRAP recognizes that this can be a particularly challenging requirement, especially when taking into account local enforcement norms and customs.</p>
-                                <p>&middot; In light of this reality, WRAP will permit full compliance with local laws on working hours to be achieved incrementally, provided that a given facility meets the following conditions:</p>
-                                <p>&uuml; Is fully transparent about its working hours;</p>
-                                <p>&uuml; Ensures that those hours are all being worked voluntarily, in conditions that protect worker safety and health;</p>
-                                <p>&uuml; Compensates all employees in keeping with WRAP Principle 5;</p>
-                                <p>&uuml; Shows improvement toward meeting the working hours requirements from one audit to the next.</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>7.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Prohibition of Discrimination</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/7.Discrimination.gif" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will employ, pay, promote, and terminate workers on the basis of their ability to do the job, rather than on the basis of personal characteristics or beliefs.</p>
-                                <p>&middot; Facilities will ensure that all terms and conditions of employment are based on an individual&rsquo;s ability to do the job, and not on the basis of any personal characteristics or beliefs.</p>
-                                <p>&middot; Facilities will ensure that any employment decision - involving hiring, firing, assigning work, paying or promoting - is made without discriminating against the employees on the basis of race, color, national origin, gender, sexual orientation, religion, disability, or other similar factors (pregnancy, political opinion or affiliation, social status, etc.).</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>8.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Health and Safety</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/8.Health&safety.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will provide a safe and healthy work environment. Where residential housing is provided for workers, facilities will provide safe and healthy housing.</p>
-                                <p>&middot; Facilities will provide a safe, clean, healthy and productive workplace for their employees.</p>
-                                <p>&middot; Facilities shall prioritize worker health and safety above all else, and proactively address any safety issues that could arise.</p>
-                                <p>&middot; This will include a wide variety of requirements, such as, ensuring, among other things, the availability of clean drinking water (at no charge to workers), adequate medical resources, fire exits and safety equipment, well-lighted and comfortable workstations, clean restrooms.</p>
-                                <p>&middot; Further, facilities shall adequately train all their workers on how to perform their jobs safely</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>9.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Freedom of Association and Collective Bargaining</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/9.Collecive_bargaining.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will recognize and respect the right of employees to exercise their lawful rights of free association and collective bargaining.</p>
-                                <p>&middot; Facilities will respect the freedom of each employee to choose for him- or her-self whether or not to join a workers&rsquo; association.</p>
-                                <p>&middot; Facilities cannot discriminate against workers based on whether or not they choose to associate.</p>
-                                <p>&middot; Both the facility and the workers shall ensure they conduct themselves in accordance with all relevant laws in this regard.</p>
-                                <p>&middot; Facilities will ensure an effective mechanism is in place to address any workplace grievances.</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>10.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Environment</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/10-Environment.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will comply with environmental rules, regulations and standards applicable to their operations, and will observe environmentally conscious practices in all locations where they operate.</p>
-                                <p>&middot; Facilities will ensure compliance with all applicable legally mandated environmental standards, and should demonstrate a commitment to protecting the environment by actively monitoring their environmental practices.</p>
-                                <p>&middot; In particular, facilities will ensure proper waste management, including monitoring the disposal of any waste material - whether solid, liquid or gaseous - to ensure such disposal is done safely and in a manner consistent with all relevant laws.</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>11.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Customs Compliance</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/11.Custom_compliance.png" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will comply with applicable customs laws, and in particular, will establish and maintain programs to comply with customs laws regarding illegal transshipment of finished products.</p>
-                                <p>&middot; Facilities will ensure that all merchandise is accurately marked or labeled in compliance with all applicable laws.</p>
-                                <p>&middot; In addition, facilities will keep records for all materials and orders, as well as maintain detailed production records.</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>12.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p><br /> Security</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/12.Security.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will maintain facility security procedures to guard against the introduction of non-manifested cargo into outbound shipments (i.e. drugs, explosives biohazards and/or other contraband).</p>
-                                <p>&middot; Facilities will ensure adequate controls are in place to safeguard against introduction of any non-manifested cargo.</p>
-                                <p>&middot; In this regard, WRAP recognizes the United States Customs and Border Protection (CBP)&rsquo;s C-TPAT Guidelines for Foreign Manufacturers as a best practice program, and has adopted those guidelines under this Principle.</p>
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/ProcessFlow/5.png" alt="" class="img-responsive">
+                                <p><br /> (Source- <a href="https://igbc.in/igbc/">IGBC</a>, <a href="http://www.grihaindia.org/">GRIHA</a>)</p>
                             </td>
                         </tr>
                         </tbody>
-                    </table>
+                    </table></>
+
+                    <hr class="section-padding">
+                    <p class="h6"><strong>WHAT IS A BUILDING FLUSH OUT?</strong></p>
+                    <ul>
+                        <li>Flush out or building flush is a process to force air through a building just prior to occupancy to remove some of the pollutants, such as formaldehyde and other volatile organic compounds (VOC's), that seep from newly installed components, fresh paint, materials, finishes and furnishings.</li>
+                        <li>These include flooring and flooring adhesives, paints and finishes, caulks and sealants, and cabinets and work surfaces made from composite lumber products.</li>
+                        <li>The flush out process aims to improve indoor air quality (IAQ) by limiting occupants&rsquo; exposure to the most intense period of contamination, and minimizing the cross-contamination between materials.</li>
+                    </ul>
+                    <br><br>
+                    <p class="h6"><strong>HOW TO PERFORM A FLUSH OUT?</strong></p>
+                    <p>There are a host of general recommendations for performing an effective flush out of a new building.</p>
+                    <ol>
+                        <li>A flush out is always conducted <strong>at the end of construction</strong> to finalize a project before occupancy.</li>
+                        <li>The <strong>ventilation system components should be protected from contamination</strong> during construction, or cleaned.</li>
+                        <li>The building&rsquo;s mechanical system can then circulate fresh outdoor air throughout the building.</li>
+                        <li>Flush outs should take as long as possible, suggestions often range from <strong>two weeks to 30 days</strong>, but any amount of time is better than no action being taken at all.</li>
+                        <li>The minimum volume of outdoor air needed for flush out is the <strong>amount needed to ventilate the full building at least once each hour</strong> (1 ACH, or air change per hour), 24 hours a day, 7 days a week.</li>
+                        <li>At a minimum level, all mechanical ventilation systems should be set to provide the largest amount of outdoor air as practical.</li>
+                        <li>It is essential that after a flush out, <strong>ventilation air filters</strong>, except filters that have only been processing outside air, <strong>are changed.</strong></li>
+                        <li>The LEED rating system gives points by conducting a flush-out <strong>&ldquo;by supplying a total air volume of 14,000 cubic feet of outdoor air per square foot of floor area while maintaining an internal temperature of at least 60&deg; F and relative humidity no higher than 60%.&rdquo;</strong></li>
+                        <li>An alternate approach is available if occupancy is needed before the flush out. In that case, a minimum <strong>of 3,500 cubic feet of outdoor air</strong><strong>per square foot of floor</strong> area must be delivered before the space is occupied.</li>
+                        <li>It must be ventilated at a <strong>minimum rate of 0.30 cubic feet per minute</strong> (cfm) per square foot of outside air once the space is occupied (or the design minimum outside air rate determined in the LEED IEQ Prerequisite 1: Minimum Indoor Air Quality Performance, whichever is greater).</li>
+                        <li>During each day of the flush-out period, <strong>ventilation must begin a minimum of 3 hours prior </strong>to occupancy and continue during occupancy during each day of the flush out.</li>
+                        <li>This procedure <strong>must be followed until a total of 14,000 cubic feet per square foot of outside air has been delivered to the space.</strong></li>
+                    </ol>
+                    <br><br>
+                    <p class="h6"><strong>BENEFITS</strong></p>
+                    <ul>
+                        <li>There is a direct link between indoor air contamination and building related illnesses.</li>
+                        <li>New materials usually have the highest rate of pollution release, and as such, flush outs can reduce the negative impacts on human health.</li>
+                        <li>Pollutant concentration inside a building may be two to five times higher than outside levels.</li>
+                        <li>Indoor pollutants, chemical toxins, and biological agents can lead to significant health risks, including increased rates of infectious diseases, eye and respiratory irritation, allergies and asthma, chronic sinusitis, headaches, and an array of other diseases.</li>
+                    </ul>
+                    <br><br>
+                    <p class="h6"><strong>COST</strong></p>
+                    <ul>
+                        <li>There are costs associated with building flush outs: construction management, electricity use, and lost revenue from delayed occupancy.</li>
+                        <li>That being said, the avoidance of illness within the building can offset these costs.</li>
+                        <li>Incorporating the flush out as part of the overall building schedule can avoid delays and minimize extra costs.</li>
+                    </ul>
+                    <p>(Source- <a href="http://greenmanual.rutgers.edu/newcommercial/strategies/buildingflush.pdf">Green Manual</a>)</p>
                 </div>
-                <p>(Source- <a href="http://www.wrapcompliance.org/">Worldwide Responsible Accredited Production (WRAP)</a>)</p>
-            </div>
+               </div>
         </div>
     </div>
 </section>

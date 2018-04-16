@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>WRAP</title>
+    <title>Aerobic & Cardiovascular Gymnasium</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -46,7 +46,7 @@
             <div class="col-md-12">
                 <div class="title-center">
                     <div class="title-middle">
-                        <h1 class="page-title text-center text-center">Worldwide Responsible Accredited Production</h1>
+                        <h1 class="page-title text-center text-center">Aerobic & Cardiovascular Gymnasium</h1>
                     </div>
                 </div>
             </div>
@@ -60,218 +60,365 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <img src="/materilaHTML/assets/images/Regulations/WRAP/0-Logo.png" class="img-fluid">
-                <div class="text-left section-padding">
-                    <ul>
-                        <li>Headquartered in Arlington, Virginia, USA with offices in Hong Kong and Bangladesh and full-time staff in India and Southeast Asia, Worldwide Responsible Accredited Production (WRAP) is an independent, objective, non-profit team of global social compliance experts dedicated to promoting safe, lawful, humane and ethical manufacturing around the world through certification and education.</li>
-                        <li>The WRAP Principles are based on generally accepted international workplace standards, local laws and workplace regulations, and include the spirit or language of relevant conventions of the International Labor Organization (ILO). The Principles encompass human resources management, health and safety, environmental practices, and legal compliance including import/export and customs compliance and security standards.</li>
-                        <li>The WRAP Certification Program&rsquo;s objective is to independently monitor and certify compliance with these standards, to ensure that sewn products are being produced under lawful, humane and ethical conditions. Participating facilities voluntarily commit to ensuring that their manufacturing practices will meet these standards, and further commit to passing along, on their part, the expectation that their contractors and suppliers likewise comply with these standards.</li>
-                    </ul>
-                </div>
-                <div class="table-responsive">
-                    <table class="table table-responsive table-bordered">
+                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/9.Gym.jpg" class="img-fluid">
+                <div class="text-justify section-padding">
+                    <div class="table-responsive">
+                        <table class=" table table-bordered table-striped">
                         <tbody>
                         <tr>
-                            <td>
-                                <p><strong>Sl. No.</strong></p>
+                            <td class="text-center align-middle">
+                                <p><strong>Type</strong></p>
                             </td>
                             <td>
-                                <p><strong>Regulation</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Description</strong></p>
+                                <p>Suggested Requirement</p>
                             </td>
                         </tr>
                         <tr>
-                            <td>
-                                <p>1.</p>
+                            <td class="text-center align-middle">
+                                <p><strong>Aim</strong></p>
                             </td>
                             <td>
-                                <p>Compliance with Laws and Workplace Regulations</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/1.Compliance%20Rules.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will comply with laws and regulations in all locations where they conduct business.</p>
-                                <p>&middot; All facilities will comply with the legal requirements and standards of their industry under the local and national laws of the jurisdictions in which the facilities are doing business, along with any applicable international laws.</p>
-                                <p>&middot; This will cover all labor and employment laws of those jurisdictions, as well as laws governing the conduct of business in general, including rules and standards of ethics dealing with corruption and transparency, and any relevant environmental laws.</p>
+                                <p>To enhance occupational health of the factory occupants</p>
                             </td>
                         </tr>
                         <tr>
-                            <td>
-                                <p>2.</p>
+                            <td class="text-center align-middle">
+                                <p><strong>Steps</strong></p>
                             </td>
                             <td class="align-middle">
-                                <p>Prohibition of Forced Labor</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/2.Forced_labor.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will not use involuntary, forced or trafficked labor.</p>
-                                <p>&middot; Facilities will maintain employment strictly on a voluntary basis.</p>
-                                <p>&middot; Facilities will not use any forced, prison, indentured, bonded or trafficked labor.</p>
-                                <p>&middot; This will include ensuring that any workers they hire will be under labor contracts that fully comply with all relevant legal requirements and do not impose any form of coercion (including imposing substantial fines or loss of residency papers by workers leaving employment or restricting a worker&rsquo;s ability to voluntarily end his/her employment).</p>
-                                <p>&middot; In addition, when hiring workers through an employment broker or agency, facilities will ensure that the workers&rsquo; passports are not withheld, all written contracts are in the native language of the workers, and recruitment fees are not borne by the workers themselves.</p>
+                                <p>Provide an adequately sized gymnasium to cater to atleast 2 % of occupants in the factory campus.</p>
                             </td>
                         </tr>
                         <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Documents Required</strong></p>
+                            </td>
                             <td>
-                                <p>3.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Prohibition of Child Labor</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/3.Child_labor.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will not hire any employee under the age of 14 or under the minimum age established by law for employment, whichever is greater, or any employee whose employment would interfere with compulsory schooling.</p>
-                                <p>&middot; Facilities will ensure they do not engage in any form of child labor, including, but not limited to, the internationally recognized worst forms of child labor.</p>
-                                <p>&middot; Facilities may not employ any person at an age younger than the law of the jurisdiction allows and in any case not below the age of 14, even if permitted by local law.</p>
-                                <p>&middot; In addition, facilities will adhere to local legal requirements regarding mandatory schooling.</p>
-                                <p>&middot; Further, if, where permitted by local law, a facility employs young workers (defined as workers whose age is between the minimum age of employment and 18 years), the facility will also comply with any applicable legal restrictions on the nature and volume of work performed by such young workers, as well as any other requirements imposed by law, including ensuring that such young workers do not perform any hazardous work (e.g., chemical handling or operating heavy machinery).</p>
+                                <p>Provide plans to indicate the location of the gymnasium and the types of equipment installed</p>
                             </td>
                         </tr>
                         <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Approach</strong></p>
+                            </td>
                             <td>
-                                <p>4.</p>
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/ProcessFlow/9.png" alt="" class="img-responsive">
+                                <br><br>
+                                <p>(Source- <a href="https://igbc.in/igbc/">IGBC</a>, <a href="http://www.grihaindia.org/">GRIHA</a>)</p>
                             </td>
-                            <td class="align-middle">
-                                <p>Prohibition of Harassment or Abuse</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/4.Harassment.png" class="img-responsive">
+                        </tr>
+                        </tbody>
+                    </table></div>
+                    <hr class="section-padding"
+                    <p><strong>Aerobic Exercise Equipment</strong></p>
+                    <div class="table-responsive">
+                    <table class="table table-bordered table-striped-green">
+                        <tbody>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Equipment Name</strong></p>
                             </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will provide a work environment free of supervisory or co-worker harassment or abuse, and free of corporal punishment in any form.</p>
-                                <p>&middot; Facilities will ensure a workplace that is respectful of a worker&rsquo;s rights and dignity.</p>
-                                <p>&middot; This includes ensuring that no corporal punishment or physical coercion be used.</p>
-                                <p>&middot; Facilities will not engage in or tolerate sexual harassment, indecent or threatening gestures, abusive tone or language or any other kind of undesired physical or verbal contact, such as bullying.</p>
-                                <p>&middot; In particular, facilities will ensure proper training at all levels - including management, supervisors and workers - to secure a workplace free of harassment or abuse.</p>
+                            <td class="text-center align-middle">
+                                <p><strong>Image</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>Use</strong></p>
                             </td>
                         </tr>
                         <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>BodyRev</strong></p>
+                            </td>
                             <td>
-                                <p>5.</p>
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Gym_equipments/1.jpg" alt="" class="img-responsive w-75">
                             </td>
-                            <td class="align-middle">
-                                <p>Compensation and Benefits</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/5.Compensation.png" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will pay at least the minimum total compensation required by local law, including all mandated wages, allowances &amp; benefits.</p>
-                                <p>&middot; Facilities will ensure proper compensation for their employees for all the work done, by providing in a timely manner all the wages and benefits that are in compliance with the local and national laws of the jurisdiction in which they are located.</p>
-                                <p>&middot; This will include any premiums for overtime work or work done during holidays, as well as any other allowances or benefits, including any mandatory social insurance, required by local law.</p>
+                            <td>
+                                <p>BodyRev was configured to use the maximum number of upper body muscles concurrently - more muscles functioning together means more calories burned and better toning. BodyRev combines your arms and abs together so you obtain the most competent and effective upper body exercise possible. And because your hands are linked together, you don't need to spend much time worrying about form.</p>
                             </td>
                         </tr>
                         <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Boxing Equipment</strong></p>
+                            </td>
                             <td>
-                                <p>6.</p>
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Gym_equipments/2.jpg" alt="" class="img-responsive w-75">
                             </td>
-                            <td class="align-middle">
-                                <p>Hours of Work</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/6.Hours_of_work.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Hours worked each day, and days worked each week, should not exceed the limitations of the country&rsquo;s law.</p>
-                                <p>&middot; Facilities will provide at least one day off in every seven-day period, except as required to meet urgent business needs.</p>
-                                <p>&middot; Facilities are required by local law to adhere to any limits set on regular working hours as well as any limits set on overtime work.</p>
-                                <p>&middot; Long term participation in the WRAP Certification Program is contingent upon meeting the limitations set by local law.</p>
-                                <p>&middot; WRAP recognizes that this can be a particularly challenging requirement, especially when taking into account local enforcement norms and customs.</p>
-                                <p>&middot; In light of this reality, WRAP will permit full compliance with local laws on working hours to be achieved incrementally, provided that a given facility meets the following conditions:</p>
-                                <p>&uuml; Is fully transparent about its working hours;</p>
-                                <p>&uuml; Ensures that those hours are all being worked voluntarily, in conditions that protect worker safety and health;</p>
-                                <p>&uuml; Compensates all employees in keeping with WRAP Principle 5;</p>
-                                <p>&uuml; Shows improvement toward meeting the working hours requirements from one audit to the next.</p>
+                            <td>
+                                <p>Burn some calories more, acquire more stamina and muscle tone with boxing! A boxing train using a heavy bag or speed bag, and boxing gloves is a fantastic way to build your cardiovascular endurance and permits you to mix up your workout routines.</p>
                             </td>
                         </tr>
                         <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Dumbbells</strong></p>
+                            </td>
                             <td>
-                                <p>7.</p>
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Gym_equipments/3.jpg" alt="" class="img-responsive w-75">
                             </td>
-                            <td class="align-middle">
-                                <p>Prohibition of Discrimination</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/7.Discrimination.gif" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will employ, pay, promote, and terminate workers on the basis of their ability to do the job, rather than on the basis of personal characteristics or beliefs.</p>
-                                <p>&middot; Facilities will ensure that all terms and conditions of employment are based on an individual&rsquo;s ability to do the job, and not on the basis of any personal characteristics or beliefs.</p>
-                                <p>&middot; Facilities will ensure that any employment decision - involving hiring, firing, assigning work, paying or promoting - is made without discriminating against the employees on the basis of race, color, national origin, gender, sexual orientation, religion, disability, or other similar factors (pregnancy, political opinion or affiliation, social status, etc.).</p>
+                            <td>
+                                <p>If you honestly wish to kick up your aerobic exercise, then acquire a set of lightweight aerobic dumbbells and get ready to double your efforts. You will work harder, sweat more and surely burn more calories using a pair of dumbbells integrated with your aerobic exercise. Catch a fitness ball and a set of vinyl dumbbells and perform literally dozens of upper body exercises and strengthen your core muscles at the same time.</p>
                             </td>
                         </tr>
                         <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Exercise mats</strong></p>
+                            </td>
                             <td>
-                                <p>8.</p>
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Gym_equipments/4.jpg" alt="" class="img-responsive w-75">
                             </td>
-                            <td class="align-middle">
-                                <p>Health and Safety</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/8.Health&safety.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will provide a safe and healthy work environment. Where residential housing is provided for workers, facilities will provide safe and healthy housing.</p>
-                                <p>&middot; Facilities will provide a safe, clean, healthy and productive workplace for their employees.</p>
-                                <p>&middot; Facilities shall prioritize worker health and safety above all else, and proactively address any safety issues that could arise.</p>
-                                <p>&middot; This will include a wide variety of requirements, such as, ensuring, among other things, the availability of clean drinking water (at no charge to workers), adequate medical resources, fire exits and safety equipment, well-lighted and comfortable workstations, clean restrooms.</p>
-                                <p>&middot; Further, facilities shall adequately train all their workers on how to perform their jobs safely</p>
+                            <td>
+                                <p>Floor exercises help with vigor training and toning. The opportunities are endless with our Floor Mats. They are fantastic for Yoga and Pilates besides general fitness use for ab work and stretching.&nbsp;</p>
                             </td>
                         </tr>
                         <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Fitness Bands</strong></p>
+                            </td>
                             <td>
-                                <p>9.</p>
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Gym_equipments/5.jpg" alt="" class="img-responsive w-75">
                             </td>
-                            <td class="align-middle">
-                                <p>Freedom of Association and Collective Bargaining</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/9.Collecive_bargaining.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will recognize and respect the right of employees to exercise their lawful rights of free association and collective bargaining.</p>
-                                <p>&middot; Facilities will respect the freedom of each employee to choose for him- or her-self whether or not to join a workers&rsquo; association.</p>
-                                <p>&middot; Facilities cannot discriminate against workers based on whether or not they choose to associate.</p>
-                                <p>&middot; Both the facility and the workers shall ensure they conduct themselves in accordance with all relevant laws in this regard.</p>
-                                <p>&middot; Facilities will ensure an effective mechanism is in place to address any workplace grievances.</p>
+                            <td>
+                                <p>Fitness bands and cords provide you the many advantages of using weights, but without the downside. There aren't elements to store, no finder necessary, and do not exist weight-related accidents. Keep them in your gym bag and you will possess a mobile gym that can transport with you anywhere. Or take them to your local gym to improve the intensity of your usual weightlifting routine.</p>
                             </td>
                         </tr>
                         <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Flooring</strong></p>
+                            </td>
                             <td>
-                                <p>10.</p>
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Gym_equipments/6.jpg" alt="" class="img-responsive w-75">
                             </td>
-                            <td class="align-middle">
-                                <p>Environment</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/10-Environment.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will comply with environmental rules, regulations and standards applicable to their operations, and will observe environmentally conscious practices in all locations where they operate.</p>
-                                <p>&middot; Facilities will ensure compliance with all applicable legally mandated environmental standards, and should demonstrate a commitment to protecting the environment by actively monitoring their environmental practices.</p>
-                                <p>&middot; In particular, facilities will ensure proper waste management, including monitoring the disposal of any waste material - whether solid, liquid or gaseous - to ensure such disposal is done safely and in a manner consistent with all relevant laws.</p>
+                            <td>
+                                <p>Aerobic flooring is the perfect aerobic surface. The floor tiles provide just the right amount of grip, are very simple to clean and offer a certain amount of cushioning effect. Besides, Aerobic flooring is a singular interlocking system and its unlimited color range makes it viable for you to design an aerobic flooring with a functional design.</p>
                             </td>
                         </tr>
                         <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Heart Rate Monitors</strong></p>
+                            </td>
                             <td>
-                                <p>11.</p>
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Gym_equipments/7.jpg   " alt="" class="img-responsive w-75">
                             </td>
-                            <td class="align-middle">
-                                <p>Customs Compliance</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/11.Custom_compliance.png" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will comply with applicable customs laws, and in particular, will establish and maintain programs to comply with customs laws regarding illegal transshipment of finished products.</p>
-                                <p>&middot; Facilities will ensure that all merchandise is accurately marked or labeled in compliance with all applicable laws.</p>
-                                <p>&middot; In addition, facilities will keep records for all materials and orders, as well as maintain detailed production records.</p>
+                            <td>
+                                <p>A heart rate monitor is a device that permits a user to evaluate his or her heart rate in real time. Generally, it consists of two elements: a chest strap transmitter and a wrist receiver (which commonly doubles as a watch). Strapless heart rate monitors are accessible as well, but lack some of the functionality of the original design. Recent models besides evaluate heart rate variability to assess a user's fitness.</p>
                             </td>
                         </tr>
                         <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Toning Bars</strong></p>
+                            </td>
                             <td>
-                                <p>12.</p>
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Gym_equipments/8.jpg" alt="" class="img-responsive w-75">
                             </td>
-                            <td class="align-middle">
-                                <p><br /> Security</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/12.Security.jpg" class="img-responsive">
+                            <td>
+                                <p>The toning bars consist in a weighted exercise bars, made out of steel and are enclosed in a dense foam for a commodious and secure grip. They can be manipulated in fitness and aerobics as well as yoga and Pilates. They are fantastic for strengthening, conditioning and flexibility training.&nbsp;</p>
                             </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will maintain facility security procedures to guard against the introduction of non-manifested cargo into outbound shipments (i.e. drugs, explosives biohazards and/or other contraband).</p>
-                                <p>&middot; Facilities will ensure adequate controls are in place to safeguard against introduction of any non-manifested cargo.</p>
-                                <p>&middot; In this regard, WRAP recognizes the United States Customs and Border Protection (CBP)&rsquo;s C-TPAT Guidelines for Foreign Manufacturers as a best practice program, and has adopted those guidelines under this Principle.</p>
+                        </tr>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Step</strong></p>
+                            </td>
+                            <td>
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Gym_equipments/9.jpg" alt="" class="img-responsive w-75">
+                            </td>
+                            <td>
+                                <p>The step is a simple elevated platform used specially in the aerobic exercise. The height can be made to individual measure by inserting risers under the step. Step aerobics classes are provided at several gyms and fitness centers which possess a group exercise program.</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Treadmill</strong></p>
+                            </td>
+                            <td>
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Gym_equipments/10.jpg" alt="" class="img-responsive w-75">
+                            </td>
+                            <td>
+                                <p>One of the most popular types of home exercise equipment is the treadmill, which provides a straightforward, efficient aerobic workout. For many, treadmills are a good choice to begin a new exercise routine because walking is well tolerated by most individuals regardless of fitness level and for most back conditions. As strength and endurance are developed, the treadmill can be used for jogging and/or for interval training.</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Stair stepper</strong></p>
+                            </td>
+                            <td>
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Gym_equipments/11.jpg" alt="" class="img-responsive w-75">
+                            </td>
+                            <td>
+                                <p>Stair-stepper machines provide aerobic exercise. Aerobic exercise of any kind provides many health benefits, depending on the intensity, duration and frequency of your workouts. Generally, exercising regularly on a stair-stepper machine can develop cardiovascular fitness, enhance lower-body muscles and burn calories.</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Stationary bike</strong></p>
+                            </td>
+                            <td>
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Gym_equipments/12.jpg" alt="" class="img-responsive w-75">
+                            </td>
+                            <td>
+                                <p>With indoor cycling being a low-impact activity, the stationary bike benefits&nbsp;people&nbsp;of all ages and fitness levels. The range of bikes on offer cater to everyone from the&nbsp;new exerciser with a modest budget to&nbsp;the experienced athlete who is looking for a top-of-the-line exercise bike, and everyone in between.</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Elliptical trainer/cross trainer</strong></p>
+                            </td>
+                            <td>
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Gym_equipments/13.jpg" alt="" class="img-responsive w-75">
+                            </td>
+                            <td>
+                                <p>With the&nbsp;<strong>cross trainer</strong>&nbsp;you get a less stressful workout session. When&nbsp;<strong>cross</strong>&nbsp;training, the combined effect of working your lower body, arms, and shoulders means that many other muscle groups are needed as well. The elliptic movement and handles require effort from the calves, quads, biceps, triceps and even your core.</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Rowing or ski machine</strong></p>
+                            </td>
+                            <td>
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Gym_equipments/14.jpg" alt="" class="img-responsive w-75">
+                            </td>
+                            <td>
+                                <p>Both the indoor rower and the SkiErg offer high quality exercise that is impact-free, user-controlled, and measurable. Both are based on exhilarating sports that involve legs, core, back and arms. Either one alone will provide a convenient, effective form of full body exercise.</p>
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table></>
+                    <hr class="section-padding">
+                    <p><strong>List of Exercises </strong></p>
+                    <div class="table-responsive">
+                    <table class="table table-bordered table-striped-green"></>
+                        <tbody>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Name</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>Method</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>Image</strong></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p>Knee Kiss</p>
+                            </td>
+                            <td>
+                                <ul>
+                                    <li>Pull one leg to your chest, grasp with both hands and hold for a count of five.</li>
+                                    <li>&nbsp;Repeat with the opposite leg.</li>
+                                </ul>
+                            </td>
+                            <td>
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Excercises/1.jpg" alt="" class="img-responsive w-75">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p>Windmill</p>
+                            </td>
+                            <td>
+                                <ul>
+                                    <li>Place your feet apart on the floor.</li>
+                                    <li>Bend over and touch your right hand to your left foot, with your left arm up.</li>
+                                    <li>Repeat with opposite arm.</li>
+                                </ul>
+                            </td>
+                            <td>
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Excercises/2.jpg" alt="" class="img-responsive w-75">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p>Back Relaxer</p>
+                            </td>
+                            <td>
+                                <ul>
+                                    <li>Bend down between your knees for as long as you can.</li>
+                                    <li>Return to upright position, straighten and relax.</li>
+                                </ul>
+                            </td>
+                            <td>
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Excercises/2.jpg" alt="" class="img-responsive w-75">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p>Pectoral Stretch</p>
+                            </td>
+                            <td>
+                                <ul>
+                                    <li>Grasp your hands behind your neck and press your elbows back as far as you can.</li>
+                                    <li>Return to starting position, then drop your arms and relax.</li>
+                                </ul>
+                            </td>
+                            <td>
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Excercises/4.jpg" alt="" class="img-responsive w-75">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p>Middle/Upper Back Stretch</p>
+                            </td>
+                            <td>
+                                <ul>
+                                    <li>Raise your right arm and grasp it below the elbow with your left hand.</li>
+                                    <li>Gently pull your right elbow toward your left shoulder as you feel the stretch.</li>
+                                    <li>Hold for five seconds.</li>
+                                    <li>Repeat with left arm.</li>
+                                </ul>
+                            </td>
+                            <td>
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Excercises/5.jpg" alt="" class="img-responsive w-75">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p>Side Stretch</p>
+                            </td>
+                            <td>
+                                <ul>
+                                    <li>Interlace your fingers and lift your arms over your head, keeping your elbows straight.</li>
+                                    <li>Press your arms backward as far as you can.</li>
+                                    <li>Slowly lean to the left and then to the right until you can feel the stretching.</li>
+                                </ul>
+                            </td>
+                            <td>
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Excercises/6.jpg" alt="" class="img-responsive w-75">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p>Finger Stretch</p>
+                            </td>
+                            <td>
+                                <ul>
+                                    <li>With palms down, spread your fingers apart as far as you can.</li>
+                                    <li>Hold for the count of five.</li>
+                                    <li>Relax and then repeat.</li>
+                                </ul>
+                            </td>
+                            <td>
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Excercises/7.jpg" alt="" class="img-responsive w-75">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p>Shoulder Roll</p>
+                            </td>
+                            <td>
+                                <ul>
+                                    <li>Slowly roll your shoulders forward five times in a circular motion using your full range of motion.</li>
+                                    <li>Then roll your shoulders backward five times with the same circular motion.</li>
+                                </ul>
+                            </td>
+                            <td>
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/Excercises/8.jpg" alt="" class="img-responsive w-75">
                             </td>
                         </tr>
                         </tbody>
                     </table>
+                    <p><strong>(Source: </strong><a href="http://www.aerobic.org/aerobic/aerobic-equipments.asp"><strong>Aerobic</strong></a><strong>)</strong></p>
+                    <p><a href="https://www.everydayhealth.com/fitness/workouts/aerobic-exercise-equipment.aspx"><strong>Read more about this</strong></a></p>
                 </div>
-                <p>(Source- <a href="http://www.wrapcompliance.org/">Worldwide Responsible Accredited Production (WRAP)</a>)</p>
-            </div>
         </div>
     </div>
 </section>
