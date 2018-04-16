@@ -89,7 +89,7 @@
         </tr>
         <tr>
             <th scope="row">2</th>
-            <td><a href="HealthHouseKeepingChem.php">Minimum Fresh Air Requirements</a></td>
+            <td><a href="HealthMinFreshAir.php">Minimum Fresh Air Requirements</a></td>
         </tr>
         <tr>
             <th scope="row">3</th>
