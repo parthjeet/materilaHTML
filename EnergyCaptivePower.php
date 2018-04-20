@@ -155,7 +155,7 @@
                                     expenses.</p>
                                 <p class="text-center"><strong><u>Mandatory and Voluntary Appliances for a Garment Factory</u></strong></p>
                                 <div class="table-responsive img-padding-left-right text-center">
-                                <table class="table table-bordered table-striped-white">
+                                <table class="table table-bordered table-striped-green">
                                     <tbody>
                                     <tr>
                                         <td class="text-center align-middle">
@@ -166,14 +166,14 @@
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td>
+                                        <td class="text-justify">
                                             <p>&middot; Window and High wall split Air Conditioners<br/> Distribution
                                                 Transformers</p>
                                             <p>&middot; Ceiling mounted and Floor standing Air Conditioner</p>
                                             <p>&middot; Direct Cool Refrigerator</p>
                                             <p>&middot; Storage Type Electric Water Heater</p>
                                         </td>
-                                        <td>
+                                        <td class="text-justify">
                                             <p>&middot; Induction Motor</p>
                                             <p>&middot; Ceiling Fan</p>
                                             <p>&middot; Washing Machine</p>

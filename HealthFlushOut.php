@@ -173,7 +173,7 @@
                             </td>
                         </tr>
                         </tbody>
-                    </table></>
+                    </table></div>
 
                     <hr class="section-padding">
                     <p class="h6"><strong>WHAT IS A BUILDING FLUSH OUT?</strong></p>

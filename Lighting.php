@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>404 Page | Material</title>
+    <title>Lighting</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -39,36 +39,77 @@
 <?php include "navBar.php"; ?>
 <!--        navbar-->
 
-<!-- Page Titile Area -->
 <section class="page-title-section section-padding">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="title-center">
                     <div class="title-middle">
-                        <h2 class="page-tagline">Material Error Page</h2>
-                        <h1 class="page-title text-center">404</h1>
+                        <h2 class="page-tagline">Facility Design</h2>
+                        <h1 class="page-title text-center">Lighting</h1>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<!-- Page Titile Area End -->
 
-<!-- error section -->
-<section class="Material-error-section section-padding">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 text-center">
-                <h1 class="wow animated fadeInRight" data-wow-delay=".2s">404</h1>
-                <h2 class="wow animated fadeInRight" data-wow-delay=".4s">Page not found! :(</h2>
-                <a href="javascript:void(0)" class="wow animated fadeInUp btn btn-common mt-5" data-wow-delay=".6s"><i class="material-icons mdi mdi-home"></i> Back to home<div class="ripple-container"></div></a>
+<section class="section-padding">
+    <div class="container  ">
+        <div class="text-justify">
+            <div class="text-center section-padding">
+                <img src="/materilaHTML/assets/images/Facility/Lighting&waste/0.jpg" alt="" class="img-fluid w-50">
             </div>
+
+
+
         </div>
+        <table class="table table-hover section-padding">
+            <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Lighting in Garment Manufacturing Industry</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <th scope="row">1</th>
+                <td><a href="LightingIntro.php">Introduction to Lighting</a></td>
+            </tr>
+            <tr>
+                <th scope="row">2</th>
+                <td><a href="LightingStd.php">Illumination- Codes and Standards </a></td>
+            </tr>
+            <tr>
+                <th scope="row">3</th>
+                <td><a href="LightingCompliance.php">Existing Compliances and Practices</a></td>
+            </tr>
+            <tr>
+                <th scope="row">4</th>
+                <td><a href="LightingArtificial.php">Artificial Lights and Technical Aspects</a></td>
+            </tr>
+            <tr>
+                <th scope="row">5</th>
+                <td><a href="LightingComp.php">Comparative Analysis of Various Artificial lights</a></td>
+            </tr>
+            <tr>
+                <th scope="row">6</th>
+                <td><a href="LighhtingUniformity.php">Uniformity of Lighting</a></td>
+            </tr>
+            <tr>
+                <th scope="row">7</th>
+                <td><a href="LightingSuggestions.php">Suggestions</a></td>
+            </tr>
+
+
+
+
+
+            </tbody>
+        </table>
     </div>
 </section>
-<!-- error section end -->
+
 
 <!--Footer-->
 <footer class="page-footer center-on-small-only  pt-0 footer-widget-container">
@@ -101,7 +142,7 @@
 
             <!--Second column-->
             <div class="col-md-6 col-lg-3 col-xl-3 recent-widget">
-                <h3 class="footer-title">Popular Posts</h3>
+                <h3 class="footer-title">Recent Posts</h3>
                 <ul class="image-list">
                     <li>
                         <figure class="overlay">
@@ -110,7 +151,7 @@
                         </figure>
                         <div class="post-content">
                             <h6 class="post-title"> <a href="blog-single.php">Fusce gravida tortor felis</a> </h6>
-                            <div class="meta"><span class="date">12 Jan 2018</span></div>
+                            <div class="meta"><span class="date">12 Jan 2019</span></div>
                         </div>
                     </li>
                     <li>
@@ -120,7 +161,7 @@
                         </figure>
                         <div class="post-content">
                             <h6 class="post-title"><a href="blog-single.php">Ornare Nullam Risus Cursus</a></h6>
-                            <div class="meta"><span class="date">12 Jan 2018</span></div>
+                            <div class="meta"><span class="date">12 Jan 2019</span></div>
                         </div>
                     </li>
                     <li>
@@ -130,7 +171,7 @@
                         </figure>
                         <div class="post-content">
                             <h6 class="post-title"> <a href="blog-single.php">Euismod Nullam Fusce Dapibus</a> </h6>
-                            <div class="meta"><span class="date">12 Jan 2018</span></div>
+                            <div class="meta"><span class="date">12 Jan 2019</span></div>
                         </div>
                     </li>
                 </ul>
@@ -143,10 +184,10 @@
                 <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Etiam porta sem malesuada magna mollis euismod. Praesent commodo cursus.</p>
                 <div class="mt-3"></div>
                 <ul class="icon-list">
-                    <li><i class="mdi mdi-map-marker"></i> Moonshine St. 14/05 Light City </li>
-                    <li><i class="mdi mdi-email"></i> <a href="mailto:first.last@email.com" class="nocolor">first.last@email.com</a> </li>
+                    <li><i class="mdi mdi-map-marker"></i> 548 San Francisco, CA </li>
+                    <li><i class="mdi mdi-email"></i> <a href="mailto:mail@material.com" class="nocolor">mail@material.com</a> </li>
                     <li><i class="mdi mdi-phone-classic"></i> +00 (123) 456 78 90 </li>
-                    <li><i class="mdi mdi-cellphone-iphone"></i> +80 (547) 455 47 54 </li>
+                    <li><i class="mdi mdi-cellphone-iphone"></i> +00 (121) 455 47 54 </li>
                 </ul>
             </div>
             <!--/.Third column-->
@@ -167,12 +208,12 @@
                 </div>
                 <!-- /.widget -->
                 <div class="widget">
-                    <h5 class="widget-title">Categories</h5>
+                    <h5 class="widget-title">Useful Links</h5>
                     <ul class="unordered-list">
-                        <li><a href="#" class="nocolor">Lifestyle (21)</a></li>
-                        <li><a href="#" class="nocolor">Photography (19)</a></li>
-                        <li><a href="#" class="nocolor">Journal (16)</a></li>
-                        <li><a href="#" class="nocolor">Works (7)</a></li>
+                        <li><a href="#" class="nocolor">Terms of Use</a></li>
+                        <li><a href="#" class="nocolor">Privacy Policy</a></li>
+                        <li><a href="#" class="nocolor">Company Profile</a></li>
+                        <li><a href="#" class="nocolor">Why Choose Us</a></li>
                     </ul>
                 </div>
             </div>
@@ -210,7 +251,6 @@
     <div class="loader" id="loader-1"></div>
 </div>
 <!-- End Preloader -->
-
 
 <!-- Optional JavaScript -->
 <script src="assets/js/jquery-min.js"></script>
