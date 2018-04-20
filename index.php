@@ -1251,6 +1251,9 @@
     <i class="mdi mdi-arrow-up">
     </i>
 </a>
+<div id="mybutton" class="fixed-btn">
+    <button class="btn btn-success">Feedback</button>
+</div>
 
 <!-- Preloader -->
 <div id="preloader">
@@ -1277,6 +1280,7 @@
 <script src="assets/js/jquery.magnific-popup.min.js"></script>
 <script src="assets/js/jquery.slicknav.js"></script>
 <script src="assets/js/main.js"></script>
+<!--<script src="assets/js/my.js"></script>-->
 
 </body>
 
