@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>WRAP</title>
+    <title>Ensure Quality Water</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -46,7 +46,7 @@
             <div class="col-md-12">
                 <div class="title-center">
                     <div class="title-middle">
-                        <h1 class="page-title text-center text-center">Worldwide Responsible Accredited Production</h1>
+                        <h1 class="page-title text-center text-center">Ensure Quality Water</h1>
                     </div>
                 </div>
             </div>
@@ -60,218 +60,98 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <img src="/materilaHTML/assets/images/Regulations/WRAP/0-Logo.png" class="img-fluid">
+                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/11.Water_Quality.jpg" class="img-fluid w-50">
                 <div class="text-left section-padding">
-                    <ul>
-                        <li>Headquartered in Arlington, Virginia, USA with offices in Hong Kong and Bangladesh and full-time staff in India and Southeast Asia, Worldwide Responsible Accredited Production (WRAP) is an independent, objective, non-profit team of global social compliance experts dedicated to promoting safe, lawful, humane and ethical manufacturing around the world through certification and education.</li>
-                        <li>The WRAP Principles are based on generally accepted international workplace standards, local laws and workplace regulations, and include the spirit or language of relevant conventions of the International Labor Organization (ILO). The Principles encompass human resources management, health and safety, environmental practices, and legal compliance including import/export and customs compliance and security standards.</li>
-                        <li>The WRAP Certification Program&rsquo;s objective is to independently monitor and certify compliance with these standards, to ensure that sewn products are being produced under lawful, humane and ethical conditions. Participating facilities voluntarily commit to ensuring that their manufacturing practices will meet these standards, and further commit to passing along, on their part, the expectation that their contractors and suppliers likewise comply with these standards.</li>
-                    </ul>
-                </div>
-                <div class="table-responsive">
-                    <table class="table table-responsive table-bordered">
+                    <div class="table-responsive">
+                        <table class=" table table-bordered table-striped">
                         <tbody>
                         <tr>
                             <td>
-                                <p><strong>Sl. No.</strong></p>
+                                <p><strong>Type</strong></p>
                             </td>
                             <td>
-                                <p><strong>Regulation</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Description</strong></p>
+                                <p>Mandatory Requirement</p>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <p>1.</p>
+                                <p><strong>Aim</strong></p>
                             </td>
                             <td>
-                                <p>Compliance with Laws and Workplace Regulations</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/1.Compliance%20Rules.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will comply with laws and regulations in all locations where they conduct business.</p>
-                                <p>&middot; All facilities will comply with the legal requirements and standards of their industry under the local and national laws of the jurisdictions in which the facilities are doing business, along with any applicable international laws.</p>
-                                <p>&middot; This will cover all labor and employment laws of those jurisdictions, as well as laws governing the conduct of business in general, including rules and standards of ethics dealing with corruption and transparency, and any relevant environmental laws.</p>
+                                <p>To provide the occupants of the building with good potable quality water for drinking/washing purposes as prescribed by the standards and to ensure that the treated wastewater is meeting the desired standards for reuse/disposal.</p>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <p>2.</p>
+                                <p><strong>Steps</strong></p>
                             </td>
-                            <td class="align-middle">
-                                <p>Prohibition of Forced Labor</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/2.Forced_labor.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will not use involuntary, forced or trafficked labor.</p>
-                                <p>&middot; Facilities will maintain employment strictly on a voluntary basis.</p>
-                                <p>&middot; Facilities will not use any forced, prison, indentured, bonded or trafficked labor.</p>
-                                <p>&middot; This will include ensuring that any workers they hire will be under labor contracts that fully comply with all relevant legal requirements and do not impose any form of coercion (including imposing substantial fines or loss of residency papers by workers leaving employment or restricting a worker&rsquo;s ability to voluntarily end his/her employment).</p>
-                                <p>&middot; In addition, when hiring workers through an employment broker or agency, facilities will ensure that the workers&rsquo; passports are not withheld, all written contracts are in the native language of the workers, and recruitment fees are not borne by the workers themselves.</p>
-                            </td>
-                        </tr>
-                        <tr>
                             <td>
-                                <p>3.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Prohibition of Child Labor</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/3.Child_labor.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will not hire any employee under the age of 14 or under the minimum age established by law for employment, whichever is greater, or any employee whose employment would interfere with compulsory schooling.</p>
-                                <p>&middot; Facilities will ensure they do not engage in any form of child labor, including, but not limited to, the internationally recognized worst forms of child labor.</p>
-                                <p>&middot; Facilities may not employ any person at an age younger than the law of the jurisdiction allows and in any case not below the age of 14, even if permitted by local law.</p>
-                                <p>&middot; In addition, facilities will adhere to local legal requirements regarding mandatory schooling.</p>
-                                <p>&middot; Further, if, where permitted by local law, a facility employs young workers (defined as workers whose age is between the minimum age of employment and 18 years), the facility will also comply with any applicable legal restrictions on the nature and volume of work performed by such young workers, as well as any other requirements imposed by law, including ensuring that such young workers do not perform any hazardous work (e.g., chemical handling or operating heavy machinery).</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>4.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Prohibition of Harassment or Abuse</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/4.Harassment.png" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will provide a work environment free of supervisory or co-worker harassment or abuse, and free of corporal punishment in any form.</p>
-                                <p>&middot; Facilities will ensure a workplace that is respectful of a worker&rsquo;s rights and dignity.</p>
-                                <p>&middot; This includes ensuring that no corporal punishment or physical coercion be used.</p>
-                                <p>&middot; Facilities will not engage in or tolerate sexual harassment, indecent or threatening gestures, abusive tone or language or any other kind of undesired physical or verbal contact, such as bullying.</p>
-                                <p>&middot; In particular, facilities will ensure proper training at all levels - including management, supervisors and workers - to secure a workplace free of harassment or abuse.</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>5.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Compensation and Benefits</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/5.Compensation.png" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will pay at least the minimum total compensation required by local law, including all mandated wages, allowances &amp; benefits.</p>
-                                <p>&middot; Facilities will ensure proper compensation for their employees for all the work done, by providing in a timely manner all the wages and benefits that are in compliance with the local and national laws of the jurisdiction in which they are located.</p>
-                                <p>&middot; This will include any premiums for overtime work or work done during holidays, as well as any other allowances or benefits, including any mandatory social insurance, required by local law.</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>6.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Hours of Work</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/6.Hours_of_work.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Hours worked each day, and days worked each week, should not exceed the limitations of the country&rsquo;s law.</p>
-                                <p>&middot; Facilities will provide at least one day off in every seven-day period, except as required to meet urgent business needs.</p>
-                                <p>&middot; Facilities are required by local law to adhere to any limits set on regular working hours as well as any limits set on overtime work.</p>
-                                <p>&middot; Long term participation in the WRAP Certification Program is contingent upon meeting the limitations set by local law.</p>
-                                <p>&middot; WRAP recognizes that this can be a particularly challenging requirement, especially when taking into account local enforcement norms and customs.</p>
-                                <p>&middot; In light of this reality, WRAP will permit full compliance with local laws on working hours to be achieved incrementally, provided that a given facility meets the following conditions:</p>
-                                <p>&uuml; Is fully transparent about its working hours;</p>
-                                <p>&uuml; Ensures that those hours are all being worked voluntarily, in conditions that protect worker safety and health;</p>
-                                <p>&uuml; Compensates all employees in keeping with WRAP Principle 5;</p>
-                                <p>&uuml; Shows improvement toward meeting the working hours requirements from one audit to the next.</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>7.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Prohibition of Discrimination</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/7.Discrimination.gif" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will employ, pay, promote, and terminate workers on the basis of their ability to do the job, rather than on the basis of personal characteristics or beliefs.</p>
-                                <p>&middot; Facilities will ensure that all terms and conditions of employment are based on an individual&rsquo;s ability to do the job, and not on the basis of any personal characteristics or beliefs.</p>
-                                <p>&middot; Facilities will ensure that any employment decision - involving hiring, firing, assigning work, paying or promoting - is made without discriminating against the employees on the basis of race, color, national origin, gender, sexual orientation, religion, disability, or other similar factors (pregnancy, political opinion or affiliation, social status, etc.).</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>8.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Health and Safety</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/8.Health&safety.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will provide a safe and healthy work environment. Where residential housing is provided for workers, facilities will provide safe and healthy housing.</p>
-                                <p>&middot; Facilities will provide a safe, clean, healthy and productive workplace for their employees.</p>
-                                <p>&middot; Facilities shall prioritize worker health and safety above all else, and proactively address any safety issues that could arise.</p>
-                                <p>&middot; This will include a wide variety of requirements, such as, ensuring, among other things, the availability of clean drinking water (at no charge to workers), adequate medical resources, fire exits and safety equipment, well-lighted and comfortable workstations, clean restrooms.</p>
-                                <p>&middot; Further, facilities shall adequately train all their workers on how to perform their jobs safely</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>9.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Freedom of Association and Collective Bargaining</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/9.Collecive_bargaining.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will recognize and respect the right of employees to exercise their lawful rights of free association and collective bargaining.</p>
-                                <p>&middot; Facilities will respect the freedom of each employee to choose for him- or her-self whether or not to join a workers&rsquo; association.</p>
-                                <p>&middot; Facilities cannot discriminate against workers based on whether or not they choose to associate.</p>
-                                <p>&middot; Both the facility and the workers shall ensure they conduct themselves in accordance with all relevant laws in this regard.</p>
-                                <p>&middot; Facilities will ensure an effective mechanism is in place to address any workplace grievances.</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>10.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Environment</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/10-Environment.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will comply with environmental rules, regulations and standards applicable to their operations, and will observe environmentally conscious practices in all locations where they operate.</p>
-                                <p>&middot; Facilities will ensure compliance with all applicable legally mandated environmental standards, and should demonstrate a commitment to protecting the environment by actively monitoring their environmental practices.</p>
-                                <p>&middot; In particular, facilities will ensure proper waste management, including monitoring the disposal of any waste material - whether solid, liquid or gaseous - to ensure such disposal is done safely and in a manner consistent with all relevant laws.</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>11.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Customs Compliance</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/11.Custom_compliance.png" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will comply with applicable customs laws, and in particular, will establish and maintain programs to comply with customs laws regarding illegal transshipment of finished products.</p>
-                                <p>&middot; Facilities will ensure that all merchandise is accurately marked or labeled in compliance with all applicable laws.</p>
-                                <p>&middot; In addition, facilities will keep records for all materials and orders, as well as maintain detailed production records.</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>12.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p><br /> Security</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/12.Security.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will maintain facility security procedures to guard against the introduction of non-manifested cargo into outbound shipments (i.e. drugs, explosives biohazards and/or other contraband).</p>
-                                <p>&middot; Facilities will ensure adequate controls are in place to safeguard against introduction of any non-manifested cargo.</p>
-                                <p>&middot; In this regard, WRAP recognizes the United States Customs and Border Protection (CBP)&rsquo;s C-TPAT Guidelines for Foreign Manufacturers as a best practice program, and has adopted those guidelines under this Principle.</p>
+                                <p>&middot; Ensure water from all sources (such as groundwater and municipal water) meets the water quality norms as prescribed in the IS for various applications:</p>
+                                <ul>
+                                    <p>Indian Standards for drinking [IS 10500&ndash;1991],</p>
+                                    <p>Irrigation applications [IS 11624-1986]),</p>
+                                    <p>Cooling towers (as given in NBC 2005).</p>
+
+                                </ul><p>&middot; In case the water quality cannot be ensured, provide necessary treatment of raw water for achieving the desired concentrations for various applications.</p>
+                                <p>(Source- <a href="https://igbc.in/igbc/">IGBC</a>, <a href="http://www.grihaindia.org/">GRIHA</a>)</p>
                             </td>
                         </tr>
                         </tbody>
-                    </table>
-                </div>
-                <p>(Source- <a href="http://www.wrapcompliance.org/">Worldwide Responsible Accredited Production (WRAP)</a>)</p>
-            </div>
+                    </table></div>
+                    <hr class="section-padding">
+                    <p>In addition to providing adequate water supply for building occupants, quality of water is also a key concern. Bureau of Indian Standards has recommended a set of parameters, which should be complied with. These are given below<strong>:</strong></p>
+                    <div class="text-center section-padding">
+                        <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/11/1.jpg" alt="" class="img-fluid">
+
+                    </div>
+                    <div class="text-center section-padding">
+                        <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/11/2.png" alt="" class="img-fluid">
+
+                    </div>
+                    <div class="text-center section-padding">
+                        <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/11/3.png" alt="" class="img-fluid">
+
+                    </div>
+                    <p><strong>&nbsp;</strong></p>
+                    <p>As per the CPCB, water quality standards for different classes of inland waters have been given for different applications which should be followed.</p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>Critical parameters</strong></p>
+                    <ul>
+                        <li><strong>COD (chemical oxygen demand)</strong> is the amount of oxygen required for the complete oxidation of biologically degradable and non-biodegradable organic matter.</li>
+                        <li><strong>BOD (biochemical oxygen demand)</strong> is the quantity of oxygen required by the aerobic microorganisms to stabilize organic matter.</li>
+                        <li><strong>Hardness of water</strong> is caused by dissolved polyvalent, especially divalent metallic ions like Ca<sup>+2</sup> and Mg<sup>+2</sup>. Iron, strontium, barium, and manganese also contribute to hardness. The degree of hardness has been classified as soft, medium, hard, and very hard, based on the CaCO<sub>3</sub></li>
+                        <li><strong>Coliform bacteria</strong> are organisms that are present in the environment and in the faeces of all warm-blooded animals and humans. The presence of coliform bacteria in drinking water indicates that disease-causing organisms (pathogens) may be present in the water system. If it is detected in water, the source of contamination should be identified and the water quality should be restored.</li>
+                    </ul>
+                    <p><strong>Various treatment techniques</strong></p>
+                    <ul>
+                        <li>One of the options for providing quality water at low cost is to use &lsquo;package plants&rsquo;. <strong>Package plants</strong> consist of various components of the treatment process (such as chemical feeders, mixers, flocculators, sedimentation basins, and filters) in a compact assembly. As these units are assembled based on the standard designs, they are cheaper as compared to those built on-site.</li>
+                        <li><strong>Slow sand filtration</strong> is a technique, which is low energy consuming and does not require high-end technical expertise to operate.</li>
+                        <li>Water-treatment systems based on <strong>ion exchange and reverse osmosis</strong> can provide high quality water after removal of heavy metals, suspended solids, and so on.</li>
+                    </ul>
+                    <p><strong>DRINKING WATER- FACTORY ACT 1948</strong></p>
+                    <ul>
+                        <li>In every factory effective arrangements shall be made to provide and maintain at suitable points conveniently situated for all workers employed therein a sufficient supply of wholesome drinking water.</li>
+                        <li>All such points shall be legibly marked &ldquo;drinking water&rdquo; in a language understood by a majority of the workers employed in the factory, and no such point shall be situated within six meters of any washing place, urinal, latrine, spittoon, open drain carrying sullage or effluent or any other source of contamination unless a shorter distance is approved in writing by the Chief Inspector.</li>
+                        <li>In every factory wherein more than two hundred and fifty workers are ordinarily employed, provision shall be made for cool drinking water during hot weather by effective means and for distribution thereof.</li>
+                    </ul>
+                    <p><strong>DRINKING WATER AND HYGIENE &ndash; ILO</strong></p>
+                    <ul>
+                        <li>Adequate supplies of clean and cooled drinking water from a reliable and regularly tested source should be made freely available at convenient locations close to all workplaces.</li>
+                        <li>This is particularly important in areas where the quality of the water from piped supplies is suspect and on open worksites where workers may otherwise be tempted to refresh themselves from pools and streams liable to pollution.</li>
+                        <li>In such situations it is imperative to enforce strict discipline to ensure that only designated areas are used for latrines and sanitary purposes.</li>
+                        <li><em>During intensive studies on manual earth-moving operations carried out on a large dam site in India it was found that most of the workers, including those enjoying the best diets and feeding communally, were infested with intestinal parasites and had been apparently so infested for a considerable time. </em></li>
+                    </ul>
+                    <p>When such conditions are present or suspected it will not be enough merely to provide clean drinking water: employers should consider it part of their responsibilities to make available suitable medicaments to combat the infestations.</p>
+                    <p><strong>Read more on</strong></p>
+                    <ul>
+                        <li><a href="http://cgwb.gov.in/Documents/WQ-standards.pdf">Indian Standards for drinking [IS 10500&ndash;1991</a></li>
+                        <a><a href="https://archive.org/details/gov.law.is.11624.1986" applications [IS 11624-1986}</a></li>
+                        <li><a href="http://bis.org.in/sf/nbc.asp">Cooling Towers: (NBC 2005)</a></li>
+                        <li><a href="http://cgwb.gov.in/Documents/WQ-standards.pdf">Water Standards</a></li>
+                        <li><a href="&bull;%09http:/www.who.int/water_sanitation_health/dwq/2edvol3d.pdf">Water sanitation health</a></li>
+                        <li><a href="http://www.bis.org.in/qazwsx/cmd/water_manual.pdf">BIS</a></li>
+                    </ul>
+                    </div>
         </div>
     </div>
 </section>

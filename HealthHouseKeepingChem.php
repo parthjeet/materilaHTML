@@ -102,7 +102,7 @@
                                 <p><strong>Approach</strong></p>
                             </td>
                             <td>
-                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/ProcessFlow/2.png" alt="" class="img-responsive">
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/ProcessFlow/8.png" alt="" class="img-responsive">
 
                                 <br><br>
                                 <p>(Source- <a href="https://igbc.in/igbc/">IGBC</a>, <a href="http://www.grihaindia.org/">GRIHA</a>)</p>

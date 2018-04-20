@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>404 Page | Material</title>
+    <title>Planning of a Men’s Formal Shirt Manufacturing Unit</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -46,8 +46,7 @@
             <div class="col-md-12">
                 <div class="title-center">
                     <div class="title-middle">
-                        <h2 class="page-tagline">Material Error Page</h2>
-                        <h1 class="page-title text-center">404</h1>
+                        <h1 class="page-title text-center text-center">Planning of a Men’s Formal Shirt Manufacturing Unit</h1>
                     </div>
                 </div>
             </div>
@@ -61,9 +60,52 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <h1 class="wow animated fadeInRight" data-wow-delay=".2s">404</h1>
-                <h2 class="wow animated fadeInRight" data-wow-delay=".4s">Page not found! :(</h2>
-                <a href="javascript:void(0)" class="wow animated fadeInUp btn btn-common mt-5" data-wow-delay=".6s"><i class="material-icons mdi mdi-home"></i> Back to home<div class="ripple-container"></div></a>
+                <img src="/materilaHTML/assets/images/Layouts/PlantPlanning/2.jpg" class="img-fluid ">
+                <div class="text-justify section-padding">
+                    <p class="h4 text-center"><strong><u>Planning of a Men’s Formal Shirt Manufacturing Unit </u></strong></p>
+                    <br>
+                    <p>Juki manufactures eco-friendly products. The company established its eco label certification system to make the high environment-friendliness of its products highly visible. Juki performs 38 items eco-friendliness assessments in the life cycle of a product. That includes several assessments during the stages of design, followed by many more in the stages of part procurement, manufacturing, transport, use, recycling, and disposal. Products that satisfy Juki&rsquo;s internal criteria are certified and registered as &ldquo;JUKI ECO PRODUCTS.&rdquo; The original mark is printed in the leaflet and catalogue. Companies of all kinds have been promoting eco-certification activities for the products they sell to everyday consumers. Recently, the demands for products with energy-saving designs and other eco-friendly features are growing not only among everyday consumers, but also in companies and factories. When these companies select their affiliated clothing factories, the eco-friendliness of the factories is a major criterion. High eco-friendliness is also an important feature for sewing machines. The JUKI ECO PRODUCTS system will help companies and consumers "materialize the environment-friendliness of the sources of their products."</p>
+                    <div class="table-responsive section-padding">
+                        <table class="table table-hover section-padding">
+                            <thead>
+                            <tr>
+                                <th scope="col">#</th>
+                                <th scope="col">MEN’S FORMAL SHIRT MANUFACTURING UNITS</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <th scope="row">1</th>
+                                <td><a href="PlantCompany.php">Company Profile </a></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">2</th>
+                                <td><a href="PlantLocation.php">Location Planning</a></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">3</th>
+                                <td><a href="PlanProduct.php">Product Specification</a></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">4</th>
+                                <td><a href="PlantAR.php">A-R Chart</a></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">5</th>
+                                <td><a href="PlantBrief.php">Architectural Brief</a></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">6</th>
+                                <td><a href="AreaCalculation.php">Department Wise Area Calculation</a></td>
+                            </tr>
+
+
+
+
+                            </tbody>
+                        </table>
+                    </div>
+                    </div>
             </div>
         </div>
     </div>

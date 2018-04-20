@@ -121,6 +121,12 @@
                         <img src="/materilaHTML/assets/images/ArchitecturalDesign/Energy/4/1.png" alt="" class="img-fluid w-75">
                     </div>
                     <hr class="section-padding">
+                    <div class="img-responsive text-center section-padding">
+                        <img src="/materilaHTML/assets/images/ArchitecturalDesign/Energy/solar.jpg" alt="" class="img-fluid w-75">
+                    </div>
+
+
+
                     <p><strong>Guidelines</strong></p>
                     <p>Guidelines for sizing, installation, and use of solar collectors</p>
                     <ul>
@@ -327,6 +333,17 @@
                         </tr>
                         </tbody>
                     </table>
+                    <hr class="section-padding">
+                    <ul>
+                        <li>
+                            <p>Area calculation for solar panels installation:</p>
+                            <p><strong>Number of solar panels required for generating electricity for lights</strong> = Total electricity required for factory/capacity per panel</p>
+                            <p><strong>Area required for installing</strong><strong> panels </strong>= Total no of panels required * Area per panel</p>
+                            <p>For detailed information and calculator please visit the link : ( <a href="https://solarcalculator.com.au/">Solar Calculator</a> )</p>
+                        </li>
+                    </ul>
+
+
                     <hr class="section-padding">
                     <p><strong><u>Solar water heating system components:</u></strong></p>
                     <ol>
