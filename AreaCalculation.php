@@ -99,7 +99,7 @@
                         </tr>
                         <tr>
                             <th scope="row">7</th>
-                            <td><a href="JukiChainStitch.php">Factory HR, PPC and IE Department </a></td>
+                            <td><a href="FactoryHR.php">Factory HR, PPC and IE Department </a></td>
                         </tr>
                         <tr>
                             <th scope="row">8</th>

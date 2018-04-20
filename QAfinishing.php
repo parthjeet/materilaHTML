@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Main Entrance, Security Cabin and Admin Area Calculation</title>
+    <title>Quality Assurance and Finishing Department Area Calculation</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -46,7 +46,7 @@
             <div class="col-md-12">
                 <div class="title-center">
                     <div class="title-middle">
-                        <h1 class="page-title text-center text-center">Main Entrance, Security Cabin and Admin Area Calculation</h1>
+                        <h1 class="page-title text-center text-center">Quality Assurance and Finishing Department Area Calculation</h1>
                     </div>
                 </div>
             </div>
@@ -62,9 +62,16 @@
             <div class="col-md-12 text-center">
 
                 <div class="text-justify     section-padding">
-                    <h3>1. MAIN ENTRANCE</h3>
-                    <p>Factory will have two main entrance gates on the same side of the road and one entrance for operators. It will be a double door gate with wheels at bottom to ease in movement of gates. Gate will be 20 feet wide so that movement of trucks and other heavy vehicles will be possible inside the factory without any hindrance.</p>
-                    <h3>2. SECURITY CABIN</h3>
+                    <h3>1. QUALITY ASSURANCE DEPARTMENT</h3>
+                    <div class="well w-75">
+                        <p class="img-padding-left-right">Total area occupied = 2.5 * Area Occupied = 2.5 * 126 = 315 sqft</p>
+                    </div>
+
+                    <hr class="section-padding">
+
+
+
+                   <h3>2. FINISHING DEPARTMENT</h3>
                     <p>The security has to be at the main entrance exactly. This is a very important department because it has records for incoming and outgoing man as well as material. The security room should have 3 sections</p>
                     <ol>
                         <li>Attendance and visitors</li>

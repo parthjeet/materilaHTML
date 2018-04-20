@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Main Entrance, Security Cabin and Admin Area Calculation</title>
+    <title>Spreading and Cutting Department Area Calculation</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -30,7 +30,7 @@
 
 
     <!-- Color CSS Styles  -->
-    <link rel="stylesheet" type="text/css" href="assets/css/colors/green.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="assets/css/colors/green.css" media="screen"/>
 
 </head>
 <body>
@@ -46,7 +46,8 @@
             <div class="col-md-12">
                 <div class="title-center">
                     <div class="title-middle">
-                        <h1 class="page-title text-center text-center">Main Entrance, Security Cabin and Admin Area Calculation</h1>
+                        <h1 class="page-title text-center text-center">Spreading and Cutting Department Area
+                            Calculation</h1>
                     </div>
                 </div>
             </div>
@@ -62,1603 +63,413 @@
             <div class="col-md-12 text-center">
 
                 <div class="text-justify     section-padding">
-                    <h3>1. MAIN ENTRANCE</h3>
-                    <p>Factory will have two main entrance gates on the same side of the road and one entrance for operators. It will be a double door gate with wheels at bottom to ease in movement of gates. Gate will be 20 feet wide so that movement of trucks and other heavy vehicles will be possible inside the factory without any hindrance.</p>
-                    <h3>2. SECURITY CABIN</h3>
-                    <p>The security has to be at the main entrance exactly. This is a very important department because it has records for incoming and outgoing man as well as material. The security room should have 3 sections</p>
-                    <ol>
-                        <li>Attendance and visitors</li>
-                        <li>In and out of material</li>
-                        <li>CCTV monitoring.</li>
-                    </ol>
-                    <p>It shall have CCTV Displays. The sections shall have a desk to accommodate a landline and a desktop and a few files and notebooks. The CCTV room shall be able to accommodate 15 &ndash; 20 monitors.</p>
-                    <h3>3. ADMIN AREA</h3>
-                    <p>Admin area consists of cabins for all the administrators such as GM, HR, merchandisers etc. In our designed factory, admin area is situated nearby main entrance. It has opening gate at three sides which provides connectivity with production floor and road. It has reception area nearby office entrance and sofas are placed on another side of gate to accommodate visitors .</p>
-                    <h5 class="img-padding-left-right">3.1 RECEPTION</h5>
-                    <p class="img-padding-left-right">This is the area where any visitor for the officials shall visit first than any other part of the entire setup. This area should be impressive and well designed with modern interior. The reception area shall be situated near the entrance for office inside admin area. Indoor plants will be used to increase the aesthetic value and adding to calmness of the space.This area will be 100% dependent on natural lighting.</p>
-                    <p class="img-padding-left-right">The reception area should have a desk of dimension and an ergonomically appropriate chair with backrest and armrest of 34&rdquo; x 20&rdquo; for the receptionist. The desk for the receptionist should accommodate a telephone, a desktop and a color printer. There should be sofas on the opposite side of the receptionist desk which should have a seating space for 10 people. As such, the reception area should be big enough to accommodate 11 &ndash; 12 people at once.</p>
-
-                   <div class="table-responsive img-padding-left-right">
-                    <table class="table-bordered table table-striped-green text-center w-75 ">
-                        <tbody>
-                        <tr>
-                            <td>
-                                <p><strong>S.No</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Description</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Dimensions</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Quantity</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Area Occupied</strong></p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>1</strong></p>
-                            </td>
-                            <td>
-                                <p>Table</p>
-                            </td>
-                            <td>
-                                <p>4&rsquo; * 3&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>12</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>2</strong></p>
-                            </td>
-                            <td>
-                                <p>Chair</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 2&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>3</p>
-                            </td>
-                            <td>
-                                <p>12</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>3</strong></p>
-                            </td>
-                            <td>
-                                <p>Sofa</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 6&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>2</p>
-                            </td>
-                            <td>
-                                <p>24</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>4</strong></p>
-                            </td>
-                            <td>
-                                <p>Water Dispenser</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 2&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>4</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>5</strong></p>
-                            </td>
-                            <td>
-                                <p>Dustbin</p>
-                            </td>
-                            <td>
-                                <p>1.8*1.8</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>3.24</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>6</strong></p>
-                            </td>
-                            <td>
-                                <p>First aid box</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo;*1&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>2</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>7</strong></p>
-                            </td>
-                            <td>
-                                <p>Fire extinguisher</p>
-                            </td>
-                            <td>
-                                <p>1&rsquo;*0.8</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>.8</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td colspan="4" class="text-center align-middle">
-                                <p><strong>Area Occupied</strong></p>
-                            </td>
-
-                            <td>
-                                <p><strong>58 sqft.</strong></p>
-                            </td>
-                        </tr>
-                        </tbody>
-                    </table></div>
-
-                    <div    class="img-padding-left-right">
-                    <div class="well w-75">
-                        <p class="img-padding-left-right">Area Required = 2.5 * Area Occupied  = 2.5 * 58  = 145 sqft</p>
-                    </div></div>
+                    <p>In this stage, fabrics are layered on a table layer by layer up to a certain height. Then, using
+                        a cutting machine, the fabric is cut into garment shapes or patterns and separated from the
+                        layer. Fabric layering is possible both by manual spreading and automated spreading. Cut parts
+                        are then numbered, bundled and sent to the sewing room. Cutting can help save fabric, as well as
+                        add value to the quality of a garment. The quality of the end product, (the garment) depends
+                        first, on good cutting. Secondly, the main raw material of the garment represents about 70% of
+                        the total cost of the garment. That is why, cutting is an important process. </p>
                     <br>
-                    <h5 class="img-padding-left-right">3.2  HUMAN RESOURCE DEPARTMENT</h5>
-                    <p class="img-padding-left-right">The Human Resource Department is one of the most important sections for the factory as the industry that the factory caters to is a labor intensive industry. The Human Resource Department should be located near the reception area.  It shall have one cabin for the Head HR and four cubicles for the junior HR managers namely – Grievances and Complaints officer, Compliance and CSR, Payroll, Training and Recruitment. There needs to be a waiting room for 5 people outside the HR office for people coming in to meet the HR. The HRD shall be one big hall, with glass divisions that are partially frosted. The HR cabin shall have a desk to accommodate a desktop, landline, a printer and a few files. There should be 2 chairs in the HR cabin for visitors and one for the Head HR himself/herself. Whereas, the cubicles for the junior HRs should have a table to accommodate a desktop, landline and a few files and cushioned benches with backrest     large enough to accommodate   5 -7 workers. The cabin and all four cubicles should have a file cabinet and a dustbin necessarily.</p>
-                    <div class="table-responsive img-padding-left-right">
-                    <table class="table table-bordered table-striped-green w-75 text-center">
-                        <tbody>
-                        <tr>
-                            <td>
-                                <p><strong>S.No</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Description</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Dimensions</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Quantity</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Area Occupied</strong></p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>1</strong></p>
-                            </td>
-                            <td>
-                                <p>Table 1</p>
-                            </td>
-                            <td>
-                                <p>4&rsquo; * 3&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>12</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>2</strong></p>
-                            </td>
-                            <td>
-                                <p>Table 2</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 3&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>6</p>
-                            </td>
-                            <td>
-                                <p>36</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>3</strong></p>
-                            </td>
-                            <td>
-                                <p>Chair</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 2&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>9</p>
-                            </td>
-                            <td>
-                                <p>36</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>4</strong></p>
-                            </td>
-                            <td>
-                                <p>Racks</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 3&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>2</p>
-                            </td>
-                            <td>
-                                <p>12</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>5</strong></p>
-                            </td>
-                            <td>
-                                <p>Almirah</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 3&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>2</p>
-                            </td>
-                            <td>
-                                <p>12</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>6</strong></p>
-                            </td>
-                            <td>
-                                <p>Dustbin</p>
-                            </td>
-                            <td>
-                                <p>1.8*1.8</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>3.24</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>7</strong></p>
-                            </td>
-                            <td>
-                                <p>First aid box</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo;*1&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>3</p>
-                            </td>
-                            <td>
-                                <p>6</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>8</strong></p>
-                            </td>
-                            <td>
-                                <p>Fire extinguisher</p>
-                            </td>
-                            <td>
-                                <p>1&rsquo;*0.8</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>.8</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td colspan="4" class="text-center align-middle">
-                                <p><strong>Area Occupied</strong></p>
-                            </td>
 
-                            <td>
-                                <p><strong>119 sq. ft.</strong></p>
-                            </td>
-                        </tr>
-                        </tbody>
-                    </table></>
-                    <div class="well w-75">
-                        <p class="img-padding-left-right">Area Required = 3.5 * Area Occupied = 3.5 * 119 =414 sq. ft.</p>
+                    <div class="table-responsive">
+                        <table class="table table-bordered table-striped-green text-center">
+                            <tbody>
+                            <tr>
+                                <td class="text-center align-middle">
+                                    <p>
+                                        <strong>M</strong><strong>a</strong><strong>c</strong><strong>h</strong><strong>i</strong><strong>n</strong><strong>e</strong><strong>s
+                                            &amp; Tables</strong></p>
+                                </td>
+                                <td class="text-center align-middle">
+                                    <p><strong>No.</strong></p>
+                                </td>
+                                <td class="text-center align-middle">
+                                    <p><strong>Dimensions(feet)</strong></p>
+                                </td>
+                                <td class="text-center align-middle">
+                                    <p><strong>Area (sqft)</strong></p>
+                                </td>
+                                <td class="text-center align-middle">
+                                    <p><strong>Total</strong></p>
+                                    <p><strong>A</strong><strong>r</strong><strong>e</strong><strong>a (sqft)</strong>
+                                    </p>
+                                </td>
+                                <td class="text-center align-middle">
+                                    <p><strong>Allowance</strong></p>
+                                </td>
+                                <td class="text-center align-middle">
+                                    <p><strong>To</strong><strong>tal area (sqft)</strong></p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="font-weight-bold">
+                                    <p>Automatic Spreading</p>
+                                    <p>Machine</p>
+                                </td>
+                                <td>
+                                    <p>3</p>
+                                </td>
+                                <td>
+                                    <p>36*8</p>
+                                </td>
+                                <td>
+                                    <p>288</p>
+                                </td>
+                                <td>
+
+                                    <p>864</p>
+                                </td>
+                                <td>
+
+                                    <p>300%</p>
+                                </td>
+                                <td>
+
+                                    <p>1296</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <p><strong>Automatic Cutting Machine</strong></p>
+                                </td>
+                                <td>
+                                    <p>2</p>
+                                </td>
+                                <td>
+                                    <p>8.2*6.25</p>
+                                </td>
+                                <td>
+                                    <p>288</p>
+                                </td>
+                                <td>
+                                    <p>864</p>
+                                </td>
+                                <td>
+                                    <p>400%</p>
+                                </td>
+                                <td>
+                                    <p>2160</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <p><strong>Ba</strong><strong>n</strong><strong>d knife</strong></p>
+                                </td>
+                                <td>
+                                    <p>2</p>
+                                </td>
+                                <td>
+                                    <p>8*5</p>
+                                </td>
+                                <td>
+                                    <p>40</p>
+                                </td>
+                                <td>
+                                    <p>80</p>
+                                </td>
+                                <td>
+                                    <p>150%</p>
+                                </td>
+                                <td>
+                                    <p>200</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <p><strong>Straight knife</strong></p>
+                                </td>
+                                <td>
+                                    <p>8</p>
+                                </td>
+                                <td>
+                                    <p>2.5*1.4</p>
+                                </td>
+                                <td>
+                                    <p>3.5</p>
+                                </td>
+                                <td>
+                                    <p>28</p>
+                                </td>
+                                <td>
+                                    <p>150%</p>
+                                </td>
+                                <td>
+                                    <p>70</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <p><strong>Round knife m/c</strong></p>
+                                </td>
+                                <td>
+                                    <p>3</p>
+                                </td>
+                                <td>
+                                    <p>6*1.2</p>
+                                </td>
+                                <td>
+                                    <p>7.2</p>
+                                </td>
+                                <td>
+                                    <p>21.6</p>
+                                </td>
+                                <td>
+                                    <p>150%</p>
+                                </td>
+                                <td>
+                                    <p>54</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <p><strong>Die cutter</strong></p>
+                                </td>
+                                <td>
+                                    <p>1</p>
+                                </td>
+                                <td>
+                                    <p>15*10</p>
+                                </td>
+                                <td>
+                                    <p>150</p>
+                                </td>
+                                <td>
+                                    <p>150</p>
+                                </td>
+                                <td>
+                                    <p>250%</p>
+                                </td>
+                                <td>
+                                    <p>425</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <p><strong>Fusing m/c</strong></p>
+                                </td>
+                                <td>
+                                    <p>2</p>
+                                </td>
+                                <td>
+                                    <p>23*8.5</p>
+                                </td>
+                                <td>
+                                    <p>195.5</p>
+                                </td>
+                                <td>
+                                    <p>391</p>
+                                </td>
+                                <td>
+                                    <p>250%</p>
+                                </td>
+                                <td>
+                                    <p>1369</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <p><strong>Spreading and cutting tab</strong><strong>l</strong><strong>e</strong>
+                                    </p>
+                                </td>
+                                <td>
+                                    <p>30</p>
+                                </td>
+                                <td>
+                                    <p>15*6</p>
+                                </td>
+                                <td>
+                                    <p>90</p>
+                                </td>
+                                <td>
+                                    <p>2700</p>
+                                </td>
+                                <td>
+                                    <p>150%</p>
+                                </td>
+                                <td>
+                                    <p>4050</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <p><strong>Inspection tables</strong></p>
+                                </td>
+                                <td>
+                                    <p>1</p>
+                                </td>
+                                <td>
+                                    <p>15*6</p>
+                                </td>
+                                <td>
+                                    <p>90</p>
+                                </td>
+                                <td>
+                                    <p>90</p>
+                                </td>
+                                <td>
+                                    <p>200%</p>
+                                </td>
+                                <td>
+                                    <p>270</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <p><strong>Shorting and Numbering Table</strong></p>
+                                </td>
+                                <td>
+                                    <p>1</p>
+                                </td>
+                                <td>
+                                    <p>15*6</p>
+                                </td>
+                                <td>
+                                    <p>90</p>
+                                </td>
+                                <td>
+                                    <p>90</p>
+                                </td>
+                                <td>
+                                    <p>200%</p>
+                                </td>
+                                <td>
+                                    <p>270</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <p><strong>Bundling and ticketing table</strong></p>
+                                </td>
+                                <td>
+                                    <p>1</p>
+                                </td>
+                                <td>
+                                    <p>15*6</p>
+                                </td>
+                                <td>
+                                    <p>90</p>
+                                </td>
+                                <td>
+                                    <p>90</p>
+                                </td>
+                                <td>
+                                    <p>200%</p>
+                                </td>
+                                <td>
+                                    <p>270</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <p>
+                                        <strong>T</strong><strong>r</strong><strong>o</strong><strong>lle</strong><strong>y</strong><strong>s</strong>
+                                    </p>
+                                </td>
+                                <td>
+                                    <p>3</p>
+                                </td>
+                                <td>
+                                    <p>8.6 * 3.6</p>
+                                </td>
+                                <td>
+                                    <p>27</p>
+                                </td>
+                                <td>
+                                    <p>81</p>
+                                </td>
+                                <td>
+                                    <p>300%</p>
+                                </td>
+                                <td>
+                                    <p>324</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <p><strong>Feeding Table&amp; storage</strong></p>
+                                </td>
+                                <td>
+                                    <p>4</p>
+                                </td>
+                                <td>
+                                    <p>6*4</p>
+                                </td>
+                                <td>
+                                    <p>24</p>
+                                </td>
+                                <td>
+                                    <p>96</p>
+                                </td>
+                                <td>
+                                    <p>150%</p>
+                                </td>
+                                <td>
+                                    <p>240</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <p><strong>Supermarket</strong></p>
+                                </td>
+                                <td>
+                                    <p>2</p>
+                                </td>
+                                <td>
+                                    <p>20*6</p>
+                                </td>
+                                <td>
+                                    <p>120</p>
+                                </td>
+                                <td>
+                                    <p>240</p>
+                                </td>
+                                <td>
+                                    <p>250%</p>
+                                </td>
+                                <td>
+                                    <p>840</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <p><strong>Cut part issue area</strong></p>
+                                </td>
+                                <td>
+                                    <p>1</p>
+                                </td>
+                                <td>
+                                    <p>7*6</p>
+                                </td>
+                                <td>
+                                    <p>42</p>
+                                </td>
+                                <td>
+                                    <p>42</p>
+                                </td>
+                                <td>
+                                    <p>250%</p>
+                                </td>
+                                <td>
+                                    <p>147</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="6" class="text-center align-middle">
+                                    <p><strong>Total Area</strong></p>
+                                </td>
+                                <td>
+                                    <p><strong>11985</strong></p>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
                     </div>
-                    <br>
-                    <h5 >3.3  MARKETING & MERCHANDISING</h5>
-                    <p >Merchandising department consists of q cabin for head of the department and 6 cubicles. HOD cabin will have 1 table, 1 chair for merchandiser, 3 for visitors, 1 rack and dustbin. There will be 6 cubicles:</p>
-                    <ol class="img-padding-left-right">
-                        <li>4 for Junior Merchandisers</li>
-                        <li>2 for Sourcing people</li>
-                    </ol>
-                    <div   class="table-responsive" >
-                    <table class="table tabe table-striped-green text-center w-75">
-                        <tbody>
-                        <tr>
-                            <td>
-                                <p><strong>S.No</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>People involved </strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Tables Required</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Chairs Required</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Racks</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Almirahs</strong></p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>1.</strong></p>
-                            </td>
-                            <td>
-                                <p>1 Senior Merchandiser</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>3</p>
-                            </td>
-                            <td>
-                                <p>2</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>2.</strong></p>
-                            </td>
-                            <td>
-                                <p>4 Asst. merchandisers</p>
-                            </td>
-                            <td>
-                                <p>4</p>
-                            </td>
-                            <td>
-                                <p>12</p>
-                            </td>
-                            <td>
-                                <p>-</p>
-                            </td>
-                            <td>
-                                <p>4</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>3.</strong></p>
-                            </td>
-                            <td>
-                                <p>2 sourcing in charge</p>
-                            </td>
-                            <td>
-                                <p>2</p>
-                            </td>
-                            <td>
-                                <p>6</p>
-                            </td>
-                            <td>
-                                <p>-</p>
-                            </td>
-                            <td>
-                                <p>2</p>
-                            </td>
-                        </tr>
-                        </tbody>
-                    </table></div>
-                    <div    class="table-responsive">
-                    <table class="table table-bordered table-striped-green w-75">
-                        <tbody>
-                        <tr>
-                            <td>
-                                <p><strong>S.No</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Description</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Dimensions</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Quantity</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Area Occupied</strong></p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>1</strong></p>
-                            </td>
-                            <td>
-                                <p>Table 1</p>
-                            </td>
-                            <td>
-                                <p>2.5&rsquo; * 5&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>7</p>
-                            </td>
-                            <td>
-                                <p>87.5</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>2</strong></p>
-                            </td>
-                            <td>
-                                <p>Chair</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 2&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>21</p>
-                            </td>
-                            <td>
-                                <p>84</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>3</strong></p>
-                            </td>
-                            <td>
-                                <p>Racks</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 3&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>2</p>
-                            </td>
-                            <td>
-                                <p>12</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>4</strong></p>
-                            </td>
-                            <td>
-                                <p>Almirah</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 3&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>7</p>
-                            </td>
-                            <td>
-                                <p>42</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>5</strong></p>
-                            </td>
-                            <td>
-                                <p>Dustbin</p>
-                            </td>
-                            <td>
-                                <p>1.8*1.8</p>
-                            </td>
-                            <td>
-                                <p>7</p>
-                            </td>
-                            <td>
-                                <p>23</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>6</strong></p>
-                            </td>
-                            <td>
-                                <p>First aid box</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo;*1&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>2</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>7</strong></p>
-                            </td>
-                            <td>
-                                <p>Fire extinguisher</p>
-                            </td>
-                            <td>
-                                <p>1&rsquo;*0.8</p>
-                            </td>
-                            <td>
-                                <p>2</p>
-                            </td>
-                            <td>
-                                <p>1.6</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td colspan="4" class="text-center align-middle">
-                                <p><strong>Area Occupied</strong></p>
-                            </td>
 
-                            <td>
-                                <p><strong>252 </strong><strong>&nbsp;sq.ft</strong></p>
-                            </td>
-                        </tr>
-                        </tbody>
-                    </table></div>
 
-                <div class="well w-75">
-                    <p class="img-padding-left-right">Total area occupied = 2.5 * Area Occupied = 2.5 * 252= 630 sq. ft.</p>
                 </div>
-                    <br>
-                    <h5 >3.4	FINANCE AND ACCOUNTS</h5>
-                    <p>Finance & accounts department is responsible for all the transactions of the company. This department will have 1 head accountant and 2 junior accountants. There will be 1 cabin where all three officials will seat. There will be 3 chair and 1 table for senior accountant, 1 rack, 2 tables and 2 chairs for assistants , one water dispenser and one dustbin.3 extra chairs will be there for visitors.</p>
-                    <div class="table-responsive"   >
-                    <table class="table table-bordered table-striped-green text-center w-75">
-                        <tbody>
-                        <tr>
-                            <td>
-                                <p><strong>S.No</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Description</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Dimensions</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Quantity</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Area Occupied</strong></p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>1</strong></p>
-                            </td>
-                            <td>
-                                <p>Table 1</p>
-                            </td>
-                            <td>
-                                <p>4&rsquo; * 2&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>5</p>
-                            </td>
-                            <td>
-                                <p>40</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>2</strong></p>
-                            </td>
-                            <td>
-                                <p>Chair</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 2&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>7</p>
-                            </td>
-                            <td>
-                                <p>28</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>3</strong></p>
-                            </td>
-                            <td>
-                                <p>Almirah</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 3&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>4</p>
-                            </td>
-                            <td>
-                                <p>24</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>4</strong></p>
-                            </td>
-                            <td>
-                                <p>Water Dispenser</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 2&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>4</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>10</strong></p>
-                            </td>
-                            <td>
-                                <p>Dustbin</p>
-                            </td>
-                            <td>
-                                <p>1.8*1.8</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>3.24</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>`12</strong></p>
-                            </td>
-                            <td>
-                                <p>First aid box</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo;*1&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>2</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>13</strong></p>
-                            </td>
-                            <td>
-                                <p>Fire extinguisher</p>
-                            </td>
-                            <td>
-                                <p>1&rsquo;*0.8</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>.8</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>Area Occupied</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>&nbsp;-</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>&nbsp;-</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>&nbsp;-</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>102</strong><strong> sq.ft</strong></p>
-                            </td>
-                        </tr>
-                        </tbody>
-                    </table></div>
-                    <div class="well w-75">
-                        <p class="img-padding-left-right">Total area occupied = 2.5 * Area Occupied   = 2.5 *102  = 255 sq. ft</p>
-                    </div>
-                    <br>
-                    <h5 >3.5	CONFERENCE HALL</h5>
-                    <p>The conference hall is the place where all the important meetings happen and all financial decisions are made. Therefore, the room should have a soothing environment.  Walls should be of  a  light  color  and  the  interiors  should  be pacifying. The room should accommodate 15 people at a time. There should be a white board/wall for projection.  A big  table  and  chairs  to  accommodate  15 people  and  a  fixed  projector  with  a good sound system should be setup. A television should also be available. There must be space to display running and upcoming styles.</p>
-                   <div class="table-responsive">
-                    <table class="table table-bordered table-striped-green w-75 text-center">
-                        <tbody>
-                        <tr>
-                            <td>
-                                <p><strong>S.No</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Description</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Dimensions</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Quantity</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Area Occupied</strong></p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>1</strong></p>
-                            </td>
-                            <td>
-                                <p>Table 1</p>
-                            </td>
-                            <td>
-                                <p>14&rsquo; * 4&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>56</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>2</strong></p>
-                            </td>
-                            <td>
-                                <p>Chair</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 2&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>15</p>
-                            </td>
-                            <td>
-                                <p>60</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>3</strong></p>
-                            </td>
-                            <td>
-                                <p>Rack</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 3&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>6</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>4</strong></p>
-                            </td>
-                            <td>
-                                <p>Display area</p>
-                            </td>
-                            <td>
-                                <p>5*3</p>
-                            </td>
-                            <td>
-                                <p>2</p>
-                            </td>
-                            <td>
-                                <p>30</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>5</strong></p>
-                            </td>
-                            <td>
-                                <p>Water Dispenser</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 2&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>4</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>6</strong></p>
-                            </td>
-                            <td>
-                                <p>Dustbin</p>
-                            </td>
-                            <td>
-                                <p>1.8*1.8</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>3.24</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>7</strong></p>
-                            </td>
-                            <td>
-                                <p>First aid box</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo;*1&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>2</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>8</strong></p>
-                            </td>
-                            <td>
-                                <p>Fire extinguisher</p>
-                            </td>
-                            <td>
-                                <p>1&rsquo;*0.8</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>.8</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td colspan="4" class="text-center align-middle">
-                                <p><strong>Area Occupied</strong></p>
-                            </td>
 
-                            <td>
-                                <p><strong>162 sq.ft</strong></p>
-                            </td>
-                        </tr>
-                        </tbody>
-                    </table></div>
-                    <div class="well w-75">
-                        <p class="img-padding-left-right">Total area occupied = 2.5 * Area Occupied = 2.5 * 162 = 405  sq. ft.</p>
-                    </div>
-                    <br>
-                    <h5 >3.6	IT DEPARTMENT</h5>
-                    <p>IT department is responsible for maintain all softwares and software related issue. It dept. should have technically sound IT people. It department will have 1 head technician and 3 assistants. 1 cabin will be allotted to the HOD which will have facilities like, table, 3 chairs, 1 rack, water dispenser etc.  One table and one chair will be allotted to other technicians.</p>
-                   <div class="table-responsive">
-                    <table class="table table-bordered table-striped-green w-75 text-center">
-                        <tbody>
-                        <tr>
-                            <td>
-                                <p><strong>S.No</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Description</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Dimensions</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Quantity</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Area Occupied</strong></p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>1</strong></p>
-                            </td>
-                            <td>
-                                <p>Table 1</p>
-                            </td>
-                            <td>
-                                <p>4&rsquo; * 3&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>5</p>
-                            </td>
-                            <td>
-                                <p>60</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>2</strong></p>
-                            </td>
-                            <td>
-                                <p>Chair</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 2&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>7</p>
-                            </td>
-                            <td>
-                                <p>28</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>3</strong></p>
-                            </td>
-                            <td>
-                                <p>Racks</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 3&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>6</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>4</strong></p>
-                            </td>
-                            <td>
-                                <p>Almirah</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 3&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>5</p>
-                            </td>
-                            <td>
-                                <p>30</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>7</strong></p>
-                            </td>
-                            <td>
-                                <p>Dustbin</p>
-                            </td>
-                            <td>
-                                <p>1.8*1.8</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>3.24</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>8</strong></p>
-                            </td>
-                            <td>
-                                <p>First aid box</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo;*1&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>2</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>9</strong></p>
-                            </td>
-                            <td>
-                                <p>Fire extinguisher</p>
-                            </td>
-                            <td>
-                                <p>1&rsquo;*0.8</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>.8</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td colspan="4" class="text-center align-middle">
-                                <p><strong>Area Occupied</strong></p>
-                            </td>
-
-                            <td>
-                                <p><strong>130</strong><strong> sq.ft</strong></p>
-                            </td>
-                        </tr>
-                        </tbody>
-                    </table></div>
-                    </div>
-                        <div class="img-padding-left-right">
-                        <div class="well w-75">
-                            <p class="img-padding-left-right text-center align-middle">Total area occupied= 2.5 * 130 = 325 sq. ft.</p>
-                        </div>
-                    <h5 >3.7	MD CABIN</h5>
-
-                            <div    class="table-responsive">
-                            <table class="table table-bordered table-striped-green w-75 text-center">
-                                <tbody>
-                                <tr>
-                                    <td>
-                                        <p><strong>S.No</strong></p>
-                                    </td>
-                                    <td>
-                                        <p><strong>Description</strong></p>
-                                    </td>
-                                    <td>
-                                        <p><strong>Dimensions</strong></p>
-                                    </td>
-                                    <td>
-                                        <p><strong>Quantity</strong></p>
-                                    </td>
-                                    <td>
-                                        <p><strong>Area Occupied</strong></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>1</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>Table 1</p>
-                                    </td>
-                                    <td>
-                                        <p>5&rsquo; * 2.5&rsquo;</p>
-                                    </td>
-                                    <td>
-                                        <p>1</p>
-                                    </td>
-                                    <td>
-                                        <p>12.5</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>2</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>Chair</p>
-                                    </td>
-                                    <td>
-                                        <p>2&rsquo; * 2&rsquo;</p>
-                                    </td>
-                                    <td>
-                                        <p>3</p>
-                                    </td>
-                                    <td>
-                                        <p>12</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>3</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>Racks</p>
-                                    </td>
-                                    <td>
-                                        <p>2&rsquo; * 3&rsquo;</p>
-                                    </td>
-                                    <td>
-                                        <p>2</p>
-                                    </td>
-                                    <td>
-                                        <p>12</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>4</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>Almirah</p>
-                                    </td>
-                                    <td>
-                                        <p>2&rsquo; * 3&rsquo;</p>
-                                    </td>
-                                    <td>
-                                        <p>1</p>
-                                    </td>
-                                    <td>
-                                        <p>6</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td colspan="4">
-                                        <p><strong>Area Occupied</strong></p>
-                                    </td>
-
-                                    <td>
-                                        <p><strong>42.5 sq.ft</strong></p>
-                                    </td>
-                                </tr>
-                                </tbody>
-                            </table></div>
-                            <div class="well w-75">
-                                <p class="img-padding-left-right">Total area occupied = 2.5 * Area Occupied
-                                    = 2.5 * 42.5   = 106.25  sqft
-                                </p>
-                            </div>
-
-
-                            <br>
-                            <h5 >3.8	GENERAL MANAGER CABIN</h5>
-                            <div    class="table-responsive">
-                                <table class="table table-bordered table-striped-green w-75 text-center">
-                                    <tbody>
-                                    <tr>
-                                        <td>
-                                            <p><strong>S.No</strong></p>
-                                        </td>
-                                        <td>
-                                            <p><strong>Description</strong></p>
-                                        </td>
-                                        <td>
-                                            <p><strong>Dimensions</strong></p>
-                                        </td>
-                                        <td>
-                                            <p><strong>Quantity</strong></p>
-                                        </td>
-                                        <td>
-                                            <p><strong>Area Occupied</strong></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <p><strong>1</strong></p>
-                                        </td>
-                                        <td>
-                                            <p>Table 1</p>
-                                        </td>
-                                        <td>
-                                            <p>5&rsquo; * 2.5&rsquo;</p>
-                                        </td>
-                                        <td>
-                                            <p>1</p>
-                                        </td>
-                                        <td>
-                                            <p>12.5</p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <p><strong>2</strong></p>
-                                        </td>
-                                        <td>
-                                            <p>Chair</p>
-                                        </td>
-                                        <td>
-                                            <p>2&rsquo; * 2&rsquo;</p>
-                                        </td>
-                                        <td>
-                                            <p>3</p>
-                                        </td>
-                                        <td>
-                                            <p>12</p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <p><strong>3</strong></p>
-                                        </td>
-                                        <td>
-                                            <p>Racks</p>
-                                        </td>
-                                        <td>
-                                            <p>2&rsquo; * 3&rsquo;</p>
-                                        </td>
-                                        <td>
-                                            <p>2</p>
-                                        </td>
-                                        <td>
-                                            <p>12</p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <p><strong>4</strong></p>
-                                        </td>
-                                        <td>
-                                            <p>Almirah</p>
-                                        </td>
-                                        <td>
-                                            <p>2&rsquo; * 3&rsquo;</p>
-                                        </td>
-                                        <td>
-                                            <p>1</p>
-                                        </td>
-                                        <td>
-                                            <p>6</p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td colspan="4">
-                                            <p><strong>Area Occupied</strong></p>
-                                        </td>
-
-                                        <td>
-                                            <p><strong>42.5 sq.ft</strong></p>
-                                        </td>
-                                    </tr>
-                                    </tbody>
-                                </table></div>
-                            <div class="well w-75">
-                                <p class="img-padding-left-right">Total area occupied = 2.5 * Area Occupied
-                                    = 2.5 * 42.5   = 106.25  sqft
-                                </p>
-                            </div>
-                            <br>
-                            <h5 >3.9  MEETING ROOM</h5>
-                            <div    class="table-responsive">
-                                <table class="table table-bordered table-striped-green w-75">
-                                <tbody>
-                                <tr>
-                                    <td>
-                                        <p><strong>S.No</strong></p>
-                                    </td>
-                                    <td>
-                                        <p><strong>Description</strong></p>
-                                    </td>
-                                    <td>
-                                        <p><strong>Dimensions</strong></p>
-                                    </td>
-                                    <td>
-                                        <p><strong>Quantity</strong></p>
-                                    </td>
-                                    <td>
-                                        <p><strong>Area Occupied</strong></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>1</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>Table 1</p>
-                                    </td>
-                                    <td>
-                                        <p>7.5&rsquo; * 3.5&rsquo;</p>
-                                    </td>
-                                    <td>
-                                        <p>1</p>
-                                    </td>
-                                    <td>
-                                        <p>26.25</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>2</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>Chair</p>
-                                    </td>
-                                    <td>
-                                        <p>2&rsquo; * 2&rsquo;</p>
-                                    </td>
-                                    <td>
-                                        <p>8</p>
-                                    </td>
-                                    <td>
-                                        <p>32</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>3</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>Rack</p>
-                                    </td>
-                                    <td>
-                                        <p>2&rsquo; * 3&rsquo;</p>
-                                    </td>
-                                    <td>
-                                        <p>1</p>
-                                    </td>
-                                    <td>
-                                        <p>6</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>4</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>Almirah</p>
-                                    </td>
-                                    <td>
-                                        <p>2&rsquo; * 3&rsquo;</p>
-                                    </td>
-                                    <td>
-                                        <p>1</p>
-                                    </td>
-                                    <td>
-                                        <p>6</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td colspan="4">
-                                        <p>Area Occupied</p>
-                                    </td>
-
-                                    <td>
-                                        <p>70sq.ft</p>
-                                    </td>
-                                </tr>
-                                </tbody>
-                            </table></div>
-                            <div class="well w-75">
-                            <p class="img-padding-left-right">Total area occupied = 2.5 * Area Occupied = 2.5 * 70 = 175 sqft
-                            </p></div>
-                            <br>
-                            <h5 >3.10  TRAINING CENTRE</h5>
-                            <div class="table-responsive"   >
-                            <table class="table table-bordered table-striped-green w-75">
-                                <tbody>
-                                <tr>
-                                    <td>
-                                        <p><strong>S.No</strong></p>
-                                    </td>
-                                    <td>
-                                        <p><strong>Description</strong></p>
-                                    </td>
-                                    <td>
-                                        <p><strong>Dimensions</strong></p>
-                                    </td>
-                                    <td>
-                                        <p><strong>Quantity</strong></p>
-                                    </td>
-                                    <td>
-                                        <p><strong>Area Occupied</strong></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>1</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>Table 1</p>
-                                    </td>
-                                    <td>
-                                        <p>2.5&rsquo; * 5&rsquo;</p>
-                                    </td>
-                                    <td>
-                                        <p>2</p>
-                                    </td>
-                                    <td>
-                                        <p>25</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>2</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>Table 2</p>
-                                    </td>
-                                    <td>
-                                        <p>2&rsquo;*3&rsquo;</p>
-                                    </td>
-                                    <td>
-                                        <p>2</p>
-                                    </td>
-                                    <td>
-                                        <p>12</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>3</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>Chair 1</p>
-                                    </td>
-                                    <td>
-                                        <p>2&rsquo; * 2&rsquo;</p>
-                                    </td>
-                                    <td>
-                                        <p>60</p>
-                                    </td>
-                                    <td>
-                                        <p>240</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>4</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>Chair 2</p>
-                                    </td>
-                                    <td>
-                                        <p>1.12&rsquo; * 1.2&rsquo;</p>
-                                    </td>
-                                    <td>
-                                        <p>24</p>
-                                    </td>
-                                    <td>
-                                        <p>32.25</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>5</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>Almirah</p>
-                                    </td>
-                                    <td>
-                                        <p>2&rsquo; * 3&rsquo;</p>
-                                    </td>
-                                    <td>
-                                        <p>1</p>
-                                    </td>
-                                    <td>
-                                        <p>6</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>6</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>Machines</p>
-                                    </td>
-                                    <td>
-                                        <p>4&rsquo; * 2&rsquo;</p>
-                                    </td>
-                                    <td>
-                                        <p>24</p>
-                                    </td>
-                                    <td>
-                                        <p>192</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>7</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>Dustbin</p>
-                                    </td>
-                                    <td>
-                                        <p>1.8*1.8</p>
-                                    </td>
-                                    <td>
-                                        <p>24</p>
-                                    </td>
-                                    <td>
-                                        <p>77.8</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>8</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>First aid box</p>
-                                    </td>
-                                    <td>
-                                        <p>2&rsquo;*1&rsquo;</p>
-                                    </td>
-                                    <td>
-                                        <p>1</p>
-                                    </td>
-                                    <td>
-                                        <p>2</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>9</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>Fire extinguisher</p>
-                                    </td>
-                                    <td>
-                                        <p>1&rsquo;*0.8</p>
-                                    </td>
-                                    <td>
-                                        <p>2</p>
-                                    </td>
-                                    <td>
-                                        <p>1.6</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td colspan="4" class="text-center align-middle">
-                                        <p><strong>Area Occupied</strong></p>
-                                    </td>
-
-                                    <td>
-                                        <p><strong>588.65 sq.ft</strong></p>
-                                    </td>
-                                </tr>
-                                </tbody>
-                            </table></div>
-                            <div class="well w-75">
-                                <p class="img-padding-left-right">Total area occupied = 2.5 * Area Occupied = 2.5 * 588.65 = 1471.6 sqft
-                                </p>
-                            </div>
-
-                        </div>
-
-               </div>
+            </div>
         </div>
     </div>
 </section>
@@ -1672,7 +483,9 @@
             <!--First column-->
             <div class="col-md-6 col-lg-3 col-xl-3 footer-contact-widget">
                 <h3 class="footer-title">About Us</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates eos minus expedita illo recusandae esse labore obcaecati nisi amet quia odio sapiente! Fugiat, voluptatibus nemo necessitatibus porro.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates eos minus expedita illo
+                    recusandae esse labore obcaecati nisi amet quia odio sapiente! Fugiat, voluptatibus nemo
+                    necessitatibus porro.</p>
                 <ul>
                     <li>
                         <a href="#"><i class="mdi mdi-facebook"></i></a>
@@ -1700,17 +513,19 @@
                     <li>
                         <figure class="overlay">
                             <img class="img-fluid" src="assets/images/art/a1.jpg" alt="">
-                            <figcaption><a href="blog-single.php"><i class="mdi mdi-link-variant from-top icon-xs"></i></a></figcaption>
+                            <figcaption><a href="blog-single.php"><i class="mdi mdi-link-variant from-top icon-xs"></i></a>
+                            </figcaption>
                         </figure>
                         <div class="post-content">
-                            <h6 class="post-title"> <a href="blog-single.php">Fusce gravida tortor felis</a> </h6>
+                            <h6 class="post-title"><a href="blog-single.php">Fusce gravida tortor felis</a></h6>
                             <div class="meta"><span class="date">12 Jan 2018</span></div>
                         </div>
                     </li>
                     <li>
                         <figure class="overlay">
                             <img class="img-fluid" src="assets/images/art/a2.jpg" alt="">
-                            <figcaption><a href="blog-single.php"><i class="mdi mdi-link-variant from-top icon-xs"></i></a></figcaption>
+                            <figcaption><a href="blog-single.php"><i class="mdi mdi-link-variant from-top icon-xs"></i></a>
+                            </figcaption>
                         </figure>
                         <div class="post-content">
                             <h6 class="post-title"><a href="blog-single.php">Ornare Nullam Risus Cursus</a></h6>
@@ -1720,10 +535,11 @@
                     <li>
                         <figure class="overlay">
                             <img class="img-fluid" src="assets/images/art/a3.jpg" alt="">
-                            <figcaption><a href="blog-single.php"><i class="mdi mdi-link-variant from-top icon-xs"></i></a></figcaption>
+                            <figcaption><a href="blog-single.php"><i class="mdi mdi-link-variant from-top icon-xs"></i></a>
+                            </figcaption>
                         </figure>
                         <div class="post-content">
-                            <h6 class="post-title"> <a href="blog-single.php">Euismod Nullam Fusce Dapibus</a> </h6>
+                            <h6 class="post-title"><a href="blog-single.php">Euismod Nullam Fusce Dapibus</a></h6>
                             <div class="meta"><span class="date">12 Jan 2018</span></div>
                         </div>
                     </li>
@@ -1734,13 +550,15 @@
             <!--Third column-->
             <div class="col-md-6 col-lg-3 col-xl-3 link-widget">
                 <h3 class="footer-title">Get in Touch</h3>
-                <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Etiam porta sem malesuada magna mollis euismod. Praesent commodo cursus.</p>
+                <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Etiam porta sem
+                    malesuada magna mollis euismod. Praesent commodo cursus.</p>
                 <div class="mt-3"></div>
                 <ul class="icon-list">
-                    <li><i class="mdi mdi-map-marker"></i> Moonshine St. 14/05 Light City </li>
-                    <li><i class="mdi mdi-email"></i> <a href="mailto:first.last@email.com" class="nocolor">first.last@email.com</a> </li>
-                    <li><i class="mdi mdi-phone-classic"></i> +00 (123) 456 78 90 </li>
-                    <li><i class="mdi mdi-cellphone-iphone"></i> +80 (547) 455 47 54 </li>
+                    <li><i class="mdi mdi-map-marker"></i> Moonshine St. 14/05 Light City</li>
+                    <li><i class="mdi mdi-email"></i> <a href="mailto:first.last@email.com" class="nocolor">first.last@email.com</a>
+                    </li>
+                    <li><i class="mdi mdi-phone-classic"></i> +00 (123) 456 78 90</li>
+                    <li><i class="mdi mdi-cellphone-iphone"></i> +80 (547) 455 47 54</li>
                 </ul>
             </div>
             <!--/.Third column-->
@@ -1752,8 +570,11 @@
                     <div class="newsletter-wrapper">
                         <form method="post" id="subscribe-form" name="subscribe-form" class="validate">
                             <div class="form-group">
-                                <input type="email" value="" name="EMAIL" class="email form-control" id="EMAIL" placeholder="Email Address" required="">
-                                <button type="submit" name="subscribe" id="subscribe" class="btn btn-common pull-right">Join</button>
+                                <input type="email" value="" name="EMAIL" class="email form-control" id="EMAIL"
+                                       placeholder="Email Address" required="">
+                                <button type="submit" name="subscribe" id="subscribe" class="btn btn-common pull-right">
+                                    Join
+                                </button>
                                 <div class="clearfix"></div>
                             </div>
                         </form>
@@ -1781,7 +602,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <p>&copy; 2018 Material Studio, All right reserved. Designed with <i class="mdi mdi-heart"></i> by <a href="#">UIdeck</a></p>
+                    <p>&copy; 2018 Material Studio, All right reserved. Designed with <i class="mdi mdi-heart"></i> by
+                        <a href="#">UIdeck</a></p>
                 </div>
             </div>
         </div>
