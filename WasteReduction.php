@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>404 Page | Material</title>
+    <title>Waste Management in Garment Industries</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -46,8 +46,7 @@
             <div class="col-md-12">
                 <div class="title-center">
                     <div class="title-middle">
-                        <h2 class="page-tagline">Material Error Page</h2>
-                        <h1 class="page-title text-center">404</h1>
+                        <h1 class="page-title text-center text-center">Waste Management in Garment Industries</h1>
                     </div>
                 </div>
             </div>
@@ -61,9 +60,70 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <h1 class="wow animated fadeInRight" data-wow-delay=".2s">404</h1>
-                <h2 class="wow animated fadeInRight" data-wow-delay=".4s">Page not found! :(</h2>
-                <a href="javascript:void(0)" class="wow animated fadeInUp btn btn-common mt-5" data-wow-delay=".6s"><i class="material-icons mdi mdi-home"></i> Back to home<div class="ripple-container"></div></a>
+                <div class="text-justify section-padding">
+
+                    <p>Waste is purchased raw material that is subsequently not sold as product. Waste costs money. If ones reduces the amount of waste the company produces it will increase profits and help the company to remain competitive. Waste directly hits the bottom line. Many manufacturers accept waste as a normal cost of business. </p>
+                    <br>
+                    <p class="h4 font-weight-bold">	Various Stages of Wastage</p>
+                </div>
+               <div class="text-center">
+                   <img src="/materilaHTML/assets/images/Facility/Waste/1.png" class="img-fluid"></div>
+
+                <hr class="section-padding">
+                <p class="h4 font-weight-bold text-left">Wastage in Various Stages of Production </p>
+
+                <br>
+                <div class="text-center">
+                    <img src="/materilaHTML/assets/images/Facility/Waste/2.png " class="img-fluid w-75 "></div>
+                <hr class="section-padding">
+                <p class="h4 font-weight-bold text-left">Improvement Methods </p>
+                <br>
+                <ul>
+                    <li class="text-left"><strong>Waste Reduction Methods </strong></li>
+
+                </ul>
+                <ol class="text-justify img-padding-left-right">
+                    <li>Wastes in the cutting room</li>
+                    <li>Care in movement of work-in-progress</li>
+                    <li>Quality Control</li>
+                </ol>
+                <ul>
+                    <li class="text-left"><strong>Recommendations to reduce wastes </strong></li>
+                </ul>
+                <ol class="text-justify img-padding-left-right">
+                    <li>Waste stream reduction for apparel manufacturers &ndash; To develop a comprehensive waste management system.</li>
+                    <li>Technique to reduce industry specific waste.</li>
+                    <li>To handle specific operational wastes</li>
+                </ol>
+                <ul class="text-justify ">
+                    <li><strong>Measures to control cost lost in wastage</strong></li>
+                </ul>
+                <ol class="text-justify img-padding-left-right">
+                    <li>Finish in time</li>
+                    <li>Minimum changes in original design</li>
+                    <li>Least make break/rework</li>
+                    <li>Keep check on Labor and Material costs</li>
+                    <li>Avoid rework due to bad quality</li>
+                    <li>Optimize usage of materials</li>
+                    <li>Enhance labor productivity through skill training</li>
+                    <li>Efficient Management Information System (MIS) for timely decision making</li>
+                </ol>
+
+                <hr class="section-padding">
+                <p class="h4 font-weight-bold text-left">ENVIRONMENTAL AND ECONOMIC BENEFITS OF GARMENT RECYCLING </p>
+                <div     class="text-justify"><ol>
+                    <li>Reduces the need for landfill space.</li>
+                    <li>Textiles present particular problems in landfill as synthetic (man-made fibers) products will not decompose, while woolen garments do decompose and produce methane, which contributes to global&nbsp;warming.</li>
+                    <li>Reduces pressure on virgin resources.</li>
+                    <li>Aids the balance of payments as we import fewer materials for our needs. Results in less pollution and energy savings, as fibers do not be transported from abroad.</li>
+                    <li>Benefits of reclaiming fiber Savings on energy consumption when processing, as items do not need to be re-dyed or scoured.</li>
+                </ol></div>
+                <br><br>
+
+                <p>Source: A study on waste disposal management in garment industry by S. Kavitha, G. Manimekalai</p>
+
+
+
             </div>
         </div>
     </div>

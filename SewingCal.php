@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Main Entrance, Security Cabin and Admin Area Calculation</title>
+    <title>Sewing Department Area Calculation</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -46,7 +46,7 @@
             <div class="col-md-12">
                 <div class="title-center">
                     <div class="title-middle">
-                        <h1 class="page-title text-center text-center">Main Entrance, Security Cabin and Admin Area Calculation</h1>
+                        <h1 class="page-title text-center text-center">Sewing Department Area Calculation</h1>
                     </div>
                 </div>
             </div>
@@ -62,491 +62,2103 @@
             <div class="col-md-12 text-center">
 
                 <div class="text-justify     section-padding">
-                    <h3>1. MAIN ENTRANCE</h3>
-                    <p>Factory will have two main entrance gates on the same side of the road and one entrance for operators. It will be a double door gate with wheels at bottom to ease in movement of gates. Gate will be 20 feet wide so that movement of trucks and other heavy vehicles will be possible inside the factory without any hindrance.</p>
-                    <h3>2. SECURITY CABIN</h3>
-                    <p>The security has to be at the main entrance exactly. This is a very important department because it has records for incoming and outgoing man as well as material. The security room should have 3 sections</p>
-                    <ol>
-                        <li>Attendance and visitors</li>
-                        <li>In and out of material</li>
-                        <li>CCTV monitoring.</li>
-                    </ol>
-                    <p>It shall have CCTV Displays. The sections shall have a desk to accommodate a landline and a desktop and a few files and notebooks. The CCTV room shall be able to accommodate 15 &ndash; 20 monitors.</p>
-                    <h3>3. ADMIN AREA</h3>
-                    <p>Admin area consists of cabins for all the administrators such as GM, HR, merchandisers etc. In our designed factory, admin area is situated nearby main entrance. It has opening gate at three sides which provides connectivity with production floor and road. It has reception area nearby office entrance and sofas are placed on another side of gate to accommodate visitors .</p>
-                    <h5 class="img-padding-left-right">3.1 RECEPTION</h5>
-                    <p class="img-padding-left-right">This is the area where any visitor for the officials shall visit first than any other part of the entire setup. This area should be impressive and well designed with modern interior. The reception area shall be situated near the entrance for office inside admin area. Indoor plants will be used to increase the aesthetic value and adding to calmness of the space.This area will be 100% dependent on natural lighting.</p>
-                    <p class="img-padding-left-right">The reception area should have a desk of dimension and an ergonomically appropriate chair with backrest and armrest of 34&rdquo; x 20&rdquo; for the receptionist. The desk for the receptionist should accommodate a telephone, a desktop and a color printer. There should be sofas on the opposite side of the receptionist desk which should have a seating space for 10 people. As such, the reception area should be big enough to accommodate 11 &ndash; 12 people at once.</p>
+                    <p>Garment panels are stitched together by sewing machines in the sewing room. In sewing, 2-Dimensional fabric patterns are converted to 3 Dimensional forms. An operator runs the machine and uses sewing threads to join garment parts together. Various types of sewing machines are available for sewing. These machines are selected according to the seam and stitch requirement. In the apparel industry, traditionally, sewing machines are laid in a row. Cut parts are fed at the start of the line, passed through the line and at the end of the line a complete garment comes out. Each machine is run by individual operators and an operator sews only one or two operations of the garment. A line consists of sewing operators and helpers to feed them with cut parts, thread and other trims, a quality checker and one fully or partially devoted supervisor.</p>
+                    <ul>
+                        <li><strong>Target per day: 8000</strong></li>
+                        <li>Standard target/ Line = 1000</li>
+                        <li>Target at 100% efficiency= 1325</li>
+                        <li>Target at 70% efficiency= 928</li>
+                        <li> Number of lines = 10</li>
+                    </ul>
 
-                   <div class="table-responsive img-padding-left-right">
-                    <table class="table-bordered table table-striped-green text-center w-75 ">
+                    <h3>1. COLLAR SECTION</h3>
+                    <br>
+                   <div class="table-responsive">
+                       <table class="table table-bordered table-striped-green text-center">
                         <tbody>
                         <tr>
-                            <td>
-                                <p><strong>S.No</strong></p>
+                            <td class="text-center align-middle">
+                                <p><strong>SL NO</strong></p>
                             </td>
-                            <td>
-                                <p><strong>Description</strong></p>
+                            <td class="text-center align-middle">
+                                <p><strong>OPERATION</strong></p>
                             </td>
-                            <td>
-                                <p><strong>Dimensions</strong></p>
+                            <td class="text-center align-middle">
+                                <p><strong>OPERATION TYPE</strong></p>
                             </td>
-                            <td>
-                                <p><strong>Quantity</strong></p>
+                            <td class="text-center align-middle">
+                                <p><strong>M/C TYPE</strong></p>
                             </td>
-                            <td>
-                                <p><strong>Area Occupied</strong></p>
+                            <td class="text-center align-middle">
+                                <p><strong>S.A.M.</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>NO. OF WORKSTATIONS</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>LENGTH OF M/C</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>BREADTH OF M/C</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>AREA</strong></p>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <p><strong>1</strong></p>
+                                <p>1</p>
+                            </td>
+                            <td>
+                                <p>Collar all round trimming</p>
+                            </td>
+                            <td>
+                                <p>Non sewing</p>
+                            </td>
+                            <td>
+                                <p>SNEC</p>
+                            </td>
+                            <td>
+                                <p>0.23</p>
+                            </td>
+                            <td>
+                                <p>0.5</p>
+                            </td>
+                            <td>
+                                <p>3.5</p>
+                            </td>
+                            <td>
+                                <p>1.8</p>
+                            </td>
+                            <td>
+                                <p>3.019</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>2</p>
+                            </td>
+                            <td>
+                                <p>Collar run stitch</p>
+                            </td>
+                            <td>
+                                <p>Sewing</p>
+                            </td>
+                            <td>
+                                <p>SNLS</p>
+                            </td>
+                            <td>
+                                <p>0.5</p>
+                            </td>
+                            <td>
+                                <p>1.0</p>
+                            </td>
+                            <td>
+                                <p>3.5</p>
+                            </td>
+                            <td>
+                                <p>1.7</p>
+                            </td>
+                            <td>
+                                <p>6.198</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>3</p>
+                            </td>
+                            <td>
+                                <p>Collar point trim &amp; turning</p>
+                            </td>
+                            <td>
+                                <p>Non sewing</p>
+                            </td>
+                            <td>
+                                <p>Turning tool</p>
+                            </td>
+                            <td>
+                                <p>0.2</p>
+                            </td>
+                            <td>
+                                <p>0.4</p>
+                            </td>
+                            <td>
+                                <p>3.9</p>
+                            </td>
+                            <td>
+                                <p>1.9</p>
+                            </td>
+                            <td>
+                                <p>3.057</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>4</p>
+                            </td>
+                            <td>
+                                <p>Collar creasing</p>
+                            </td>
+                            <td>
+                                <p>Non sewing</p>
+                            </td>
+                            <td>
+                                <p>Creasing m/c</p>
+                            </td>
+                            <td>
+                                <p>0.16</p>
+                            </td>
+                            <td>
+                                <p>0.3</p>
+                            </td>
+                            <td>
+                                <p>3.7</p>
+                            </td>
+                            <td>
+                                <p>19.0</p>
+                            </td>
+                            <td>
+                                <p>23.78</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>5</p>
+                            </td>
+                            <td>
+                                <p>Collar top stitch</p>
+                            </td>
+                            <td>
+                                <p>Sewing</p>
+                            </td>
+                            <td>
+                                <p>SNLS</p>
+                            </td>
+                            <td>
+                                <p>0.3</p>
+                            </td>
+                            <td>
+                                <p>0.6</p>
+                            </td>
+                            <td>
+                                <p>3.5</p>
+                            </td>
+                            <td>
+                                <p>1.7</p>
+                            </td>
+                            <td>
+                                <p>3.719</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>6</p>
+                            </td>
+                            <td>
+                                <p>Collar contour trimming</p>
+                            </td>
+                            <td>
+                                <p>Non sewing</p>
+                            </td>
+                            <td>
+                                <p>Collar bottom trimmer</p>
+                            </td>
+                            <td>
+                                <p>0.13</p>
+                            </td>
+                            <td>
+                                <p>0.3</p>
+                            </td>
+                            <td>
+                                <p>3.5</p>
+                            </td>
+                            <td>
+                                <p>1.8</p>
+                            </td>
+                            <td>
+                                <p>1.706</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>7</p>
+                            </td>
+                            <td>
+                                <p>Neck band hemming</p>
+                            </td>
+                            <td>
+                                <p>Sewing</p>
+                            </td>
+                            <td>
+                                <p>SNLS</p>
+                            </td>
+                            <td>
+                                <p>0.22</p>
+                            </td>
+                            <td>
+                                <p>0.5</p>
+                            </td>
+                            <td>
+                                <p>3.5</p>
+                            </td>
+                            <td>
+                                <p>1.7</p>
+                            </td>
+                            <td>
+                                <p>2.727</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>8</p>
+                            </td>
+                            <td>
+                                <p>Neck band top side attachment</p>
+                            </td>
+                            <td>
+                                <p>Sewing</p>
+                            </td>
+                            <td>
+                                <p>SNLS</p>
+                            </td>
+                            <td>
+                                <p>0.29</p>
+                            </td>
+                            <td>
+                                <p>0.6</p>
+                            </td>
+                            <td>
+                                <p>3.5</p>
+                            </td>
+                            <td>
+                                <p>1.7</p>
+                            </td>
+                            <td>
+                                <p>3.595</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>9</p>
+                            </td>
+                            <td>
+                                <p>Patch attachment</p>
+                            </td>
+                            <td>
+                                <p>Sewing</p>
+                            </td>
+                            <td>
+                                <p>SNLS</p>
+                            </td>
+                            <td>
+                                <p>0.75</p>
+                            </td>
+                            <td>
+                                <p>1.6</p>
+                            </td>
+                            <td>
+                                <p>3.5</p>
+                            </td>
+                            <td>
+                                <p>1.7</p>
+                            </td>
+                            <td>
+                                <p>9.297</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>10</p>
+                            </td>
+                            <td>
+                                <p>Neck band inside attachment</p>
+                            </td>
+                            <td>
+                                <p>Sewing</p>
+                            </td>
+                            <td>
+                                <p>SNLS</p>
+                            </td>
+                            <td>
+                                <p>0.32</p>
+                            </td>
+                            <td>
+                                <p>0.7</p>
+                            </td>
+                            <td>
+                                <p>3.5</p>
+                            </td>
+                            <td>
+                                <p>1.7</p>
+                            </td>
+                            <td>
+                                <p>3.967</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>11</p>
+                            </td>
+                            <td>
+                                <p>Collar pick, trim &amp; turn</p>
+                            </td>
+                            <td>
+                                <p>Non sewing</p>
+                            </td>
+                            <td>
+                                <p>Trimming tool</p>
+                            </td>
+                            <td>
+                                <p>0.25</p>
+                            </td>
+                            <td>
+                                <p>0.5</p>
+                            </td>
+                            <td>
+                                <p>3.4</p>
+                            </td>
+                            <td>
+                                <p>1.7</p>
+                            </td>
+                            <td>
+                                <p>3.052</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>12</p>
+                            </td>
+                            <td>
+                                <p>Collar top stitch</p>
+                            </td>
+                            <td>
+                                <p>Sewing</p>
+                            </td>
+                            <td>
+                                <p>SNLS</p>
+                            </td>
+                            <td>
+                                <p>0.29</p>
+                            </td>
+                            <td>
+                                <p>0.6</p>
+                            </td>
+                            <td>
+                                <p>3.5</p>
+                            </td>
+                            <td>
+                                <p>1.7</p>
+                            </td>
+                            <td>
+                                <p>3.595</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>13</p>
+                            </td>
+                            <td>
+                                <p>Collar iron</p>
+                            </td>
+                            <td>
+                                <p>Non sewing</p>
+                            </td>
+                            <td>
+                                <p>Iron table</p>
+                            </td>
+                            <td>
+                                <p>0.1</p>
+                            </td>
+                            <td>
+                                <p>0.2</p>
+                            </td>
+                            <td>
+                                <p>4.3</p>
+                            </td>
+                            <td>
+                                <p>2.5</p>
+                            </td>
+                            <td>
+                                <p>2.233</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>14</p>
+                            </td>
+                            <td>
+                                <p>Neck band bottom trim</p>
+                            </td>
+                            <td>
+                                <p>Non sewing</p>
+                            </td>
+                            <td>
+                                <p>O/L</p>
+                            </td>
+                            <td>
+                                <p>0.15</p>
+                            </td>
+                            <td>
+                                <p>0.3</p>
+                            </td>
+                            <td>
+                                <p>3.5</p>
+                            </td>
+                            <td>
+                                <p>1.9</p>
+                            </td>
+                            <td>
+                                <p>2.086</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="9" class="text-center align-middle">
+                                <p><strong>TOTAL MACHINE AREA FOR A LINE = 72.03 sq. ft.</strong></p>
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table></div>
+                    <hr class=" section-padding">
+
+                    <h3>2. SLEEVE SECTION</h3>
+                    <br>
+                    <div class="table-responsive">
+                    <table class="table table-bordered table-striped-green text-center">
+                        <tbody>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>SL. NO.</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>OPERATION</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>OPERATION TYPE</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>M/C TYPE</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>S.A.M.</strong></p>
+                            </td>
+                            <td  class="text-center align-middle">
+                                <p><strong>NO. OF WORKSTATIONS</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>LENGTH OF M/C</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>BREADTH OF M/C</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>AREA</strong></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>1</p>
+                            </td>
+                            <td>
+                                <p>Small placket attachment</p>
+                            </td>
+                            <td>
+                                <p>Sewing</p>
+                            </td>
+                            <td>
+                                <p>SNLS</p>
+                            </td>
+                            <td>
+                                <p>0.5</p>
+                            </td>
+                            <td>
+                                <p>1.0</p>
+                            </td>
+                            <td>
+                                <p>3.5</p>
+                            </td>
+                            <td>
+                                <p>1.7</p>
+                            </td>
+                            <td>
+                                <p>6.198</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>2</p>
+                            </td>
+                            <td>
+                                <p>Crow foot tacking</p>
+                            </td>
+                            <td>
+                                <p>Sewing</p>
+                            </td>
+                            <td>
+                                <p>SNLS</p>
+                            </td>
+                            <td>
+                                <p>0.35</p>
+                            </td>
+                            <td>
+                                <p>0.7</p>
+                            </td>
+                            <td>
+                                <p>3.5</p>
+                            </td>
+                            <td>
+                                <p>1.7</p>
+                            </td>
+                            <td>
+                                <p>4.339</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>3</p>
+                            </td>
+                            <td>
+                                <p>Big placket 1st fold</p>
+                            </td>
+                            <td>
+                                <p>Non sewing</p>
                             </td>
                             <td>
                                 <p>Table</p>
                             </td>
                             <td>
-                                <p>4&rsquo; * 3&rsquo;</p>
+                                <p>0.11</p>
+                            </td>
+                            <td>
+                                <p>0.2</p>
+                            </td>
+                            <td>
+                                <p>2.8</p>
+                            </td>
+                            <td>
+                                <p>2.4</p>
+                            </td>
+                            <td>
+                                <p>1.539</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>4</p>
+                            </td>
+                            <td>
+                                <p>Big placket pressing</p>
+                            </td>
+                            <td>
+                                <p>Non sewing</p>
+                            </td>
+                            <td>
+                                <p>Pressing m/c</p>
+                            </td>
+                            <td>
+                                <p>0.13</p>
+                            </td>
+                            <td>
+                                <p>0.3</p>
+                            </td>
+                            <td>
+                                <p>3.5</p>
+                            </td>
+                            <td>
+                                <p>1.7</p>
+                            </td>
+                            <td>
+                                <p>1.619</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>5</p>
+                            </td>
+                            <td>
+                                <p>Big placket gumming</p>
+                            </td>
+                            <td>
+                                <p>Non sewing</p>
+                            </td>
+                            <td>
+                                <p>Table</p>
+                            </td>
+                            <td>
+                                <p>0.32</p>
+                            </td>
+                            <td>
+                                <p>0.7</p>
+                            </td>
+                            <td>
+                                <p>2.8</p>
+                            </td>
+                            <td>
+                                <p>2.4</p>
+                            </td>
+                            <td>
+                                <p>4.477</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>6</p>
+                            </td>
+                            <td>
+                                <p>Big placket attachment</p>
+                            </td>
+                            <td>
+                                <p>Sewing</p>
+                            </td>
+                            <td>
+                                <p>SNLS</p>
+                            </td>
+                            <td>
+                                <p>1.1</p>
+                            </td>
+                            <td>
+                                <p>2.3</p>
+                            </td>
+                            <td>
+                                <p>3.5</p>
+                            </td>
+                            <td>
+                                <p>1.7</p>
+                            </td>
+                            <td>
+                                <p>13.64</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>7</p>
+                            </td>
+                            <td>
+                                <p>Pleat sewing</p>
+                            </td>
+                            <td>
+                                <p>Sewing</p>
+                            </td>
+                            <td>
+                                <p>SNLS</p>
+                            </td>
+                            <td>
+                                <p>0.26</p>
+                            </td>
+                            <td>
+                                <p>0.5</p>
+                            </td>
+                            <td>
+                                <p>3.5</p>
+                            </td>
+                            <td>
+                                <p>1.7</p>
+                            </td>
+                            <td>
+                                <p>3.223</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>8</p>
+                            </td>
+                            <td>
+                                <p>Sleeve button hole</p>
+                            </td>
+                            <td>
+                                <p>Sewing</p>
+                            </td>
+                            <td>
+                                <p>Button hole m/c</p>
+                            </td>
+                            <td>
+                                <p>0.23</p>
+                            </td>
+                            <td>
+                                <p>0.5</p>
+                            </td>
+                            <td>
+                                <p>3.9</p>
+                            </td>
+                            <td>
+                                <p>1.9</p>
+                            </td>
+                            <td>
+                                <p>3.551</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>9</p>
+                            </td>
+                            <td>
+                                <p>Sleeve button stitch</p>
+                            </td>
+                            <td>
+                                <p>Sewing</p>
+                            </td>
+                            <td>
+                                <p>Button attach m/c</p>
+                            </td>
+                            <td>
+                                <p>0.2</p>
+                            </td>
+                            <td>
+                                <p>0.4</p>
+                            </td>
+                            <td>
+                                <p>3.8</p>
+                            </td>
+                            <td>
+                                <p>1.8</p>
+                            </td>
+                            <td>
+                                <p>2.85</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>10</p>
+                            </td>
+                            <td>
+                                <p>Sleeve extra trim</p>
+                            </td>
+                            <td>
+                                <p>Non sewing</p>
+                            </td>
+                            <td>
+                                <p>Table</p>
+                            </td>
+                            <td>
+                                <p>0.17</p>
+                            </td>
+                            <td>
+                                <p>0.4</p>
+                            </td>
+                            <td>
+                                <p>2.8</p>
+                            </td>
+                            <td>
+                                <p>2.4</p>
+                            </td>
+                            <td>
+                                <p>2.38</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="9" class="text-center align-middle">
+                                <p><strong>TOTAL MACHINE AREA = 43.81 SQ. FT</strong></p>
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table></>
+
+                    <h3>3. BACK SECTION</h3>
+
+                   <div class="table-responsive">
+                    <table class="table table-bordered table-striped-green text-center ">
+                        <tbody>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>SL. NO.</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>OPERATION</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>OPERATION TYPE</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>M/C TYPE</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>S.A.M.</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>NO. OF WORKSTATIONS</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>LENGTH OF M/C</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>BREADTH OF M/C</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>AREA</strong></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>1</p>
+                            </td>
+                            <td>
+                                <p>Size label attachment</p>
+                            </td>
+                            <td>
+                                <p>Sewing</p>
+                            </td>
+                            <td>
+                                <p>SNLS</p>
+                            </td>
+                            <td>
+                                <p>0.14</p>
+                            </td>
+                            <td>
+                                <p>0.3</p>
+                            </td>
+                            <td>
+                                <p>3.5</p>
+                            </td>
+                            <td>
+                                <p>1.7</p>
+                            </td>
+                            <td>
+                                <p>1.7354</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>2</p>
+                            </td>
+                            <td>
+                                <p>Main label attachment</p>
+                            </td>
+                            <td>
+                                <p>Sewing</p>
+                            </td>
+                            <td>
+                                <p>SNLS</p>
+                            </td>
+                            <td>
+                                <p>0.49</p>
+                            </td>
+                            <td>
+                                <p>1.0</p>
+                            </td>
+                            <td>
+                                <p>3.5</p>
+                            </td>
+                            <td>
+                                <p>1.7</p>
+                            </td>
+                            <td>
+                                <p>6.074</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>3</p>
+                            </td>
+                            <td>
+                                <p>Fit label attachment</p>
+                            </td>
+                            <td>
+                                <p>Sewing</p>
+                            </td>
+                            <td>
+                                <p>SNLS</p>
+                            </td>
+                            <td>
+                                <p>0.4</p>
+                            </td>
+                            <td>
+                                <p>0.8</p>
+                            </td>
+                            <td>
+                                <p>3.5</p>
+                            </td>
+                            <td>
+                                <p>1.7</p>
+                            </td>
+                            <td>
+                                <p>4.9583</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>4</p>
+                            </td>
+                            <td>
+                                <p>Yoke attachment</p>
+                            </td>
+                            <td>
+                                <p>Sewing</p>
+                            </td>
+                            <td>
+                                <p>SNCS</p>
+                            </td>
+                            <td>
+                                <p>0.48</p>
+                            </td>
+                            <td>
+                                <p>1.0</p>
+                            </td>
+                            <td>
+                                <p>3.5</p>
+                            </td>
+                            <td>
+                                <p>1.7</p>
+                            </td>
+                            <td>
+                                <p>5.95</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>5</p>
+                            </td>
+                            <td>
+                                <p>Back extra trimming</p>
+                            </td>
+                            <td>
+                                <p>Non sewing</p>
+                            </td>
+                            <td>
+                                <p>Table</p>
+                            </td>
+                            <td>
+                                <p>0.15</p>
+                            </td>
+                            <td>
+                                <p>0.3</p>
+                            </td>
+                            <td>
+                                <p>2.8</p>
+                            </td>
+                            <td>
+                                <p>2.4</p>
+                            </td>
+                            <td>
+                                <p>2.1</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="9">
+                                <p><strong>TOTAL MACHINE AREA = 20.81 SQ. FT.</strong></p>
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table></div>
+                    <hr class="section-padding">
+                    <h3>4. FRONT SECTION</h3>
+                   <div class="table-responsive">
+                       <table class="table table-bordered table-striped-green">
+                        <tbody>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>SL. NO.</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>OPERATION</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>OPERATION TYPE</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>M/C TYPE</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>S.A.M.</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>NO. OF WORKSTATIONS</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>LENGTH OF M/C</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>BREADTH OF M/C</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>AREA</strong></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>1</p>
+                            </td>
+                            <td>
+                                <p>Front placket trim</p>
+                            </td>
+                            <td>
+                                <p>Non sewing</p>
+                            </td>
+                            <td>
+                                <p>SNEC</p>
+                            </td>
+                            <td>
+                                <p>0.3</p>
+                            </td>
+                            <td>
+                                <p>0.6</p>
+                            </td>
+                            <td>
+                                <p>3.5</p>
+                            </td>
+                            <td>
+                                <p>1.8</p>
+                            </td>
+                            <td>
+                                <p>3.938</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>2</p>
+                            </td>
+                            <td>
+                                <p>Front panel trim</p>
+                            </td>
+                            <td>
+                                <p>Non sewing</p>
+                            </td>
+                            <td>
+                                <p>O/L</p>
+                            </td>
+                            <td>
+                                <p>0.2</p>
+                            </td>
+                            <td>
+                                <p>0.4</p>
+                            </td>
+                            <td>
+                                <p>3.5</p>
+                            </td>
+                            <td>
+                                <p>1.9</p>
+                            </td>
+                            <td>
+                                <p>2.771</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>3</p>
+                            </td>
+                            <td>
+                                <p>Placket attachment</p>
+                            </td>
+                            <td>
+                                <p>Sewing</p>
+                            </td>
+                            <td>
+                                <p>Kansai</p>
+                            </td>
+                            <td>
+                                <p>0.37</p>
+                            </td>
+                            <td>
+                                <p>0.8</p>
+                            </td>
+                            <td>
+                                <p>3.9</p>
+                            </td>
+                            <td>
+                                <p>1.9</p>
+                            </td>
+                            <td>
+                                <p>5.87</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>4</p>
+                            </td>
+                            <td>
+                                <p>Pocket hemming</p>
+                            </td>
+                            <td>
+                                <p>Sewing</p>
+                            </td>
+                            <td>
+                                <p>SNLS</p>
+                            </td>
+                            <td>
+                                <p>0.22</p>
+                            </td>
+                            <td>
+                                <p>0.5</p>
+                            </td>
+                            <td>
+                                <p>3.5</p>
+                            </td>
+                            <td>
+                                <p>1.7</p>
+                            </td>
+                            <td>
+                                <p>2.727</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>5</p>
+                            </td>
+                            <td>
+                                <p>Pocket creasing</p>
+                            </td>
+                            <td>
+                                <p>Non sewing</p>
+                            </td>
+                            <td>
+                                <p>Creasing m/c</p>
+                            </td>
+                            <td>
+                                <p>0.2</p>
+                            </td>
+                            <td>
+                                <p>0.4</p>
+                            </td>
+                            <td>
+                                <p>3.6</p>
+                            </td>
+                            <td>
+                                <p>1.9</p>
+                            </td>
+                            <td>
+                                <p>2.759</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>6</p>
+                            </td>
+                            <td>
+                                <p>Pocket iron</p>
+                            </td>
+                            <td>
+                                <p>Non sewing</p>
+                            </td>
+                            <td>
+                                <p>Iron table</p>
+                            </td>
+                            <td>
+                                <p>0.19</p>
+                            </td>
+                            <td>
+                                <p>0.4</p>
+                            </td>
+                            <td>
+                                <p>4.3</p>
+                            </td>
+                            <td>
+                                <p>2.5</p>
+                            </td>
+                            <td>
+                                <p>4.255</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>7</p>
+                            </td>
+                            <td>
+                                <p>Pocket extra trim &amp; pairing with left front</p>
+                            </td>
+                            <td>
+                                <p>Non sewing</p>
+                            </td>
+                            <td>
+                                <p>Scissors</p>
+                            </td>
+                            <td>
+                                <p>0.26</p>
+                            </td>
+                            <td>
+                                <p>0.5</p>
+                            </td>
+                            <td>
+                                <p>2.8</p>
+                            </td>
+                            <td>
+                                <p>2.4</p>
+                            </td>
+                            <td>
+                                <p>3.64</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>8</p>
+                            </td>
+                            <td>
+                                <p>Pocket attachment (v shape)</p>
+                            </td>
+                            <td>
+                                <p>Sewing</p>
+                            </td>
+                            <td>
+                                <p>SNLS</p>
+                            </td>
+                            <td>
+                                <p>0.89</p>
+                            </td>
+                            <td>
+                                <p>1.9</p>
+                            </td>
+                            <td>
+                                <p>3.5</p>
+                            </td>
+                            <td>
+                                <p>1.7</p>
+                            </td>
+                            <td>
+                                <p>11.03</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>9</p>
+                            </td>
+                            <td>
+                                <p>Placket pressing</p>
+                            </td>
+                            <td>
+                                <p>Non sewing</p>
+                            </td>
+                            <td>
+                                <p>Pressing m/c</p>
+                            </td>
+                            <td>
+                                <p>0.2</p>
+                            </td>
+                            <td>
+                                <p>0.4</p>
+                            </td>
+                            <td>
+                                <p>3.5</p>
+                            </td>
+                            <td>
+                                <p>1.7</p>
+                            </td>
+                            <td>
+                                <p>2.475</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>10</p>
+                            </td>
+                            <td>
+                                <p>Button hole</p>
+                            </td>
+                            <td>
+                                <p>Sewing</p>
+                            </td>
+                            <td>
+                                <p>Button hole m/c</p>
+                            </td>
+                            <td>
+                                <p>0.56</p>
+                            </td>
+                            <td>
+                                <p>1.2</p>
+                            </td>
+                            <td>
+                                <p>3.9</p>
+                            </td>
+                            <td>
+                                <p>1.9</p>
+                            </td>
+                            <td>
+                                <p>8.645</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>11</p>
+                            </td>
+                            <td>
+                                <p>Right hem fold</p>
+                            </td>
+                            <td>
+                                <p>Non sewing</p>
+                            </td>
+                            <td>
+                                <p>Pressing m/c</p>
+                            </td>
+                            <td>
+                                <p>0.37</p>
+                            </td>
+                            <td>
+                                <p>0.8</p>
+                            </td>
+                            <td>
+                                <p>3.5</p>
+                            </td>
+                            <td>
+                                <p>1.7</p>
+                            </td>
+                            <td>
+                                <p>4.586</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>12</p>
+                            </td>
+                            <td>
+                                <p>Front button marking</p>
+                            </td>
+                            <td>
+                                <p>Non sewing</p>
+                            </td>
+                            <td>
+                                <p>Table</p>
+                            </td>
+                            <td>
+                                <p>0.2</p>
+                            </td>
+                            <td>
+                                <p>0.4</p>
+                            </td>
+                            <td>
+                                <p>2.8</p>
+                            </td>
+                            <td>
+                                <p>2.4</p>
+                            </td>
+                            <td>
+                                <p>2.8</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>13</p>
+                            </td>
+                            <td>
+                                <p>Front button stitch</p>
+                            </td>
+                            <td>
+                                <p>Sewing</p>
+                            </td>
+                            <td>
+                                <p>Button attach m/c</p>
+                            </td>
+                            <td>
+                                <p>0.71</p>
+                            </td>
+                            <td>
+                                <p>1.5</p>
+                            </td>
+                            <td>
+                                <p>3.8</p>
+                            </td>
+                            <td>
+                                <p>1.8</p>
+                            </td>
+                            <td>
+                                <p>10.12</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>14</p>
+                            </td>
+                            <td>
+                                <p>Left &amp; right pairing</p>
+                            </td>
+                            <td>
+                                <p>Non sewing</p>
+                            </td>
+                            <td>
+                                <p>Table</p>
+                            </td>
+                            <td>
+                                <p>0.13</p>
+                            </td>
+                            <td>
+                                <p>0.3</p>
+                            </td>
+                            <td>
+                                <p>2.8</p>
+                            </td>
+                            <td>
+                                <p>1.8</p>
+                            </td>
+                            <td>
+                                <p>1.365</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="9" class="text-center align-middle">
+                                <p><strong>TOTAL MACHINE AREA = 66.98 SQ. FT</strong></p>
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table></div>
+                    <hr class="section-padding">
+                    <h3>5. FRONT SECTION</h3>
+                    <div class="table-responsive">
+                        <table class="table-bordered table table-striped-green text-center">
+                        <tbody>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>SL. NO.</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>OPERATION</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>OPERATION TYPE</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>M/C TYPE</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>S.A.M.</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>NO. OF WORKSTATIONS</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>LENGTH OF M/C</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>BREADTH OF M/C</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>AREA</strong></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>1</p>
+                            </td>
+                            <td>
+                                <p>Front placket trim</p>
+                            </td>
+                            <td>
+                                <p>Non sewing</p>
+                            </td>
+                            <td>
+                                <p>SNEC</p>
+                            </td>
+                            <td>
+                                <p>0.3</p>
+                            </td>
+                            <td>
+                                <p>0.6</p>
+                            </td>
+                            <td>
+                                <p>3.5</p>
+                            </td>
+                            <td>
+                                <p>1.8</p>
+                            </td>
+                            <td>
+                                <p>3.938</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>2</p>
+                            </td>
+                            <td>
+                                <p>Front panel trim</p>
+                            </td>
+                            <td>
+                                <p>Non sewing</p>
+                            </td>
+                            <td>
+                                <p>O/L</p>
+                            </td>
+                            <td>
+                                <p>0.2</p>
+                            </td>
+                            <td>
+                                <p>0.4</p>
+                            </td>
+                            <td>
+                                <p>3.5</p>
+                            </td>
+                            <td>
+                                <p>1.9</p>
+                            </td>
+                            <td>
+                                <p>2.771</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>3</p>
+                            </td>
+                            <td>
+                                <p>Placket attachment</p>
+                            </td>
+                            <td>
+                                <p>Sewing</p>
+                            </td>
+                            <td>
+                                <p>Kansai</p>
+                            </td>
+                            <td>
+                                <p>0.37</p>
+                            </td>
+                            <td>
+                                <p>0.8</p>
+                            </td>
+                            <td>
+                                <p>3.9</p>
+                            </td>
+                            <td>
+                                <p>1.9</p>
+                            </td>
+                            <td>
+                                <p>5.87</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>4</p>
+                            </td>
+                            <td>
+                                <p>Pocket hemming</p>
+                            </td>
+                            <td>
+                                <p>Sewing</p>
+                            </td>
+                            <td>
+                                <p>SNLS</p>
+                            </td>
+                            <td>
+                                <p>0.22</p>
+                            </td>
+                            <td>
+                                <p>0.5</p>
+                            </td>
+                            <td>
+                                <p>3.5</p>
+                            </td>
+                            <td>
+                                <p>1.7</p>
+                            </td>
+                            <td>
+                                <p>2.727</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>5</p>
+                            </td>
+                            <td>
+                                <p>Pocket creasing</p>
+                            </td>
+                            <td>
+                                <p>Non sewing</p>
+                            </td>
+                            <td>
+                                <p>Creasing m/c</p>
+                            </td>
+                            <td>
+                                <p>0.2</p>
+                            </td>
+                            <td>
+                                <p>0.4</p>
+                            </td>
+                            <td>
+                                <p>3.6</p>
+                            </td>
+                            <td>
+                                <p>1.9</p>
+                            </td>
+                            <td>
+                                <p>2.759</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>6</p>
+                            </td>
+                            <td>
+                                <p>Pocket iron</p>
+                            </td>
+                            <td>
+                                <p>Non sewing</p>
+                            </td>
+                            <td>
+                                <p>Iron table</p>
+                            </td>
+                            <td>
+                                <p>0.19</p>
+                            </td>
+                            <td>
+                                <p>0.4</p>
+                            </td>
+                            <td>
+                                <p>4.3</p>
+                            </td>
+                            <td>
+                                <p>2.5</p>
+                            </td>
+                            <td>
+                                <p>4.255</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>7</p>
+                            </td>
+                            <td>
+                                <p>Pocket extra trim &amp; pairing with left front</p>
+                            </td>
+                            <td>
+                                <p>Non sewing</p>
+                            </td>
+                            <td>
+                                <p>Scissors</p>
+                            </td>
+                            <td>
+                                <p>0.26</p>
+                            </td>
+                            <td>
+                                <p>0.5</p>
+                            </td>
+                            <td>
+                                <p>2.8</p>
+                            </td>
+                            <td>
+                                <p>2.4</p>
+                            </td>
+                            <td>
+                                <p>3.64</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>8</p>
+                            </td>
+                            <td>
+                                <p>Pocket attachment (v shape)</p>
+                            </td>
+                            <td>
+                                <p>Sewing</p>
+                            </td>
+                            <td>
+                                <p>SNLS</p>
+                            </td>
+                            <td>
+                                <p>0.89</p>
+                            </td>
+                            <td>
+                                <p>1.9</p>
+                            </td>
+                            <td>
+                                <p>3.5</p>
+                            </td>
+                            <td>
+                                <p>1.7</p>
+                            </td>
+                            <td>
+                                <p>11.03</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>9</p>
+                            </td>
+                            <td>
+                                <p>Placket pressing</p>
+                            </td>
+                            <td>
+                                <p>Non sewing</p>
+                            </td>
+                            <td>
+                                <p>Pressing m/c</p>
+                            </td>
+                            <td>
+                                <p>0.2</p>
+                            </td>
+                            <td>
+                                <p>0.4</p>
+                            </td>
+                            <td>
+                                <p>3.5</p>
+                            </td>
+                            <td>
+                                <p>1.7</p>
+                            </td>
+                            <td>
+                                <p>2.475</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>10</p>
+                            </td>
+                            <td>
+                                <p>Button hole</p>
+                            </td>
+                            <td>
+                                <p>Sewing</p>
+                            </td>
+                            <td>
+                                <p>Button hole m/c</p>
+                            </td>
+                            <td>
+                                <p>0.56</p>
+                            </td>
+                            <td>
+                                <p>1.2</p>
+                            </td>
+                            <td>
+                                <p>3.9</p>
+                            </td>
+                            <td>
+                                <p>1.9</p>
+                            </td>
+                            <td>
+                                <p>8.645</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>11</p>
+                            </td>
+                            <td>
+                                <p>Right hem fold</p>
+                            </td>
+                            <td>
+                                <p>Non sewing</p>
+                            </td>
+                            <td>
+                                <p>Pressing m/c</p>
+                            </td>
+                            <td>
+                                <p>0.37</p>
+                            </td>
+                            <td>
+                                <p>0.8</p>
+                            </td>
+                            <td>
+                                <p>3.5</p>
+                            </td>
+                            <td>
+                                <p>1.7</p>
+                            </td>
+                            <td>
+                                <p>4.586</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>12</p>
+                            </td>
+                            <td>
+                                <p>Front button marking</p>
+                            </td>
+                            <td>
+                                <p>Non sewing</p>
+                            </td>
+                            <td>
+                                <p>Table</p>
+                            </td>
+                            <td>
+                                <p>0.2</p>
+                            </td>
+                            <td>
+                                <p>0.4</p>
+                            </td>
+                            <td>
+                                <p>2.8</p>
+                            </td>
+                            <td>
+                                <p>2.4</p>
+                            </td>
+                            <td>
+                                <p>2.8</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>13</p>
+                            </td>
+                            <td>
+                                <p>Front button stitch</p>
+                            </td>
+                            <td>
+                                <p>Sewing</p>
+                            </td>
+                            <td>
+                                <p>Button attach m/c</p>
+                            </td>
+                            <td>
+                                <p>0.71</p>
+                            </td>
+                            <td>
+                                <p>1.5</p>
+                            </td>
+                            <td>
+                                <p>3.8</p>
+                            </td>
+                            <td>
+                                <p>1.8</p>
+                            </td>
+                            <td>
+                                <p>10.12</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>14</p>
+                            </td>
+                            <td>
+                                <p>Left &amp; right pairing</p>
+                            </td>
+                            <td>
+                                <p>Non sewing</p>
+                            </td>
+                            <td>
+                                <p>Table</p>
+                            </td>
+                            <td>
+                                <p>0.13</p>
+                            </td>
+                            <td>
+                                <p>0.3</p>
+                            </td>
+                            <td>
+                                <p>2.8</p>
+                            </td>
+                            <td>
+                                <p>1.8</p>
+                            </td>
+                            <td>
+                                <p>1.365</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="9" class="text-center align-middle">
+                                <p><strong>TOTAL MACHINE AREA = 66.98 SQ. FT</strong></p>
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table></div>
+                    <hr class="section-padding">
+                    <h3>5. MACHINE AREA</h3>
+                    <div class="table-responsive">
+                        <table class="table table-bordered table-striped-green w-50">
+                        <tbody>
+                        <tr>
+                            <td >
+                                <p>Total Area for 1 line</p>
+                            </td>
+                            <td>
+                                <p>336.928 sq. ft.</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>Total Area for 10 lines</p>
+                            </td>
+                            <td>
+                                <p>3369 sq. ft.</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>Allowance</p>
+                            </td>
+                            <td>
+                                <p>300%</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>Total Area Machine area</p>
+                            </td>
+                            <td>
+                                <p>13476 sq. ft.</p>
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table></div>
+                    <hr class="section-padding">
+                    <h3>6. FURNITURE</h3>
+                    <div class="table-responsive">
+                        <table class="table table-bordered table-striped-green text-center">
+                        <tbody>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>M</strong><strong>a</strong><strong>c</strong><strong>h</strong><strong>i</strong><strong>n</strong><strong>e</strong><strong>s &amp; tables</strong></p>
+                            </td>
+                            <td  class="text-center align-middle">
+                                <p><strong>No</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>Dimensions (feet)</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>Area (sq. ft.)</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>Total A</strong><strong>r</strong><strong>e</strong><strong>a</strong></p>
+                                <p><strong>(s</strong><strong>q. ft.)</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>Allowance</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>To</strong><strong>tal area</strong></p>
+                                <p><strong>(s</strong><strong>q.feet)</strong></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>Table for Sewing In charge</p>
                             </td>
                             <td>
                                 <p>1</p>
                             </td>
                             <td>
-                                <p>12</p>
+                                <p>5*3</p>
+                            </td>
+                            <td>
+                                <p>15</p>
+                            </td>
+                            <td>
+                                <p>15</p>
+                            </td>
+                            <td>
+                                <p>250%</p>
+                            </td>
+                            <td>
+                                <p>52.5</p>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <p><strong>2</strong></p>
-                            </td>
-                            <td>
-                                <p>Chair</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 2&rsquo;</p>
+                                <p>Chair for Sewing In-charge</p>
                             </td>
                             <td>
                                 <p>3</p>
                             </td>
                             <td>
-                                <p>12</p>
+                                <p>1.5 * 1.3</p>
+                            </td>
+                            <td>
+                                <p>1.95</p>
+                            </td>
+                            <td>
+                                <p>5.85</p>
+                                <p>864</p>
+                            </td>
+                            <td>
+                                <p>250%</p>
+                                <p>400%</p>
+                            </td>
+                            <td>
+                                <p>20.475</p>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <p><strong>3</strong></p>
+                                <p>Table for Supervisors</p>
                             </td>
                             <td>
-                                <p>Sofa</p>
+                                <p>10</p>
                             </td>
                             <td>
-                                <p>2&rsquo; * 6&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>2</p>
-                            </td>
-                            <td>
-                                <p>24</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>4</strong></p>
-                            </td>
-                            <td>
-                                <p>Water Dispenser</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 2&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>4</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>5</strong></p>
-                            </td>
-                            <td>
-                                <p>Dustbin</p>
-                            </td>
-                            <td>
-                                <p>1.8*1.8</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>3.24</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>6</strong></p>
-                            </td>
-                            <td>
-                                <p>First aid box</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo;*1&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>2</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>7</strong></p>
-                            </td>
-                            <td>
-                                <p>Fire extinguisher</p>
-                            </td>
-                            <td>
-                                <p>1&rsquo;*0.8</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>.8</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td colspan="4" class="text-center align-middle">
-                                <p><strong>Area Occupied</strong></p>
-                            </td>
-
-                            <td>
-                                <p><strong>58 sqft.</strong></p>
-                            </td>
-                        </tr>
-                        </tbody>
-                    </table></div>
-
-                    <div    class="img-padding-left-right">
-                    <div class="well w-75">
-                        <p class="img-padding-left-right">Area Required = 2.5 * Area Occupied  = 2.5 * 58  = 145 sqft</p>
-                    </div></div>
-                    <br>
-                    <h5 class="img-padding-left-right">3.2  HUMAN RESOURCE DEPARTMENT</h5>
-                    <p class="img-padding-left-right">The Human Resource Department is one of the most important sections for the factory as the industry that the factory caters to is a labor intensive industry. The Human Resource Department should be located near the reception area.  It shall have one cabin for the Head HR and four cubicles for the junior HR managers namely – Grievances and Complaints officer, Compliance and CSR, Payroll, Training and Recruitment. There needs to be a waiting room for 5 people outside the HR office for people coming in to meet the HR. The HRD shall be one big hall, with glass divisions that are partially frosted. The HR cabin shall have a desk to accommodate a desktop, landline, a printer and a few files. There should be 2 chairs in the HR cabin for visitors and one for the Head HR himself/herself. Whereas, the cubicles for the junior HRs should have a table to accommodate a desktop, landline and a few files and cushioned benches with backrest     large enough to accommodate   5 -7 workers. The cabin and all four cubicles should have a file cabinet and a dustbin necessarily.</p>
-                    <div class="table-responsive img-padding-left-right">
-                    <table class="table table-bordered table-striped-green w-75 text-center">
-                        <tbody>
-                        <tr>
-                            <td>
-                                <p><strong>S.No</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Description</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Dimensions</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Quantity</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Area Occupied</strong></p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>1</strong></p>
-                            </td>
-                            <td>
-                                <p>Table 1</p>
-                            </td>
-                            <td>
-                                <p>4&rsquo; * 3&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>12</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>2</strong></p>
-                            </td>
-                            <td>
-                                <p>Table 2</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 3&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>6</p>
-                            </td>
-                            <td>
-                                <p>36</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>3</strong></p>
-                            </td>
-                            <td>
-                                <p>Chair</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 2&rsquo;</p>
+                                <p>3 * 3</p>
                             </td>
                             <td>
                                 <p>9</p>
                             </td>
                             <td>
-                                <p>36</p>
+                                <p>90</p>
+                            </td>
+                            <td>
+                                <p>150%</p>
+                            </td>
+                            <td>
+                                <p>4320</p>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <p><strong>4</strong></p>
+                                <p>Chairs for Supervisors</p>
                             </td>
+                            <td>
+                                <p>10</p>
+                            </td>
+                            <td>
+                                <p>1.3 * 1.2</p>
+                            </td>
+                            <td>
+                                <p>1.56</p>
+                            </td>
+                            <td>
+                                <p>15.6</p>
+                            </td>
+                            <td>
+                                <p>150%</p>
+                            </td>
+                            <td>
+                                <p>225</p>
+                            </td>
+                        </tr>
+                        <tr>
                             <td>
                                 <p>Racks</p>
                             </td>
                             <td>
-                                <p>2&rsquo; * 3&rsquo;</p>
-                            </td>
-                            <td>
                                 <p>2</p>
                             </td>
                             <td>
-                                <p>12</p>
+                                <p>6*1.2</p>
+                            </td>
+                            <td>
+                                <p>7.2</p>
+                            </td>
+                            <td>
+                                <p>14.4</p>
+                            </td>
+                            <td>
+                                <p>250%</p>
+                            </td>
+                            <td>
+                                <p>39</p>
                             </td>
                         </tr>
                         <tr>
-                            <td>
-                                <p><strong>5</strong></p>
-                            </td>
                             <td>
                                 <p>Almirah</p>
                             </td>
                             <td>
-                                <p>2&rsquo; * 3&rsquo;</p>
+                                <p>2</p>
                             </td>
                             <td>
-                                <p>2</p>
+                                <p>6 * 2</p>
                             </td>
                             <td>
                                 <p>12</p>
                             </td>
+                            <td>
+                                <p>24</p>
+                            </td>
+                            <td>
+                                <p>250%</p>
+                            </td>
+                            <td>
+                                <p>50.4</p>
+                            </td>
                         </tr>
                         <tr>
-                            <td>
-                                <p><strong>6</strong></p>
-                            </td>
                             <td>
                                 <p>Dustbin</p>
                             </td>
                             <td>
-                                <p>1.8*1.8</p>
+                                <p>140</p>
                             </td>
                             <td>
-                                <p>1</p>
+                                <p>0.8 * 0.8</p>
                             </td>
                             <td>
-                                <p>3.24</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>7</strong></p>
+                                <p>0.64</p>
                             </td>
                             <td>
-                                <p>First aid box</p>
+                                <p>89.6</p>
                             </td>
                             <td>
-                                <p>2&rsquo;*1&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>3</p>
-                            </td>
-                            <td>
-                                <p>6</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>8</strong></p>
-                            </td>
-                            <td>
-                                <p>Fire extinguisher</p>
-                            </td>
-                            <td>
-                                <p>1&rsquo;*0.8</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>.8</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td colspan="4" class="text-center align-middle">
-                                <p><strong>Area Occupied</strong></p>
-                            </td>
-
-                            <td>
-                                <p><strong>119 sq. ft.</strong></p>
-                            </td>
-                        </tr>
-                        </tbody>
-                    </table></>
-                    <div class="well w-75">
-                        <p class="img-padding-left-right">Area Required = 3.5 * Area Occupied = 3.5 * 119 =414 sq. ft.</p>
-                    </div>
-                    <br>
-                    <h5 >3.3  MARKETING & MERCHANDISING</h5>
-                    <p >Merchandising department consists of q cabin for head of the department and 6 cubicles. HOD cabin will have 1 table, 1 chair for merchandiser, 3 for visitors, 1 rack and dustbin. There will be 6 cubicles:</p>
-                    <ol class="img-padding-left-right">
-                        <li>4 for Junior Merchandisers</li>
-                        <li>2 for Sourcing people</li>
-                    </ol>
-                    <div   class="table-responsive" >
-                    <table class="table tabe table-striped-green text-center w-75">
-                        <tbody>
-                        <tr>
-                            <td>
-                                <p><strong>S.No</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>People involved </strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Tables Required</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Chairs Required</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Racks</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Almirahs</strong></p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>1.</strong></p>
-                            </td>
-                            <td>
-                                <p>1 Senior Merchandiser</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>3</p>
-                            </td>
-                            <td>
-                                <p>2</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>2.</strong></p>
-                            </td>
-                            <td>
-                                <p>4 Asst. merchandisers</p>
-                            </td>
-                            <td>
-                                <p>4</p>
-                            </td>
-                            <td>
-                                <p>12</p>
-                            </td>
-                            <td>
-                                <p>-</p>
-                            </td>
-                            <td>
-                                <p>4</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>3.</strong></p>
-                            </td>
-                            <td>
-                                <p>2 sourcing in charge</p>
-                            </td>
-                            <td>
-                                <p>2</p>
-                            </td>
-                            <td>
-                                <p>6</p>
-                            </td>
-                            <td>
-                                <p>-</p>
-                            </td>
-                            <td>
-                                <p>2</p>
-                            </td>
-                        </tr>
-                        </tbody>
-                    </table></div>
-                    <div    class="table-responsive">
-                    <table class="table table-bordered table-striped-green w-75">
-                        <tbody>
-                        <tr>
-                            <td>
-                                <p><strong>S.No</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Description</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Dimensions</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Quantity</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Area Occupied</strong></p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>1</strong></p>
-                            </td>
-                            <td>
-                                <p>Table 1</p>
-                            </td>
-                            <td>
-                                <p>2.5&rsquo; * 5&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>7</p>
-                            </td>
-                            <td>
-                                <p>87.5</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>2</strong></p>
-                            </td>
-                            <td>
-                                <p>Chair</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 2&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>21</p>
+                                <p>250%</p>
                             </td>
                             <td>
                                 <p>84</p>
@@ -554,1107 +2166,111 @@
                         </tr>
                         <tr>
                             <td>
-                                <p><strong>3</strong></p>
+                                <p>Inspection tables</p>
                             </td>
                             <td>
-                                <p>Racks</p>
+                                <p>70</p>
                             </td>
                             <td>
-                                <p>2&rsquo; * 3&rsquo;</p>
+                                <p>15*6</p>
                             </td>
                             <td>
-                                <p>2</p>
+                                <p>90</p>
                             </td>
                             <td>
-                                <p>12</p>
+                                <p>6300</p>
+                            </td>
+                            <td>
+                                <p>200%</p>
+                            </td>
+                            <td>
+                                <p>313.6</p>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <p><strong>4</strong></p>
+                                <p>Bundling and ticketing table</p>
                             </td>
                             <td>
-                                <p>Almirah</p>
+                                <p>70</p>
                             </td>
                             <td>
-                                <p>2&rsquo; * 3&rsquo;</p>
+                                <p>15*6</p>
                             </td>
                             <td>
-                                <p>7</p>
+                                <p>90</p>
                             </td>
                             <td>
-                                <p>42</p>
+                                <p>6300</p>
+                            </td>
+                            <td>
+                                <p>200%</p>
+                            </td>
+                            <td>
+                                <p>18900</p>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <p><strong>5</strong></p>
+                                <p>Trolleys</p>
                             </td>
                             <td>
-                                <p>Dustbin</p>
+                                <p>20</p>
                             </td>
                             <td>
-                                <p>1.8*1.8</p>
+                                <p>8.6 * 3.6</p>
                             </td>
                             <td>
-                                <p>7</p>
+                                <p>30.96</p>
                             </td>
                             <td>
-                                <p>23</p>
+                                <p>309.6</p>
+                            </td>
+                            <td>
+                                <p>300%</p>
+                            </td>
+                            <td>
+                                <p>18900</p>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <p><strong>6</strong></p>
+                                <p>Supermarket</p>
                             </td>
                             <td>
-                                <p>First aid box</p>
+                                <p>14</p>
                             </td>
                             <td>
-                                <p>2&rsquo;*1&rsquo;</p>
+                                <p>20*6</p>
                             </td>
                             <td>
-                                <p>1</p>
+                                <p>120</p>
                             </td>
                             <td>
-                                <p>2</p>
+                                <p>1680</p>
+                            </td>
+                            <td>
+                                <p>250%</p>
+                            </td>
+                            <td>
+                                <p>1238.4</p>
                             </td>
                         </tr>
                         <tr>
-                            <td>
-                                <p><strong>7</strong></p>
+                            <td colspan="6" class="text-center align-middle">
+                                <p><strong> TOTAL AREA</strong></p>
                             </td>
                             <td>
-                                <p>Fire extinguisher</p>
-                            </td>
-                            <td>
-                                <p>1&rsquo;*0.8</p>
-                            </td>
-                            <td>
-                                <p>2</p>
-                            </td>
-                            <td>
-                                <p>1.6</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td colspan="4" class="text-center align-middle">
-                                <p><strong>Area Occupied</strong></p>
-                            </td>
-
-                            <td>
-                                <p><strong>252 </strong><strong>&nbsp;sq.ft</strong></p>
+                                <p><strong>50023.38</strong></p>
                             </td>
                         </tr>
                         </tbody>
-                    </table></div>
-
-                <div class="well w-75">
-                    <p class="img-padding-left-right">Total area occupied = 2.5 * Area Occupied = 2.5 * 252= 630 sq. ft.</p>
-                </div>
-                    <br>
-                    <h5 >3.4	FINANCE AND ACCOUNTS</h5>
-                    <p>Finance & accounts department is responsible for all the transactions of the company. This department will have 1 head accountant and 2 junior accountants. There will be 1 cabin where all three officials will seat. There will be 3 chair and 1 table for senior accountant, 1 rack, 2 tables and 2 chairs for assistants , one water dispenser and one dustbin.3 extra chairs will be there for visitors.</p>
-                    <div class="table-responsive"   >
-                    <table class="table table-bordered table-striped-green text-center w-75">
-                        <tbody>
-                        <tr>
-                            <td>
-                                <p><strong>S.No</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Description</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Dimensions</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Quantity</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Area Occupied</strong></p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>1</strong></p>
-                            </td>
-                            <td>
-                                <p>Table 1</p>
-                            </td>
-                            <td>
-                                <p>4&rsquo; * 2&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>5</p>
-                            </td>
-                            <td>
-                                <p>40</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>2</strong></p>
-                            </td>
-                            <td>
-                                <p>Chair</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 2&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>7</p>
-                            </td>
-                            <td>
-                                <p>28</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>3</strong></p>
-                            </td>
-                            <td>
-                                <p>Almirah</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 3&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>4</p>
-                            </td>
-                            <td>
-                                <p>24</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>4</strong></p>
-                            </td>
-                            <td>
-                                <p>Water Dispenser</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 2&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>4</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>10</strong></p>
-                            </td>
-                            <td>
-                                <p>Dustbin</p>
-                            </td>
-                            <td>
-                                <p>1.8*1.8</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>3.24</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>`12</strong></p>
-                            </td>
-                            <td>
-                                <p>First aid box</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo;*1&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>2</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>13</strong></p>
-                            </td>
-                            <td>
-                                <p>Fire extinguisher</p>
-                            </td>
-                            <td>
-                                <p>1&rsquo;*0.8</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>.8</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>Area Occupied</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>&nbsp;-</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>&nbsp;-</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>&nbsp;-</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>102</strong><strong> sq.ft</strong></p>
-                            </td>
-                        </tr>
-                        </tbody>
-                    </table></div>
-                    <div class="well w-75">
-                        <p class="img-padding-left-right">Total area occupied = 2.5 * Area Occupied   = 2.5 *102  = 255 sq. ft</p>
+                    </table>
                     </div>
-                    <br>
-                    <h5 >3.5	CONFERENCE HALL</h5>
-                    <p>The conference hall is the place where all the important meetings happen and all financial decisions are made. Therefore, the room should have a soothing environment.  Walls should be of  a  light  color  and  the  interiors  should  be pacifying. The room should accommodate 15 people at a time. There should be a white board/wall for projection.  A big  table  and  chairs  to  accommodate  15 people  and  a  fixed  projector  with  a good sound system should be setup. A television should also be available. There must be space to display running and upcoming styles.</p>
-                   <div class="table-responsive">
-                    <table class="table table-bordered table-striped-green w-75 text-center">
-                        <tbody>
-                        <tr>
-                            <td>
-                                <p><strong>S.No</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Description</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Dimensions</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Quantity</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Area Occupied</strong></p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>1</strong></p>
-                            </td>
-                            <td>
-                                <p>Table 1</p>
-                            </td>
-                            <td>
-                                <p>14&rsquo; * 4&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>56</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>2</strong></p>
-                            </td>
-                            <td>
-                                <p>Chair</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 2&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>15</p>
-                            </td>
-                            <td>
-                                <p>60</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>3</strong></p>
-                            </td>
-                            <td>
-                                <p>Rack</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 3&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>6</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>4</strong></p>
-                            </td>
-                            <td>
-                                <p>Display area</p>
-                            </td>
-                            <td>
-                                <p>5*3</p>
-                            </td>
-                            <td>
-                                <p>2</p>
-                            </td>
-                            <td>
-                                <p>30</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>5</strong></p>
-                            </td>
-                            <td>
-                                <p>Water Dispenser</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 2&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>4</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>6</strong></p>
-                            </td>
-                            <td>
-                                <p>Dustbin</p>
-                            </td>
-                            <td>
-                                <p>1.8*1.8</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>3.24</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>7</strong></p>
-                            </td>
-                            <td>
-                                <p>First aid box</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo;*1&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>2</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>8</strong></p>
-                            </td>
-                            <td>
-                                <p>Fire extinguisher</p>
-                            </td>
-                            <td>
-                                <p>1&rsquo;*0.8</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>.8</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td colspan="4" class="text-center align-middle">
-                                <p><strong>Area Occupied</strong></p>
-                            </td>
-
-                            <td>
-                                <p><strong>162 sq.ft</strong></p>
-                            </td>
-                        </tr>
-                        </tbody>
-                    </table></div>
-                    <div class="well w-75">
-                        <p class="img-padding-left-right">Total area occupied = 2.5 * Area Occupied = 2.5 * 162 = 405  sq. ft.</p>
-                    </div>
-                    <br>
-                    <h5 >3.6	IT DEPARTMENT</h5>
-                    <p>IT department is responsible for maintain all softwares and software related issue. It dept. should have technically sound IT people. It department will have 1 head technician and 3 assistants. 1 cabin will be allotted to the HOD which will have facilities like, table, 3 chairs, 1 rack, water dispenser etc.  One table and one chair will be allotted to other technicians.</p>
-                   <div class="table-responsive">
-                    <table class="table table-bordered table-striped-green w-75 text-center">
-                        <tbody>
-                        <tr>
-                            <td>
-                                <p><strong>S.No</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Description</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Dimensions</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Quantity</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Area Occupied</strong></p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>1</strong></p>
-                            </td>
-                            <td>
-                                <p>Table 1</p>
-                            </td>
-                            <td>
-                                <p>4&rsquo; * 3&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>5</p>
-                            </td>
-                            <td>
-                                <p>60</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>2</strong></p>
-                            </td>
-                            <td>
-                                <p>Chair</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 2&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>7</p>
-                            </td>
-                            <td>
-                                <p>28</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>3</strong></p>
-                            </td>
-                            <td>
-                                <p>Racks</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 3&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>6</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>4</strong></p>
-                            </td>
-                            <td>
-                                <p>Almirah</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo; * 3&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>5</p>
-                            </td>
-                            <td>
-                                <p>30</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>7</strong></p>
-                            </td>
-                            <td>
-                                <p>Dustbin</p>
-                            </td>
-                            <td>
-                                <p>1.8*1.8</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>3.24</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>8</strong></p>
-                            </td>
-                            <td>
-                                <p>First aid box</p>
-                            </td>
-                            <td>
-                                <p>2&rsquo;*1&rsquo;</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>2</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p><strong>9</strong></p>
-                            </td>
-                            <td>
-                                <p>Fire extinguisher</p>
-                            </td>
-                            <td>
-                                <p>1&rsquo;*0.8</p>
-                            </td>
-                            <td>
-                                <p>1</p>
-                            </td>
-                            <td>
-                                <p>.8</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td colspan="4" class="text-center align-middle">
-                                <p><strong>Area Occupied</strong></p>
-                            </td>
-
-                            <td>
-                                <p><strong>130</strong><strong> sq.ft</strong></p>
-                            </td>
-                        </tr>
-                        </tbody>
-                    </table></div>
-                    </div>
-                        <div class="img-padding-left-right">
-                        <div class="well w-75">
-                            <p class="img-padding-left-right text-center align-middle">Total area occupied= 2.5 * 130 = 325 sq. ft.</p>
-                        </div>
-                    <h5 >3.7	MD CABIN</h5>
-
-                            <div    class="table-responsive">
-                            <table class="table table-bordered table-striped-green w-75 text-center">
-                                <tbody>
-                                <tr>
-                                    <td>
-                                        <p><strong>S.No</strong></p>
-                                    </td>
-                                    <td>
-                                        <p><strong>Description</strong></p>
-                                    </td>
-                                    <td>
-                                        <p><strong>Dimensions</strong></p>
-                                    </td>
-                                    <td>
-                                        <p><strong>Quantity</strong></p>
-                                    </td>
-                                    <td>
-                                        <p><strong>Area Occupied</strong></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>1</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>Table 1</p>
-                                    </td>
-                                    <td>
-                                        <p>5&rsquo; * 2.5&rsquo;</p>
-                                    </td>
-                                    <td>
-                                        <p>1</p>
-                                    </td>
-                                    <td>
-                                        <p>12.5</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>2</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>Chair</p>
-                                    </td>
-                                    <td>
-                                        <p>2&rsquo; * 2&rsquo;</p>
-                                    </td>
-                                    <td>
-                                        <p>3</p>
-                                    </td>
-                                    <td>
-                                        <p>12</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>3</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>Racks</p>
-                                    </td>
-                                    <td>
-                                        <p>2&rsquo; * 3&rsquo;</p>
-                                    </td>
-                                    <td>
-                                        <p>2</p>
-                                    </td>
-                                    <td>
-                                        <p>12</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>4</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>Almirah</p>
-                                    </td>
-                                    <td>
-                                        <p>2&rsquo; * 3&rsquo;</p>
-                                    </td>
-                                    <td>
-                                        <p>1</p>
-                                    </td>
-                                    <td>
-                                        <p>6</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td colspan="4">
-                                        <p><strong>Area Occupied</strong></p>
-                                    </td>
-
-                                    <td>
-                                        <p><strong>42.5 sq.ft</strong></p>
-                                    </td>
-                                </tr>
-                                </tbody>
-                            </table></div>
-                            <div class="well w-75">
-                                <p class="img-padding-left-right">Total area occupied = 2.5 * Area Occupied
-                                    = 2.5 * 42.5   = 106.25  sqft
-                                </p>
-                            </div>
+                    <hr class="section-padding">
 
 
-                            <br>
-                            <h5 >3.8	GENERAL MANAGER CABIN</h5>
-                            <div    class="table-responsive">
-                                <table class="table table-bordered table-striped-green w-75 text-center">
-                                    <tbody>
-                                    <tr>
-                                        <td>
-                                            <p><strong>S.No</strong></p>
-                                        </td>
-                                        <td>
-                                            <p><strong>Description</strong></p>
-                                        </td>
-                                        <td>
-                                            <p><strong>Dimensions</strong></p>
-                                        </td>
-                                        <td>
-                                            <p><strong>Quantity</strong></p>
-                                        </td>
-                                        <td>
-                                            <p><strong>Area Occupied</strong></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <p><strong>1</strong></p>
-                                        </td>
-                                        <td>
-                                            <p>Table 1</p>
-                                        </td>
-                                        <td>
-                                            <p>5&rsquo; * 2.5&rsquo;</p>
-                                        </td>
-                                        <td>
-                                            <p>1</p>
-                                        </td>
-                                        <td>
-                                            <p>12.5</p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <p><strong>2</strong></p>
-                                        </td>
-                                        <td>
-                                            <p>Chair</p>
-                                        </td>
-                                        <td>
-                                            <p>2&rsquo; * 2&rsquo;</p>
-                                        </td>
-                                        <td>
-                                            <p>3</p>
-                                        </td>
-                                        <td>
-                                            <p>12</p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <p><strong>3</strong></p>
-                                        </td>
-                                        <td>
-                                            <p>Racks</p>
-                                        </td>
-                                        <td>
-                                            <p>2&rsquo; * 3&rsquo;</p>
-                                        </td>
-                                        <td>
-                                            <p>2</p>
-                                        </td>
-                                        <td>
-                                            <p>12</p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <p><strong>4</strong></p>
-                                        </td>
-                                        <td>
-                                            <p>Almirah</p>
-                                        </td>
-                                        <td>
-                                            <p>2&rsquo; * 3&rsquo;</p>
-                                        </td>
-                                        <td>
-                                            <p>1</p>
-                                        </td>
-                                        <td>
-                                            <p>6</p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td colspan="4">
-                                            <p><strong>Area Occupied</strong></p>
-                                        </td>
-
-                                        <td>
-                                            <p><strong>42.5 sq.ft</strong></p>
-                                        </td>
-                                    </tr>
-                                    </tbody>
-                                </table></div>
-                            <div class="well w-75">
-                                <p class="img-padding-left-right">Total area occupied = 2.5 * Area Occupied
-                                    = 2.5 * 42.5   = 106.25  sqft
-                                </p>
-                            </div>
-                            <br>
-                            <h5 >3.9  MEETING ROOM</h5>
-                            <div    class="table-responsive">
-                                <table class="table table-bordered table-striped-green w-75">
-                                <tbody>
-                                <tr>
-                                    <td>
-                                        <p><strong>S.No</strong></p>
-                                    </td>
-                                    <td>
-                                        <p><strong>Description</strong></p>
-                                    </td>
-                                    <td>
-                                        <p><strong>Dimensions</strong></p>
-                                    </td>
-                                    <td>
-                                        <p><strong>Quantity</strong></p>
-                                    </td>
-                                    <td>
-                                        <p><strong>Area Occupied</strong></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>1</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>Table 1</p>
-                                    </td>
-                                    <td>
-                                        <p>7.5&rsquo; * 3.5&rsquo;</p>
-                                    </td>
-                                    <td>
-                                        <p>1</p>
-                                    </td>
-                                    <td>
-                                        <p>26.25</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>2</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>Chair</p>
-                                    </td>
-                                    <td>
-                                        <p>2&rsquo; * 2&rsquo;</p>
-                                    </td>
-                                    <td>
-                                        <p>8</p>
-                                    </td>
-                                    <td>
-                                        <p>32</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>3</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>Rack</p>
-                                    </td>
-                                    <td>
-                                        <p>2&rsquo; * 3&rsquo;</p>
-                                    </td>
-                                    <td>
-                                        <p>1</p>
-                                    </td>
-                                    <td>
-                                        <p>6</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>4</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>Almirah</p>
-                                    </td>
-                                    <td>
-                                        <p>2&rsquo; * 3&rsquo;</p>
-                                    </td>
-                                    <td>
-                                        <p>1</p>
-                                    </td>
-                                    <td>
-                                        <p>6</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td colspan="4">
-                                        <p>Area Occupied</p>
-                                    </td>
-
-                                    <td>
-                                        <p>70sq.ft</p>
-                                    </td>
-                                </tr>
-                                </tbody>
-                            </table></div>
-                            <div class="well w-75">
-                            <p class="img-padding-left-right">Total area occupied = 2.5 * Area Occupied = 2.5 * 70 = 175 sqft
-                            </p></div>
-                            <br>
-                            <h5 >3.10  TRAINING CENTRE</h5>
-                            <div class="table-responsive"   >
-                            <table class="table table-bordered table-striped-green w-75">
-                                <tbody>
-                                <tr>
-                                    <td>
-                                        <p><strong>S.No</strong></p>
-                                    </td>
-                                    <td>
-                                        <p><strong>Description</strong></p>
-                                    </td>
-                                    <td>
-                                        <p><strong>Dimensions</strong></p>
-                                    </td>
-                                    <td>
-                                        <p><strong>Quantity</strong></p>
-                                    </td>
-                                    <td>
-                                        <p><strong>Area Occupied</strong></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>1</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>Table 1</p>
-                                    </td>
-                                    <td>
-                                        <p>2.5&rsquo; * 5&rsquo;</p>
-                                    </td>
-                                    <td>
-                                        <p>2</p>
-                                    </td>
-                                    <td>
-                                        <p>25</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>2</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>Table 2</p>
-                                    </td>
-                                    <td>
-                                        <p>2&rsquo;*3&rsquo;</p>
-                                    </td>
-                                    <td>
-                                        <p>2</p>
-                                    </td>
-                                    <td>
-                                        <p>12</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>3</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>Chair 1</p>
-                                    </td>
-                                    <td>
-                                        <p>2&rsquo; * 2&rsquo;</p>
-                                    </td>
-                                    <td>
-                                        <p>60</p>
-                                    </td>
-                                    <td>
-                                        <p>240</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>4</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>Chair 2</p>
-                                    </td>
-                                    <td>
-                                        <p>1.12&rsquo; * 1.2&rsquo;</p>
-                                    </td>
-                                    <td>
-                                        <p>24</p>
-                                    </td>
-                                    <td>
-                                        <p>32.25</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>5</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>Almirah</p>
-                                    </td>
-                                    <td>
-                                        <p>2&rsquo; * 3&rsquo;</p>
-                                    </td>
-                                    <td>
-                                        <p>1</p>
-                                    </td>
-                                    <td>
-                                        <p>6</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>6</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>Machines</p>
-                                    </td>
-                                    <td>
-                                        <p>4&rsquo; * 2&rsquo;</p>
-                                    </td>
-                                    <td>
-                                        <p>24</p>
-                                    </td>
-                                    <td>
-                                        <p>192</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>7</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>Dustbin</p>
-                                    </td>
-                                    <td>
-                                        <p>1.8*1.8</p>
-                                    </td>
-                                    <td>
-                                        <p>24</p>
-                                    </td>
-                                    <td>
-                                        <p>77.8</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>8</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>First aid box</p>
-                                    </td>
-                                    <td>
-                                        <p>2&rsquo;*1&rsquo;</p>
-                                    </td>
-                                    <td>
-                                        <p>1</p>
-                                    </td>
-                                    <td>
-                                        <p>2</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p><strong>9</strong></p>
-                                    </td>
-                                    <td>
-                                        <p>Fire extinguisher</p>
-                                    </td>
-                                    <td>
-                                        <p>1&rsquo;*0.8</p>
-                                    </td>
-                                    <td>
-                                        <p>2</p>
-                                    </td>
-                                    <td>
-                                        <p>1.6</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td colspan="4" class="text-center align-middle">
-                                        <p><strong>Area Occupied</strong></p>
-                                    </td>
-
-                                    <td>
-                                        <p><strong>588.65 sq.ft</strong></p>
-                                    </td>
-                                </tr>
-                                </tbody>
-                            </table></div>
-                            <div class="well w-75">
-                                <p class="img-padding-left-right">Total area occupied = 2.5 * Area Occupied = 2.5 * 588.65 = 1471.6 sqft
-                                </p>
-                            </div>
+                    <p class="h3 text-center"><strong>Total Sewing Area for Shirts = 63499.4 sq. ft.</strong></p>
 
                         </div>
 
