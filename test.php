@@ -61,8 +61,16 @@
 <!--              </form>-->
 <!--              <p id="form-value">THIS IS VALUE</p>-->
               <!-- Button trigger modal -->
-              <form onsubmit="return doSomething();" id="form1"></form>
+              <form onsubmit="return doSomething();" id="form1" ></form>
+              <form onsubmit="return doSavings();" id="form2" ></form>
               <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+                  Launch demo modal
+              </button>
+              <p id="discc">123</p>
+<!--              <form onsubmit="return disco();" id="form2">-->
+<!--              <input type="submit" class="btn btn-primary" />-->
+<!--              </form>-->
+              <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal1">
                   Launch demo modal
               </button>
               
@@ -703,135 +711,638 @@
 
                   </div>
           </div>
+
+              <!-- Modal -->
+              <div class="modal fade" id="exampleModal1" role="dialog">
+                  <div class="modal-dialog modal-lg">
+
+                      <!-- Modal content-->
+                      <div class="modal-content">
+                          <div class="modal-header ">
+
+                              <h4 class="modal-title" id="savings-value">Check the boxes to know your savings.</h4>
+                              <button type="button" class="close" data-dismiss="modal">&times;</button>
+                          </div>
+                          <div class="modal-body" style="height:70vh;overflow:scroll;">
+                              <div class="table-responsive">
+                                  <table class="table-condensed table-bordered">
+                                      <tbody>
+                                      <tr>
+                                          <td colspan="4" class="text-center align-middle">
+                                              <p><strong><u>Machine Type : SNLS</u></strong></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td colspan="4" class="text-center align-middle">
+                                              <p><u>BRAND : JUKI</u></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p><strong>Model No.</strong></p>
+                                          </td>
+                                          <td>
+                                              <p><strong>&nbsp;Features:</strong></p>
+                                          </td>
+                                          <td>
+                                              <p><strong>Power saving</strong></p>
+                                          </td>
+                                          <td>&nbsp;</td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p>DDL-9000B</p>
+                                          </td>
+                                          <td>
+                                              <p>&middot; Direct Drive mechanism</p>
+                                              <p>&middot; Digitalized vertically- and horizontally-driven feed mechanism</p>
+                                              <p>&middot; Optimum adjustment can be stored, on a material-by-material basis, in memory and can be reproduced with ease.</p>
+                                          </td>
+                                          <td>
+                                              <p>70%</p>
+                                          </td>
+                                          <td>
+                                              <p><input class="savingCheckbox" value="70" type="checkbox" form="form2" title="Select to know your score"></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p>DDL-900B</p>
+                                          </td>
+                                          <td>
+                                              <p>&middot; Direct-drive, High-speed with Automatic Thread Trimmer</p>
+                                              <p>&middot; Compact and small energy-saving direct-drive motor.</p>
+                                              <p>&middot; Increased material penetrating power of the needle by approximately 10%</p>
+                                          </td>
+                                          <td>
+                                              <p>25%</p>
+                                          </td>
+                                          <td>
+                                              <p><input class="savingCheckbox" value="25" type="checkbox" form="form2" title="Select to know your score"></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p>DDL-8700-7/SC920C/M92</p>
+                                          </td>
+                                          <td>
+                                              <p>&middot; Complies with the "Juki Group Green Procurement Guidelines"</p>
+                                              <p>&middot; Mass of unrecyclable parts of the sewing machine has been reduced</p>
+                                              <p>&middot; Mass of packaging has also been reduced by 17 %</p>
+                                          </td>
+                                          <td>
+                                              <p>16%</p>
+                                          </td>
+                                          <td>
+                                              <p><input class="savingCheckbox" value="16" type="checkbox" form="form2" title="Select to know your score"></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p>DLN-9010A</p>
+                                          </td>
+                                          <td>
+                                              <p>&middot; Direct-drive system</p>
+                                              <p>&middot; Elimination of the oil pan</p>
+                                              <p>&middot; Thread trimming speed is increased 1.5 times</p>
+                                          </td>
+                                          <td>
+                                              <p>20%</p>
+                                          </td>
+                                          <td>
+                                              <p><input class="savingCheckbox" value="20" type="checkbox" form="form2" title="Select to know your score"></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td colspan="4" class="text-center align-middle">
+                                              <p><strong><u>Machine Type : DNLS</u></strong></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td colspan="4" class="text-center align-middle">
+                                              <p><u>BRAND : JUKI</u></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p><strong>Model No.</strong></p>
+                                          </td>
+                                          <td>
+                                              <p><strong> Features:</strong></p>
+                                          </td>
+                                          <td>
+                                              <p><strong>Power saving</strong></p>
+                                          </td>
+                                          <td>&nbsp;</td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p>LH-3500A Series</p>
+                                          </td>
+                                          <td>
+                                              <p>&middot; Direct-drive mechanism</p>
+                                              <p>&middot; Semi-dry head, new thread tension control mechanism and improved oiling system</p>
+                                              <p>&middot; "Large-hook type" uses a hook 1.7 times larger than standard<br />&nbsp;Increased size reduces the frequency of bobbin-thread changes</p>
+                                          </td>
+                                          <td>
+                                              <p>21%</p>
+                                          </td>
+                                          <td>
+                                              <p><input class="savingCheckbox" value="21" type="checkbox" form="form2" title="Select to know your score"></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td colspan="4" class="text-center align-middle">
+                                              <p><u>BRAND : BROTHERS</u></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p>T-8421C</p>
+                                          </td>
+                                          <td>
+                                              <p>&middot; Time required to reach the maximum sewing speed is approximately 25% less</p>
+                                          </td>
+                                          <td>
+                                              <p>61%</p>
+                                          </td>
+                                          <td>
+                                              <p><input class="savingCheckbox" value="61" type="checkbox" form="form2" title="Select to know your score"></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p>T-8422C</p>
+                                          </td>
+                                          <td>
+                                              <p>&middot; Easy Thread Trimming Timing Adjustment</p>
+                                              <p>&middot; Low Noise and Low Vibration for Stress-Free Operation</p>
+                                              <p>&middot; Environment-Conscious</p>
+                                          </td>
+                                          <td>
+                                              <p>61%</p>
+                                          </td>
+                                          <td>
+                                              <p><input class="savingCheckbox" value="61" type="checkbox" form="form2" title="Select to know your score"></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td colspan="4" class="text-center align-middle">
+                                              <p><strong><u>Machine Type : ZIG-ZAG</u></strong></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td colspan="4" class="text-center align-middle">
+                                              <p><u>BRAND : JUKI</u></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p><strong>Model No.</strong></p>
+                                          </td>
+                                          <td>
+                                              <p><strong> Features:</strong></p>
+                                          </td>
+                                          <td>
+                                              <p><strong>Power saving</strong></p>
+                                          </td>
+                                          <td>&nbsp;</td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p>LZ-2280A Series</p>
+                                          </td>
+                                          <td>
+                                              <p>&middot; Computer-controlled, Direct-drive mechanism</p>
+                                              <p>&middot; Automatic Thread Trimmer (quick reverse type)</p>
+                                          </td>
+                                          <td>
+                                              <p>8.6%</p>
+                                          </td>
+                                          <td>
+                                              <p><input class="savingCheckbox" value="9" type="checkbox" form="form2" title="Select to know your score"></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td colspan="4" class="text-center align-middle">
+                                              <p><u>BRAND : BROTHERS</u></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p>Z-8550A</p>
+                                          </td>
+                                          <td>
+                                              <p>&middot; Electronic Direct Drive</p>
+                                              <p>&middot; Low noise and Low vibration</p>
+                                          </td>
+                                          <td>
+                                              <p>48%</p>
+                                          </td>
+                                          <td>
+                                              <p><input class="savingCheckbox" value="48" type="checkbox" form="form2" title="Select to know your score"></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p>Z-8560A</p>
+                                          </td>
+                                          <td>
+                                              <p>&middot; Electronic Direct Drive</p>
+                                              <p>&middot; Compact knife mechanism in a single unit enables simple maintenance</p>
+                                          </td>
+                                          <td>
+                                              <p>48%</p>
+                                          </td>
+                                          <td>
+                                              <p><input class="savingCheckbox" value="48" type="checkbox" form="form2" title="Select to know your score"></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td colspan="4" class="text-center align-middle">
+                                              <p><strong><u>Machine Type : COVERSTITCH</u></strong></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td colspan="4" class="text-center align-middle">
+                                              <p><u>BRAND : JUKI</u></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p><strong>Model No.</strong></p>
+                                          </td>
+                                          <td>
+                                              <p><strong> Features:</strong></p>
+                                          </td>
+                                          <td>
+                                              <p><strong>Power saving</strong></p>
+                                          </td>
+                                          <td>&nbsp;</td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p>MF-7500 MF-7500D Series</p>
+                                          </td>
+                                          <td>
+                                              <p>&middot; High-speed, Flat-bed, Top &amp; Bottom Coverstitch Machine</p>
+                                          </td>
+                                          <td>
+                                              <p>29%</p>
+                                          </td>
+                                          <td>
+                                              <p><input class="savingCheckbox" value="29" type="checkbox" form="form2" title="Select to know your score"></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p>UT59 Device for MF-7900/U11,H22,H23,H24,H25</p>
+                                          </td>
+                                          <td>
+                                              <p>&middot; With automatic thread trimmer (Direct-drive motor)</p>
+                                              <p>&middot; Pneumatic type Top and bottom thread trimming device with Thread-fray-prevention function</p>
+                                          </td>
+                                          <td>
+                                              <p>27%</p>
+                                          </td>
+                                          <td>
+                                              <p><input class="savingCheckbox" value="27" type="checkbox" form="form2" title="Select to know your score"></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p>MF-7200D Series</p>
+                                          </td>
+                                          <td>
+                                              <p>&middot; Semi-dry-head</p>
+                                              <p>&middot; Adopted timing-belt drive method to achieve sewing without any loss of driving force</p>
+                                              <p>&middot; Complies with the "Juki Group Green Procurement Guidelines"<br />Reduces noise by 1.0 dB</p>
+                                          </td>
+                                          <td>
+                                              <p>10%</p>
+                                          </td>
+                                          <td>
+                                              <p><input class="savingCheckbox" value="10" type="checkbox" form="form2" title="Select to know your score"></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td colspan="4" class="text-center align-middle">
+                                              <p><strong><u>Machine Type : CHAIN STITCH </u></strong></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td colspan="4" class="text-center align-middle">
+                                              <p><u>BRAND : JUKI</u></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p><strong>Model No.</strong></p>
+                                          </td>
+                                          <td>
+                                              <p><strong> Features:</strong></p>
+                                          </td>
+                                          <td>
+                                              <p><strong>Power saving</strong></p>
+                                          </td>
+                                          <td>&nbsp;</td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p>MF-3620 Series (Direct drive)</p>
+                                          </td>
+                                          <td>
+                                              <p>&middot; Reduces noise by 1.8 dB and vibration by 1.3 dB</p>
+                                          </td>
+                                          <td>
+                                              <p>52%</p>
+                                          </td>
+                                          <td>
+                                              <p><input class="savingCheckbox" value="52" type="checkbox" form="form2" title="Select to know your score"></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p>MF-3620 Series (Belt driven)</p>
+                                          </td>
+                                          <td>
+                                              <p>&middot; Reduces noise by 2.1 dB and vibration by 0.5 dB</p>
+                                          </td>
+                                          <td>
+                                              <p>32%</p>
+                                          </td>
+                                          <td>
+                                              <p><input class="savingCheckbox" value="32" type="checkbox" form="form2" title="Select to know your score"></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td colspan="4" class="text-center align-middle">
+                                              <p><strong><u>Machine Type : BAR-TACKING</u></strong></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td colspan="4" class="text-center align-middle">
+                                              <p><u>BRAND : JUKI</u></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p><strong>Model No.</strong></p>
+                                          </td>
+                                          <td>
+                                              <p><strong> Features:</strong></p>
+                                          </td>
+                                          <td>
+                                              <p><strong>Power saving</strong></p>
+                                          </td>
+                                          <td>&nbsp;</td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p>LK-1900B Series</p>
+                                          </td>
+                                          <td>
+                                              <p>&middot; Excellent workability and operability (Low-noise and low-vibration)</p>
+                                              <p>&middot; Needle thread grasping mechanism</p>
+                                              <p>&middot; An encoder is installed in the pulse motor</p>
+                                          </td>
+                                          <td>
+                                              <p>15%</p>
+                                          </td>
+                                          <td>
+                                              <p><input class="savingCheckbox" value="15" type="checkbox" form="form2" title="Select to know your score"></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td colspan="4" class="text-center align-middle">
+                                              <p><strong><u>Machine Type : COMPUTER CONTROLLED CYCLE MACHINE</u></strong></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td colspan="4" class="text-center align-middle">
+                                              <p><u>BRAND : JUKI</u></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p><strong>Model No.</strong></p>
+                                          </td>
+                                          <td>
+                                              <p><strong> Features:</strong></p>
+                                          </td>
+                                          <td>
+                                              <p><strong>Power saving</strong></p>
+                                          </td>
+                                          <td>&nbsp;</td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p>AMS-210EN Series</p>
+                                          </td>
+                                          <td>
+                                              <p>&middot; Reduces noise by 3 dB and vibration by 1 dB</p>
+                                          </td>
+                                          <td>
+                                              <p>30%</p>
+                                          </td>
+                                          <td>
+                                              <p><input class="savingCheckbox" value="30" type="checkbox" form="form2" title="Select to know your score"></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p>AMS-221EN</p>
+                                          </td>
+                                          <td>
+                                              <p>&middot; Reduces noise by 1 dB and vibration by 0.6 dB</p>
+                                          </td>
+                                          <td>
+                                              <p>45%</p>
+                                          </td>
+                                          <td>
+                                              <p><input class="savingCheckbox" value="45" type="checkbox" form="form2" title="Select to know your score"></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td colspan="4" class="text-center align-middle">
+                                              <p><strong><u>Machine Type : AUTOMATIC</u></strong></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td colspan="4" class="text-center align-middle">
+                                              <p><u>BRAND : JUKI</u></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p>AP-876</p>
+                                          </td>
+                                          <td>
+                                              <p>&middot; Mass of packaging has also been reduced by 65%</p>
+                                              <p>&middot; Encoder control system contributes to reduced power consumption</p>
+                                          </td>
+                                          <td>
+                                              <p>12%</p>
+                                          </td>
+                                          <td>
+                                              <p><input class="savingCheckbox" value="12" type="checkbox" form="form2" title="Select to know your score"></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td colspan="4" class="text-center align-middle">
+                                              <p><u>BRAND : BROTHERS</u></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p>BAS-311H</p>
+                                          </td>
+                                          <td>
+                                              <p>&middot; Direct Drive Programmable electronic pattern sewer</p>
+                                              <p>&middot; Environment-conscious</p>
+                                          </td>
+                                          <td>
+                                              <p>13%</p>
+                                          </td>
+                                          <td>
+                                              <p><input class="savingCheckbox" value="13" type="checkbox" form="form2" title="Select to know your score"></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p>BAS-326H</p>
+                                          </td>
+                                          <td>
+                                              <p>&middot; Uniform and Stable Thread Tightness</p>
+                                              <p>&middot; Easy and accurate positioning of materials</p>
+                                              <p>&middot; Simple adjustments and easy sewing pattern changes</p>
+                                          </td>
+                                          <td>
+                                              <p>26%</p>
+                                          </td>
+                                          <td>
+                                              <p><input class="savingCheckbox" value="26" type="checkbox" form="form2" title="Select to know your score"></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p>AS-341H DD</p>
+                                          </td>
+                                          <td>
+                                              <p>&middot; Uniform and Stable Thread Tightness</p>
+                                              <p>&middot; Easy and accurate positioning of materials</p>
+                                              <p>&middot; Simple adjustments and easy sewing pattern changes</p>
+                                          </td>
+                                          <td>
+                                              <p>26%</p>
+                                          </td>
+                                          <td>
+                                              <p><input class="savingCheckbox" value="26" type="checkbox" form="form2" title="Select to know your score"></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p>AS-342H DD</p>
+                                          </td>
+                                          <td>
+                                              <p>&middot; Uniform and Stable Thread Tightness</p>
+                                              <p>&middot; Easy and accurate positioning of materials</p>
+                                              <p>&middot; Simple adjustments and easy sewing pattern changes</p>
+                                          </td>
+                                          <td>
+                                              <p>26%</p>
+                                          </td>
+                                          <td>
+                                              <p><input class="savingCheckbox" value="26" type="checkbox" form="form2" title="Select to know your score"></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p>BAS-326H-484</p>
+                                          </td>
+                                          <td>
+                                              <p>&middot; Uniform and Stable Thread Tightness</p>
+                                              <p>&middot; Easy and accurate positioning of materials</p>
+                                              <p>&middot; Simple adjustments and easy sewing pattern changes</p>
+                                          </td>
+                                          <td>
+                                              <p>26%</p>
+                                          </td>
+                                          <td>
+                                              <p><input class="savingCheckbox" value="26" type="checkbox" form="form2" title="Select to know your score"></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td colspan="4" class="text-center align-middle">
+                                              <p><strong><u>Machine Type : BUTTON HOLE SEWING</u></strong></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td colspan="4" class="text-center align-middle">
+                                              <p><u>BRAND : BROTHERS</u></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p><strong>Model No.</strong></p>
+                                          </td>
+                                          <td>
+                                              <p><strong> Features:</strong></p>
+                                          </td>
+                                          <td>
+                                              <p><strong>Power saving</strong></p>
+                                          </td>
+                                          <td>&nbsp;</td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p>HE-800B</p>
+                                          </td>
+                                          <td>
+                                              <p>&middot; Direct Drive</p>
+                                              <p>&middot; Upgraded electronic button hole</p>
+                                              <p>&middot; High Productivity</p>
+                                              <p>&middot; Environment-conscious</p>
+                                          </td>
+                                          <td>
+                                              <p>50%</p>
+                                          </td>
+                                          <td>
+                                              <p><input class="savingCheckbox" value="50" type="checkbox" form="form2" title="Select to know your score"></p>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td>
+                                              <p><a href="http://www.brother-usa.com/indprintsewemb/ModelDetail.aspx?ModelID=BRH9800012401E1102">RH-9820 </a></p>
+                                          </td>
+                                          <td>
+                                              <p>&middot; Sewing with less noise</p>
+                                              <p>&middot; Centralized lubrication system</p>
+                                          </td>
+                                          <td>
+                                              <p>35%</p>
+                                          </td>
+                                          <td>
+                                              <p><input class="savingCheckbox" value="35" type="checkbox" form="form2" title="Select to know your score"></p>
+                                          </td>
+                                      </tr>
+                                      </tbody>
+                                  </table>
+                              </div>
+
+                          </div>
+                          <div class="modal-footer">
+                              <input type="submit" class="btn btn-success" value="Submit" form="form2">
+                              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                          </div>
+                      </div>
+
+                  </div>
+              </div>
       </section>
       <!-- error section end -->
 
-      <!--Footer-->
-      <footer class="page-footer center-on-small-only  pt-0 footer-widget-container">
-        <!--Footer Links-->
-        <div class="container pt-5 mb-5">
-          <div class="row">
-            <!--First column-->
-            <div class="col-md-6 col-lg-3 col-xl-3 footer-contact-widget">
-                <h3 class="footer-title">About Us</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates eos minus expedita illo recusandae esse labore obcaecati nisi amet quia odio sapiente! Fugiat, voluptatibus nemo necessitatibus porro.</p>
-                <ul>
-                  <li>
-                    <a href="#"><i class="mdi mdi-facebook"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="mdi mdi-twitter"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="mdi mdi-dribbble"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="mdi mdi-github-circle"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="mdi mdi-linkedin"></i></a>
-                   </li>
-                </ul>
-            </div>
-            <!--/.First column-->
-
-            <!--Second column-->
-            <div class="col-md-6 col-lg-3 col-xl-3 recent-widget">
-              <h3 class="footer-title">Popular Posts</h3>
-              <ul class="image-list">
-                <li>
-                  <figure class="overlay">
-                    <img class="img-fluid" src="assets/images/art/a1.jpg" alt="">
-                    <figcaption><a href="blog-single.php"><i class="mdi mdi-link-variant from-top icon-xs"></i></a></figcaption>
-                  </figure>
-                  <div class="post-content">
-                    <h6 class="post-title"> <a href="blog-single.php">Fusce gravida tortor felis</a> </h6>
-                    <div class="meta"><span class="date">12 Jan 2018</span></div>
-                  </div>
-                </li>
-                <li>
-                  <figure class="overlay">
-                    <img class="img-fluid" src="assets/images/art/a2.jpg" alt="">
-                    <figcaption><a href="blog-single.php"><i class="mdi mdi-link-variant from-top icon-xs"></i></a></figcaption>
-                  </figure>
-                  <div class="post-content">
-                    <h6 class="post-title"><a href="blog-single.php">Ornare Nullam Risus Cursus</a></h6>
-                    <div class="meta"><span class="date">12 Jan 2018</span></div>
-                  </div>
-                </li>
-                <li>
-                  <figure class="overlay">
-                    <img class="img-fluid" src="assets/images/art/a3.jpg" alt="">
-                    <figcaption><a href="blog-single.php"><i class="mdi mdi-link-variant from-top icon-xs"></i></a></figcaption>
-                  </figure>
-                  <div class="post-content">
-                    <h6 class="post-title"> <a href="blog-single.php">Euismod Nullam Fusce Dapibus</a> </h6>
-                    <div class="meta"><span class="date">12 Jan 2018</span></div>
-                  </div>
-                </li>
-              </ul>
-            </div>
-            <!--/.Second column-->
-
-            <!--Third column-->
-            <div class="col-md-6 col-lg-3 col-xl-3 link-widget">
-              <h3 class="footer-title">Get in Touch</h3>
-              <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Etiam porta sem malesuada magna mollis euismod. Praesent commodo cursus.</p>
-              <div class="mt-3"></div>
-              <ul class="icon-list">
-                <li><i class="mdi mdi-map-marker"></i> Moonshine St. 14/05 Light City </li>
-                <li><i class="mdi mdi-email"></i> <a href="mailto:first.last@email.com" class="nocolor">first.last@email.com</a> </li>
-                <li><i class="mdi mdi-phone-classic"></i> +00 (123) 456 78 90 </li>
-                <li><i class="mdi mdi-cellphone-iphone"></i> +80 (547) 455 47 54 </li>
-              </ul>
-            </div>
-            <!--/.Third column-->
-
-            <!--Fourth column-->
-            <div class="col-md-6 col-lg-3 col-xl-3 footer-contact">
-                <h3 class="footer-title">Subscribe</h3>
-                <div class="widget">
-                  <div class="newsletter-wrapper">
-                    <form method="post" id="subscribe-form" name="subscribe-form" class="validate">
-                      <div class="form-group">
-                        <input type="email" value="" name="EMAIL" class="email form-control" id="EMAIL" placeholder="Email Address" required="">
-                        <button type="submit" name="subscribe" id="subscribe" class="btn btn-common pull-right">Join</button>
-                        <div class="clearfix"></div>
-                      </div>
-                    </form>
-                  </div>
-                </div>
-                <!-- /.widget -->
-                <div class="widget">
-                  <h5 class="widget-title">Categories</h5>
-                  <ul class="unordered-list">
-                    <li><a href="#" class="nocolor">Lifestyle (21)</a></li>
-                    <li><a href="#" class="nocolor">Photography (19)</a></li>
-                    <li><a href="#" class="nocolor">Journal (16)</a></li>
-                    <li><a href="#" class="nocolor">Works (7)</a></li>
-                  </ul>
-                </div>
-            </div>
-            <!--/.Fourth column-->
-
-          </div>
-        </div>
-        <!--/.Footer Links-->
-
-        <!-- Copyright-->
-        <div class="footer-copyright">
-          <div class="container">
-              <div class="row">
-                  <div class="col-md-12 text-center">
-                      <p>&copy; 2018 Material Studio, All right reserved. Designed with <i class="mdi mdi-heart"></i> by <a href="#">UIdeck</a></p>
-                  </div>
-              </div>
-            </div>
-        </div>
-        <!--/.Copyright -->
-
-      </footer>
-      <!--/.Footer-->
+      <?php include "footer.php"; ?>
                       
 
       <!-- Back To Top -->
@@ -850,7 +1361,6 @@
 
       <!-- Optional JavaScript -->
       <script src="assets/js/jquery-min.js"></script>
-      <script src="assets/js/my.js"></script>
       <script src="assets/js/popper.min.js"></script>
       <script src="assets/js/bootstrap.min.js"></script>
         <script src="assets/js/jquery.mixitup.min.js"></script>
@@ -868,6 +1378,7 @@
       <script src="assets/js/jquery.magnific-popup.min.js"></script>
       <script src="assets/js/jquery.slicknav.js"></script>
       <script src="assets/js/main.js"></script>
+      <script src="assets/js/my.js"></script>
 
     </body>
   </html>
