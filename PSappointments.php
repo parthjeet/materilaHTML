@@ -63,7 +63,7 @@
                 <img src="/materilaHTML/assets/images/Layouts/AvailablePS/Appointments/1.jpg" class="img-fluid">
                 <div class="text-left section-padding">
                     <div class="table-responsive">
-                        <table class="table table-bordered table-striped">
+                        <table class="table table-bordered table-striped-green ">
                         <tbody>
                         <tr>
                             <td class="text-center align-middle">

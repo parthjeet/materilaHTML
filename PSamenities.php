@@ -65,7 +65,7 @@
                    <p class="text-center h5 section-padding"> Statutory amenities have to be provided in the factory as a compliance of welfare measures. The type of amenities and its number relates to the number of men/women employed in the factory.
                    </p>
                     <div class="table-responsive">
-                    <table class="table table-bordered table-striped">
+                    <table class="table table-bordered table-striped-green">
                         <tbody>
                         <tr>
                             <td class="text-center align-middle">

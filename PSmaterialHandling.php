@@ -73,7 +73,7 @@
               <hr class="section-padding">
                 <p class="h6 section-padding"> Annexure:</p>
                     <div class="table-responsive">
-                    <table class="table table-bordered table-striped text-justify">
+                    <table class="table table-bordered table-striped-green text-justify">
                         <tbody>
                         <tr>
                             <td class="text-center align-middle">
@@ -106,8 +106,7 @@
                     </table></>
                 </div>
 
-                <p>(Source- <a href="http://www.wrapcompliance.org/">Worldwide Responsible Accredited Production (WRAP)</a>)</p>
-            </div>
+                </div>
         </div>
     </div>
 </section>

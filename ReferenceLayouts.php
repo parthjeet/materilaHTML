@@ -64,8 +64,7 @@
                 <div class="text-justify section-padding">
                     <p class="h4 text-center"><strong><u>Planning of a Men’s Formal Shirt Manufacturing Unit </u></strong></p>
                     <br>
-                    <p>Juki manufactures eco-friendly products. The company established its eco label certification system to make the high environment-friendliness of its products highly visible. Juki performs 38 items eco-friendliness assessments in the life cycle of a product. That includes several assessments during the stages of design, followed by many more in the stages of part procurement, manufacturing, transport, use, recycling, and disposal. Products that satisfy Juki&rsquo;s internal criteria are certified and registered as &ldquo;JUKI ECO PRODUCTS.&rdquo; The original mark is printed in the leaflet and catalogue. Companies of all kinds have been promoting eco-certification activities for the products they sell to everyday consumers. Recently, the demands for products with energy-saving designs and other eco-friendly features are growing not only among everyday consumers, but also in companies and factories. When these companies select their affiliated clothing factories, the eco-friendliness of the factories is a major criterion. High eco-friendliness is also an important feature for sewing machines. The JUKI ECO PRODUCTS system will help companies and consumers "materialize the environment-friendliness of the sources of their products."</p>
-                    <div class="table-responsive section-padding">
+                   <div class="table-responsive section-padding">
                         <table class="table table-hover section-padding">
                             <thead>
                             <tr>

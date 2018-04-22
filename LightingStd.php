@@ -60,7 +60,6 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <img src="/materilaHTML/assets/images/Regulations/WRAP/0-Logo.png" class="img-fluid">
                 <div class="text-justify section-padding">
                     <p>The Illumination condition of an interior should fulfil three functions (Society of light and lighting 2002, p.1).It should:</p>
                     <ul>
@@ -162,20 +161,20 @@
                     <p><strong> International Codes </strong></p>
                     <p>In 1979, the IESNA established nine illuminance categories, "A," the lowest set of recommended illuminances, through "I," the highest set. The nine illuminance selection categories established earlier by the IESNA have been reduced to seven categories and organized into three sets of visual tasks (orientation and simple, common, and special).</p>
                     <p class="text-center h6"> <p class="text-center h6">Recommended illumination and limiting glare index based on IES Code, 1968</p></p>
-                    <div class="table-responsive">
-                    <table class=" table table-bordered text-center align-middle table-striped">
+                    <div class="table-responsive text">
+                    <table class=" table table-bordered text-center  table-striped-green">
                         <tbody>
                         <tr>
-                            <td colspan="3">
+                            <td colspan="3" class="text-center align-middle">
                                 <p><strong>CATEGORIES</strong></p>
                             </td>
 
-                            <td>
+                            <td class="text-center align-middle">
                                 <p><strong>ILLUMINANCE (LUX)</strong></p>
                             </td>
                         </tr>
                         <tr>
-                            <td rowspan="3">
+                            <td rowspan="3" class="text-center align-middle font-weight-bold">
                                 <p>Orientation and simple visual task</p>
                             </td>
                             <td>
@@ -213,7 +212,7 @@
                             </td>
                         </tr>
                         <tr>
-                            <td rowspan="3">
+                            <td rowspan="3" class="text-center align-middle font-weight-bold">
                                 <p>Common visual task</p>
                             </td>
                             <td>
@@ -251,7 +250,7 @@
                             </td>
                         </tr>
                         <tr>
-                            <td>
+                            <td class="text-center align-middle font-weight-bold">
                                 <p>Special visual Task</p>
                             </td>
                             <td>

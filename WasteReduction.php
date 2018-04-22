@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Waste Management in Garment Industries</title>
+    <title>Waste Reduction and Reuse</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -46,7 +46,7 @@
             <div class="col-md-12">
                 <div class="title-center">
                     <div class="title-middle">
-                        <h1 class="page-title text-center text-center">Waste Management in Garment Industries</h1>
+                        <h1 class="page-title text-center text-center">Waste Reduction and Reuse</h1>
                     </div>
                 </div>
             </div>

@@ -63,7 +63,7 @@
             <div class="col-md-12 text-center">
 
                 <div class="text-left section-padding">
-                    <div    class="table-responsive">
+                    <div    class="table-responsive ">
                     <table class="table-bordered table-striped w-100 text-center">
                         <tbody>
                         <tr>
@@ -151,7 +151,7 @@
                         </tbody>
                     </table></div>
                     <hr class="section-padding">
-                    <div    class="table-responsive w-50 text-center">
+                    <div    class="table-responsive w-50 text-center ">
                     <table class="table table-bordered table-striped-green align-middle">
                         <tbody>
                         <tr>
@@ -251,8 +251,7 @@
                     </ol>
                 </div>
 
-                <p>(Source- <a href="http://www.wrapcompliance.org/">Worldwide Responsible Accredited Production (WRAP)</a>)</p>
-            </div>
+               </div>
         </div>
     </div>
 </section>

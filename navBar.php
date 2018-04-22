@@ -40,7 +40,7 @@
                             <a class="dropdown-item" href="MaterialConservation.php">Material Conservation</a>
                             <a class="dropdown-item" href="EnergyConservation.php">Energy Conversation</a>
                             <a class="dropdown-item" href="IndoorEnvironmentQuality.php">Indoor Environmental Quality & Occupational Health</a>
-                            <a class="dropdown-item" href="InnovationInDesign.php">Innovation in Design</a>
+
                             <!--<a class="dropdown-item" href="404.php">404</a>-->
                         </div>
                     </li>
@@ -49,9 +49,9 @@
                             LAYOUTS
                         </a>
                         <div class="dropdown-menu">
-                            <a class="dropdown-item" href="AvailableProductionSystem.php">Available Production System</a>
-                            <a class="dropdown-item" href="ARCharts.php">AR Charts</a>
-                            <a class="dropdown-item" href="ReferenceLayouts.php">Reference Layouts</a>
+                            <a class="dropdown-item" href="AvailableProductionSystem.php">Available Production Systems</a>
+
+                            <a class="dropdown-item" href="ReferenceLayouts.php">Reference Plant Planning & Design</a>
 
                         </div>
                     </li>
@@ -61,11 +61,10 @@
                         </a>
                         <div class="dropdown-menu">
                             <a class="dropdown-item" href="Lighting.php">Lighting</a>
-                            <a class="dropdown-item" href="WasteDisposal.php">Waste Disposal</a>
+                            <a class="dropdown-item" href="WasteDisposal.php">Waste Management </a>
                             <a class="dropdown-item" href="MachineryComparision.php">Machinery Comparision</a>
-                            <a class="dropdown-item" href="ProcessFlow.php">Process Flow</a>
                             <a class="dropdown-item" href="WasteReduction.php">Waste Reduction & Reuse</a>
-                            <a class="dropdown-item" href="SavingsCalculator.php">Savings Calculator</a>
+
                         </div>
                     </li>
                     <li class="nav-item dropdown">
