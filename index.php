@@ -185,15 +185,15 @@
     </div>
 </section>
 <!-- About Section End -->
-
+<?php include "modals.php"?>
 <!--Ribbon button section-->
     <section class="section-padding">
         <div class="container">
             <div class="row">
                 <div class="col-2"></div>
                 <div class="col-8">
-                    <button type="button" class="button btn-default ribbon">Find your Green Score</button>
-                    <button type="button" class="button btn-success ribbon">Calculate your Savings</button>
+                    <button type="button" class="button btn-default ribbon" data-toggle="modal" data-target="#exampleModal">Find your Green Score</button>
+                    <button type="button" class="button btn-success ribbon" data-toggle="modal" data-target="#exampleModal1">Calculate your Savings</button>
                 </div>
                 <div class="col-2"></div>
             </div>
@@ -1172,6 +1172,7 @@
 <script src="assets/js/jquery.magnific-popup.min.js"></script>
 <script src="assets/js/jquery.slicknav.js"></script>
 <script src="assets/js/main.js"></script>
+<script src="assets/js/my.js"></script
 <!--<script src="assets/js/my.js"></script>-->
 
 </body>

@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
@@ -30,236 +29,12 @@
 
     
      <!-- Color CSS Styles  -->
-    <link rel="stylesheet" type="text/css" href="assets/css/colors/indigo.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="assets/css/colors/green.css" media="screen" />
 
   </head>
   <body>
       <!-- Header Start -->
-      <header id="header">
-        <nav class="navbar navbar-expand-lg fixed-top scrolling-navbar nav-bg">
-          <div class="container">            
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="mdi mdi-menu"></span>
-                <span class="mdi mdi-menu"></span>
-                <span class="mdi mdi-menu"></span>
-              </button>
-              <a class="navbar-brand" href="index.php"><img src="assets/images/logo.png" alt=""></a>
-            </div>
-            <div class="collapse navbar-collapse" id="main-navbar">
-              <ul class="navbar-nav mr-auto w-100 justify-content-end">
-                <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Home
-                  </a>
-                  <div class="dropdown-menu">
-                    <a class="dropdown-item" href="index.php">Home V1</a>
-                    <a class="dropdown-item" href="index-2.php">Home V2</a>
-                  </div>
-                </li>
-                <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Pages
-                  </a>
-                  <div class="dropdown-menu">
-                    <a class="dropdown-item" href="about-us.php">About Us 1</a>
-                    <a class="dropdown-item" href="about-us2.php">About Us 2</a>
-                    <a class="dropdown-item" href="team.php">Team Members</a>
-                    <a class="dropdown-item" href="services.php">Services</a>
-                    <a class="dropdown-item" href="contact-us.php">Contact Us 1</a>
-                    <a class="dropdown-item" href="contact-us2.php">Contact Us 2</a>
-                    <a class="dropdown-item" href="404.php">404</a>
-                  </div>
-                </li>
-                <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Components
-                  </a>
-                  <div class="dropdown-menu">
-                    <a class="dropdown-item" href="tab.php">Tabs</a>
-                    <a class="dropdown-item" href="alert.php">Alert</a>
-                    <a class="dropdown-item" href="accordion.php">Accordions</a>
-                    <a class="dropdown-item" href="pricing.php">Pricing Tables</a>
-                    <a class="dropdown-item" href="buttons.php">Buttons</a>
-                    <a class="dropdown-item" href="icons.php">Icons</a>
-                    <a class="dropdown-item" href="carousel.php">Carousel</a>
-                    <a class="dropdown-item" href="counter.php">Counter</a>
-                    <a class="dropdown-item" href="map.php">Google Map</a>
-                  </div>
-                </li>
-                <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Portfolio
-                  </a>
-                  <div class="dropdown-menu">
-                    <a class="dropdown-item" href="portfolio-2.php">Portfolio 2 columns</a>
-                    <a class="dropdown-item" href="portfolio.php">Portfolio 3 columns</a>
-                    <a class="dropdown-item" href="portfolio-single.php">Portfolio Single</a>
-                  </div>
-                </li>
-                <li class="nav-item dropdown active">
-                  <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Blog
-                  </a>
-                  <div class="dropdown-menu">
-                    <a class="dropdown-item active" href="blog.php">Blog Page</a>
-                    <a class="dropdown-item" href="blog-single.php">Blog Single Page</a>
-                  </div>
-                </li>
-                <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Contact Us
-                  </a>
-                  <div class="dropdown-menu">
-                    <a class="dropdown-item" href="contact-us.php">Contact Us 1</a>
-                    <a class="dropdown-item" href="contact-us2.php">Contact Us 2</a>
-                  </div>
-                </li>
-              </ul>
-              <!-- Search Box Start -->
-              <div class="search-icon">
-                <span class="open-search">
-                  <i class="mdi mdi-magnify btn btn-common"></i>
-                </span>
-              </div>
-              <form role="search" class="navbar-form">
-                <div class="container">
-                  <div class="row">
-                    <div class="form-group has-feedback">
-                      <input type="text" placeholder="Type and search ..." class="form-control">
-                      <div class="close"><i class="mdi mdi-close"></i></div>
-                    </div>
-                  </div>
-                </div>
-              </form>
-              <!-- Search Box End -->
-            </div>
-          </div>
-          <!-- Mobile Menu Start -->
-          <ul class="wpb-mobile-menu">
-            <li>
-              <a href="#">
-              Home
-              </a>
-              <ul class="dropdown">
-                <li>
-                  <a href="index.php">Home v1</a>
-                </li>
-                <li>
-                  <a href="index-2.php">Home v2</a>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <a href="#">
-              Pages
-              </a>
-              <ul class="dropdown">
-                <li>
-                  <a href="about-us.php">About Us 1</a>
-                </li>
-                <li>
-                  <a href="about-us2.php">About Us 2</a>
-                </li>
-                <li>
-                  <a href="team.php">Team Members</a>
-                </li>
-                <li>
-                  <a href="services.php">Services</a>
-                </li>
-                <li>
-                    <a href="contact-us.php">Contact Us 1</a>
-                </li>
-                <li>
-                    <a href="contact-us2.php">Contact Us 2</a>
-                </li>
-                <li>
-                    <a href="404.php">404</a>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <a href="#">
-              Elements
-              </a>
-              <ul class="dropdown">
-                <li>
-                  <a href="tab.php">Tabs</a>
-                </li>
-                <li>
-                  <a href="alert.php">Alert</a>
-                </li>
-                <li>
-                  <a href="accordion.php">Accordions</a>
-                </li>
-                <li>
-                 <a href="pricing.php">Pricing Tables</a>
-                </li>
-                <li>
-                    <a href="buttons.php">Buttons</a>
-                </li>
-                <li>
-                    <a href="icons.php">Icons</a>
-                </li>
-                <li>
-                    <a href="carousel.php">Carousel</a>
-                </li>
-                <li>
-                    <a href="counter.php">Counter</a>
-                </li>
-                <li>
-                   <a href="map.php">Google Map</a>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <a href="#">
-              Portfolio
-              </a>
-              <ul class="dropdown">
-                <li>
-                  <a href="portfolio-2.php">Portfolio 2 columns</a>
-                </li>
-                <li>
-                  <a href="portfolio.php">Portfolio 3 columns</a>
-                </li>
-                <li>
-                  <a href="portfolio-single.php">Portfolio Single</a>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <a class="active" href="about.php">
-              Blog
-              </a>
-              <ul class="dropdown">
-                <li>
-                  <a class="active" href="blog.php">Blog Page</a>
-                </li>
-                <li>
-                  <a href="blog-single.php">Blog Single Page</a>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <a href="#">
-              Contact Us
-              </a>
-              <ul class="dropdown">
-                <li>
-                  <a href="contact-us.php">Contact Us 1</a>
-                </li>
-                <li>
-                  <a href="contact-us2.php">Contact Us 2</a>
-                </li>
-              </ul>
-            </li>
-          </ul>
-          <!-- Mobile Menu End -->
-        </nav>
-      </header>
+      <?php include "navBar.php"?>
       <!-- Header End --> 
 
         
@@ -285,7 +60,7 @@
             <div class="container">
                 <div class="row">
                     <!-- Blog Post -->
-                    <div class="col-md-12 col-lg-8 col-xs-12 blog-post-column">
+                    <div class="col-md-12 col-lg-12 col-xs-12 blog-post-column">
                       <div class="row">
                         <!-- Split Left -->
                         <div class="col-md-6 no-padding">
@@ -295,7 +70,7 @@
                                 <!-- Featured Image -->
                                 <div class="featured-image">
                                     <a href="#">
-                                        <img src="assets/images/blog/featured1.jpg" alt="">
+                                        <img src="assets/images/blog/blog1.png" alt="">
                                     </a>
                                 </div>
                                 <!-- Post Meta -->
@@ -304,13 +79,19 @@
                                       <span><b>Jan 25 2018</b></span>
                                     </div>                           
                                     <!-- Title -->
-                                    <a href="blog-single.php"><h2 class="subtitle">MUSIC for refreshment</h2></a>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio perferendis assumenda ipsum maiores dolorum similique obcaecati perspiciatis.</p>                              
+                                    <a href="blog1Barrier.php"><h2 class="subtitle">CHALLENGES FOR GREEN GARMENT FACTORY: INDIA</h2></a>
+                                    <p>
+                                        Green Garment factories are becoming widely accepted worldwide due to their numerous benefits.
+                                        Countries like Bangladesh and Sri Lanka have turned into a global player in the apparel production and exports,
+                                        becoming a major supplier for many leading fashion brands, by adopting Green concepts in their production.
+                                        Although Indian Government provides several incentives and schemes to uplift Green factories in the country,
+                                        India is lagging behind its neighbor counties due to a number of barriers and challenges which will be looked upon in this paper.
+                                    </p>
                                 </div>
                                 <div class="meta-tags">
-                                  <span class="comments"><a href="#"><i class="mdi mdi-comment-outline"></i> 24 Comments</a></span>
+                                  <span class="comments"><a href="blog1Barrier.php">Read more...</a></span>
                                   <!-- Read More -->
-                                  <a class="btn btn-round btn-fab" href="blog-single.php"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
+                                  <a class="btn btn-round btn-fab" href="blog1Barrier.php"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
                                 </div>
                               </article>
                             </div>
@@ -511,118 +292,7 @@
                     </div> 
                     <!--Blog Post ENd -->
 
-                    <!-- Blog Sidebar -->
-                    <div class="col-md-12 col-lg-4 col-xs-12 blog-sidebar-column">
-                        <!-- Single Sidebar -->
-                        <aside class="col-md-12 single-sidebar-widget author-widget no-padding wow animated fadeInUp"  data-wow-delay=".2s">
-                            <div class="author-bg">
-                                <img src="assets/images/blog/author-bg.jpg" alt="">
-                            </div>
-                            <div class="author-info">
-                                <div class="author-name">
-                                    <div class="author-intro">
-                                        <h3>Jhon Doe</h3>
-                                        <p>Front End Developer</p>
-                                    </div>
-                                    <div class="author-image">
-                                        <img src="assets/images/blog/author.jpg" class="img-circle" alt="">
-                                    </div>
-                                </div>
-                                <div class="author-bio">
-                                    <p>While you are planning for a trip then you always search for a best place to visit because that time you have looked for many of places in your mind. Same time, when the thought of Shimla comes in your mind, you stop the thoughts about other places because the gorgeousness of natural beauty of Shimla.</p>
-                                </div>
-                            </div>
-                        </aside>
 
-                        <!-- Single Sidebar -->
-                        <aside class="col-md-12 single-sidebar-widget subscribe-widget no-padding  wow animated fadeInUp"  data-wow-delay=".3s">
-                            <div class="sidebar-widget-title">
-                                <h2>Follow & Subscribe</h2>
-                            </div>
-                            <div class="social-profiles clearfix">
-                                <div class="footer-contact-widget">
-                                    <ul>
-                                      <li>
-                                        <a href="#"><i class="mdi mdi-facebook"></i></a>
-                                      </li>
-                                      <li>
-                                        <a href="#"><i class="mdi mdi-twitter"></i></a>
-                                      </li>
-                                      <li>
-                                        <a href="#"><i class="mdi mdi-dribbble"></i></a>
-                                      </li>
-                                      <li>
-                                        <a href="#"><i class="mdi mdi-github-circle"></i></a>
-                                      </li>
-                                      <li>
-                                        <a href="#"><i class="mdi mdi-linkedin"></i></a>
-                                       </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="subscribe-box">
-                                <p>Sign up for new Shelver content, updates,<br>surveys & offers.</p>
-                                <div class="input-group">
-                                  <input type="email" class="form-control" placeholder="type your email">
-                                  <span class="input-group-btn">
-                                    <button class="btn btn-round btn-fab" type="button"><i class="material-icons mdi mdi-arrow-right"></i></button>
-                                  </span>
-                                </div>
-                                <!-- /input-group -->
-                            </div>
-                        </aside>
-
-                        <!-- Single Sidebar -->
-                        <aside class="col-md-12 single-sidebar-widget flickr-widget no-padding wow animated fadeInUp"  data-wow-delay=".4s">
-                            <div class="sidebar-widget-title">
-                                <h2>Categories</h2>
-                            </div>
-                            <ul class="categories-list">
-                              <li><a href="#">Lifestyle (21)</a></li>
-                              <li><a href="#">Photography (19)</a></li>
-                              <li><a href="#">Journal (16)</a></li>
-                              <li><a href="#">Works (7)</a></li>
-                            </ul>
-                        </aside>
-
-                        <!-- Single Sidebar -->
-                        <aside class="col-md-12 single-sidebar-widget instagram-widget no-padding wow animated fadeInUp"  data-wow-delay=".3s">
-                            <div class="sidebar-widget-title">
-                                <h2>Instagram Feed</h2>
-                            </div>
-                            <div class="instagram-feed clearfix">
-                                <ul>
-                                    <li><a href="#"><img src="assets/images/Instagram/insta1.jpg" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/images/Instagram/insta2.jpg" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/images/Instagram/insta3.jpg" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/images/Instagram/insta4.jpg" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/images/Instagram/insta5.jpg" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/images/Instagram/insta6.jpg" alt=""></a></li>
-                                </ul>
-                            </div>
-                        </aside>
-
-                        <!-- Single Sidebar -->
-                        <aside class="col-md-12 single-sidebar-widget flickr-widget no-padding wow animated fadeInUp"  data-wow-delay=".4s">
-                            <div class="sidebar-widget-title">
-                                <h2>Flickr Slider</h2>
-                            </div>
-                            <div class="flickr-feed clearfix">
-                                <div id="flickr-carousel" class="owl-carousel owl-theme">
-                                    <div class="item active">
-                                      <img class="img-fluid" src="assets/images/Instagram/flickr1.jpg" alt="">
-                                    </div> 
-                                    <div class="item">
-                                      <img class="img-fluid" src="assets/images/Instagram/flickr2.jpg" alt="">
-                                    </div>
-                                    <div class="item">
-                                      <img class="img-fluid" src="assets/images/Instagram/flickr3.jpg" alt="">
-                                    </div>
-                                </div>                                
-                            </div>
-                        </aside>
-                    </div>  
-                    <!--Blog Sidebar End -->
                 </div>
             </div>
         </section>

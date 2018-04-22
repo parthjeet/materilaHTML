@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
@@ -66,11 +65,6 @@
               <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
                   Launch demo modal
               </button>
-              <p id="zxc">123</p>
-              <form onsubmit="return zxc();" id="form3"></form>
-              <input type="radio" form="form3" name="asd" value="10">
-              <input type="radio" form="form3" name="asd" value="20">
-              <input type="submit" form="form3">
               <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal1">
                   Launch demo modal
               </button>
