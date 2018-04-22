@@ -161,89 +161,89 @@
                             <td>
                                 <p><strong>ADMIN</strong></p>
                             </td>
-                            <td>&nbsp;-</td>
-                            <td >
+                            <td class="text-black">&nbsp;-</td>
+                            <td class="text-red">
                                 <p>A</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-red">
                                 <p>A</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-yellow">
                                 <p>I</p>
                             </td>
-                            <td>
+                            <td class="text-red">
                                 <p>A</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
                         </tr>
@@ -251,89 +251,89 @@
                             <td>
                                 <p><strong>HR</strong></p>
                             </td>
-                            <td>
+                            <td class="text-red">
                                 <p>A</p>
                             </td>
-                            <td>&nbsp;-</td>
-                            <td>
+                            <td class="text-black">&nbsp;-</td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-yellow">
                                 <p>I</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-yellow">
                                 <p>I</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
                         </tr>
@@ -341,89 +341,89 @@
                             <td>
                                 <p><strong>WAREHOUSE</strong></p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>&nbsp;-</td>
-                            <td>
+                            <td class="text-black">&nbsp;-</td>
+                            <td class="text-red">
                                 <p>A</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-peach">
                                 <p>E</p>
                             </td>
-                            <td>
+                            <td class="text-red">
                                 <p>A</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
                         </tr>
@@ -431,89 +431,89 @@
                             <td>
                                 <p><strong>LOADING/ UNLOADING AREA</strong></p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-red">
                                 <p>A</p>
                             </td>
-                            <td>&nbsp;-</td>
-                            <td>
+                            <td class="text-black">&nbsp;-</td>
+                            <td class="text-red">
                                 <p>A</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
                         </tr>
@@ -521,89 +521,89 @@
                             <td>
                                 <p><strong>FABRIC STORE</strong></p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-red">
                                 <p>A</p>
                             </td>
-                            <td>&nbsp;-</td>
-                            <td>
+                            <td class="text-black">&nbsp;-</td>
+                            <td class="text-yellow">
                                 <p>I</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-red">
                                 <p>A</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
                         </tr>
@@ -611,89 +611,89 @@
                             <td>
                                 <p><strong>TESTING LAB</strong></p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-yellow">
                                 <p>I</p>
                             </td>
-                            <td>&nbsp;-</td>
-                            <td>
+                            <td class="text-black">&nbsp;-</td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-yellow">
                                 <p>I</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
                         </tr>
@@ -701,89 +701,89 @@
                             <td>
                                 <p><strong>CAD</strong></p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>&nbsp;-</td>
-                            <td>
+                            <td class="text-black">&nbsp;-</td>
+                            <td class="text-yellow">
                                 <p>I</p>
                             </td>
-                            <td>
+                            <td class="text-red">
                                 <p>A</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
                         </tr>
@@ -791,89 +791,89 @@
                             <td>
                                 <p><strong>SAMPLING</strong></p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-yellow">
                                 <p>I</p>
                             </td>
-                            <td>
+                            <td class="text-yellow">
                                 <p>I</p>
                             </td>
-                            <td>&nbsp;-</td>
-                            <td>
+                            <td class="text-black">&nbsp;-</td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
                         </tr>
@@ -881,89 +881,89 @@
                             <td>
                                 <p><strong>SPREADING &amp; CUTTING</strong></p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-red">
                                 <p>A</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-red">
                                 <p>A</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>&nbsp;-</td>
-                            <td>
+                            <td class="text-black">&nbsp;-</td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-red">
                                 <p>A</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-yellow">
                                 <p>I</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
                         </tr>
@@ -971,89 +971,89 @@
                             <td>
                                 <p><strong>EMBROIDERY</strong></p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>&nbsp;-</td>
-                            <td>
+                            <td class="text-black">&nbsp;-</td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
                         </tr>
@@ -1061,89 +1061,89 @@
                             <td>
                                 <p><strong>SEWING</strong></p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-red">
                                 <p>A</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>&nbsp;-</td>
-                            <td>
+                            <td class="text-black">&nbsp;-</td>
+                            <td class="text-red">
                                 <p>A</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-red">
                                 <p>A</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-yellow">
                                 <p>I</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
                         </tr>
@@ -1151,89 +1151,89 @@
                             <td>
                                 <p><strong>FINISHING</strong></p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-peach">
                                 <p>E</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-red">
                                 <p>A</p>
                             </td>
-                            <td>&nbsp;-</td>
-                            <td>
+                            <td class="text-black">&nbsp;-</td>
+                            <td class="text-red">
                                 <p>A</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
                         </tr>
@@ -1241,89 +1241,89 @@
                             <td>
                                 <p><strong>PACKING</strong></p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-red">
                                 <p>A</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-red">
                                 <p>A</p>
                             </td>
-                            <td>&nbsp;-</td>
-                            <td>
+                            <td class="text-black">&nbsp;-</td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
                         </tr>
@@ -1331,89 +1331,89 @@
                             <td>
                                 <p><strong>CHRECHE</strong></p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>&nbsp;-</td>
-                            <td>
+                            <td class="text-black">&nbsp;-</td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
                         </tr>
@@ -1421,89 +1421,89 @@
                             <td>
                                 <p><strong>MEDICAL ROOM</strong></p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>&nbsp;-</td>
-                            <td>
+                            <td class="text-black">&nbsp;-</td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
                         </tr>
@@ -1511,89 +1511,89 @@
                             <td>
                                 <p><strong>MERCHANDISING</strong></p>
                             </td>
-                            <td>
+                            <td class="text-red">
                                 <p>A</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>&nbsp;-</td>
-                            <td>
+                            <td class="text-black">&nbsp;-</td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-peach">
                                 <p>E</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
                         </tr>
@@ -1601,89 +1601,89 @@
                             <td>
                                 <p><strong>CANTEEN</strong></p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>&nbsp;-</td>
-                            <td>
+                            <td class="text-black">&nbsp;-</td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
                         </tr>
@@ -1691,89 +1691,89 @@
                             <td>
                                 <p><strong>SECURITY</strong></p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>&nbsp;-</td>
-                            <td>
+                            <td class="text-black">&nbsp;-</td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-yellow">
                                 <p>I</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-red">
                                 <p>A</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
                         </tr>
@@ -1781,89 +1781,89 @@
                             <td>
                                 <p><strong>RECEPTION</strong></p>
                             </td>
-                            <td>
+                            <td class="text-red">
                                 <p>A</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-peach">
                                 <p>E</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>&nbsp;-</td>
-                            <td>
+                            <td class="text-black">&nbsp;-</td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
                         </tr>
@@ -1871,89 +1871,89 @@
                             <td>
                                 <p><strong>GENERATOR</strong></p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-yellow">
                                 <p>I</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>&nbsp;-</td>
-                            <td>
+                            <td class="text-black">&nbsp;-</td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
                         </tr>
@@ -1961,89 +1961,89 @@
                             <td>
                                 <p><strong>BOILER</strong></p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>&nbsp;-</td>
-                            <td>
+                            <td class="text-black">&nbsp;-</td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
                         </tr>
@@ -2051,89 +2051,89 @@
                             <td>
                                 <p><strong>PARKING</strong></p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>&nbsp;-</td>
-                            <td>
+                            <td class="text-black">&nbsp;-</td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
                         </tr>
@@ -2141,89 +2141,89 @@
                             <td>
                                 <p><strong>MAINTENANCE</strong></p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-red">
                                 <p>A</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>&nbsp;-</td>
-                            <td>
+                            <td class="text-black">&nbsp;-</td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
                         </tr>
@@ -2231,89 +2231,89 @@
                             <td>
                                 <p><strong>TRAINING</strong></p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-yellow">
                                 <p>I</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>&nbsp;-</td>
-                            <td>
+                            <td class="text-black">&nbsp;-</td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
                         </tr>
@@ -2321,89 +2321,89 @@
                             <td>
                                 <p><strong>PLANNING</strong></p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-yellow">
                                 <p>I</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-yellow">
                                 <p>I</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>&nbsp;-</td>
-                            <td>
+                            <td class="text-black">&nbsp;-</td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
                         </tr>
@@ -2411,89 +2411,89 @@
                             <td>
                                 <p><strong>ASSEMBLY AREA</strong></p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-red">
                                 <p>A</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-salmon">
                                 <p>X</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>&nbsp;-</td>
-                            <td>
+                            <td class="text-black">&nbsp;-</td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
                         </tr>
@@ -2501,89 +2501,89 @@
                             <td>
                                 <p><strong>SEWAGE TREATMENT PLANT</strong></p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-blue">
                                 <p>O</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>&nbsp;-</td>
-                            <td>
+                            <td class="text-black">&nbsp;-</td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-peach">
                                 <p>E</p>
                             </td>
                         </tr>
@@ -2591,89 +2591,89 @@
                             <td>
                                 <p><strong>RAIN WATER HARVESTING</strong></p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>&nbsp;-</td>
-                            <td>
+                            <td class="text-black">&nbsp;-</td>
+                            <td class="text-peach">
                                 <p>E</p>
                             </td>
                         </tr>
@@ -2681,91 +2681,91 @@
                             <td>
                                 <p><strong>GREEN ZONE</strong></p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-green">
                                 <p>U</p>
                             </td>
-                            <td>
+                            <td class="text-peach">
                                 <p>E</p>
                             </td>
-                            <td>
+                            <td class="text-peach">
                                 <p>E</p>
                             </td>
-                            <td>&nbsp;-</td>
+                            <td class="text-black">&nbsp;-</td>
                         </tr>
                         </tbody>
                     </table></div>
@@ -2773,7 +2773,7 @@
                 <div class="table-responsive" >
                     <table class="table table-bordered text-center w-50">
                     <tbody>
-                    <tr>
+                    <tr class="text-red">
                         <td>
                             <p>A</p>
                         </td>
@@ -2781,7 +2781,7 @@
                             <p>ABSOLUTELY NECESSARY</p>
                         </td>
                     </tr>
-                    <tr>
+                    <tr class="text-peach">
                         <td>
                             <p>E</p>
                         </td>
@@ -2789,7 +2789,7 @@
                             <p>EXTREMELY IMPORTANT</p>
                         </td>
                     </tr>
-                    <tr>
+                    <tr class="text-yellow">
                         <td>
                             <p>I</p>
                         </td>
@@ -2797,7 +2797,7 @@
                             <p>IMPORTANT</p>
                         </td>
                     </tr>
-                    <tr>
+                    <tr class="text-blue">
                         <td>
                             <p>O</p>
                         </td>
@@ -2805,7 +2805,7 @@
                             <p>ORDINARY CLOSENESS</p>
                         </td>
                     </tr>
-                    <tr>
+                    <tr class="text-green">
                         <td>
                             <p>U</p>
                         </td>
@@ -2813,7 +2813,7 @@
                             <p>UNIMPORTANT</p>
                         </td>
                     </tr>
-                    <tr>
+                    <tr class="text-salmon">
                         <td>
                             <p>X</p>
                         </td>
@@ -2829,132 +2829,7 @@
 </section>
 <!-- error section end -->
 
-<!--Footer-->
-<footer class="page-footer center-on-small-only  pt-0 footer-widget-container">
-    <!--Footer Links-->
-    <div class="container pt-5 mb-5">
-        <div class="row">
-            <!--First column-->
-            <div class="col-md-6 col-lg-3 col-xl-3 footer-contact-widget">
-                <h3 class="footer-title">About Us</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates eos minus expedita illo recusandae esse labore obcaecati nisi amet quia odio sapiente! Fugiat, voluptatibus nemo necessitatibus porro.</p>
-                <ul>
-                    <li>
-                        <a href="#"><i class="mdi mdi-facebook"></i></a>
-                    </li>
-                    <li>
-                        <a href="#"><i class="mdi mdi-twitter"></i></a>
-                    </li>
-                    <li>
-                        <a href="#"><i class="mdi mdi-dribbble"></i></a>
-                    </li>
-                    <li>
-                        <a href="#"><i class="mdi mdi-github-circle"></i></a>
-                    </li>
-                    <li>
-                        <a href="#"><i class="mdi mdi-linkedin"></i></a>
-                    </li>
-                </ul>
-            </div>
-            <!--/.First column-->
-
-            <!--Second column-->
-            <div class="col-md-6 col-lg-3 col-xl-3 recent-widget">
-                <h3 class="footer-title">Popular Posts</h3>
-                <ul class="image-list">
-                    <li>
-                        <figure class="overlay">
-                            <img class="img-fluid" src="assets/images/art/a1.jpg" alt="">
-                            <figcaption><a href="blog-single.php"><i class="mdi mdi-link-variant from-top icon-xs"></i></a></figcaption>
-                        </figure>
-                        <div class="post-content">
-                            <h6 class="post-title"> <a href="blog-single.php">Fusce gravida tortor felis</a> </h6>
-                            <div class="meta"><span class="date">12 Jan 2018</span></div>
-                        </div>
-                    </li>
-                    <li>
-                        <figure class="overlay">
-                            <img class="img-fluid" src="assets/images/art/a2.jpg" alt="">
-                            <figcaption><a href="blog-single.php"><i class="mdi mdi-link-variant from-top icon-xs"></i></a></figcaption>
-                        </figure>
-                        <div class="post-content">
-                            <h6 class="post-title"><a href="blog-single.php">Ornare Nullam Risus Cursus</a></h6>
-                            <div class="meta"><span class="date">12 Jan 2018</span></div>
-                        </div>
-                    </li>
-                    <li>
-                        <figure class="overlay">
-                            <img class="img-fluid" src="assets/images/art/a3.jpg" alt="">
-                            <figcaption><a href="blog-single.php"><i class="mdi mdi-link-variant from-top icon-xs"></i></a></figcaption>
-                        </figure>
-                        <div class="post-content">
-                            <h6 class="post-title"> <a href="blog-single.php">Euismod Nullam Fusce Dapibus</a> </h6>
-                            <div class="meta"><span class="date">12 Jan 2018</span></div>
-                        </div>
-                    </li>
-                </ul>
-            </div>
-            <!--/.Second column-->
-
-            <!--Third column-->
-            <div class="col-md-6 col-lg-3 col-xl-3 link-widget">
-                <h3 class="footer-title">Get in Touch</h3>
-                <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Etiam porta sem malesuada magna mollis euismod. Praesent commodo cursus.</p>
-                <div class="mt-3"></div>
-                <ul class="icon-list">
-                    <li><i class="mdi mdi-map-marker"></i> Moonshine St. 14/05 Light City </li>
-                    <li><i class="mdi mdi-email"></i> <a href="mailto:first.last@email.com" class="nocolor">first.last@email.com</a> </li>
-                    <li><i class="mdi mdi-phone-classic"></i> +00 (123) 456 78 90 </li>
-                    <li><i class="mdi mdi-cellphone-iphone"></i> +80 (547) 455 47 54 </li>
-                </ul>
-            </div>
-            <!--/.Third column-->
-
-            <!--Fourth column-->
-            <div class="col-md-6 col-lg-3 col-xl-3 footer-contact">
-                <h3 class="footer-title">Subscribe</h3>
-                <div class="widget">
-                    <div class="newsletter-wrapper">
-                        <form method="post" id="subscribe-form" name="subscribe-form" class="validate">
-                            <div class="form-group">
-                                <input type="email" value="" name="EMAIL" class="email form-control" id="EMAIL" placeholder="Email Address" required="">
-                                <button type="submit" name="subscribe" id="subscribe" class="btn btn-common pull-right">Join</button>
-                                <div class="clearfix"></div>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-                <!-- /.widget -->
-                <div class="widget">
-                    <h5 class="widget-title">Categories</h5>
-                    <ul class="unordered-list">
-                        <li><a href="#" class="nocolor">Lifestyle (21)</a></li>
-                        <li><a href="#" class="nocolor">Photography (19)</a></li>
-                        <li><a href="#" class="nocolor">Journal (16)</a></li>
-                        <li><a href="#" class="nocolor">Works (7)</a></li>
-                    </ul>
-                </div>
-            </div>
-            <!--/.Fourth column-->
-
-        </div>
-    </div>
-    <!--/.Footer Links-->
-
-    <!-- Copyright-->
-    <div class="footer-copyright">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12 text-center">
-                    <p>&copy; 2018 Material Studio, All right reserved. Designed with <i class="mdi mdi-heart"></i> by <a href="#">UIdeck</a></p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--/.Copyright -->
-
-</footer>
-<!--/.Footer-->
+<?php include "footer.php"; ?>
 
 
 <!-- Back To Top -->

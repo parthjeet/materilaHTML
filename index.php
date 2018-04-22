@@ -1,3 +1,4 @@
+<html>
 
 <head>
     <!-- Required meta tags -->
@@ -26,6 +27,8 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <!-- Responsive CSS -->
     <link rel="stylesheet" href="assets/css/responsive.css">
+    <!--    Google fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
 
 
     <!-- Color CSS Styles  -->
@@ -136,7 +139,7 @@
             </div>
             <div class="col-md-12 col-lg-4 col-xl-4 wow animated fadeInUp" data-wow-delay=".2s">
                 <div class="about-single">
-                    <i class="material-icons mdi mdi-leaf"></i>
+                    <i class="material-icons mdi mdi-account-multiple"></i>
                     <h2 class="subtitle">Social Benefits</h2>
                     <div class="text-left">
                         <ul>
@@ -183,6 +186,22 @@
 </section>
 <!-- About Section End -->
 
+<!--Ribbon button section-->
+    <section class="section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-2"></div>
+                <div class="col-8">
+                    <button type="button" class="button btn-default ribbon">Find your Green Score</button>
+                    <button type="button" class="button btn-success ribbon">Calculate your Savings</button>
+                </div>
+                <div class="col-2"></div>
+            </div>
+        </div>
+
+    </section>
+<!--Ribbon button section end-->
+
 <div id="ex-slide" class="container carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
         <li data-target="#ex-slide" data-slide-to="0" class="active"></li>
@@ -200,99 +219,99 @@
         <div class="carousel-item active">
             <img class="d-block w-100 fixed-height" src="assets/images/slider/envoy-textile.jpg" alt="First slide">
             <div class="carousel-caption d-md-block">
-                <h1 class="animated  fadeInDown hero-heading" data-wow-delay=".2s">Envoy Textiles Ltd., Bangladesh</h1>
-                <h3 class="animated  fadeInDown hero-sub-heading" data-wow-delay=".2s">First Denim factory in the world having LEED Platinum Certification </h3>
-                <h5 class="animated fadeInUp  hero-sub-heading" data-wow-delay=".3s">(80/110 Points) Platinum Certified</h5>
-                <a href="javascript:void(0)" class="animated fadeInUp  btn btn-common" data-wow-delay=".8s"><i class="material-icons mdi mdi-lightbulb-outline"></i> Explore<div class="ripple-container"></div></a>
+                <h1 class="animated  fadeInDown hero-heading-sec" data-wow-delay=".2s">Envoy Textiles Ltd., Bangladesh</h1>
+                <h3 class="animated  fadeInDown hero-sub-heading-sec" data-wow-delay=".2s">First Denim factory in the world having LEED Platinum Certification </h3>
+                <h5 class="animated fadeInUp  hero-sub-heading-sec" data-wow-delay=".3s">(80/110 Points) Platinum Certified</h5>
+                <a href="javascript:void(0)" class="animated fadeInUp" data-wow-delay=".8s">Check best examples<div class="ripple-container"></div></a>
             </div>
         </div>
         <div class="carousel-item">
             <img class="d-block w-100 fixed-height" src="assets/images/slider/remi.jpg" alt="First slide">
             <div class="carousel-caption d-md-block">
-                <h1 class="animated  fadeInDown hero-heading" data-wow-delay=".2s">Remi Holdings, Bangladesh</h1>
-                <h3 class="animated  fadeInDown hero-sub-heading" data-wow-delay=".2s">Highest LEED score ever achieved by a garment factory till date</h3>
-                <h5 class="animated fadeInUp hero-sub-heading" data-wow-delay=".3s">(97/110 Points) Platinum Certified</h5>
-                <a href="javascript:void(0)" class="animated fadeInUp  btn btn-common" data-wow-delay=".8s"><i class="material-icons mdi mdi-lightbulb-outline"></i> Explore<div class="ripple-container"></div></a>
+                <h1 class="animated  fadeInDown hero-heading-sec" data-wow-delay=".2s">Remi Holdings, Bangladesh</h1>
+                <h3 class="animated  fadeInDown hero-sub-heading-sec" data-wow-delay=".2s">Highest LEED score ever achieved by a garment factory till date</h3>
+                <h5 class="animated fadeInUp hero-sub-heading-sec" data-wow-delay=".3s">(97/110 Points) Platinum Certified</h5>
+                <a href="javascript:void(0)" class="animated fadeInUp" data-wow-delay=".8s">Check best examples<div class="ripple-container"></div></a>
             </div>
         </div>
         <div class="carousel-item">
             <img  class="d-block w-100 fixed-height" src="assets/images/slider/plummy.jpg" alt="First slide">
             <div class="carousel-caption d-md-block">
-                <h1 class="animated  fadeInDown hero-heading" data-wow-delay=".2s">Plummy Fashions, Bangladesh</h1>
-                <h3 class="animated  fadeInDown hero-sub-heading" data-wow-delay=".2s">Highest LEED Scoring Knitwear Factory  </h3>
-                <h5 class="animated fadeInUp  hero-sub-heading" data-wow-delay=".3s">(92/110 Points) Platinum Certified</h5>
-                <a href="javascript:void(0)" class="animated fadeInUp  btn btn-common" data-wow-delay=".8s"><i class="material-icons mdi mdi-lightbulb-outline"></i> Explore<div class="ripple-container"></div></a>
+                <h4 class="animated  fadeInDown hero-heading-sec" data-wow-delay=".2s">Plummy Fashions, Bangladesh</h4>
+                <h4 class="animated  fadeInDown hero-sub-heading-sec" data-wow-delay=".2s">Highest LEED Scoring Knitwear Factory  </h4>
+                <h6 class="animated fadeInUp  hero-sub-heading-sec" data-wow-delay=".3s">(92/110 Points) Platinum Certified</h6>
+                <a href="javascript:void(0)" class="animated fadeInUp" data-wow-delay=".8s">Check best examples<div class="ripple-container"></div></a>
             </div>
         </div>
         <div class="carousel-item">
             <img class="d-block w-100 fixed-height" src="assets/images/slider/VDS.jpg" alt="First slide">
             <div class="carousel-caption d-md-block">
-                <h1 class="animated  fadeInDown hero-heading" data-wow-delay=".2s">Vintage Denim Studio, Bangladesh</h1>
-                <h3 class="animated  fadeInDown hero-sub-heading" data-wow-delay=".2s">First platinum rated garment factory (BD+C)</h3>
-                <h5 class="animated fadeInUp  hero-sub-heading" data-wow-delay=".3s">(90/110 Points) Platinum Certified</h5>
-                <a href="javascript:void(0)" class="animated fadeInUp  btn btn-common" data-wow-delay=".8s"><i class="material-icons mdi mdi-lightbulb-outline"></i> Explore<div class="ripple-container"></div></a>
+                <h1 class="animated  fadeInDown hero-heading-sec" data-wow-delay=".2s">Vintage Denim Studio, Bangladesh</h1>
+                <h3 class="animated  fadeInDown hero-sub-heading-sec" data-wow-delay=".2s">First platinum rated garment factory (BD+C)</h3>
+                <h5 class="animated fadeInUp  hero-sub-heading-sec" data-wow-delay=".3s">(90/110 Points) Platinum Certified</h5>
+                <a href="javascript:void(0)" class="animated fadeInUp" data-wow-delay=".8s">Check best examples<div class="ripple-container"></div></a>
             </div>
         </div>
         <div class="carousel-item">
             <img class="d-block w-100 fixed-height" src="assets/images/slider/MAS.jpg" alt="First slide">
             <div class="carousel-caption d-md-block">
-                <h1 class="animated  fadeInDown hero-heading" data-wow-delay=".2s">Envoy Textiles Ltd., Bangladesh</h1>
-                <h3 class="animated  fadeInDown hero-sub-heading" data-wow-delay=".2s">First clothing factory powered solely by carbon neutral Sources</h3>
-                <h5 class="animated fadeInUp  hero-sub-heading" data-wow-delay=".3s">(53/69 Points) Platinum Certified</h5>
-                <a href="javascript:void(0)" class="animated fadeInUp  btn btn-common" data-wow-delay=".8s"><i class="material-icons mdi mdi-lightbulb-outline"></i> Explore<div class="ripple-container"></div></a>
+                <h1 class="animated  fadeInDown hero-heading-sec" data-wow-delay=".2s">MAS, Sri Lanka</h1>
+                <h3 class="animated  fadeInDown hero-sub-heading-sec" data-wow-delay=".2s">First clothing factory powered solely by carbon neutral Sources</h3>
+                <h5 class="animated fadeInUp  hero-sub-heading-sec" data-wow-delay=".3s">(53/69 Points) Platinum Certified</h5>
+                <a href="javascript:void(0)" class="animated fadeInUp" data-wow-delay=".8s">Check best examples<div class="ripple-container"></div></a>
             </div>
         </div>
         <div class="carousel-item">
             <img class="d-block w-100 fixed-height" src="assets/images/slider/Brandix.jpg" alt="First slide">
             <div class="carousel-caption d-md-block">
-                <h1 class="animated  fadeInDown hero-heading" data-wow-delay=".2s">Brandix, Seeduwa, Sri Lanka</h1>
-                <h3 class="animated  fadeInDown hero-sub-heading" data-wow-delay=".2s">First garment manufacturing facility  in the world to be rated Platinum (O+M)</h3>
-                <h5 class="animated fadeInUp  hero-sub-heading" data-wow-delay=".3s">(76/85 Points) Platinum Certified</h5>
-                <a href="javascript:void(0)" class="animated fadeInUp  btn btn-common" data-wow-delay=".8s"><i class="material-icons mdi mdi-lightbulb-outline"></i> Explore<div class="ripple-container"></div></a>
+                <h1 class="animated  fadeInDown hero-heading-sec" data-wow-delay=".2s">Brandix, Seeduwa, Sri Lanka</h1>
+                <h3 class="animated  fadeInDown hero-sub-heading-sec" data-wow-delay=".2s">First garment manufacturing facility  in the world to be rated Platinum (O+M)</h3>
+                <h5 class="animated fadeInUp  hero-sub-heading-sec" data-wow-delay=".3s">(76/85 Points) Platinum Certified</h5>
+                <a href="javascript:void(0)" class="animated fadeInUp" data-wow-delay=".8s">Check best examples<div class="ripple-container"></div></a>
             </div>
         </div>
         <div class="carousel-item">
             <img class="d-block w-100 fixed-height" src="assets/images/slider/Hirdamani.jpg" alt="First slide">
             <div class="carousel-caption d-md-block">
-                <h1 class="animated  fadeInDown hero-heading" data-wow-delay=".2s">Hirdaramani Ltd.- Mihila, Sri Lanka</h1>
-                <h3 class="animated  fadeInDown hero-sub-heading" data-wow-delay=".2s">First custom built Eco friendly garment factory</h3>
-                <h5 class="animated fadeInUp  hero-sub-heading" data-wow-delay=".3s">(84/110 Points) Platinum Certified</h5>
-                <a href="javascript:void(0)" class="animated fadeInUp  btn btn-common" data-wow-delay=".8s"><i class="material-icons mdi mdi-lightbulb-outline"></i> Explore<div class="ripple-container"></div></a>
+                <h1 class="animated  fadeInDown hero-heading-sec" data-wow-delay=".2s">Hirdaramani Ltd.- Sri Lanka</h1>
+                <h3 class="animated  fadeInDown hero-sub-heading-sec" data-wow-delay=".2s">First custom built Eco friendly garment factory</h3>
+                <h5 class="animated fadeInUp  hero-sub-heading-sec" data-wow-delay=".3s">(84/110 Points) Platinum Certified</h5>
+                <a href="javascript:void(0)" class="animated fadeInUp" data-wow-delay=".8s">Check best examples<div class="ripple-container"></div></a>
             </div>
         </div>
         <div class="carousel-item">
             <img class="d-block w-100 fixed-height" src="assets/images/slider/Esquel.jpg" alt="First slide">
             <div class="carousel-caption d-md-block">
-                <h1 class="animated  fadeInDown hero-heading" data-wow-delay=".2s">Esquel Group</h1>
-                <h3 class="animated  fadeInDown hero-sub-heading" data-wow-delay=".2s">Largest shirt manufacturer in the world </h3>
-                <h5 class="animated fadeInUp  hero-sub-heading" data-wow-delay=".3s">Ranked 2nd best apparel company in China for its green supply chain</h5>
-                <a href="javascript:void(0)" class="animated fadeInUp  btn btn-common" data-wow-delay=".8s"><i class="material-icons mdi mdi-lightbulb-outline"></i> Explore<div class="ripple-container"></div></a>
+                <h1 class="animated  fadeInDown hero-heading-sec" data-wow-delay=".2s">Esquel Group</h1>
+                <h3 class="animated  fadeInDown hero-sub-heading-sec" data-wow-delay=".2s">Largest shirt manufacturer in the world </h3>
+                <h5 class="animated fadeInUp  hero-sub-heading-sec" data-wow-delay=".3s">Ranked 2nd best apparel company in China for its green supply chain</h5>
+                <a href="javascript:void(0)" class="animated fadeInUp" data-wow-delay=".8s">Check best examples<div class="ripple-container"></div></a>
             </div>
         </div>
         <div class="carousel-item">
             <img class="d-block w-100 fixed-height" src="assets/images/slider/Artistic.jpg" alt="First slide">
             <div class="carousel-caption d-md-block">
-                <h1 class="animated  fadeInDown hero-heading" data-wow-delay=".2s">Artistic Milliners</h1>
-                <h3 class="animated  fadeInDown hero-sub-heading" data-wow-delay=".2s">Pakistan's first LEED certified garment factory</h3>
-                <h5 class="animated fadeInUp  hero-sub-heading" data-wow-delay=".3s">(66/110 Points) Platinum Certified</h5>
-                <a href="javascript:void(0)" class="animated fadeInUp  btn btn-common" data-wow-delay=".8s"><i class="material-icons mdi mdi-lightbulb-outline"></i> Explore<div class="ripple-container"></div></a>
+                <h1 class="animated  fadeInDown hero-heading-sec" data-wow-delay=".2s">Artistic Milliners</h1>
+                <h3 class="animated  fadeInDown hero-sub-heading-sec" data-wow-delay=".2s">Pakistan's first LEED certified garment factory</h3>
+                <h5 class="animated fadeInUp  hero-sub-heading-sec" data-wow-delay=".3s">(66/110 Points) Platinum Certified</h5>
+                <a href="javascript:void(0)" class="animated fadeInUp" data-wow-delay=".8s">Check best examples<div class="ripple-container"></div></a>
             </div>
         </div>
         <div class="carousel-item">
             <img class="d-block w-100 fixed-height" src="assets/images/slider/EchoTex-e1513499603773.jpg" alt="First slide">
             <div class="carousel-caption d-md-block">
-                <h1 class="animated  fadeInDown hero-heading" data-wow-delay=".2s">Echotex Limited, Bangladesh</h1>
-                <h3 class="animated  fadeInDown hero-sub-heading" data-wow-delay=".2s">“National Environment Award” by the Directorate of Environment and Forest of Bangladesh</h3>
-                <h5 class="animated fadeInUp  hero-sub-heading" data-wow-delay=".3s">(86/110 Points) Platinum Certified</h5>
-                <a href="javascript:void(0)" class="animated fadeInUp  btn btn-common" data-wow-delay=".8s"><i class="material-icons mdi mdi-lightbulb-outline"></i> Explore<div class="ripple-container"></div></a>
+                <h1 class="animated  fadeInDown hero-heading-sec" data-wow-delay=".2s">Echotex Limited, Bangladesh</h1>
+                <h3 class="animated  fadeInDown hero-sub-heading-sec" data-wow-delay=".2s">“National Environment Award” by the Directorate of Environment and Forest of Bangladesh</h3>
+                <h5 class="animated fadeInUp  hero-sub-heading-sec" data-wow-delay=".3s">(86/110 Points) Platinum Certified</h5>
+                <a href="javascript:void(0)" class="animated fadeInUp" data-wow-delay=".8s">Check best examples<div class="ripple-container"></div></a>
             </div>
         </div>
 
         <!--<div class="carousel-item">-->
         <!--<img class="d-block w-100" src="assets/images/slider/slider-bg2.jpg" alt="Second slide">-->
         <!--<div class="carousel-caption d-md-block">-->
-        <!--<h1 class="animated wow fadeInLeft hero-heading" data-wow-delay=".7s">Refreshing Material Design</h1>-->
-        <!--<h5 class="animated wow fadeInRight hero-sub-heading" data-wow-delay=".9s">Extensively Customizable Tons of UI Elements</h5>-->
+        <!--<h1 class="animated wow fadeInLeft hero-heading-sec" data-wow-delay=".7s">Refreshing Material Design</h1>-->
+        <!--<h5 class="animated wow fadeInRight hero-sub-heading-sec" data-wow-delay=".9s">Extensively Customizable Tons of UI Elements</h5>-->
         <!--<a href="javascript:void(0)" class="animated fadeInUp wow btn btn-common" data-wow-delay=".3s"><i class="material-icons mdi mdi-cart-outline"></i> Purchase</a>-->
         <!--<a href="javascript:void(0)" class="animated fadeInUp wow btn btn-border" data-wow-delay=".8s"><i class="material-icons mdi mdi-lightbulb-outline"></i> Learn More <div class="ripple-container"></div></a>-->
         <!--</div>-->
@@ -300,8 +319,8 @@
         <!--<div class="carousel-item">-->
         <!--<img class="d-block w-100" src="assets/images/slider/slider-bg3.jpg" alt="Third slide">-->
         <!--<div class="carousel-caption d-md-block">-->
-        <!--<h1 class="animated wow fadeInDown hero-heading" data-wow-delay=".3s">Multi-purpose Template</h1>-->
-        <!--<h5 class="animated fadeInUp wow hero-sub-heading" data-wow-delay=".8s">Ready to Use for Business, Agency, Startup, Portfolio Sites and More...</h5>-->
+        <!--<h1 class="animated wow fadeInDown hero-heading-sec" data-wow-delay=".3s">Multi-purpose Template</h1>-->
+        <!--<h5 class="animated fadeInUp wow hero-sub-heading-sec" data-wow-delay=".8s">Ready to Use for Business, Agency, Startup, Portfolio Sites and More...</h5>-->
         <!--<a href="javascript:void(0)" class="animated fadeInUp wow btn btn-common" data-wow-delay=".8s"><i class="material-icons mdi mdi-arrow-collapse-down"></i> Download Now</a>-->
         <!--</div>-->
     </div>
@@ -320,7 +339,7 @@
 <section class="welcome-section section-padding section-dark">
     <div class="container">
         <div class="row">
-            <div class="col-md-12 col-lg-7 col-xs-12">
+            <div class="col-md-7 col-lg-7 col-xs-12">
                 <div class="Material-tab">
                     <!-- Nav tabs -->
                     <ul class="nav nav-tabs justify-content-center" id="myTab" role="tablist">
@@ -379,7 +398,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-12 col-lg-5 col-xs-12 welcome-column">
+            <div class="col-md-5 col-lg-5 col-xs-12 welcome-column">
                 <div class="video-gallery">
                     <img class="img-fluid" src="assets/images/about/video.jpg" alt="">
                     <div class="overlay-gallery">
@@ -414,7 +433,7 @@
             <div class="col-md-6 col-lg-4 col-xl-4 single-service-widget wow animated fadeInUp" data-wow-delay=".3s">
                 <div class="media">
                     <div class="media-left">
-                        <i class="material-icons pulse-shrink mdi mdi-arrange-send-backward"></i>
+                        <i class="material-icons pulse-shrink mdi mdi-recycle"></i>
                     </div>
                     <div class="media-body">
                         <h2 class="subtitle"><a href="#">Minimize waste & maximize reuse</a></h2>
@@ -438,7 +457,7 @@
             <div class="col-md-6 col-lg-4 col-xl-4 single-service-widget wow animated fadeInUp" data-wow-delay=".5s">
                 <div class="media">
                     <div class="media-left">
-                        <i class="material-icons pulse-shrink mdi mdi-grid"></i>
+                        <i class="material-icons pulse-shrink mdi mdi-image-filter-hdr"></i>
                     </div>
                     <div class="media-body">
                         <h2 class="subtitle"><a href="#">Keeping Landscape green</a></h2>
@@ -450,7 +469,7 @@
             <div class="col-md-6 col-lg-4 col-xl-4 single-service-widget wow animated fadeInUp" data-wow-delay=".6s">
                 <div class="media">
                     <div class="media-left">
-                        <i class="material-icons pulse-shrink mdi mdi-update"></i>
+                        <i class="material-icons pulse-shrink mdi mdi-fan"></i>
                     </div>
                     <div class="media-body">
                         <h2 class="subtitle"><a href="#">Energy conservation</a></h2>
@@ -462,7 +481,7 @@
             <div class="col-md-6 col-lg-4 col-xl-4 single-service-widget wow animated fadeInUp" data-wow-delay=".7s">
                 <div class="media">
                     <div class="media-left">
-                        <i class="material-icons pulse-shrink mdi mdi-speedometer"></i>
+                        <i class="material-icons pulse-shrink mdi mdi-plus-outline"></i>
                     </div>
                     <div class="media-body">
                         <h2 class="subtitle"><a href="#">Promote health & well-being of inhabitants</a></h2>
@@ -474,10 +493,10 @@
             <div class="col-md-6 col-lg-4 col-xl-4 single-service-widget wow animated fadeInUp" data-wow-delay=".8s">
                 <div class="media">
                     <div class="media-left">
-                        <i class="material-icons pulse-shrink mdi mdi-shape-plus"></i>
+                        <i class="material-icons pulse-shrink mdi mdi-account-multiple-outline"></i>
                     </div>
                     <div class="media-body">
-                        <h2 class="subtitle"><a href="#">Keeping Landscape green</a></h2>
+                        <h2 class="subtitle"><a href="#">Connecting People</a></h2>
 
                     </div>
                 </div>
@@ -485,10 +504,10 @@
             <div class="col-md-6 col-lg-4 col-xl-4 single-service-widget wow animated fadeInUp" data-wow-delay=".8s">
                 <div class="media">
                     <div class="media-left">
-                        <i class="material-icons pulse-shrink mdi mdi-shape-plus"></i>
+                        <i class="material-icons pulse-shrink mdi mdi-briefcase-upload"></i>
                     </div>
                     <div class="media-body">
-                        <h2 class="subtitle"><a href="#">Improving employee productivity</a></h2>
+                        <h2 class="subtitle"><a href="#">Improving Employee Productivity</a></h2>
 
                     </div>
                 </div>
@@ -496,7 +515,7 @@
             <div class="col-md-6 col-lg-4 col-xl-4 single-service-widget wow animated fadeInUp" data-wow-delay=".8s">
                 <div class="media">
                     <div class="media-left">
-                        <i class="material-icons pulse-shrink mdi mdi-shape-plus"></i>
+                        <i class="material-icons pulse-shrink mdi mdi-cancel"></i>
                     </div>
                     <div class="media-body">
                         <h2 class="subtitle"><a href="#">Pollution Control</a></h2>
@@ -507,7 +526,7 @@
             <div class="col-md-6 col-lg-4 col-xl-4 single-service-widget wow animated fadeInUp" data-wow-delay=".8s">
                 <div class="media">
                     <div class="media-left">
-                        <i class="material-icons pulse-shrink mdi mdi-shape-plus"></i>
+                        <i class="material-icons pulse-shrink mdi mdi-factory"></i>
                     </div>
                     <div class="media-body">
                         <h2 class="subtitle"><a href="#">Cleaner production processes</a></h2>
@@ -721,7 +740,7 @@
             <!-- Single Counter -->
             <div class="col-md-4 col-sm-6 work-counter-widget text-center wow animated fadeInUp" data-wow-delay=".2s">
                 <div class="counter">
-                    <div class="icon"><i class="material-icons mdi mdi-check-all"></i></div>
+                    <div class="icon"><i class="material-icons mdi mdi-power"></i></div>
                     <div class="timer">25</div>
                     <p>Savings in Energy Consumption</p>
                 </div>
@@ -729,7 +748,7 @@
             <!-- Single Counter -->
             <div class="col-md-4 col-sm-6 work-counter-widget text-center wow animated fadeInUp" data-wow-delay=".3s">
                 <div class="counter">
-                    <div class="icon"><i class="material-icons mdi mdi-clock"></i></div>
+                    <div class="icon"><i class="material-icons mdi mdi-water"></i></div>
                     <div class="timer">20</div>
                     <p>Savings in Water Consumption</p>
                 </div>
@@ -737,7 +756,7 @@
             <!-- Single Counter -->
             <div class="col-md-4 col-sm-6 work-counter-widget text-center wow animated fadeInUp" data-wow-delay=".4s">
                 <div class="counter">
-                    <div class="icon"><i class="material-icons mdi mdi-account-multiple-outline"></i></div>
+                    <div class="icon"><i class="material-icons mdi mdi-delete-empty"></i></div>
                     <div class="timer">50</div>
                     <p>Less Waste Generation</p>
                 </div>
@@ -745,21 +764,21 @@
             <!-- Single Counter -->
             <div class="col-md-4 col-sm-6 work-counter-widget text-center wow animated fadeInUp" data-wow-delay=".5s">
                 <div class="counter">
-                    <div class="icon"><i class="material-icons mdi mdi-sticker-emoji"></i></div>
+                    <div class="icon"><i class="material-icons mdi mdi-language-c"></i></div>
                     <div class="timer">35</div>
                     <p>Reduced Carbon Emission</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 work-counter-widget text-center wow animated fadeInUp" data-wow-delay=".5s">
                 <div class="counter">
-                    <div class="icon"><i class="material-icons mdi mdi-sticker-emoji"></i></div>
+                    <div class="icon"><i class="material-icons mdi mdi-currency-inr"></i></div>
                     <div class="timer">30</div>
                     <p>Reduction in Building's operating expenses</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 work-counter-widget text-center wow animated fadeInUp" data-wow-delay=".5s">
                 <div class="counter">
-                    <div class="icon"><i class="material-icons mdi mdi-sticker-emoji"></i></div>
+                    <div class="icon"><i class="material-icons mdi mdi-checkbox-multiple-marked-outline"></i></div>
                     <div class="timer">40</div>
                     <p>Increase in Space utilization</p>
                 </div>
@@ -1118,132 +1137,7 @@
 </section>
 <!-- Contact Us Section End -->
 
-<!--Footer-->
-<footer class="page-footer center-on-small-only  pt-0 footer-widget-container">
-    <!--Footer Links-->
-    <div class="container pt-5 mb-5">
-        <div class="row">
-            <!--First column-->
-            <div class="col-md-6 col-lg-3 col-xl-3 footer-contact-widget">
-                <h3 class="footer-title">About Us</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates eos minus expedita illo recusandae esse labore obcaecati nisi amet quia odio sapiente! Fugiat, voluptatibus nemo necessitatibus porro.</p>
-                <ul>
-                    <li>
-                        <a href="#"><i class="mdi mdi-facebook"></i></a>
-                    </li>
-                    <li>
-                        <a href="#"><i class="mdi mdi-twitter"></i></a>
-                    </li>
-                    <li>
-                        <a href="#"><i class="mdi mdi-dribbble"></i></a>
-                    </li>
-                    <li>
-                        <a href="#"><i class="mdi mdi-github-circle"></i></a>
-                    </li>
-                    <li>
-                        <a href="#"><i class="mdi mdi-linkedin"></i></a>
-                    </li>
-                </ul>
-            </div>
-            <!--/.First column-->
-
-            <!--Second column-->
-            <div class="col-md-6 col-lg-3 col-xl-3 recent-widget">
-                <h3 class="footer-title">Recent Posts</h3>
-                <ul class="image-list">
-                    <li>
-                        <figure class="overlay">
-                            <img class="img-fluid" src="assets/images/art/a1.jpg" alt="">
-                            <figcaption><a href="blog-single.php"><i class="mdi mdi-link-variant from-top icon-xs"></i></a></figcaption>
-                        </figure>
-                        <div class="post-content">
-                            <h6 class="post-title"> <a href="blog-single.php">Fusce gravida tortor felis</a> </h6>
-                            <div class="meta"><span class="date">12 Jan 2019</span></div>
-                        </div>
-                    </li>
-                    <li>
-                        <figure class="overlay">
-                            <img class="img-fluid" src="assets/images/art/a2.jpg" alt="">
-                            <figcaption><a href="blog-single.php"><i class="mdi mdi-link-variant from-top icon-xs"></i></a></figcaption>
-                        </figure>
-                        <div class="post-content">
-                            <h6 class="post-title"><a href="blog-single.php">Ornare Nullam Risus Cursus</a></h6>
-                            <div class="meta"><span class="date">12 Jan 2019</span></div>
-                        </div>
-                    </li>
-                    <li>
-                        <figure class="overlay">
-                            <img class="img-fluid" src="assets/images/art/a3.jpg" alt="">
-                            <figcaption><a href="blog-single.php"><i class="mdi mdi-link-variant from-top icon-xs"></i></a></figcaption>
-                        </figure>
-                        <div class="post-content">
-                            <h6 class="post-title"> <a href="blog-single.php">Euismod Nullam Fusce Dapibus</a> </h6>
-                            <div class="meta"><span class="date">12 Jan 2019</span></div>
-                        </div>
-                    </li>
-                </ul>
-            </div>
-            <!--/.Second column-->
-
-            <!--Third column-->
-            <div class="col-md-6 col-lg-3 col-xl-3 link-widget">
-                <h3 class="footer-title">Get in Touch</h3>
-                <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Etiam porta sem malesuada magna mollis euismod. Praesent commodo cursus.</p>
-                <div class="mt-3"></div>
-                <ul class="icon-list">
-                    <li><i class="mdi mdi-map-marker"></i> 548 San Francisco, CA </li>
-                    <li><i class="mdi mdi-email"></i> <a href="mailto:mail@material.com" class="nocolor">mail@material.com</a> </li>
-                    <li><i class="mdi mdi-phone-classic"></i> +00 (123) 456 78 90 </li>
-                    <li><i class="mdi mdi-cellphone-iphone"></i> +00 (121) 455 47 54 </li>
-                </ul>
-            </div>
-            <!--/.Third column-->
-
-            <!--Fourth column-->
-            <div class="col-md-6 col-lg-3 col-xl-3 footer-contact">
-                <h3 class="footer-title">Subscribe</h3>
-                <div class="widget">
-                    <div class="newsletter-wrapper">
-                        <form method="post" id="subscribe-form" name="subscribe-form" class="validate">
-                            <div class="form-group">
-                                <input type="email" value="" name="EMAIL" class="email form-control" id="EMAIL" placeholder="Email Address" required="">
-                                <button type="submit" name="subscribe" id="subscribe" class="btn btn-common pull-right">Join</button>
-                                <div class="clearfix"></div>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-                <!-- /.widget -->
-                <div class="widget">
-                    <h5 class="widget-title">Useful Links</h5>
-                    <ul class="unordered-list">
-                        <li><a href="#" class="nocolor">Terms of Use</a></li>
-                        <li><a href="#" class="nocolor">Privacy Policy</a></li>
-                        <li><a href="#" class="nocolor">Company Profile</a></li>
-                        <li><a href="#" class="nocolor">Why Choose Us</a></li>
-                    </ul>
-                </div>
-            </div>
-            <!--/.Fourth column-->
-
-        </div>
-    </div>
-    <!--/.Footer Links-->
-
-    <!-- Copyright-->
-    <div class="footer-copyright">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12 text-center">
-                    <p>&copy; 2018 Material Studio, All right reserved. Designed with <i class="mdi mdi-heart"></i> by <a href="#">UIdeck</a></p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--/.Copyright -->
-
-</footer>
-<!--/.Footer-->
+<?php include "footer.php"; ?>
 
 
 <!-- Back To Top -->
@@ -1278,6 +1172,8 @@
 <script src="assets/js/jquery.magnific-popup.min.js"></script>
 <script src="assets/js/jquery.slicknav.js"></script>
 <script src="assets/js/main.js"></script>
+<!--<script src="assets/js/my.js"></script>-->
 
 </body>
 
+</html>
