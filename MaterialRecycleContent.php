@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>WRAP</title>
+    <title>Materials with Recycled Content</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -46,7 +46,7 @@
             <div class="col-md-12">
                 <div class="title-center">
                     <div class="title-middle">
-                        <h1 class="page-title text-center text-center">Worldwide Responsible Accredited Production</h1>
+                        <h1 class="page-title text-center text-center">Materials with Recycled Content</h1>
                     </div>
                 </div>
             </div>
@@ -60,217 +60,392 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <img src="/materilaHTML/assets/images/Regulations/WRAP/0-Logo.png" class="img-fluid">
+                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Material/3.Recycled.png" class="img-fluid">
                 <div class="text-left section-padding">
-                    <ul>
-                        <li>Headquartered in Arlington, Virginia, USA with offices in Hong Kong and Bangladesh and full-time staff in India and Southeast Asia, Worldwide Responsible Accredited Production (WRAP) is an independent, objective, non-profit team of global social compliance experts dedicated to promoting safe, lawful, humane and ethical manufacturing around the world through certification and education.</li>
-                        <li>The WRAP Principles are based on generally accepted international workplace standards, local laws and workplace regulations, and include the spirit or language of relevant conventions of the International Labor Organization (ILO). The Principles encompass human resources management, health and safety, environmental practices, and legal compliance including import/export and customs compliance and security standards.</li>
-                        <li>The WRAP Certification Program&rsquo;s objective is to independently monitor and certify compliance with these standards, to ensure that sewn products are being produced under lawful, humane and ethical conditions. Participating facilities voluntarily commit to ensuring that their manufacturing practices will meet these standards, and further commit to passing along, on their part, the expectation that their contractors and suppliers likewise comply with these standards.</li>
-                    </ul>
-                </div>
-                <div class="table-responsive">
-                    <table class="table table-responsive table-bordered">
+                    <div class="table-responsive">
+                        <table class="table table-bordered">
                         <tbody>
                         <tr>
-                            <td>
-                                <p><strong>Sl. No.</strong></p>
+                            <td class="text-center align-middle">
+                                <p><strong>Type</strong></p>
                             </td>
                             <td>
-                                <p><strong>Regulation</strong></p>
-                            </td>
-                            <td>
-                                <p><strong>Description</strong></p>
+                                <p>Suggested Requirement</p>
                             </td>
                         </tr>
                         <tr>
-                            <td>
-                                <p>1.</p>
+                            <td class="text-center align-middle">
+                                <p><strong>Aim</strong></p>
                             </td>
                             <td>
-                                <p>Compliance with Laws and Workplace Regulations</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/1.Compliance%20Rules.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will comply with laws and regulations in all locations where they conduct business.</p>
-                                <p>&middot; All facilities will comply with the legal requirements and standards of their industry under the local and national laws of the jurisdictions in which the facilities are doing business, along with any applicable international laws.</p>
-                                <p>&middot; This will cover all labor and employment laws of those jurisdictions, as well as laws governing the conduct of business in general, including rules and standards of ethics dealing with corruption and transparency, and any relevant environmental laws.</p>
+                                <p>To encourage the use of products (materials other than plant machinery) which contain recycled materials to reduce environmental impacts associated with the use of virgin materials.</p>
                             </td>
                         </tr>
                         <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Steps</strong></p>
+                            </td>
                             <td>
-                                <p>2.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Prohibition of Forced Labor</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/2.Forced_labor.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will not use involuntary, forced or trafficked labor.</p>
-                                <p>&middot; Facilities will maintain employment strictly on a voluntary basis.</p>
-                                <p>&middot; Facilities will not use any forced, prison, indentured, bonded or trafficked labor.</p>
-                                <p>&middot; This will include ensuring that any workers they hire will be under labor contracts that fully comply with all relevant legal requirements and do not impose any form of coercion (including imposing substantial fines or loss of residency papers by workers leaving employment or restricting a worker&rsquo;s ability to voluntarily end his/her employment).</p>
-                                <p>&middot; In addition, when hiring workers through an employment broker or agency, facilities will ensure that the workers&rsquo; passports are not withheld, all written contracts are in the native language of the workers, and recruitment fees are not borne by the workers themselves.</p>
+                                <p>Use materials with recycled content such that the total recycled content constitutes atleast 10% of the total cost of the materials used in the project.</p>
+                                <p><em>Notes:</em></p>
+                                <p>&bull; <em>Material Cost = Total Cost &ndash; (Labour Cost + Installation Cost)</em></p>
+                                <p>&bull; <em>If Labour and Installation cost is not known, the default material cost can be considered as 60% of the total cost of the component</em></p>
+                                <p>&bull; <em>Cost of equipment, systems, lighting fixtures, appliances, movable furniture need not be considered in the total material cost</em></p>
                             </td>
                         </tr>
                         <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>Documents Required</strong></p>
+                            </td>
                             <td>
-                                <p>3.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Prohibition of Child Labor</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/3.Child_labor.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will not hire any employee under the age of 14 or under the minimum age established by law for employment, whichever is greater, or any employee whose employment would interfere with compulsory schooling.</p>
-                                <p>&middot; Facilities will ensure they do not engage in any form of child labor, including, but not limited to, the internationally recognized worst forms of child labor.</p>
-                                <p>&middot; Facilities may not employ any person at an age younger than the law of the jurisdiction allows and in any case not below the age of 14, even if permitted by local law.</p>
-                                <p>&middot; In addition, facilities will adhere to local legal requirements regarding mandatory schooling.</p>
-                                <p>&middot; Further, if, where permitted by local law, a facility employs young workers (defined as workers whose age is between the minimum age of employment and 18 years), the facility will also comply with any applicable legal restrictions on the nature and volume of work performed by such young workers, as well as any other requirements imposed by law, including ensuring that such young workers do not perform any hazardous work (e.g., chemical handling or operating heavy machinery).</p>
+                                <p>Provide details of all materials used in the project with the material cost.</p>
+                                <p>Specify recycled content in the materials used. Submit letters from manufacturers specifying the recycled content.</p>
                             </td>
                         </tr>
                         <tr>
-                            <td>
-                                <p>4.</p>
+                            <td class="text-center align-middle">
+                                <p><strong>Approach</strong></p>
                             </td>
-                            <td class="align-middle">
-                                <p>Prohibition of Harassment or Abuse</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/4.Harassment.png" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will provide a work environment free of supervisory or co-worker harassment or abuse, and free of corporal punishment in any form.</p>
-                                <p>&middot; Facilities will ensure a workplace that is respectful of a worker&rsquo;s rights and dignity.</p>
-                                <p>&middot; This includes ensuring that no corporal punishment or physical coercion be used.</p>
-                                <p>&middot; Facilities will not engage in or tolerate sexual harassment, indecent or threatening gestures, abusive tone or language or any other kind of undesired physical or verbal contact, such as bullying.</p>
-                                <p>&middot; In particular, facilities will ensure proper training at all levels - including management, supervisors and workers - to secure a workplace free of harassment or abuse.</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>5.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Compensation and Benefits</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/5.Compensation.png" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will pay at least the minimum total compensation required by local law, including all mandated wages, allowances &amp; benefits.</p>
-                                <p>&middot; Facilities will ensure proper compensation for their employees for all the work done, by providing in a timely manner all the wages and benefits that are in compliance with the local and national laws of the jurisdiction in which they are located.</p>
-                                <p>&middot; This will include any premiums for overtime work or work done during holidays, as well as any other allowances or benefits, including any mandatory social insurance, required by local law.</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>6.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Hours of Work</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/6.Hours_of_work.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Hours worked each day, and days worked each week, should not exceed the limitations of the country&rsquo;s law.</p>
-                                <p>&middot; Facilities will provide at least one day off in every seven-day period, except as required to meet urgent business needs.</p>
-                                <p>&middot; Facilities are required by local law to adhere to any limits set on regular working hours as well as any limits set on overtime work.</p>
-                                <p>&middot; Long term participation in the WRAP Certification Program is contingent upon meeting the limitations set by local law.</p>
-                                <p>&middot; WRAP recognizes that this can be a particularly challenging requirement, especially when taking into account local enforcement norms and customs.</p>
-                                <p>&middot; In light of this reality, WRAP will permit full compliance with local laws on working hours to be achieved incrementally, provided that a given facility meets the following conditions:</p>
-                                <p>&uuml; Is fully transparent about its working hours;</p>
-                                <p>&uuml; Ensures that those hours are all being worked voluntarily, in conditions that protect worker safety and health;</p>
-                                <p>&uuml; Compensates all employees in keeping with WRAP Principle 5;</p>
-                                <p>&uuml; Shows improvement toward meeting the working hours requirements from one audit to the next.</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>7.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Prohibition of Discrimination</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/7.Discrimination.gif" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will employ, pay, promote, and terminate workers on the basis of their ability to do the job, rather than on the basis of personal characteristics or beliefs.</p>
-                                <p>&middot; Facilities will ensure that all terms and conditions of employment are based on an individual&rsquo;s ability to do the job, and not on the basis of any personal characteristics or beliefs.</p>
-                                <p>&middot; Facilities will ensure that any employment decision - involving hiring, firing, assigning work, paying or promoting - is made without discriminating against the employees on the basis of race, color, national origin, gender, sexual orientation, religion, disability, or other similar factors (pregnancy, political opinion or affiliation, social status, etc.).</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>8.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Health and Safety</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/8.Health&safety.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will provide a safe and healthy work environment. Where residential housing is provided for workers, facilities will provide safe and healthy housing.</p>
-                                <p>&middot; Facilities will provide a safe, clean, healthy and productive workplace for their employees.</p>
-                                <p>&middot; Facilities shall prioritize worker health and safety above all else, and proactively address any safety issues that could arise.</p>
-                                <p>&middot; This will include a wide variety of requirements, such as, ensuring, among other things, the availability of clean drinking water (at no charge to workers), adequate medical resources, fire exits and safety equipment, well-lighted and comfortable workstations, clean restrooms.</p>
-                                <p>&middot; Further, facilities shall adequately train all their workers on how to perform their jobs safely</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>9.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Freedom of Association and Collective Bargaining</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/9.Collecive_bargaining.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will recognize and respect the right of employees to exercise their lawful rights of free association and collective bargaining.</p>
-                                <p>&middot; Facilities will respect the freedom of each employee to choose for him- or her-self whether or not to join a workers&rsquo; association.</p>
-                                <p>&middot; Facilities cannot discriminate against workers based on whether or not they choose to associate.</p>
-                                <p>&middot; Both the facility and the workers shall ensure they conduct themselves in accordance with all relevant laws in this regard.</p>
-                                <p>&middot; Facilities will ensure an effective mechanism is in place to address any workplace grievances.</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>10.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Environment</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/10-Environment.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will comply with environmental rules, regulations and standards applicable to their operations, and will observe environmentally conscious practices in all locations where they operate.</p>
-                                <p>&middot; Facilities will ensure compliance with all applicable legally mandated environmental standards, and should demonstrate a commitment to protecting the environment by actively monitoring their environmental practices.</p>
-                                <p>&middot; In particular, facilities will ensure proper waste management, including monitoring the disposal of any waste material - whether solid, liquid or gaseous - to ensure such disposal is done safely and in a manner consistent with all relevant laws.</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>11.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p>Customs Compliance</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/11.Custom_compliance.png" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will comply with applicable customs laws, and in particular, will establish and maintain programs to comply with customs laws regarding illegal transshipment of finished products.</p>
-                                <p>&middot; Facilities will ensure that all merchandise is accurately marked or labeled in compliance with all applicable laws.</p>
-                                <p>&middot; In addition, facilities will keep records for all materials and orders, as well as maintain detailed production records.</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <p>12.</p>
-                            </td>
-                            <td class="align-middle">
-                                <p><br /> Security</p>
-                                <img src="/materilaHTML/assets/images/Regulations/WRAP/12.Security.jpg" class="img-responsive">
-                            </td>
-                            <td class="text-left">
-                                <p>&middot; Facilities will maintain facility security procedures to guard against the introduction of non-manifested cargo into outbound shipments (i.e. drugs, explosives biohazards and/or other contraband).</p>
-                                <p>&middot; Facilities will ensure adequate controls are in place to safeguard against introduction of any non-manifested cargo.</p>
-                                <p>&middot; In this regard, WRAP recognizes the United States Customs and Border Protection (CBP)&rsquo;s C-TPAT Guidelines for Foreign Manufacturers as a best practice program, and has adopted those guidelines under this Principle.</p>
+                            <td class="text-center align-middle">
+                                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Material/ProcessFlow/3.png" alt="" class="img-responsive">
+                                <p>(Source- <a href="https://igbc.in/igbc/">IGBC</a>, <a href="http://www.grihaindia.org/">GRIHA</a>)</p>
                             </td>
                         </tr>
                         </tbody>
-                    </table>
+                    </table></div>
+                    <hr class="section-padding">
+                    <p>The materials and technologies chosen for construction must, in addition to functional efficiency, fulfil some or more of the following criterion, for the cause of sustainability and a better quality environment:</p>
+                    <ul>
+                        <li>Non endanger bio-reserves and be non-polluting;&nbsp;</li>
+                        <li>Be self-sustaining and promote self-reliance.&nbsp;</li>
+                        <li>Recycle polluting waste into usable materials</li>
+                        <li>Utilize locally available materials</li>
+                        <li>Utilize local skills, manpower and management systems</li>
+                        <li>Benefit local economy by being income generating</li>
+                        <li>Utilize renewable energy sources</li>
+                        <li>Be accessible to the people&nbsp;</li>
+                        <li>Be low in monetary cost</li>
+                    </ul>
+                    <hr class="section-padding">
+                    <p class="h4 text-center font-weight-bold"><u>Environment Friendly Indian Building Material technologies that utilize locally available raw materials, wastes and by-products from industry, agriculture and natural fibres are following: </u></p>
+                    <div class="table-responsive">
+                        <table class="table table-bordered table-striped-green">
+                        <tbody>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>SL. NO.</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>NAME</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>USE</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>RAW MATERIAL:</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>SALIENT FEATURES</strong></p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>PRODUCT</strong></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>1.</strong></p>
+                            </td>
+                            <td>
+                                <p>Flyash-Sand-Lime-Gypsum Bricks</p>
+                            </td>
+                            <td>
+                                <p>For walls in housing and all types of building construction, boundary walls.</p>
+                            </td>
+                            <td>
+                                <p>Flyash/Volcanic Ash (60%), Sand (20%), Lime (15%), Gypsum (5%)</p>
+                            </td>
+                            <td>
+                                <p>&middot; Environment friendly</p>
+                                <p>&middot; Accurate dimensions and excellent surface finish</p>
+                                <p>&middot; Excellent strength</p>
+                                <p>&middot; Quick drying of bricks</p>
+                                <p>&middot; Reduced water absorption and shrinkage</p>
+                                <p>&middot; Reduction in mortar consumption</p>
+                                <p>&middot; Utilization of industrial wastes (ashes/sludges) and volcanic ash.</p>
+                            </td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>2.</strong></p>
+                            </td>
+                            <td>
+                                <p>Compressed Earth / Fly Ash Sand Lime Gypsum Blocks (Interlocking Type)</p>
+                            </td>
+                            <td>
+                                <p>For walling compressed earth / fly ash sand lime gypsum blocks.</p>
+                            </td>
+                            <td>
+                                <p>A. Compressed Earth Blocks:</p>
+                                <p>Soil with minimum 20% of clay</p>
+                                <p>Cement 5-10% depending upon the strength</p>
+                                <p>B. Fly Ash-Sand-Lime-Gypsum Blocks:</p>
+                                <p>Fly Ash, Sand, Lime, Gypsum</p>
+                            </td>
+                            <td>
+                                <p>&middot; The interlocking blocks required minimum quantity of mortar, plaster in the masonry work.</p>
+                                <p>&middot; Faster masonry</p>
+                                <p>&middot; Improved performance of masonry because of less number of joints</p>
+                                <p>&middot; Environment friendly, energy efficient technology with very low consumption of energy</p>
+                                <p>&middot; The production plant can work on electrical or diesel</p>
+                                <p>&middot; Machines utilised for manufacturing blocks are mobile and can be shifted from site to site, either near the raw material source or near the construction site</p>
+                                <p>&middot; The product can be designed for use in earthquake/ cyclone prone region</p>
+                                <p>&middot; Volume of 1 block is equivalent to 3 standard size bricks</p>
+                                <p>&middot; Use of marble powder/stone dust is possible</p>
+                            </td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>3.</strong></p>
+                            </td>
+                            <td>
+                                <p>Compressed Earth Bricks/Blocks</p>
+                            </td>
+                            <td>
+                                <p>Can be used in walling in a variety of ways to construct buildings that are aesthetic, efficient and easy to build. Particularly suitable for rural areas.</p>
+                            </td>
+                            <td>
+                                <p>Soil with minimum 20% clay,</p>
+                                <p>cement 5-10% depending upon the strength requirement</p>
+                            </td>
+                            <td>
+                                <p>&middot; Energy efficient, eco-friendly technology</p>
+                                <p>&middot; Bricks produced are of accurate dimensions and excellent surface finish</p>
+                                <p>&middot; Better thermal insulation</p>
+                                <p>&middot; Cost effective technology</p>
+                                <p>&middot; External and internal plastering not essential.</p>
+                            </td>
+                            <td>
+                                <p>&middot; Wet compressive strength: 20 - 30 kg/cm2</p>
+                                <p>&middot; Water absorption: &lt; 15 % by weight</p>
+                                <p>&middot; Erosion: &lt;5% by weight</p>
+                                <p>&middot; Surface characteristics: No pitting on the surface</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>4.</strong></p>
+                            </td>
+                            <td>
+                                <p>Clay Flyash Burnt Bricks</p>
+                            </td>
+                            <td>
+                                <p>For walling in the same manner as conventional burnt clay bricks</p>
+                            </td>
+                            <td>
+                                <p>Soil (with minimum of 20% clay), Flyash, Sand, Fuel coal</p>
+                            </td>
+                            <td>
+                                <p>&middot; Environment friendly and energy efficient technology</p>
+                                <p>&middot; Un-burnt carbon present in flyash helps in reduction of fuel consumption</p>
+                                <p>&middot; Reduction in drying shrinkage and efflorescence as compared to clay bricks</p>
+                                <p>&middot; Reduction in weight</p>
+                                <p>&middot; Better thermal insulation</p>
+                                <p>&middot; Less reduced emissions from kilns</p>
+                                <p>&middot; Percentage of 1st class bricks is very high</p>
+                                <p>&middot; Consumption of coal is 50% less than conventional kiln</p>
+                                <p>&middot; Kiln used is a covered kiln therefore can work throughout the year and is not weather dependent</p>
+                            </td>
+                            <td>
+                                <p>&middot; Compressive strength: 75 - 150 kg/cm2</p>
+                                <p>&middot; Water absorption: 12 - 18%</p>
+                                <p>&middot; Unit weight: 2.5 - 3 kgs</p>
+                                <p>&middot; Bulk density: 1700 - 1900 kg/cm2</p>
+                                <p>&middot; Colour: Red</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>5.</strong></p>
+                            </td>
+                            <td>
+                                <p>Marble Slurry Bricks</p>
+                            </td>
+                            <td>
+                                <p>For walling as an alternative to conventional clay bricks.</p>
+                            </td>
+                            <td>
+                                <p>Marble slurry (83%), Cement (7%), Sand (10%)</p>
+                            </td>
+                            <td>
+                                <p>&middot; Environment friendly and energy efficient technology</p>
+                                <p>&middot; High volume utilization of waste</p>
+                                <p>&middot; Saves construction cost &amp; time</p>
+                                <p>&middot; Much stronger than clay bricks</p>
+                                <p>&middot; Good heat and sound insulation</p>
+                                <p>&middot; Fire resistant technology</p>
+                                <p>&middot; 28% less consumption of mortar</p>
+                                <p>&middot; 32% less consumption of labour</p>
+                                <p>&middot; Plastering can be avoided</p>
+                                <p>&middot; High load bearing capacity</p>
+                            </td>
+                            <td>
+                                <p>&middot; Compressive strength: 93 kg/cm2</p>
+                                <p>&middot; Water absorption: 14%</p>
+                                <p>&middot; Volume of brick: 1687.5 cm3</p>
+                                <p>&middot; Color: White/Grey</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>6.</strong></p>
+                            </td>
+                            <td>
+                                <p>Solid/Hollow Concrete Blocks</p>
+                            </td>
+                            <td>
+                                <p>For walls in housing and building construction as substitute to bricks.</p>
+                            </td>
+                            <td>
+                                <p>Cement, Sand, Aggregates</p>
+                            </td>
+                            <td>
+                                <p>&middot; Cost effective walling option</p>
+                                <p>&middot; Environment friendly and energy efficient</p>
+                                <p>&middot; Simple manufacturing process</p>
+                                <p>&middot; Industrial wastes like Fly Ash, Blast Furnace Slag etc. can be utilised</p>
+                                <p>&middot; Less consumption of mortar</p>
+                                <p>&middot; Leaner mix for production of blocks</p>
+                                <p>&middot; Faster masonry</p>
+                            </td>
+                            <td>
+                                <p>&middot; Compressive strength: 40 &ndash; 150 kg/cm2</p>
+                                <p>&middot; Water absorption: &lt; 10% by weight</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>7.</strong></p>
+                            </td>
+                            <td>
+                                <p>Cellular Light Weight Concrete</p>
+                            </td>
+                            <td>
+                                <p>In building construction as substitute to conventional bricks/blocks particularly in multi-storey buildings as it helps in substantial reduction of dead weight leading to reduction of cost of foundations</p>
+                            </td>
+                            <td>
+                                <p>Cement, Fly Ash/Volcanic Ash, Fine Sand, Foaming Agent.</p>
+                            </td>
+                            <td>
+                                <p>&middot; Environment friendly</p>
+                                <p>&middot; Make use of Fly Ash/Volcanic Ash as one of the major constituents.</p>
+                                <p>&middot; Depending upon application the density can be designed.</p>
+                                <p>&middot; Being light weight material, reduces dead load which results in saving of steel in structure &amp; foundation</p>
+                                <p>&middot; High thermal insulation - particularly suitable to air-conditioned buildings</p>
+                                <p>&middot; Less consumption of mortar as compared to brick masonry</p>
+                                <p>&middot; Energy efficient</p>
+                                <p>&middot; The components can be manufactured at site</p>
+                                <p>&middot; Substantial material saving</p>
+                            </td>
+                            <td>
+                                <p>&middot; Range of densities: 400 - 1800 m3</p>
+                                <p>&middot; Compressive strength: 10 - 250 kg/sq.cm.</p>
+                                <p>&middot; Water absorption: 5% by weight</p>
+                                <p>&middot; Thermal conductivity: 0.082 - 0.555 w/mk</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>8.</strong></p>
+                            </td>
+                            <td>
+                                <p>Ferro cement Wall Panels</p>
+                            </td>
+                            <td>
+                                <p>For walling particularly suitable where speedy construction is required.</p>
+                            </td>
+                            <td>
+                                <p>Cement, Coarse Sand, Aggregates, Polyproplyne fibre, Admixtures, Welded mesh</p>
+                            </td>
+                            <td>
+                                <p>&middot; Cost effective technology</p>
+                                <p>&middot; Energy efficient</p>
+                                <p>&middot; Dimensional regularity in shape &amp; size</p>
+                                <p>&middot; Reduction in construction &amp; finish time</p>
+                                <p>&middot; Components can be retrieved for construction on other sites.</p>
+                            </td>
+                            <td>
+                                <p>&middot; Compressive strength: 150 kg/cm2</p>
+                                <p>&middot; Water absorption: &lt;5%</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>9.</strong></p>
+                            </td>
+                            <td>
+                                <p>Rat Trap Bond Brick Masonry</p>
+                            </td>
+                            <td>
+                                <p>For walling as an alternative to conventional English/ Flemish bond</p>
+                            </td>
+                            <td class="text-center align-middle">
+                                <p><strong>(for 1 cu.mt. of masonry)</strong></p>
+                                <p>Bricks: 400 nos.</p>
+                                <p>Cement: 36 kgs.</p>
+                                <p>Sand: 0.15 m3</p>
+                                <p>Scaffolding: 2.00 m3</p>
+                            </td>
+                            <td>
+                                <p>&middot; Reduction in consumption of bricks by 25% as compared to 230 mm thick solid brick wall</p>
+                                <p>&middot; Reduction in mortar consumption</p>
+                                <p>&middot; Reduction in load of walls in foundation as Rat Trap Bond load is 80% of solid walls</p>
+                                <p>&middot; Good thermal insulation</p>
+                                <p>&middot; Equal strength compared to other conventional bonds</p>
+                                <p>&middot; Same stability as that of solid walls</p>
+                                <p>&middot; No need of plaster in wall surface</p>
+                                <p>&middot; Considered as Earthquake Resistant Technology</p>
+                                <p>&middot; Labour intensive technology</p>
+                                <p>&middot; Upto 3 storeyed buildings can be constructed with this bond</p>
+                            </td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td class="text-center align-middle">
+                                <p><strong>10.</strong></p>
+                            </td>
+                            <td>
+                                <p>Micro Concrete Roofing Tiles</p>
+                            </td>
+                            <td>
+                                <p>Cladding for sloping roofs of different types of buildings, as a substitute to country tiles, asbestos and other corrugated sheets.</p>
+                            </td>
+                            <td>
+                                <p>Cement, Fine Aggregates (5 mm &amp; below), Sand.</p>
+                            </td>
+                            <td>
+                                <p>&middot; Highly cost effective</p>
+                                <p>&middot; Production under controlled condition</p>
+                                <p>&middot; More durable and strong in different climatic conditions</p>
+                                <p>&middot; Can be colored to specification</p>
+                                <p>&middot; No noise during rain</p>
+                                <p>&middot; Decentralized production makes it more energy effective</p>
+                                <p>&middot; Manageable tile size makes the structure relatively lighter.</p>
+                                <p>&middot; Reduction in construction and finishing time</p>
+                            </td>
+                            <td>
+                                <p>&middot; Shape: Corrugated (Two shapes available)</p>
+                                <p>&middot; Weight: 2.25 kg/tile</p>
+                                <p>&middot; Loading capacity: 60 kg/sq.mt.</p>
+                                <p>&middot; Water absorption: 10%</p>
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table></div>
+                    <p>These technologies have been frequently taken from published literature of Building Materials &amp; Technology Promotion Council (BMTPC), Central Building Research Institute (CBRI) and other Research Institutes engaged in R&amp;D in the area of development of environment friendly, energy efficient and cost effective materials and technologies. These technologies have been successfully utilized for environmental protection, employment generation and housing construction in rural and urban settlements in India and several other countries.</p>
+                    <p><a href="https://www.unido.org/sites/default/files/2009-04/Environment_friendly_Indian_building_material_technologies_for_cost_effective_housing_0.pdf"><strong>Read more about this</strong></a></p>
                 </div>
-                <p>(Source- <a href="http://www.wrapcompliance.org/">Worldwide Responsible Accredited Production (WRAP)</a>)</p>
             </div>
         </div>
     </div>

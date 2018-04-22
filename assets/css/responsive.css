@@ -7,6 +7,10 @@
     font-size: 26px;
     line-height: 40px; }
 
+  .hero-heading-sec {
+    font-size: 22px;
+    line-height: 36px; }
+
   .subtitle {
     font-size: 16px; }
 
@@ -48,8 +52,15 @@
     font-size: 26px;
     line-height: 40px; }
 
+  .hero-heading-sec {
+    font-size: 18px;
+    line-height: 30px; }
+
   .hero-sub-heading {
     font-size: 16px; }
+
+  .hero-sub-heading-sec {
+    font-size: 12px; }
 
   .section-title {
     font-size: 22px; }
@@ -126,9 +137,19 @@
     font-size: 14px;
     line-height: 18px; }
 
+  .hero-heading-sec {
+    font-size: 10px;
+    line-height: 14px;
+    padding-bottom: 0; }
+
   .hero-sub-heading {
     font-size: 16px;
     line-height: 20px; }
+
+  .hero-sub-heading-sec {
+    font-size: 12px;
+    line-height: 16px;
+    padding-bottom: 0; }
 
   #rev_slider_main_forcefullwidth h1 {
     font-size: 24px !important;
@@ -263,7 +284,10 @@
     margin-bottom: 20px; }
 
   .ripple-container {
-    display: none; } }
+    display: none; }
+
+  .carousel-caption {
+    padding-bottom: 0; } }
 @media (min-width: 320px) and (max-width: 480px) {
   #main-slide .carousel-caption {
     top: 5%; }
@@ -277,5 +301,18 @@
 
   #Material-image-carousel .owl-controls .owl-buttons div.owl-next {
     right: 20px; } }
+@media (max-width: 360px) {
+  .hero-heading-sec {
+    font-size: 18px;
+    line-height: 20px;
+    padding-bottom: 0; }
+
+  .hero-sub-heading-sec {
+    font-size: 12px;
+    line-height: 15px;
+    padding-bottom: 0; }
+
+  .fixed-height {
+    height: 50vw; } }
 
 /*# sourceMappingURL=responsive.css.map */

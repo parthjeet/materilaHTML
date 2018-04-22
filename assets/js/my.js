@@ -14,20 +14,21 @@ function doSomething() {
 }
 
 function doSavings() {
-    var x;
-    var val = 0;
+    var checkedValue = 0;
     var totBoxes = 0;
-    var inputElements = document.getElementsByClassName('savingCheckbox');
+    var inputElements = document.getElementsByClassName('savings');
     for(var i=0; inputElements[i]; ++i){
+
         if(inputElements[i].checked){
-            val = Number(val) + Number(inputElements[i].value);
             totBoxes++;
+            checkedValue = checkedValue + Number(inputElements[i].value);
         }
     }
-    x = Math.round((val/totBoxes));
-    document.getElementById('savings-value').innerText = x.toString() + "%"+val.toString()+"%"+totBoxes.toString();
+    var percentageValue = Math.round((checkedValue/totBoxes));
+    document.getElementById('savings-value').innerText = "Your Savings is : " + percentageValue.toString()+"%";
     return false;
 }
+
 
 $('#exampleModal').on('shown.bs.modal', function () {
     $('#exampleModal').trigger('focus')
