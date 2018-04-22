@@ -803,81 +803,57 @@
         </div>
         <div class="row">
             <!-- Single Team Widget -->
-            <div class="col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp" data-wow-delay=".3s">
+            <div class="col-md-6 col-lg-4 col-xl-4 wow animated fadeInUp" data-wow-delay=".3s">
                 <div class="single-team-widget">
-                    <img src="assets/images/team/team1.jpg" class="img-fluid" alt="">
+                    <img src="assets/images/team/1.jpg" class="img-fluid" alt="">
                     <div class="team-member-info">
-                        <div class="know-more">
-                            <a class="btn btn-round btn-fab btn-xs" href="javascript:void(0)"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
-                        </div>
-                        <h2 class="subtitle">Rob Percy</h2>
-                        <p>Co-Founder</p>
+
+                        <h2 class="subtitle">Sharmishtha Dash</h2>
+                        <p>Student at NIFT Bengaluru</p>
                         <div class="social-profiles">
-                            <a href="#"><i class="mdi mdi-twitter"></i></a>
-                            <a href="#"><i class="mdi mdi-facebook"></i></a>
-                            <a href="#"><i class="mdi mdi-dribbble"></i></a>
-                            <a href="#"><i class="mdi mdi-linkedin"></i></a>
+                            <a href="mailto:sharmishthadash48@gmail.com"><i class="mdi mdi-gmail"></i></a>
+                            <a href="https://www.linkedin.com/in/sharmishtha-dash/"><i class="mdi mdi-linkedin"></i></a>
+                            <a href="https://www.facebook.com/dash2711"><i class="mdi mdi-facebook"></i></a>
                         </div>
                     </div>
                 </div>
             </div>
             <!-- Single Team Widget -->
-            <div class="col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp" data-wow-delay=".4s">
+            <div class="col-md-6 col-lg-4 col-xl-4 wow animated fadeInUp" data-wow-delay=".4s">
                 <div class="single-team-widget">
-                    <img src="assets/images/team/team2.jpg" class="img-fluid" alt="">
+                    <img src="assets/images/team/2.jpg" class="img-fluid" alt="">
                     <div class="team-member-info">
-                        <div class="know-more">
-                            <a class="btn btn-round btn-fab btn-xs" href="javascript:void(0)"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
-                        </div>
-                        <h2 class="subtitle">Jennifer L.</h2>
-                        <p>Graphic Designer</p>
+
+                        <h2 class="subtitle">Shalu Kumari</h2>
+                        <p>Student at NIFT, Bengaluru</p>
                         <div class="social-profiles">
-                            <a href="#"><i class="mdi mdi-twitter"></i></a>
-                            <a href="#"><i class="mdi mdi-facebook"></i></a>
-                            <a href="#"><i class="mdi mdi-dribbble"></i></a>
-                            <a href="#"><i class="mdi mdi-linkedin"></i></a>
+                            <a href="mailto:shalu.shneha626@gmail.com"><i class="mdi mdi-gmail"></i></a>
+                            <a href="https://www.linkedin.com/in/shalu-kumari-08baa615b/"><i class="mdi mdi-linkedin"></i></a>
+                            <a href="https://www.facebook.com/shalu.shneha"><i class="mdi mdi-facebook"></i></a>
+
                         </div>
                     </div>
                 </div>
             </div>
             <!-- Single Team Widget -->
-            <div class="col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp" data-wow-delay=".5s">
+            <div class="col-md-6 col-lg-4 col-xl-4 wow animated fadeInUp" data-wow-delay=".5s">
                 <div class="single-team-widget">
                     <img src="assets/images/team/team3.jpg" class="img-fluid" alt="">
                     <div class="team-member-info">
-                        <div class="know-more">
-                            <a class="btn btn-round btn-fab btn-xs" href="javascript:void(0)"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
-                        </div>
-                        <h2 class="subtitle">Tom Hanks.</h2>
-                        <p>SEO Speacialist</p>
+
+                        <h2 class="subtitle">Jonalee Das Bajpai</h2>
+                        <p>Mentor and Faculty at NIFT</p>
                         <div class="social-profiles">
-                            <a href="#"><i class="mdi mdi-twitter"></i></a>
-                            <a href="#"><i class="mdi mdi-facebook"></i></a>
-                            <a href="#"><i class="mdi mdi-dribbble"></i></a>
+                            <a href="#"><i class="mdi mdi-gmail"></i></a>
                             <a href="#"><i class="mdi mdi-linkedin"></i></a>
+                            <a href="#"><i class="mdi mdi-facebook"></i></a>
+
                         </div>
                     </div>
                 </div>
             </div>
             <!-- Single Team Widget -->
-            <div class="col-md-6 col-lg-3 col-xl-3 wow animated fadeInUp" data-wow-delay=".6s">
-                <div class="single-team-widget">
-                    <img src="assets/images/team/team4.jpg" class="img-fluid" alt="">
-                    <div class="team-member-info">
-                        <div class="know-more">
-                            <a class="btn btn-round btn-fab btn-xs" href="javascript:void(0)"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
-                        </div>
-                        <h2 class="subtitle">Emma Watson</h2>
-                        <p>Head Of Ideas</p>
-                        <div class="social-profiles">
-                            <a href="#"><i class="mdi mdi-twitter"></i></a>
-                            <a href="#"><i class="mdi mdi-facebook"></i></a>
-                            <a href="#"><i class="mdi mdi-dribbble"></i></a>
-                            <a href="#"><i class="mdi mdi-linkedin"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
+
         </div>
     </div>
 </section>
@@ -892,24 +868,24 @@
                 <div class="item">
                     <div class="testimonial-item">
                         <div class="datils">
-                            <h5>Adam Schwartz</h5>
-                            <span>Software Articulate, Google</span>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's <br> standard dummy text ever since the 1500s Lorem Ipsum.</p>
+                            <h5>Mr. Ashok Kumar</h5>
+                            <span>Global IE Head, Aquarelle India Pvt. Ltd.</span>
+                            <p>“It’s an impressive initiative to develop an elaborated guideline that will provide all information required to develop a Green Garment factory at a place.”</p>
                         </div>
                         <div class="img">
-                            <a href="#"><img class="img-fluid" src="assets/images/testimonial/author1.jpg"  alt=""></a>
+                            <a href="#"><img class="img-fluid" src="assets/images/testimonial/AshokKumar.jpg"  alt=""></a>
                         </div>
                     </div>
                 </div>
                 <div class="item">
                     <div class="testimonial-item">
                         <div class="datils">
-                            <h5>Clark Brown</h5>
-                            <span>Brand Managerr</span>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's <br> standard dummy text ever since the 1500s Lorem Ipsum.</p>
+                            <h5>Dr. Sridhar Babu</h5>
+                            <span>Faculty at TERI, Bengaluru</span>
+                            <p>"Developing Green spaces is not something that requires additional efforts. Lack of awareness about green buildings and factories pose a major barrier to their development in India. GRIHA is trying to get back India’s traditional method of sustainability by incorporating old yet efficient way of working."</p>
                         </div>
                         <div class="img">
-                            <a href="#"><img class="img-fluid"  src="assets/images/testimonial/author2.jpg"  alt=""></a>
+                            <a href="#"><img class="img-fluid"  src="assets/images/testimonial/SridarBabu.jpg"  alt=""></a>
                         </div>
                     </div>
                 </div>
@@ -999,14 +975,14 @@
                     <!-- Featured Image -->
                     <div class="featured-image">
                         <a href="#">
-                            <img src="assets/images/blog/featured1.jpg" alt="">
+                            <img src="assets/images/blog/1/1.jpg" alt="">
                         </a>
                     </div>
                     <!-- Post Meta -->
                     <div class="post-meta">
                         <!-- Title -->
-                        <a href="blog-single.php"><h2 class="subtitle">12+ Amazing Growth Hacking Tips and Tricks</h2></a>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio perferendis assumenda ipsum maiores dolorum similique obcaecati perspiciatis.</p>
+                        <a href="blog-single.php"><h2 class="subtitle">Barriers and Challenges to Green Garment Factories in India </h2></a>
+                        <p> Read about  benefits, present scenario and the limiting factors of Green garment factories in India. Explore incentives by GoI for Green factories.</p>
                     </div>
                     <div class="meta-tags">
                         <span class="comments"><a href="#"><i class="mdi mdi-comment-outline"></i> 24 Comments</a></span>
@@ -1021,14 +997,14 @@
                     <!-- Featured Image -->
                     <div class="featured-image">
                         <a href="#">
-                            <img src="assets/images/blog/featured2.jpg" alt="">
+                            <img src="assets/images/blog/2/1.jpg" alt="">
                         </a>
                     </div>
                     <!-- Post Meta -->
                     <div class="post-meta">
                         <!-- Title -->
-                        <a href="blog-single.php"><h2 class="subtitle">10 Tips to Validate Your Next Startup Idea</h2></a>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio perferendis assumenda ipsum maiores dolorum similique obcaecati perspiciatis.</p>
+                        <a href="blog-single.php"><h2 class="subtitle">Comparative Analysis of Green garment factories of the world</h2></a>
+                        <p>Explore the best examples and lear about their best practices.</p>
                     </div>
                     <div class="meta-tags">
                         <span class="comments"><a href="#"><i class="mdi mdi-comment-outline"></i> 24 Comments</a></span>
@@ -1043,14 +1019,14 @@
                     <!-- Featured Image -->
                     <div class="featured-image">
                         <a href="#">
-                            <img src="assets/images/blog/featured3.jpg" alt="">
+                            <img src="assets/images/blog/6/1.jpg" alt="">
                         </a>
                     </div>
                     <!-- Post Meta -->
                     <div class="post-meta">
                         <!-- Title -->
-                        <a href="blog-single.php"><h2 class="subtitle">How to Create Successful Website for Your Agency</h2></a>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio perferendis assumenda ipsum maiores dolorum similique obcaecati perspiciatis.</p>
+                        <a href="blog-single.php"><h2 class="subtitle">LEED Certification Status of Indian Garmnet Industry</h2></a>
+                        <p>Know about the currently certified Garment Industry buildings and on going projects.</p>
                     </div>
                     <div class="meta-tags">
                         <span class="comments"><a href="#"><i class="mdi mdi-comment-outline"></i> 24 Comments</a></span>
@@ -1076,26 +1052,24 @@
         <div class="row">
             <!-- Section Titile -->
             <div class="col-md-12 wow animated fadeInLeft" data-wow-delay=".2s">
-                <h1 class="section-title">Love to Hear From You</h1>
+                <h1 class="section-title">We'd Love to Hear From You</h1>
             </div>
         </div>
         <div class="row">
             <!-- Section Titile -->
             <div class="col-md-6 mt-3 contact-widget-section2 wow animated fadeInLeft" data-wow-delay=".2s">
-                <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content.</p>
+                <p>This is an initiative to assist the Garment manufacturing industry to set up Green Garment Factory in India. We are open to your valuable suggestions. Please write to us and provide your feedback so that we can make our initiave successful.</p>
 
-                <div class="find-widget">
-                    <a href="#"><i class="material-icons mdi mdi-map-marker"></i>4435 Berkshire Circle Knoxville</a>
+                <div class="find-widget ">
+                    <a href="#"><i class="material-icons mdi mdi-map-marker"></i>  NIFT Bengaluru, C.A. Site #21, 27th Main HSR Layout, PWD Quarters, 1st Sector, Bengaluru, Karnataka 560102</a>
                 </div>
                 <div class="find-widget">
-                    <a href="#"><i class="material-icons mdi mdi-phone"></i> + 879-890-9767</a>
+                    <a href="#"><i class="material-icons mdi mdi-phone"></i> + 91 9916727733</a>
                 </div>
                 <div class="find-widget">
-                    <a href="#"><i class="material-icons mdi mdi-email-open mr-3"></i> support@Material.com</a>
+                    <a href="#"><i class="material-icons mdi mdi-email-open mr-3"></i> sharmishthadash48@gmail.com</a>
                 </div>
-                <div class="find-widget">
-                    <a href="#"><i class="material-icons mdi mdi-clock"></i> Mon to Sat: 09:30 AM - 10.30 PM</a>
-                </div>
+
             </div>
             <!-- contact form -->
             <div class="col-md-6 wow animated fadeInRight" data-wow-delay=".2s">
