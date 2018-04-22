@@ -60,7 +60,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <p class="text-justify h4"><strong>1. DDL-9000B Series </strong></p>
+                <p class="text-justify h4"><strong>1. DDL-9000C Series </strong></p>
                 <ul class="text-left">
                     <li>JUKI has digitalized the drive mechanism of the sewing machine which determines the "seam"
                         quality
@@ -110,7 +110,7 @@
                     </p></div>
                 <hr class="section-padding">
 
-                <p class="text-justify h4"><strong>3. DDL-9000C Series</strong></p>
+                <p class="text-justify h4"><strong>3. DDL-900B Series</strong></p>
                 <ul class="text-left">
                     <li>Provided as standard with LED lighting which illuminates the needle entry area</li>
                     <li>Highly-functional touch-back switch</li>

@@ -63,7 +63,7 @@
 
                 <div class="text-justify section-padding">
                     <div class="text-center">
-                        <img src="/materilaHTML/assets/images/Facility/Cutting/5.jpg" class="img-fluid w-50"> <br><br>
+
                     </div>
                     <p class="h4"><strong> 1. MODEL NO: HE-800B (Electronic Direct Drive Lockstitch Button Holer)</strong></p>
                     <p>Electronic Direct Drive Lockstitch Button Holer, less sewing troubles with a new hook, enhancing the sewing finishes. Comfortable sewing and high energy saving have been realized with a new original motor and control box developed in-house.</p>
