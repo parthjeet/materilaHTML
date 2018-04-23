@@ -1061,7 +1061,7 @@
                 <p>This is an initiative to assist the Garment manufacturing industry to set up Green Garment Factory in India. We are open to your valuable suggestions. Please write to us and provide your feedback so that we can make our initiave successful.</p>
 
                 <div class="find-widget ">
-                    <a href="#"><i class="material-icons mdi mdi-map-marker"></i>  NIFT Bengaluru, C.A. Site #21, 27th Main HSR Layout, PWD Quarters, 1st Sector, Bengaluru, Karnataka 560102</a>
+                    <a href="#"><i class="material-icons mdi mdi-map-marker"></i>  NIFT Bengaluru, C.A. Site #21, 27th Main<br>&emsp;&emsp;&emsp;&emsp; HSR Layout, PWD Quarters, 1st Sector<br>&emsp;&emsp;&emsp;&emsp; Bengaluru, Karnataka 560102</a>
                 </div>
                 <div class="find-widget">
                     <a href="#"><i class="material-icons mdi mdi-phone"></i> + 91 9916727733</a>
@@ -1099,9 +1099,9 @@
                         <div class="help-block with-errors"></div>
                     </div>
                     <!-- Form Submit -->
-                    <div class="form-submit mt-5">
-                        <button class="btn btn-common" type="submit" id="form-submit"><i class="material-icons mdi mdi-message-outline"></i> Send Message</button>
-                        <div id="msgSubmit" class="h3 text-center hidden"></div>
+                    <div class=mt-5">
+                        <button class="btn btn-common" type="" id=""><i class="material-icons mdi mdi-message-outline"></i> Send Message</button>
+                        <div id="" class="h3 text-center hidden"></div>
                         <div class="clearfix"></div>
                     </div>
                 </form>

@@ -39,6 +39,7 @@
                             <h6 class="post-title"> <a href="blog-single.php">Available Production Systems</a> </h6>
                             <div class="meta"><span class="date">Comparison and Suggestions</span></div>
                         </div>
+                        <br>
                     </li>
                     <li>
                         <figure class="overlay">
@@ -49,6 +50,7 @@
                             <h6 class="post-title"><a href="blog-single.php">Plant Planning and Design</a></h6>
                             <div class="meta"><span class="date">Calculation and Guidance</span></div>
                         </div>
+                        <br>
                     </li>
                     <li>
                         <figure class="overlay">
@@ -70,7 +72,7 @@
                 <p> Please feel free to contact us if you have any further questions or provide us your valuable suggestions so that we can improve.</p>
                 <div class="mt-3"></div>
                 <ul class="icon-list">
-                    <li class="text-justify"><i class="mdi mdi-map-marker"></i> NIFT BENGALURU C.A. Site #21, 27th Main HSR Layout, PWD Quarters, 1st Sector, Bengaluru, Karnataka 560102 </li>
+                    <li class="text-justify"><i class="mdi mdi-map-marker"></i> NIFT BENGALURU C.A. Site #21, 27th Main<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HSR Layout, PWD Quarters, 1st Sector<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bengaluru, Karnataka 560102 </li>
                     <li><i class="mdi mdi-email"></i> <a href="mailto:first.last@email.com" class="nocolor">sharmishthadash48@gmail.com</a> </li>
                     <li><i class="mdi mdi-cellphone-iphone"></i> +91 9916727733 </li>
                     <li><i class="mdi mdi-cellphone-iphone"></i> +91 6200713133 </li>

@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
@@ -47,8 +46,7 @@
                     <div class="col-md-12">
                         <div class="title-center">
                             <div class="title-middle">
-                                <h2 class="page-tagline">Material Blog</h2>
-                                <h1 class="page-title text-center">Single Post</h1>
+                                <h1 class="page-title text-center">ARRIERS AND CHALLENGES FOR GREEN GARMENT FACTORY: INDIA</h1>
                             </div>
                         </div>
                     </div>
@@ -65,97 +63,31 @@
                     <div class="single-blog-page col-md-12 col-lg-12 col-xs-12">
                         <article class="single-post wow fadeInUp animated"  data-wow-delay=".2s">
                             <div class="post-image">
-                              <img src="assets/images/blog/post-image.jpg" class="img-fluid" alt="">
+                              <img src="assets/images/blog/blog1.png" class="img-fluid" alt="">
                             </div>
-                            <h2>The best, free Stock Photography and Video resources</h2>
-                            <p><b>Lorem ipsum</b> dolor sit amet, consectetur adipisicing elit. Harum minima, earum optio quia recusandae ipsam, obcaecati! Sunt ullam nisi, ratione quisquam provident eius quae facilis eos, deserunt consequatur, officiis quos.</p>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis illum possimus et ducimus quia sed dolorum id cumque rerum, fuga voluptatem, fugiat quidem mollitia eos vel, nisi voluptatum corrupti eaque voluptas! Praesentium hic pariatur est voluptatibus suscipit vel tempora necessitatibus animi ratione tempore natus modi, odit, explicabo nulla laudantium veritatis dignissimos? Odit sequi, ipsam quod eligendi tempore obcaecati reprehenderit, dicta repudiandae officiis voluptatibus odio cupiditate, tempora repellat ut. Possimus odit veritatis fugiat dolorem accusamus, facilis excepturi.</p>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus magni ad sapiente optio illo iste quidem quod voluptatibus, eligendi aliquid?</p>
-                            <blockquote>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis harum laborum praesentium obcaecati nam explicabo?</p>
-                            </blockquote>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quas quibusdam magnam asperiores laudantium rerum a, illo illum dolore amet. Adipisci vel, vero a minus nemo voluptatem. Vel ipsa totam veniam corporis quia, ipsum asperiores rem, eveniet, hic aut fuga.</p>
+                            <h2>Green Garment Factory: Indian Scenario</h2>
+                            <p>
+                                Although there are significant benefits of Green Garment factory, but there are only 13 LEED certified buildings related to garment industry in India among which Evolve Clothing company Pvt. Ltd. Factory building (Kanchipuram) is only factory to achieve gold rating under LEED BD+C category.
+                                Apart from these certifications India’s leading garment manufacturers such as Laguna clothing,  KG denims,  Gokaldas Exports,  Orient craft,  Aquarelle India Pvt. ltd  etc. are continuously working in direction of sustainability.
 
+                            </p>
+                            <h2>Barriers and Challenges for Green Garment Factory in India:</h2>
+                            <p>
+                                The barriers and challenges faced by Garment Industry in India that hinders the development of Green Garment Factory in India can be broadly classified into Internal Barriers and External Barriers.(Tao, 2016)
+                            </p>
+                            <div class="text-center">
+                                <img src="/materilaHTML/assets/images/blog/blog1_1.png" alt="" class="img-fluid">
+                            </div>
                             <div class="single-post-meta">
                                 <div class="post-tag">
-                                    <a href="#"><i class="material-icons mdi mdi-bookmark-outline"></i> Photography, Image</a>
+                                    <a href="#"><i class="material-icons mdi mdi-dots-horizontal"></i>Click to read more</a>
                                 </div>
                                 <div class="share-post">
                                     <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-google-plus"></i></a> <a href="#"><i class="fa fa-pinterest"></i></a>
                                 </div>
                             </div>
                         </article>
-                        <div class="users-comment-section mt-2 wow animated fadeInUp"  data-wow-delay=".3s">
-                            <ul>
-                                <li class="media">
-                                    <div class="media-left">
-                                        <img src="assets/images/blog/comment1.jpg" alt="">
-                                    </div>
-                                    <div class="media-body">
-                                        <a href="#"><h3>Jhon Doe</h3></a>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe deleniti accusantium earum vitae aperiam eos dolorum quidem, architecto tenetur molestiae!</p>
-                                        <a href="#" class="replay">Reply</a>
 
-                                        <!-- Replay -->
-                                        <div class="media">
-                                            <div class="media-left">
-                                                <img src="assets/images/blog/comment2.jpg" alt="">
-                                            </div>
-                                            <div class="media-body">
-                                                <a href="#"><h3>Cristiana</h3></a>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe deleniti accusantium earum vitae aperiam eos dolorum quidem, architecto tenetur molestiae!</p>
-                                                <a href="#" class="replay">Reply</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="media">
-                                    <div class="media-left">
-                                        <img src="assets/images/blog/comment3.jpg" alt="">
-                                    </div>
-                                    <div class="media-body">
-                                        <a href="#"><h3>Javed</h3></a>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe deleniti accusantium earum vitae aperiam eos dolorum quidem, architecto tenetur molestiae!</p>
-                                        <a href="#" class="replay">Reply</a>
-                                    </div>
-                                </li>
-                                <li class="media">
-                                    <div class="media-left">
-                                        <img src="assets/images/blog/comment4.jpg" alt="">
-                                    </div>
-                                    <div class="media-body">
-                                        <a href="#"><h3>Larry Page</h3></a>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe deleniti accusantium earum vitae aperiam eos dolorum quidem, architecto tenetur molestiae!</p>
-                                        <a href="#" class="replay">Reply</a>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="comment-box row x mt-5 clearfix wow fadeInUp animated"  data-wow-delay=".4s">
-                            <div class="col-md-4 ">
-                              <div class="form-group label-floating">
-                                <label class="sr-only" for="name">Email</label>
-                                <input type="text" placeholder="Your Name" id="name" required="" class="form-control">
-                              </div>
-                            </div><!-- /.col-md-4  -->
-                            <div class="col-md-4 ">
-                              <div class="form-group label-floating">
-                                <label class="sr-only" for="useremail">Email</label>
-                                <input type="email" placeholder="Email Address" id="useremail" required="" class="form-control">
-                              </div>
-                            </div><!-- /.col-md-4  -->
-                            <div class="col-md-4">
-                              <div class="form-group label-floating">
-                                <label class="sr-only" for="userurl">Website</label>
-                                <input type="text" placeholder="Your Website" id="userurl" required="" class="form-control">
-                              </div>
-                            </div>
-                            <div class="form-group label-floating col-md-12">
-                                <label class="sr-only" for="usermessage">Message</label>
-                                <textarea placeholder="Type here message" id="usermessage" rows="7" required="" class="form-control"></textarea>
-                            </div>
-                            <a href="javascript:void(0)" class="mt-3 btn btn-common"><i class="mdi mdi-message-text"></i> Post Comment<div class="ripple-container"></div></a>
-                        </div>
                     </div>
 
 
