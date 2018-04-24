@@ -46,7 +46,7 @@
             <div class="col-md-12">
                 <div class="title-center">
                     <div class="title-middle">
-                        <h1 class="page-title text-center text-center">Access to Public Transport</h1>
+                        <h1 class="page-title text-center text-center">Access to Public Transport/Shuttle ervice</h1>
                     </div>
                 </div>
             </div>
@@ -62,6 +62,8 @@
             <div class="col-md-12 text-center">
                 <div class="img-responsive section-padding">
                     <img src="/materilaHTML/assets/images/ArchitecturalDesign/SiteSelection/4.Shuttle_Service.jpg" class="img-fluid w-75 ">
+                    <p>(Image Source- <a href="http://mariafresa.net/single/2683169.html">Maria Fresa</a>)</p>
+
                 </div>
                 <div class="table-responsive">
                     <table class="table table-bordered table-striped">
@@ -115,6 +117,78 @@
                     </tr>
                     </tbody>
                 </table></div>
+
+
+                <div class="table-responsive ">
+                    <table class="table table-bordered table-striped-green text-justify" >
+                    <tbody >
+                    <tr>
+                        <td class="text-center align-middle">
+                            <p><strong>SL. NO.</strong></p>
+                        </td>
+                        <td class="text-center align-middle">
+                            <p><strong>BENEFITS</strong></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p><strong>1.</strong></p>
+                        </td>
+                        <td>
+                            <p><strong>Increased employee productivity &amp; general well-being</strong></p>
+                            <p>Down time on the shuttle gives employees some time to prepare for the day ahead, whether that is a chance to rest and relax, check email, or catch up on the news. They arrive at the office already in or ready to transition more quickly to work mode. Over the long term, the shuttle can reduce stress-related health problems associated with driving in traffic that lead to missed work and health claims</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p><strong>2.</strong></p>
+                        </td>
+                        <td>
+                            <p><strong>Punctuality</strong></p>
+                            <p>With more employees using shuttle services, you will see better workplace satisfaction as well as an increase in punctuality. Keeping a well-connected sense of teamwork is key and with the ongoing trend of shuttle services, you&rsquo;ll be known for supporting a better work-life balance.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p><strong>3.</strong></p>
+                        </td>
+                        <td>
+                            <p><strong>Cost Savings</strong></p>
+                            <p>Offering employees, a commuter shuttle may be a less expensive alternative to expensing mileage or building infrastructure like a new parking deck. Several states also provide employers with tax credits for offering commuter benefit programs.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p><strong>4.</strong></p>
+                        </td>
+                        <td>
+                            <p><strong>Environmentally friendly</strong></p>
+                            <p>With more companies being conscious of its carbon footprint, shuttle services reduce your carbon footprint and encourage employees to take the road less traveled. Riders will be helping the environment and lower their dependence on fossil fuel. Employee shuttles aims to raise awareness and celebrate everyday like it&rsquo;s Earth Day. This initiative improves our quality of life and commute.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p><strong>5.</strong></p>
+                        </td>
+                        <td>
+                            <p><strong>Enhances Company&rsquo;s Reputation</strong></p>
+                            <p>If you offer a shuttle service when traveling, your company will gain a good reputation as a desirable place to work. Having the convenience of a shuttle bus for business trips or other events is always a nice perk that people enjoy. If you want your company to be seen as one that cares about and supports its employees, then you may want to look into getting a reliable shuttle service.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p><strong>6.</strong></p>
+                        </td>
+                        <td>
+                            <p><strong>May Attract New Employees</strong></p>
+                            <p>Because traveling can be stressful or overwhelming, knowing that you can relax and not worry about transportation is 2a huge benefit. Your employees won&rsquo;t have to worry about the expense of traveling or the logistics of getting to and from the meeting place. Another benefit to shuttle corporate transportation is that it also gives your employees time to meet or get to know their coworkers, which will help them feel more connected. This is a great way to encourage a better sense of teamwork and collaboration among your employees.</p>
+                        </td>
+                    </tr>
+                    </tbody>
+                </table></div>
+
+                <p>(Source- <a href="https://www.prodtrans.com/blog/transportation-services/5-reasons-need-shuttle-service/">ProdTrans</a>)</p>
+
             </div>
         </div>
     </div>

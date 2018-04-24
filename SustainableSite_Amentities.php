@@ -62,6 +62,9 @@
             <div class="col-md-12 text-center">
                 <div class="img-responsive section-padding">
                     <img src="/materilaHTML/assets/images/ArchitecturalDesign/SiteSelection/5.Basic_Amenties.jpg" class="img-fluid w-50">
+                    <p>(Image Source- <a href="https://palmcreekupdate.blogspot.in/2018/02/">Palm Creek Update Blogspot</a>)</p>
+
+
                 </div>
                <div class="table-responsive text-justify section-padding">
                    <table class="table table-bordered table-striped">
@@ -147,6 +150,8 @@
                     </tr>
                     </tbody>
                 </table></div>
+                <p>(Source- <a href="https://igbc.in/igbc/">IGBC</a>)</p>
+
 
             </div>
         </div>

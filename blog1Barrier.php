@@ -46,7 +46,7 @@
                     <div class="col-md-12">
                         <div class="title-center">
                             <div class="title-middle">
-                                <h1 class="page-title text-center">ARRIERS AND CHALLENGES FOR GREEN GARMENT FACTORY: INDIA</h1>
+                                <h1 class="page-title text-center">BARRIERS AND CHALLENGES FOR GREEN GARMENT FACTORY: INDIA</h1>
                             </div>
                         </div>
                     </div>

@@ -565,7 +565,7 @@
                         <img class="img-fluid" src="assets/images/sustainable%20site/Heat%20Island%20Reduction.png" alt="">
                         <figcaption class="hover-content">
 
-                            <h2 class="subtitle">Heat Island Effect Reduction</h2>
+                          <a href="SustainableSite_HeatIsland.php"><h2 class="subtitle text-center">Heat Island Effect Reduction</h2></a>
 
                         </figcaption>
                     </figure>
@@ -576,7 +576,7 @@
                         <img class="img-fluid" src="assets/images/sustainable%20site/Multilevel%20Garden.png" alt="">
                         <figcaption class="hover-content">
 
-                            <a href="portfolio-single.php"><h2 class="subtitle">Multilevel Gardening</h2></a>
+                            <a href="PlantsTrees.php"><h2 class="subtitle text-center">Multilevel Gardening</h2></a>
 
                         </figcaption>
                     </figure>
@@ -587,7 +587,7 @@
                         <img class="img-fluid" src="assets/images/sustainable%20site/Hybrid%20car%20charging%20point.png" alt="">
                         <figcaption class="hover-content">
 
-                            <a href="portfolio-single.php"><h2 class="subtitle">Hybrid Car Charging Point</h2></a>
+                            <a href="SustainableSite_NonFosil.php"><h2 class="subtitle text-center">Hybrid Car Charging Point</h2></a>
                         </figcaption>
                     </figure>
                 </div>
@@ -597,7 +597,7 @@
                         <img class="img-fluid" src="assets/images/water%20conservation/Rain%20water%20harvesting.png" alt="">
                         <figcaption class="hover-content">
 
-                            <a href="portfolio-single.php"><h2 class="subtitle">Rain Water Harvesting</h2></a>
+                            <a href="WaterRainwaterHarvesting.php"><h2 class="subtitle text-center">Rain Water Harvesting</h2></a>
                         </figcaption>
                     </figure>
                 </div>
@@ -607,7 +607,7 @@
                         <img class="img-fluid" src="assets/images/water%20conservation/Etp%20with%20layered%20plantation.png" alt="">
                         <figcaption class="hover-content">
 
-                            <a href="portfolio-single.php"><h2 class="subtitle">ETP with Layered Plantation</h2></a>
+                            <a href="WasteETP.php"><h2 class="subtitle text-center">ETP with Layered Plantation</h2></a>
 
                         </figcaption>
                     </figure>
@@ -618,7 +618,7 @@
                         <img class="img-fluid" src="assets/images/water%20conservation/water%20treatment%20plant.png" alt="">
                         <figcaption class="hover-content">
 
-                            <a href="portfolio-single.php"><h2 class="subtitle">Water Treatment Plant</h2></a>
+                            <a href="WaterWastewaterTreatment.php"><h2 class="subtitle text-center">Water Treatment Plant</h2></a>
 
                         </figcaption>
                     </figure>
@@ -629,7 +629,7 @@
                         <img class="img-fluid" src="assets/images/material%20conservation/Local%20made%20bricks.png" alt="">
                         <figcaption class="hover-content">
 
-                            <a href="portfolio-single.php"><h2 class="subtitle">Local Made Bricks</h2></a>
+                            <a href="MaterialLocal.php"><h2 class="subtitle text-center">Local Made Bricks</h2></a>
 
                         </figcaption>
                     </figure>
@@ -640,7 +640,7 @@
                         <img class="img-fluid" src="assets/images/material%20conservation/Local%20plants%20and%20trees.png" alt="">
                         <figcaption class="hover-content">
 
-                            <a href="portfolio-single.php"><h2 class="subtitle">Local Plants and Trees</h2></a>
+                            <a href="PlantsTrees.php"><h2 class="subtitle text-center">Local Plants and Trees</h2></a>
 
                         </figcaption>
                     </figure>
@@ -651,7 +651,7 @@
                         <img class="img-fluid" src="assets/images/material%20conservation/aluminium%20work.png" alt="">
                         <figcaption class="hover-content">
 
-                            <a href="portfolio-single.php"><h2 class="subtitle">Aluminium Work</h2></a>
+                            <a href="MaterialRecycleContent.php"><h2 class="subtitle text-center">Aluminium Work</h2></a>
 
                         </figcaption>
                     </figure>
@@ -662,7 +662,7 @@
                         <img class="img-fluid" src="assets/images/energy%20conservation/Solar%20panels.png" alt="">
                         <figcaption class="hover-content">
 
-                            <a href="portfolio-single.php"><h2 class="subtitle">Solar Panels</h2></a>
+                            <a href="EnergyOnSite.php"><h2 class="subtitle text-center">Solar Panels</h2></a>
 
                         </figcaption>
                     </figure>
@@ -673,7 +673,7 @@
                         <img class="img-fluid" src="assets/images/energy%20conservation/Teflon%20parking%20shade.png" alt="">
                         <figcaption class="hover-content">
 
-                            <a href="portfolio-single.php"><h2 class="subtitle">Teflon Parking Shade</h2></a>
+                            <a href="SustainableSite_HeatIsland.php"><h2 class="subtitle text-center">Teflon Parking Shade</h2></a>
 
                         </figcaption>
                     </figure>
@@ -684,7 +684,7 @@
                         <img class="img-fluid" src="assets/images/energy%20conservation/Windmill.png" alt="">
                         <figcaption class="hover-content">
 
-                            <a href="portfolio-single.php"><h2 class="subtitle">Windmills</h2></a>
+                            <a href="EnergyCaptivePower.php"><h2 class="subtitle text-center">Windmills</h2></a>
 
                         </figcaption>
                     </figure>
@@ -695,7 +695,7 @@
                         <img class="img-fluid" src="assets/images/Occupational%20health/Fire%20Hydrant.png" alt="">
                         <figcaption class="hover-content">
 
-                            <a href="portfolio-single.php"><h2 class="subtitle">Fire Hydrant</h2></a>
+                            <a href="IndoorEnvironmentQuality.php"><h2 class="subtitle text-center">Fire Hydrant</h2></a>
 
                         </figcaption>
                     </figure>
@@ -706,7 +706,7 @@
                         <img class="img-fluid" src="assets/images/Occupational%20health/Helipad%20for%20emergency%20evacuation.png" alt="">
                         <figcaption class="hover-content">
 
-                            <a href="portfolio-single.php"><h2 class="subtitle">Helipad for Emergency Evacuation </h2></a>
+                            <a href="IndoorEnvironmentQuality.php"><h2 class="subtitle text-center">Helipad for Emergency Evacuation </h2></a>
 
                         </figcaption>
                     </figure>
@@ -717,7 +717,7 @@
                         <img class="img-fluid" src="assets/images/Occupational%20health/Outdoor%20sports.png" alt="">
                         <figcaption class="hover-content">
 
-                            <a href="portfolio-single.php"><h2 class="subtitle">Outdoor Sports</h2></a>
+                            <a href="IndoorEnvironmentQuality.php"><h2 class="subtitle text-center">Outdoor Sports</h2></a>
 
                         </figcaption>
                     </figure>
@@ -985,7 +985,7 @@
                         <p> Read about  benefits, present scenario and the limiting factors of Green garment factories in India. Explore incentives by GoI for Green factories.</p>
                     </div>
                     <div class="meta-tags">
-                        <span class="comments"><a href="#"><i class="mdi mdi-comment-outline"></i> 24 Comments</a></span>
+                        <span class="comments"><a href="blog.php"><i class="mdi mdi-comment-outline"></i> Click to read about this</a></span>
                         <!-- Read More -->
                         <a class="btn btn-round btn-fab" href="blog-single.php"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
                     </div>

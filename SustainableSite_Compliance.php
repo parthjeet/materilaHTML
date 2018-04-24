@@ -61,6 +61,8 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/SiteSelection/1.Regulations.jpg" class="img-fluid w-50 section-padding">
+                <p >(Image Source- <a href="http://3.bp.blogspot.com/-_Fsd_QzzXCU/VLTghfMbgxI/AAAAAAAAAIo/lV5QNiL7nN0/s1600/SEC-Nigeria-rules-and-regulations.jpg">Google Plus</a>)</p>
+
                 <div class="table-responsive text-justify">
                     <table class="table table-bordered table-striped">
                         <tbody>

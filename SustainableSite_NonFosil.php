@@ -61,7 +61,10 @@
         <div class="row">
             <div class="col-md-12 text-justify">
                 <div class="text-center img-responsive section-padding">
-                    <img src="/materilaHTML/assets/images/ArchitecturalDesign/SiteSelection/8.Non_fossil_fuel.jpg" class="img-fluid w-25">
+                    <img src="/materilaHTML/assets/images/ArchitecturalDesign/SiteSelection/8.Non_fossil_fuel.jpg" class="img-fluid w-50">
+                    <p>(Image Source- <a href="https://www.burlingtongreen.org/images/Images/news/shutterstock_14777170greencar.jpeg">Burlington Green</a>)</p>
+
+
                 </div>
                 <div class="table-responsive">
                     <table class="table table-bordered table-striped">
@@ -105,13 +108,15 @@
                         </td>
                         <td>
                             <img src="/materilaHTML/assets/images/ArchitecturalDesign/SiteSelection/Process%20Flow/8.png" alt="" class="img-responsive">
-                            <p>(Source- <a href="https://igbc.in/igbc/">IGBC</a>, <a href="http://www.grihaindia.org/">GRIHA</a>)</p>
+                            <p>(Image Source- <a href="https://igbc.in/igbc/">IGBC</a>, <a href="http://www.grihaindia.org/">GRIHA</a>)</p>
                         </td>
                     </tr>
                     </tbody>
                 </table></div>
+                <hr class="section-padding">
                 <p><strong>India is among 7 seven countries who wants to say goodbye to Fossil Fuel-Based cars. </strong><a href="https://futurism.com/these-7-countries-want-to-say-goodbye-to-fossil-fuel-based-cars/">Read More</a></p>
-                <p><strong>Following are the incentives for non-fossil fuel based vehicles in India. </strong><a href="https://www.smev.in/">Read More</a></p>
+                <p><strong>Following are the incentives for non-fossil fuel based vehicles in India. </strong>
+
                 <ul>
                     <li>FAME India Scheme (NEMMP 2020).</li>
                     <li>Rajasthan Government has provided complete VAT exemption on battery-driven motor vehicles.</li>
@@ -129,6 +134,8 @@
                     <li>MNRE Subsidy.</li>
                     <li>DPCC Subsidy.</li>
                 </ul>
+
+                <p>(Source-<a href="https://www.smev.in/">SMEV</a>)</p>
                 <p><strong>Following are the alternatives for Fossil Fuel-Based vehicles available in Indian market: </strong></p>
                 <a href="AlterFuel.php"><strong>Click to know about their suppliers</strong></a>
                 <hr class="section-padding">
@@ -401,7 +408,7 @@
                 </table></div>
                 <p>(Sources: <a href="https://www.cardekho.com/new-electric+cars">Car Dekho</a>, <a href="https://www.drivespark.com/cars/electric/#mahindra-e2o-plus">Drive Spark</a>, <a href="https://auto.ndtv.com/new-cars/electric-cars?filter=electric">NDTV</a>, <a href="&bull;%09https:/www.indiacarnews.com/car/best-electric-hybrid-cars-india-13448/">India Car News,</a><a href="https://www.carblogindia.com/upcoming-electric-cars-in-india/">Car Blog India</a>, <a href="https://www.thequint.com/tech-and-auto/car-and-bike/upcoming-electric-car-launches-in-india-by-2020">The Quint</a>, <a href="https://www.autocarindia.com/car-news/new-cars-for-2018-upcoming-electric-cars-407064">Auto Car India</a>, <a href="https://www.wlivenews.com/top-5-best-electric-cars-in-india.html">W Live News</a> )</p>
                 <hr class="section-padding">
-                <p class="h4 text-center"><strong><u>List of companies providing alternative vehicles: </u></strong></p>
+                <p class="h4 text-center"><strong>List of Companies providing Alternative vehicles: </strong></p>
                 <div class="table-responsive">
                     <table class="table table-bordered table-striped-green">
                     <tbody>
@@ -581,7 +588,7 @@
                     </tr>
                     </tbody>
                 </table></div>
-                <p>(Source: <a href="https://my.indiamart.com/">India Mart</a>, <a href="https://en.wikipedia.org/wiki/Electric_vehicle_industry_in_India">Wikipedia</a>)</p>
+                <p>(Source: <a href="https://my.indiamart.com/">India Mart</a>) </p>
             </div>
         </div>
     </div>

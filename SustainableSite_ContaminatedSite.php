@@ -62,6 +62,7 @@
             <div class="col-md-12 text-center">
                 <div class="img-responsive section-padding">
                     <img src="/materilaHTML/assets/images/ArchitecturalDesign/SiteSelection/3.Contaminated_site.JPG" class="img-fluid w-50">
+                    <p>(Image Source- <a href="https://4.bp.blogspot.com/-J5N_mAFzrTQ/VfmJAbE6_pI/AAAAAAAAACA/m3C8K5Ayg8o/w1200-h630-p-k-no-nu/Soilcontam.JPG">Polluted India</a>)</p>
                 </div>
                 <div class="table-responsive">
                     <table class="table table-bordered table-striped">

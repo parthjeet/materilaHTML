@@ -76,7 +76,7 @@
                                 <!-- Post Meta -->
                                 <div class="post-meta">   
                                     <div class="post-date">
-                                      <span><b>Jan 25 2018</b></span>
+
                                     </div>                           
                                     <!-- Title -->
                                     <a href="blog1Barrier.php"><h2 class="subtitle">CHALLENGES FOR GREEN GARMENT FACTORY: INDIA</h2></a>
@@ -91,7 +91,7 @@
                                 <div class="meta-tags">
                                   <span class="comments"><a href="blog1Barrier.php">Read more...</a></span>
                                   <!-- Read More -->
-                                  <a class="btn btn-round btn-fab" href="blog1Barrier.php"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
+                                  <a class="btn btn-round btn-fab" href="blog.php"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
                                 </div>
                               </article>
                             </div>

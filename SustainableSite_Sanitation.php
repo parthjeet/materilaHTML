@@ -61,6 +61,9 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/SiteSelection/12.Sanitation_Safety.jpg" class="img-fluid w-50">
+                <p>(Source: <a href="https://www.wikihow.com/Make-a-Construction-Site-Safe">WikiHow</a>)</p>
+
+
                 <div class="text-justify section-padding">
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped">

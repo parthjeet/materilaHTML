@@ -61,6 +61,8 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/SiteSelection/2.Soil%20_erosion.jpg" class="img-fluid w-50 section-padding">
+                <p>(Image Source- <a href="https://www.camedu.org/pluginfile.php/1243/mod_page/content/5/Air-water-and-weather_v_sci.jpg">Cambridge Education & Research Organization e-School </a>)</p>
+
                 <div class="text-justify">
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped">
@@ -121,6 +123,8 @@
                     </div>
                     <div class="img-responsive text-center section-padding">
                         <img src="/materilaHTML/assets/images/ArchitecturalDesign/SiteSelection/2/1.png" class="img-fluid w-75">
+                        <p>(Source- <a href="http://envfor.nic.in/divisions/iass/Construction_Manual.pdf">Ministry of Environment and Forests,
+                                Government of India</a>)</p>
                     </div>
                     <p><strong>SOIL EROSION CONTROL:</strong></p>
                     <p><strong>Mitigation options</strong></p>
@@ -177,8 +181,8 @@
                             </li>
                             <li>It can be used to protect unique or endangered plant species.</li>
                         </ul>
-                        <p>(Source- <a href="http://www.in.gov/idem/stormwater/files/stormwater_manual_chap_04.pdf">Department
-                                of Environment Management</a>)</p>
+                        <p>(Source- <a href="http://envfor.nic.in/divisions/iass/Construction_Manual.pdf">Ministry of Environment and Forests,
+                                Government of India</a>)</p>
                         <strong>Preservation of Air environment: </strong>Air environment of the proposed site gets
                         affected due to wind erosion, construction on site, transportation on site and heat island
                         effect.
@@ -190,8 +194,8 @@
                                 reflective surfaces.
                             </li>
                         </ul>
-                        <p>(Source- <a href="http://www.in.gov/idem/stormwater/files/stormwater_manual_chap_04.pdf">Department
-                                of Environment Management</a>)</p>
+                        <p>(Source- <a href="http://envfor.nic.in/divisions/iass/Construction_Manual.pdf">Ministry of Environment and Forests,
+                                Government of India</a>)</p>
                         <p>
                             <strong>Temporary seeding</strong>: Temporary seeding means growing vegetative cover for a
                             short period of time on disturbed site areas that are prone to soil erosion. Fast growing
@@ -294,8 +298,8 @@
                             <li>Set up limits of disturbance for development activities.</li>
                             <li>Limit the site footprint to reduce the clearing and disturbance of a site.</li>
                         </ul>
-                        <p>(Source- <a href="http://www.in.gov/idem/stormwater/files/stormwater_manual_chap_04.pdf)">Department
-                                of Environment Management</a>)</p>
+                        <p>(Source- <a href="http://envfor.nic.in/divisions/iass/Construction_Manual.pdf">Ministry of Environment and Forests,
+                                Government of India</a>)</p>
                         <p>
                             <strong>Fit the Design to the Existing Terrain: </strong>Fitting the design to the existing
                             terrain allows for the planning, design, and placement of buildings, roads/streets,
@@ -310,9 +314,8 @@
                                 flood plains.
                             </li>
                         </ul>
-                        <p>&nbsp;(Source- <a
-                                    href="http://www.in.gov/idem/stormwater/files/stormwater_manual_chap_04.pdf)">Department
-                                of Environment Management</a>)</p>
+                        <p>(Source- <a href="http://envfor.nic.in/divisions/iass/Construction_Manual.pdf">Ministry of Environment and Forests,
+                                Government of India</a>)</p>
                         <p><strong>Utilize Undisturbed Areas &amp; Natural Buffers:</strong> Preserving undisturbed
                             areas and using natural buffers is a planning and site design principle that can be
                             effectively used to minimize clearing and grading, filter and infiltrate storm water runoff,
@@ -475,10 +478,12 @@
                                 Engineer-in-charge at regular intervals so that they remain undisturbed.
                             </li>
                         </ul>
-                        <p>(Source- <a href="http://www.in.gov/idem/stormwater/files/stormwater_manual_chap_04.pdf)">Department
-                                of Environment Management</a>)</p></div>
+                        <p>(Source- <a href="http://envfor.nic.in/divisions/iass/Construction_Manual.pdf">Ministry of Environment and Forests,
+                                Government of India</a>)</p></div>
                     <hr class="section-padding">
                     <p class="h4 text-center"><strong>Documentation of Preserved Trees: </strong></p>
+                    <p>(Source- <a href="http://envfor.nic.in/divisions/iass/Construction_Manual.pdf">Ministry of Environment and Forests,
+                            Government of India</a>)</p>
                     <div class="table-responsive">
                         <table class="table table-bordered differentTable">
                             <tbody>
@@ -1022,7 +1027,9 @@
                     <p>&nbsp;</p>
                     <p>Solar panels can be used as well to cover the shading of parking lot.</p>
                     <p>(Read more- <a href="http://solarpanelsystems.in/solar-application/">Solar Panel Systems</a>)</p>
-                    <p>Click here to contact suppliers-</p>
+
+                    <p>Click here to contact suppliers <a href="SolarPanels.php"></a></p>
+
                     <hr class="section-padding">
                     <p class="text-center h4"><strong><u>PLANTATION AND LANDSCAPING REQUIREMENTS</u></strong></p>
                     <div class="table-responsive">
@@ -1158,6 +1165,7 @@
                             belt, on the leeward side.
                         </li>
                     </ul>
+                    <hr class="section-padding">
                     <p class="h4 text-center"><strong><u>Wind Erosion</u></strong></p>
                     <p class="h6">Species-suitable for wind breaks are:</p>
                     <div class="table-responsive">

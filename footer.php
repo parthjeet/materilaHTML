@@ -33,10 +33,10 @@
                     <li>
                         <figure class="overlay">
                             <img class="img-fluid" src="assets/images/Layouts/AvailablePS/0.jpg" alt="">
-                            <figcaption><a href="blog-single.php"><i class="mdi mdi-link-variant from-top icon-xs"></i></a></figcaption>
+                            <figcaption><a href="AvailableProductionSystem.php"><i class="mdi mdi-link-variant from-top icon-xs"></i></a></figcaption>
                         </figure>
                         <div class="post-content">
-                            <h6 class="post-title"> <a href="blog-single.php">Available Production Systems</a> </h6>
+                            <h6 class="post-title"> <a href="AvailableProductionSystem.php">Available Production Systems</a> </h6>
                             <div class="meta"><span class="date">Comparison and Suggestions</span></div>
                         </div>
                         <br>

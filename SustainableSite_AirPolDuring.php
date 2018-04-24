@@ -61,6 +61,9 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/SiteSelection/13.Air_Pollution.jpg" class="img-fluid w-25">
+                <p>(Source: <a href="https://lh3.googleusercontent.com/F2Fr9r0_xPp5bSIe_sp9rQ2gZ7aPjh3s9x8u5z_N_uCCJ0Z4HPkOn5ZIao22LUeU8-hrhw=s102">Acacia</a></p>
+
+
                 <div class="text-justify section-padding">
                     <div class="table-responsive">
                     <table class="table table-bordered table-striped">
@@ -111,6 +114,8 @@
                             </td>
                             <td>
                                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/SiteSelection/Process%20Flow/13.png" alt="" class="img-responsive">
+                                <p>(Source- <a href="https://igbc.in/igbc/">IGBC</a>, <a
+                                            href="http://www.grihaindia.org/">GRIHA</a>)</p>
                             </td>
                         </tr>
                         </tbody>
@@ -166,7 +171,7 @@
                         </tbody>
                     </table>
                     </div>
-                    <p><a href="https://www.arb.ca.gov/msprog/ordiesel/documents/VU_5024_E.pdf">Read more about this</a></p>
+                    <p>(Source- <a href="https://www.arb.ca.gov/msprog/ordiesel/documents/VU_5024_E.pdf">Air Pollution Control at Construction SItes</a>)</p>
                     <hr class="section-padding">
                     <p>Dust control measures are applicable to any&nbsp;construction site&nbsp;where there is the potential for air and&nbsp;water pollution&nbsp;from dust traveling across the landscape or through the air. Dust control includes practices used to reduce or prevent the surface and air transport of dust during&nbsp;construction. The EPA&rsquo;s recommendations are to clean and impact the least possible areas&nbsp;if they are not going to be worked, however, we all know that sometimes due to&nbsp;scheduled&nbsp;activities, the clearing and grubbing of the entire site is done all at once, although this might be different on large-scale projects.</p>
                     <div class="table-responsive">
@@ -275,7 +280,7 @@
                         </tr>
                         </tbody>
                     </table></div>
-                    <p><a href="https://www.thebalance.com/control-dust-at-construction-site-844446"><strong>Read more about this</strong></a></p>
+                    <p>(Source-<a href="https://www.thebalance.com/control-dust-at-construction-site-844446"><strong>The Balance Small Buisness</strong></a>)</p>
                 </div>
             </div>
         </div>

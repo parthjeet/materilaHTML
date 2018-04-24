@@ -58,8 +58,9 @@
 <section class="section-padding">
     <div class="container">
     <div class="text-center section-padding img-responsive">
-<!--            <img src="/materilaHTML/assets/images/ArchitecturalDesign/SiteSelection/0.Into-2.jpg" alt="" class="img-fluid w-25 img-padding-left-right">-->
             <img src="/materilaHTML/assets/images/ArchitecturalDesign/SiteSelection/0.Into.png" alt="" class="img-fluid w-75 img-padding-left-right">
+        <p class=" text-center">(Image Source- <a href="http://www.carwashappraiser.com/site-selection">Car Wash Valuation Advisor</a>)</p>
+
     </div>
         <div class="text-justify">
             <p>
@@ -69,14 +70,22 @@
                 Where and how a building occupies a site has significant, long-term impacts on its efficiency and success.
                 It is essential to analyze the building’s relationship with its surrounding natural environment, including the sun, soil, wind, water, and trees, as well as the surrounding built environment, which includes other buildings, roads, and local transportation options.
             </p>
+
         </div>
+        <p class=" text-center">(Source- <a href="http://www.mdpi.com/">Design of A Sustainable Building by Peter O. Akadiri , Ezekiel A. Chinyio and Paul O. Olomolaiye </a>)</p>
+
         <div class="text-center section-padding img-responsive">
             <!--            <img src="/materilaHTML/assets/images/ArchitecturalDesign/SiteSelection/0.Into-2.jpg" alt="" class="img-fluid w-25 img-padding-left-right">-->
             <img src="/materilaHTML/assets/images/ArchitecturalDesign/SiteSelection/Intro/0.png" alt="" class="img-fluid w-75 img-padding-left-right">
+            <p >(Source- <a href="http://www.grihaindia.org/">GRIHA (Green Rating for Integrated Habitat Assessment) Manual Vol. II</a>)</p>
+
         </div>
         <div class="text-center section-padding img-responsive">
             <!--            <img src="/materilaHTML/assets/images/ArchitecturalDesign/SiteSelection/0.Into-2.jpg" alt="" class="img-fluid w-25 img-padding-left-right">-->
             <img src="/materilaHTML/assets/images/ArchitecturalDesign/SiteSelection/Intro/1.png" alt="" class="img-fluid w-100 img-padding-left-right">
+            <p >(Source- <a href="http://www.grihaindia.org/">GRIHA (Green Rating for Integrated Habitat Assessment) Manual Vol. II</a>)</p>
+
+
         </div>
         <div class="text-center">
             <p  class="h4"><strong>CHECKLIST FOR SITE SELECTION</strong></p>
@@ -149,6 +158,9 @@
                 </tr>
                 </tbody>
             </table>
+                <p >(Source- <a href="http://www.grihaindia.org/">GRIHA (Green Rating for Integrated Habitat Assessment) Manual Vol. II</a>)</p>
+
+
             </div>
             <hr class="section-padding">
             <p class="h4">RECOMMENDED CHECKLIST FOR IDENTIFYING SITE CHARACTERISTICS</p>
@@ -248,6 +260,9 @@
                 </tr>
                 </tbody>
                 </table>
+                <p >(Source- <a href="http://www.grihaindia.org/">GRIHA (Green Rating for Integrated Habitat Assessment) Manual Vol. II</a>)</p>
+
+
             </div>
             <hr class="section-padding">
             <p class="h4">SITE INVENTORY CHARACTERISTICS AFFECTING THE SITE &amp; BUILDING DESIGN ELEMENTS</p>
@@ -401,6 +416,9 @@
                 </tr>
                 </tbody>
             </table>
+                <p >(Source- <a href="http://www.grihaindia.org/">GRIHA (Green Rating for Integrated Habitat Assessment) Manual Vol. II</a>)</p>
+
+
             </div>
             <hr class="section-padding">
             <p class="h4"><strong>RECOMMENDATIONS AND PRACTICES FOR UTILITY/INFRASTRUCTURE</strong></p>
@@ -459,6 +477,9 @@
                 </tr>
                 </tbody>
             </table>
+                <p >(Source- <a href="http://www.grihaindia.org/">GRIHA (Green Rating for Integrated Habitat Assessment) Manual Vol. II</a>)</p>
+
+
             </div>
             <hr class="section-padding">
             <p class="h4"><strong>RECOMMENDATIONS AND PRACTICES FOR SUSTAINABLE LANDSCAPE DESIGN</strong></p>
@@ -522,6 +543,9 @@
                 </tr>
                 </tbody>
             </table>
+                <p >(Source- <a href="http://www.grihaindia.org/">GRIHA (Green Rating for Integrated Habitat Assessment) Manual Vol. II</a>)</p>
+
+
             </div>
             <hr class="section-padding">
             <p class="h4"><strong>Seven principles of Xeriscape</strong></p>
@@ -543,7 +567,7 @@
             </table>
             </div>
             <hr>
-            <p class="section-padding">(Source- <a href="http://www.grihaindia.org/">Green Rating for Integrated Habitat Assessment</a>)</p>
+            <p class="section-padding">(Source- <a href="http://www.grihaindia.org/">GRIHA (Green Rating for Integrated Habitat Assessment) Manual Vol. II</a>)</p>
         </div>
     <table class="table table-hover section-padding">
         <thead>

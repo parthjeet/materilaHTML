@@ -61,6 +61,8 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/SiteSelection/10.Nightsky.png" class="img-fluid w-50">
+                <p>(Image Source- <a href="https://news.files.bbci.co.uk/vj/live/idt-images/image-slider-nasa_india_night_lights/india_2016_5r5qg.png">BBC</a>)</p>
+
                 <div class="text-justify section-padding">
                     <div class="table-responsive section-padding">
                         <table class="table table-bordered table-striped">
@@ -94,8 +96,8 @@
                                 <p>&middot; Use dimming light systems for energy efficiency</p>
                                 <p>&middot; Use motion sensing LED lights for best savings</p>
                                 <p>&middot; Do not install lighting more than 2.5 times building height from property line<em> (Source: Green exam academy)</em></p>
-                                <p>&middot; A minimum of 25% of the total number or 15% of the total connected load of outdoor lighting fixtures <em>(</em>whichever is</p>
-                                <p>higher) to be powered by solar energy.(Source: Griha)</p>
+                                <p>&middot; A minimum of 25% of the total number or 15% of the total connected load of outdoor lighting fixtures higher) to be powered by solar energy whichever is higher (Source: Griha)</p>
+
                             </td>
                         </tr>
                         <tr>
@@ -122,6 +124,8 @@
                     </div>
                     <div class="img-responsive section-padding text-center">
                         <img src="/materilaHTML/assets/images/ArchitecturalDesign/SiteSelection/10/1.jpg" alt="" class="img-fluid">
+                        <p>(Image Source- <a href="https://sustainableutah.files.wordpress.com/2015/03/lightpollutiongraphic_delmarfansdotcom.jpg">Sustainable Utah</a>)</p>
+
                     </div>
                     <div class="table-responsive">
                         
@@ -134,6 +138,8 @@
                             
                     </table></div>
                     <p class="jumbotron text-center font-weight-bold">Luminous efficacy (lm/W) = {lamp lumen output (lm)}/{lamp wattage (W) + ballast power loss (W)}.</p>
+                    <p>(Source- <a href="https://www.fcgov.com/utilities/img/site_specific/uploads/led-efficiency.pdf">FC Gov</a>)</p>
+                    <br>
                     <p><strong>Motion Sensing Lighting</strong></p>
                     <p>Motion sensors can be integrated with smart lighting systems to enable lighting levels to be automatically adjusted based on pedestrian and vehicle flows.</p>
                     <p>Dubai has fitted their smart lighting luminaires with motion sensors which detect traffic movement and react accordingly. If there are no vehicles, the lights remain at 25% output, but if cars approach, the output is increased to 100%. As all the lights are wirelessly linked to each other, the surrounding lights also come on, and only go back to 25% once the vehicle has passed.</p>
@@ -254,6 +260,9 @@
                         </tbody>
                     </table>
                     </div>
+                    <p>(Source- <a href="http://tsredco.telangana.gov.in/PDFs/BEE_manuals/BEST_PRACTICE_MANUAL_LIGHTING.pdf
+">TSREDCO</a>)</p>
+
                     <hr class="section-padding">
                     <p class="h5"><strong>Organizations Working to Reduce Light Pollution and its Adverse Effects on Humans, Wildlife and Ecosystems:</strong></p>
                     <p><a href="http://www.darksky.org/">International Dark-Sky Association (IDA)</a> - IDA is the recognized authority on light pollution. Founded in 1988, IDA is the first organization to call attention to the hazards of light pollution, and in 22 years of operation their accomplishments have been tremendous.</p>
@@ -286,6 +295,8 @@
                     <div class="img-responsive section-padding text-center">
                         <img src="/materilaHTML/assets/images/ArchitecturalDesign/SiteSelection/10/4.jpg" alt="" class="img-fluid">
                     </div>
+
+                    <p>(Source- <a href="http://www.lightsearch.com/resources/lightguides/led_dim.html">Light Search</a>)</p>
                     <div class="img-responsive section-padding text-center">
                         <img src="/materilaHTML/assets/images/ArchitecturalDesign/SiteSelection/10/5.jpg" alt="" class="img-fluid">
                     </div>
@@ -304,6 +315,8 @@
                                 <p>4. Use renewable energy resources for lighting and other outdoor power needs.</p>
 
                     </div>
+                    <p>(Source- <a href="https://igbc.in/igbc/">IGBC</a>)</p>
+
                 </div>
             </div>
         </div>

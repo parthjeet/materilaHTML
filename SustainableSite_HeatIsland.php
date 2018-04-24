@@ -61,6 +61,10 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/SiteSelection/7.Heat_Island.jpg" class="img-fluid w-50 section-padding">
+                <p>(Source- <a href="http://3.bp.blogspot.com/-qjGsVhmAuQg/VSXELT0xZWI/AAAAAAAAfA8/XkjBJHDneAw/s1600/6a010536b58035970c017744ad1afa970d.jpg">Cliff Mass</a>)</p>
+
+
+
                 <div class="table-responsive text-justify">
                     <table class="table table-bordered table-striped">
                     <tbody>
