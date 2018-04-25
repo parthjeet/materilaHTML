@@ -59,7 +59,7 @@
     <div class="text-justify">
         <div class="text-center section-padding">
             <img src="/materilaHTML/assets/images/ArchitecturalDesign/Energy/Intro/1.png" alt="" class="img-fluid w-75">
-        </div>
+           </div>
         <p>One of the primary requirements of a building is that it should have optimum energy performance and yet would provide the desirable thermal and visual comfort. The three fundamental strategies adopted to optimize energy performance in a building can be broadly classified as:</p>
         <ul>
             <li>The primary function of a building is to provide comfortable indoor environment.</li>
@@ -68,6 +68,9 @@
             <li>A growing worldwide concern for the conservation of energy has reawakened interest in ecologically sustainable materials, design strategies that respond to the outdoor climate to achieve comfort conditions inside with minimal dependence upon electromechanical devices.</li>
             <li>A climate sensitive design approach helps achieve thermal and visual comfort with less dependence upon artificial systems, which results in energy saving with environmental benefits.</li>
         </ul>
+
+        <p class="text-justify">(Source- <a href="https://www.sciencedirect.com/science/article/pii/S1018363916300022">Intelligent multi-objective optimization for building energy and comfort management by Pervez Hameed Shaikh, Nursyarizal Bin Mohd Nor, Perumal Nallagownden, Irraivan Elamvazuthi</a>)</p>
+
     </div>
     <table class="table table-hover section-padding">
         <thead>

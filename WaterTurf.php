@@ -61,6 +61,8 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/Water/4.Turf.png" class="img-fluid w-50">
+                <p>(Image Source: <a href="http://www.highamgardenservices.co.uk/media/images/header3.jpg">Higham Garden Services</a>)</p>
+
                 <div class="text-justify section-padding">
                     <div class="table-responsive">
                     <table class="table table-bordered table-striped">
@@ -131,7 +133,7 @@
                         <li>Turf and each type of bedding area must be segregated into independent zones based on watering needs.</li>
                         <li>At least 50% of landscape planting beds must have drip irrigation system</li>
                     </ul>
-                    <p><strong><a href="https://trello-attachments.s3.amazonaws.com/58329bcdeb806816e9fcfd04/58329bcdeb806816e9fcfd46/x/2d54766381309ee9b64e7a57664d7a10/native-vegetation.pdf">Read More on Agro-climatic zones and native species for each zone in India</a></strong></p>
+                    <p>(Source- <a href="https://trello-attachments.s3.amazonaws.com/58329bcdeb806816e9fcfd04/58329bcdeb806816e9fcfd46/x/2d54766381309ee9b64e7a57664d7a10/native-vegetation.pdf">TERI</a>)</p>
                 </div>
             </div>
         </div>

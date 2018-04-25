@@ -61,6 +61,8 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/Material/5.Reuse.png" class="img-fluid w-50">
+                <p>(Image Source- <a href="https://www.theloop.ca/wp-content/uploads/2018/04/eco-friendly-bathroom.jpg">The Loop</a>)</p>
+
                 <div class="text-justify section-padding">
                     <div class="table-responsive">
                         <table class="table table-bordered">
@@ -109,9 +111,11 @@
                         </tr>
                         </tbody>
                     </table></div>
-                    <div class="section-padding">
+                    <div >
                         <img src="/materilaHTML/assets/images/ArchitecturalDesign/Material/5/1.png" alt="" class="img-fluid">
                     </div>
+                    <hr class="section-padding">
+                    <p>(Source- <a href="http://www.level.org.nz/material-use/minimising-waste/reuse-and-recycling/">Level</a>)</p>
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped-green">
                         <tbody>
@@ -176,7 +180,7 @@
                         </tr>
                         </tbody>
                     </table></div>
-                    <p><a href="http://www.level.org.nz/material-use/minimising-waste/reuse-and-recycling/"><strong>Read more about this</strong></a></p>
+                    <p>(Source- <a href="http://www.level.org.nz/material-use/minimising-waste/reuse-and-recycling/">Level</a>)</p>
                 </div>
             </div>
         </div>

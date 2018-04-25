@@ -60,7 +60,9 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Material/3.Recycled.png" class="img-fluid">
+                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Material/3.Recycled.png" class="img-fluid w-25">
+                <p>(Image Source- <a href="https://lh3.googleusercontent.com/-pEGmjNI-wyQ/WiVe5rvaKNI/AAAAAAAAAP4/n3Msfe0UY1c8z8UTNQq4236sCenFOdIEwCJoC/w530-h530-n/FiberliteTech-FTI-Pics-Recycle_Logo.jpg">Google Plus</a>)</p>
+
                 <div class="text-left section-padding">
                     <div class="table-responsive">
                         <table class="table table-bordered">
@@ -444,7 +446,7 @@
                         </tbody>
                     </table></div>
                     <p>These technologies have been frequently taken from published literature of Building Materials &amp; Technology Promotion Council (BMTPC), Central Building Research Institute (CBRI) and other Research Institutes engaged in R&amp;D in the area of development of environment friendly, energy efficient and cost effective materials and technologies. These technologies have been successfully utilized for environmental protection, employment generation and housing construction in rural and urban settlements in India and several other countries.</p>
-                    <p><a href="https://www.unido.org/sites/default/files/2009-04/Environment_friendly_Indian_building_material_technologies_for_cost_effective_housing_0.pdf"><strong>Read more about this</strong></a></p>
+                    <p>(Source- <a href="https://www.unido.org/sites/default/files/2009-04/Environment_friendly_Indian_building_material_technologies_for_cost_effective_housing_0.pdf">Environment Friendly Indian Building Material Technologies for Cost Effective Housing</a>)</p>
                 </div>
             </div>
         </div>

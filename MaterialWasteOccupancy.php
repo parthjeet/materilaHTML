@@ -60,7 +60,9 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Material/2.Construction.png" class="img-fluid">
+                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Material/2.Construction.png" class="img-fluid w-50">
+                <p>(Image Source- <a href="http://esof2012.org/wp-content/uploads/2016/06/construction-dumpsters-4.jpg">Cleanup Through a Dumpster Rental</a>)</p>
+
                 <div class="text-left section-padding">
                     <div class="table-responsive">
                         <table class="table table-bordered">
@@ -130,6 +132,8 @@
                         <li>Rubbish, debris and bitumen wastes remaining after blacktop works should be cleaned and disposed off in a safe place.</li>
                         <li>Materials wasted on site should be reused at the same place. For example, use of excavated earth in landscaping, or use of waste pieces of floor tiles in floor of porch or outdoor spaces, or use of remaining pieces of glass from window panes into ventilators, skylights and boundary wall, or reuse of ply and other timber pieces into furniture etc.</li>
                     </ol>
+                    <p>(Source-  <a href="https://www.epa.gov/smm/best-practices-reducing-reusing-and-recycling-construction-and-demolition-materials">Environment Protection Agency (EPA)</a>)</p>
+                    <hr class="section-padding">
                     <p><strong> RECYCLING DEMOLITION WASTE RECYCLING CONSTRUCTION WASTE </strong></p>
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped-green">
@@ -329,7 +333,7 @@
                         </tr>
                         </tbody>
                     </table></div>
-                    <p><a href="https://www.epa.gov/sites/production/files/2014-03/documents/017419.pdf)">Read more about this</a></p>
+                    <p>(Source-  <a href="https://www.epa.gov/smm/best-practices-reducing-reusing-and-recycling-construction-and-demolition-materials">Environment Protection Agency (EPA)</a>)</p>
                 </div>
             </div>
         </div>

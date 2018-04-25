@@ -61,6 +61,9 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/4.Asbestos.jpg" class="img-fluid w-50">
+                <p >(Image Source- <a href="https://s-media-cache-ak0.pinimg.com/originals/d1/11/9e/d1119e55763a677fe1f79fab69c48bcb.jpg">Pinterest</a>)</p>
+
+
                 <div class="text-justify section-padding">
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped">
@@ -160,7 +163,9 @@
                     <p>Asbestos may also be found in elevator brake shoes, elevator equipment panels, ductwork,
                         electrical panel partitions, electrical cloth, cooling towers, and chalkboards (Environmental
                         Protection Agency Region 6 Guide).</p>
-                    <p><strong>&nbsp;</strong></p>
+
+                    <p>(Source- <a href="https://www.asbestosnetwork.com/Asbestos-Use/Asbestos-Products.shtml"><strong> Asbestos Network</strong></a>)</p>
+
                     <hr class="section-padding">
                     <p class="h4"><strong>ASBESTOS CONSUMER PRODUCTS</strong></p>
                     <p>Asbestos has been used in home appliances (coffee pots, toasters, irons, popcorn poppers, and
@@ -178,8 +183,7 @@
                     </div>
 
 
-                    <p><a href="https://www.asbestosnetwork.com/Asbestos-Use/Asbestos-Products.shtml"><strong>Read more
-                                about this</strong></a></p>
+                    <p>(Source- <a href="https://www.asbestosnetwork.com/Asbestos-Use/Asbestos-Products.shtml"><strong> Asbestos Network</strong></a>)</p>
                     <p><strong>&nbsp;</strong></p>
                     <hr class="section-padding">
                     <p class="h4"><strong>INNOVATIVE BUILDING MATERIALS IN INDIA</strong></p>
@@ -320,9 +324,8 @@
                             </tbody>
                         </table>
                     </div>
-                    <p>
-                        <a href="http://greencleanguide.com/innovative-building-materials-in-india-need-sustainable-innovation/"><strong>Read
-                                More about this</strong></a></p>
+                    <p> (Source-
+                        <a href="http://greencleanguide.com/innovative-building-materials-in-india-need-sustainable-innovation/"><strong>Green Clean Guide</strong></a>)</p>
                     <hr class="section-padding">
                     <p class="h4"><strong>ECO-FRIENDLY FLOORING OPTION</strong></p>
                     <div class="table-responsive">
@@ -524,7 +527,7 @@
                         </tr>
                         </tbody>
                     </table></div>
-                    <p><a href="http://greencleanguide.com/eco-friendly-flooring-options/"><strong>Read more about this</strong></a></p>
+                    <p>(Source- <a href="http://greencleanguide.com/eco-friendly-flooring-options/">Green Clean Guide</a>)</p>
                     <p><a href="AlterAsbestos.php"><strong>Click here to know about the Suppliers</strong></a></p>
                    </div>
             </div>

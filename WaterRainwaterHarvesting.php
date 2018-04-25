@@ -61,6 +61,8 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/Water/2.RWH.jpg" class="img-fluid w-50">
+                <p>(Image Source: <a href="http://www.greening-solution.com/wp-content/uploads/2016/02/RAINWATER-HARVESTING-SYSTEM-PROCESS-DEMONSTRATION-1.jpg">Greening Solution</a>)</p>
+
                 <div class="text-justify section-padding">
                     <div class="table-responsive">
                     <table class="table table-bordered table-striped">
@@ -264,6 +266,10 @@
                     </ol>
                     <p>Once the above data is available the basic calculation for any given period is:</p>
                     <p class="text-center jumbotron font-weight-bold"><u>Collection (in kiloliters) = Rainfall (in meters) x Catchment area (in square meters)</u></p>
+
+                    <p >(Source- <a href="http://www.grihaindia.org/">GRIHA (Green Rating for Integrated Habitat Assessment) Manual Vol. II</a>)</p>
+
+                    <hr class="section-padding">
                     <p><strong>Steps to be followed for estimating the capacity of the harvesting pond include:</strong></p>
                     <ul>
                         <li>Calculating the run roofs for each surface, namely roof, paving, gravel, forest, field, court and lawn according to the % of water withheld.</li>
@@ -288,7 +294,7 @@
                     <div class="text-center section-padding">
                         <img src="/materilaHTML/assets/images/ArchitecturalDesign/Water/2/2.png" alt="" class="img-fluid w-75">
                     </div>
-                    <p><strong>(</strong><a href="http://www.yourarticlelibrary.com/water/rain-water-harvesting-in-india-need-methods-and-other-details/20917"><strong>Read more about this</strong></a><strong>)</strong></p>
+                    <p>(Source: <a href="http://www.yourarticlelibrary.com/water/rain-water-harvesting-in-india-need-methods-and-other-details/20917">Your Article library</a>)</p>
                 </div>
             </div>
         </div>

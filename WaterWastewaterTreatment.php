@@ -60,7 +60,9 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Water/7.Wastewater.png" class="img-fluid w-25">
+                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Water/7.Wastewater.png" class="img-fluid w-50">
+                <p>(Image Source: <a href="http://ctvtt.com/ctv/media/k2/items/cache/2f1d69739325f395c5d7a3562ac2280c_XL.jpg">CNMG</a>)</p>
+
                 <div class="text-left section-padding">
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped">
@@ -123,6 +125,7 @@
                         <li>These systems normally require a pre-treatment step such as a settlement chamber before the aeration unit.</li>
                         <li>Artificial wetlands or reed bed systems, which are based on natural processes, are beneficial due to simple and low O&amp;M cost.</li>
                     </ul>
+                    <p>(Source- <a href="http://www.grihaindia.org/">GRIHA</a>)</p>
                     <div class="text-center img-responsive section-padding">
                         <img src="/materilaHTML/assets/images/ArchitecturalDesign/Water/7/1.png" alt="" class="img-fluid w-50">
                     </div>
@@ -132,6 +135,7 @@
                     <div class="text-center img-responsive section-padding">
                         <img src="/materilaHTML/assets/images/ArchitecturalDesign/Water/7/3.png" alt="" class="img-fluid w-75">
                     </div>
+                    <p>(Source- <a href="https://igbc.in/igbc/">IGBC</a>)</p>
                     <div class="text-center img-responsive section-padding">
                         <img src="/materilaHTML/assets/images/ArchitecturalDesign/Water/7/4.png" alt="" class="img-fluid w-75">
                     </div>

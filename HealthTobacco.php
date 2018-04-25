@@ -61,6 +61,8 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/1.Tobacco.jpg" class="img-fluid w-25">
+                <p >(Image Source- <a href="http://davidhowald.com/wp-content/uploads/2018/03/no-smoking-signs-awesome-file-no-smokingg-wikimedia-mons-of-no-smoking-signs.png">David Howald</a>)</p>
+
                 <div class="text-justify section-padding">
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped">
@@ -130,6 +132,9 @@
                         <li>Replace all heating and air filters regularly.</li>
                         <li>Get a high-quality, indoor air purification system.</li>
                     </ul>
+
+                    <p >(Source- <a href="https://www.zillow.com/blog/get-rid-of-smoke-smells-in-home-150569/">Zillow</a>)</p>
+
                 </div>
             </div>
         </div>

@@ -61,6 +61,8 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/Material/1.Post.png" class="img-fluid w-50">
+                <p>(Source- <a href="https://inhabitat.com/wp-content/blogs.dir/1/files/2012/06/sp-recycling-coop-coopere-06.jpg">Inhabitat</a>)</p>
+
                 <div class="text-justify section-padding">
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped">
@@ -367,11 +369,13 @@
                         </tr>
                         </tbody>
                     </table></div>
+                    <p>(Source- <a href="http://www.grihaindia.org/">GRIHA Manual Vol II</a>)</p>
+
                     <hr class="section-padding">
                     <div class="text-center section-padding">
                         <img src="/materilaHTML/assets/images/ArchitecturalDesign/Material/1/1.png" alt="" class="img-fluid">
                     </div>
-                    <p><strong>(Source- </strong><a href="http://envfor.nic.in/divisions/iass/Construction_Manual.pdf"><strong>Ministry of Environment, Forest and Climate Change</strong></a><strong>)</strong></p>
+                    <p>(Source- <a href="http://envfor.nic.in/divisions/iass/Construction_Manual.pdf">Ministry of Environment, Forest and Climate Change</a>)</p>
 
                 </div>
             </div>

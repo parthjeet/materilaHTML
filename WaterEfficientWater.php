@@ -60,7 +60,9 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Water/1.During.jpg" class="img-fluid w-25">
+                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Water/1.During.jpg" class="img-fluid w-50">
+                <p>(Image Source: <a href="http://static.wixstatic.com/media/6aeaa2_7aa3b32c13934ea89674613dfed8e361~mv2.jpg">Aiqueous</a>)</p>
+
                 <div class="text-justify section-padding">
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped">
@@ -123,6 +125,8 @@
                         <li>Site and general cleaning</li>
                         <li>Specialist and high-pressure cleaning</li>
                     </ol>
+                    <p>(Source: <a href="http://www.greenconstructionboard.org/otherdocs/SCTG09-WaterActionPlanFinalCopy.pdf">Green Construction Board</a>)</p>
+
                     <p class="h4 text-center"><u>Commissioning plant and services</u></p>
                     <div class="text-center section-padding">
                         <img src="/materilaHTML/assets/images/ArchitecturalDesign/Water/1/1.png" alt="" class="img-fluid w-75">

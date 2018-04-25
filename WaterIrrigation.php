@@ -61,8 +61,9 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Water/5.Irrigation.png"
-                     class="img-fluid w-25">
+                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Water/5.Irrigation.png" class="img-fluid w-50">
+                <p>(Image Source: <a href="http://www.highamgardenservices.co.uk/media/images/header3.jpg">Higham Garden Services</a>)</p>
+
                 <div class="text-left section-padding">
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped">
@@ -235,6 +236,7 @@
 
                         </li>
                     </ol>
+                    <p>(Source- <a href="http://caes2.caes.uga.edu/commodities/turfgrass/georgiaturf/Water/Articles/B1329.pdf">The University of Georgia</a>)</p>
                     <hr class="section-padding">
                     <p class="text-center h4 font-weight-bold"><u>Example of difference in base and design case from Jabalpur.</u></p>
                     <div class="img-responsive text-center">
@@ -246,6 +248,7 @@
                     <div class="img-responsive text-center">
                         <img src="/materilaHTML/assets/images/ArchitecturalDesign/Water/5/5.png" alt="" class="img-fluid w-75 section-padding">
                     </div>
+                    <p>(Source- <a href="https://igbc.in/igbc/">IGBC</a>)</p>
                     <hr class="section-padding">
                     <p class="h5"><strong><u>Water Efficient Technologies</u></strong></p>
                     <p><strong>Automatic Irrigation Timer</strong></p>
@@ -325,7 +328,7 @@
                         <li>Soil moisture measurement</li>
                         <li>Weather stations</li>
                     </ol>
-                    <p><a href="http://infohouse.p2ric.org/ref/01/00692.pdf"><strong>Read more about this</strong></a>
+                    <p>(Source: <a href="http://infohouse.p2ric.org/ref/01/00692.pdf">Info House</a>)
                     </p>
                 </div>
             </div>

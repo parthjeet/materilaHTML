@@ -61,6 +61,10 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/2.Min_Fresh_Air.jpg" class="img-fluid w-50">
+                <p >(Image Source- <a href="https://png.pngtree.com/thumb_back/fw800/back_pic/00/14/80/26566e3e91e1c81.jpg">PngTree</a>)</p>
+
+
+
                 <div class="text-justify section-padding">
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped">

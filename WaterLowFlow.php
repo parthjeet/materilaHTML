@@ -61,7 +61,9 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Water/3.LowFlow.png" class="img-fluid w-25">
+                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Water/3.LowFlow.png" class="img-fluid w-50">
+                <p>(Image Source: <a href="https://ssmscdn.yp.ca/image/resize/b164a8af-91ba-43c2-88fd-2a9dc293be55/ypui-d-mp-pic-gal-lg/taps-and-toilets-installations-3.jpg">Yellow Pages</a>)</p>
+
                 <div class="text-justify section-padding">
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped">
@@ -257,6 +259,7 @@
                                 fertilizer. The second pit is used when the first is full.</p>
                         </li>
                     </ul>
+                    <p>(Source- <a href="http://www.iapmoindia.org/Articles/WEP-I%20Article%20(R1).pdf">IAPMO India</a>)</p>
 
                     <div class="img-responsive text-center section-padding">
                         <img src="/materilaHTML/assets/images/ArchitecturalDesign/Water/3/2.png" alt="" class="img-fluid">
@@ -264,6 +267,7 @@
                     <div class="img-responsive text-center">
                         <img src="/materilaHTML/assets/images/ArchitecturalDesign/Water/3/1.png" alt="" class="img-fluid">
                     </div>
+                    <p>(Source- <a href="https://igbc.in/igbc/">IGBC</a>)</p>
                     <hr class="section-padding">
                     <p class="h4 text-center"><strong><u>High-Efficiency Toilets and Urinals</u></strong></p>
                     <div class="table-responsive">
@@ -398,8 +402,8 @@
                             </tbody>
                         </table>
                     </div>
-                    <p><strong>(Source- </strong><a href="http://infohouse.p2ric.org/ref/01/00692.pdf"><strong>Info
-                                House</strong></a><strong>)</strong></p>
+                    <p>(Source- <a href="http://infohouse.p2ric.org/ref/01/00692.pdf">Info
+                                House</a>)</p>
                 </div>
             </div>
         </div>

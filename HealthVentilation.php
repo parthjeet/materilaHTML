@@ -61,6 +61,8 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/3.Ventillation.jpg" class="img-fluid w-25">
+                <p>(Image Source- <a href="https://lh3.googleusercontent.com/-zuYB4ez7DcM/WUF4YY8xesI/AAAAAAAAAKM/P3tX3tdmKb4sf9KdXjw56o-orCdM9D5-QCJoC/w955-h1000/best-house-ventilation.jpg">Google Plus</a>)</p>
+
                 <div class="text-justify section-padding">
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped">
@@ -160,7 +162,7 @@
                             <li>You can use portable fans to achieve an adequate air flow at specific sites within a building to keep employees cool or to remove contaminants generated from a particular process.</li>
                             <li>To keep internal conditions constant or to keep a process clean from airborne contaminants you can use a more complex mechanical system where the air is recirculated after being filtered.</li>
                         </ol>
-                        <p><strong>(</strong><a href="http://www.ucu.org.uk/media/1358/General-ventilation---guidance-for-employers-HSG202/pdf/HSG202_-_Ventilation.pdf"><strong>Read more about this</strong></a><strong>)</strong></p>
+                        <p><strong>(Source-</strong><a href="http://www.ucu.org.uk/media/1358/General-ventilation---guidance-for-employers-HSG202/pdf/HSG202_-_Ventilation.pdf"><strong>General Ventilation Guidance for the Employers</strong></a><strong>)</strong></p>
                         </div>
                 </div>
 

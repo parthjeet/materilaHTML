@@ -61,6 +61,8 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/Energy/3.Metering.png" class="img-fluid w-25">
+                <p >(Image Source- <a href="https://www.saint-gobain-sekurit.cz/media/k2/items/cache/62fb5f1024529266c6e71c0c0c9ddb3c_XL.jpg">Saint Gobain</a>)</p>
+
                 <div class="text-left section-padding">
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped">
@@ -136,7 +138,8 @@
                     <div class="img-responsive text-center">
                         <img src="/materilaHTML/assets/images/ArchitecturalDesign/Energy/3/2.png" alt="" class="img-fluid w-75">
                     </div>
-                    <p><strong>(</strong><a href="https://www.energy.gov/sites/prod/files/2015/04/f21/mbpg2015.pdf"><strong>Read more about this</strong></a><strong>)</strong></p>
+                    <p>(<a href="https://www.energy.gov/sites/prod/files/2015/04/f21/mbpg2015.pdf">Metering Best Practices: A Guide to
+                                Achieving Utility Resource Efficiency, Release by U.S. Department of Energy </a>)</p>
                 </div>
             </div>
         </div>

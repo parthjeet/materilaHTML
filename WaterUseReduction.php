@@ -60,7 +60,9 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Water/8.Recycle.png" class="img-fluid w-25">
+                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Water/8.Recycle.png" class="img-fluid w-50">
+                <p>(Image Source: <a href="https://sienaconsulting.ro/wp-content/uploads/2016/02/AP-32.jpg">Siena Consulting</a>)</p>
+
                 <div class="text-justify section-padding">
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped">
@@ -153,6 +155,8 @@
                     <div class="img-responsive text-center section-padding">
                         <img src="/materilaHTML/assets/images/ArchitecturalDesign/Water/8/1.png" alt="" class="img-fluid w-75">
                     </div>
+                    <p>(Source- <a href="https://igbc.in/igbc/">IGBC</a>)</p>
+                    <hr class="section-padding">
                     <p class="h4 text-center"><strong><u>Recycling Technologies</u></strong></p>
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped-green">

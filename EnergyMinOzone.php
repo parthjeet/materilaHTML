@@ -60,7 +60,9 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Energy/1.Ozone.jpg" class="img-fluid">
+                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Energy/1.Ozone.jpg" class="img-fluid w-50">
+                <p >(Image Source- <a href="https://i2.wp.com/www.aapkatimes.com/wp-content/uploads/2014/10/16-02.jpg?fit=460%2C450">Aapka Times</a>)</p>
+
                 <div class="text-justify section-padding">
                     <div class="table-responsive">
                     <table class="table table-bordered table-striped">
@@ -187,6 +189,7 @@
                         </tr>
                         </tbody>
                     </table></div>
+                    <p>(Source- <a href="https://igbc.in/igbc/">IGBC</a>)</p>
                     <hr class="section-padding">
                     <p class="h4"><strong><u>Alternatives:</u></strong></p>
                     <p>Use insulation with zero-ODP (ozone depletion potential) such as:</p>
@@ -200,6 +203,8 @@
                         <li>Expanded (bead) polystyrene</li>
                         <li>Recycled newspaper, and jute and cotton.</li>
                     </ol>
+                    <p>(Source- <a href="https://igbc.in/igbc/">IGBC</a>)</p>
+                    <hr class="section-padding">
                     <p>Avoid materials that do not inherently have a zero- ODP, such as polyurethane foams and polyisocyanurates.</p>
                     <p>Install HVAC and refrigeration equipment that uses refrigerants that comply with the following requirement:</p>
                     <p class="jumbotron text-center"><strong>LCGWP + LCODP x 100,000 &lt; 100</strong></p>
@@ -211,6 +216,8 @@
                             <td class="text-center align-middle">
                                 <p class="align-middle font-weight-bold">LCODP = [ODPr x (Lr x Life +Mr) x Rc]/Life</p>
                             </td>
+
+
                             <td>
                                 <p>Where, LCODP: Lifecycle Ozone Depletion Potential (lbCFC11/Ton-Year)</p>
                                 <p>ODPr: Ozone Depletion Potential of Refrigerant 0 &lt; ODPr &lt; 0.2 lbCFC11/lbr</p>

@@ -61,6 +61,8 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/Energy/2.Min_Energy.png" class="img-fluid w-50">
+                <p >(Image Source- <a href="https://static7.depositphotos.com/1076754/726/v/950/depositphotos_7264297-stock-illustration-green-apple-with-world-map.jpg">Deposit Photos</a>)</p>
+
                 <div class="text-justify section-padding">
                     <div class="table-responsive">
                     <table class="table table-bordered table-striped-green">

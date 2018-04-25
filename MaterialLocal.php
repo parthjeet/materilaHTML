@@ -61,6 +61,8 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/Material/4.Local.png" class="img-fluid w-50">
+                <p>(Image Source- <a href="https://static1.squarespace.com/static/556937c6e4b0e58457562a49/t/55bd914ce4b002b451c36499/1438486863318/">United4Design</a>)</p>
+
                 <div class="text-justify section-padding">
                     <div class="table-responsive">
                         <table class="table table-bordered">
@@ -139,9 +141,13 @@
                         </tr>
                         </tbody>
                     </table></div>
+                    <p>(Source- <a href="https://www.burnhamnationwide.com/final-review-blog/2013/01/benefits-of-using-green-construction-materials-and-methods">Burnham</a>)</p>
+
                     <div class="section-padding">
                         <img src="/materilaHTML/assets/images/ArchitecturalDesign/Material/4/1.png" alt="" class="img-fluid">
                     </div>
+                    <p>(Source- <a href="https://blog.thomasnet.com/top-6-benefits-of-local-sourcing">Thomas</a>)</p>
+                    <hr class="section-padding">
                     <p class="h4 text-center font-weight-bold"><u>How to achieve these benefits?</u></p>
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped-green">
@@ -187,8 +193,7 @@
                         </tbody>
                     </table></div>
                     <p><strong>(Source- </strong><a href="https://www.burnhamnationwide.com/final-review-blog/2013/01/benefits-of-using-green-construction-materials-and-methods"><strong>Burnham</strong></a><strong>)</strong></p>
-                    <p><a href="https://blog.thomasnet.com/top-6-benefits-of-local-sourcing"><strong>Read more about this</strong></a></p>
-                </div>
+                    </div>
             </div>
         </div>
     </div>

@@ -59,6 +59,8 @@
     <div class="text-justify">
         <div class="text-center section-padding">
             <img src="/materilaHTML/assets/images/ArchitecturalDesign/Water/0.Intro.jpg" alt="" class="img-fluid w-50">
+            <p>(Image Source: <a href="http://ec.europa.eu/environment/water/quantity/pdf/Water%20efficiency%20standards_Study2009.pdf">Study on water efficiency standards</a>)</p>
+
         </div>
         <p>Water efficiency can be defined as</p>
         <ul>
@@ -72,6 +74,7 @@
             <li>According to the <strong>United Nations Environmental Program</strong>, buildings consume 20% of the world's available water, a resource that becomes scarcer each year.</li>
             <li>Efficient practices and products, such as grey water treatment and low-flow plumbing fixtures, provide significant opportunities for the architecture and engineering industry to respond to this trend and build high-tech, low-water-demand projects that will turn the tide on the water crisis and create the conscientious buildings of tomorrow.</li>
         </ul>
+        <p>(Source: <a href="http://ec.europa.eu/environment/water/quantity/pdf/Water%20efficiency%20standards_Study2009.pdf">Study on water efficiency standards</a>)</p>
 
     </div>
     <table class="table table-hover section-padding">

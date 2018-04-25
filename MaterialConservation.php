@@ -58,6 +58,8 @@
 <div class="container">
     <div class="text-center section-padding">
         <img src="/materilaHTML/assets/images/ArchitecturalDesign/Material/0.Intro.png" alt="" class="img-fluid w-75">
+
+
     </div>
     <div class="text-justify">
         <ul>
@@ -70,6 +72,8 @@
             <li>Their basic characteristics that are required in the present scenario are, ability of natural resource conservation, low embodied energy, potential of recyclability and reuse and low emission levels of toxic substances or pollutant release in each stage of material life cycle.</li>
         </ul>
     </div>
+    <p>(Source- <a href="http://www.mdpi.com/2075-5309/2/2/126">Design of A Sustainable Building: A Conceptual Framework for
+            Implementing Sustainability in the Building Sector by Peter O. Akadiri, Ezekiel A. Chinyio and Paul O. Olomolaiye</a>)</p>
     <table class="table table-hover section-padding">
         <thead>
         <tr>
