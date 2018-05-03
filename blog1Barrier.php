@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Blog Single Page | Material</title>
+    <title>Barriers and Challenges for Green Garment Factory: India</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -63,7 +63,7 @@
                     <div class="single-blog-page col-md-12 col-lg-12 col-xs-12">
                         <article class="single-post wow fadeInUp animated"  data-wow-delay=".2s">
                             <div class="post-image text-center">
-                              <img src="assets/images/blog/blog1.png" class="img-fluid w-75" alt="" >
+                              <img src="assets/images/blog/1/blog1.jpg" class="img-fluid w-50" alt="" >
                             </div>
                             <h2>Green Garment Factory: Indian Scenario</h2>
                             <p>

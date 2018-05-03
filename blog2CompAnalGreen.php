@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Blog Single Page | Material</title>
+    <title>Comparative Analysis Of Green Garment Factories Of The World</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -65,16 +65,48 @@
                     <div class="text-center">
                         <img src="/materilaHTML/assets/images/blog/2/1.jpg" alt="" class="img-fluid">
                     </div>
-                    <h2>Green Garment Factory: Indian Scenario</h2>
+                    <hr class="section-padding">
+                    <h3>
+                        At least 67 garment factories in Bangladesh have received the Leadership in Energy and Environmental Design (LEED) certificate from the United States Green Building Council (USGBC).
+                    </h3>
                     <p>
-                        Although there are significant benefits of Green Garment factory, but there are only 13 LEED certified buildings related to garment industry in India among which Evolve Clothing company Pvt. Ltd. Factory building (Kanchipuram) is only factory to achieve gold rating under LEED BD+C category.
-                        Apart from these certifications India’s leading garment manufacturers such as Laguna clothing,  KG denims,  Gokaldas Exports,  Orient craft,  Aquarelle India Pvt. ltd  etc. are continuously working in direction of sustainability.
-
+                        After Bangladesh,
+                        <strong>
+                            Indonesia has 50 LEED certified garment factories
+                        </strong>
+                        , followed by
+                        <strong>
+                            India with five
+                        </strong>
+                        .
                     </p>
-                    <h2>Barriers and Challenges for Green Garment Factory in India:</h2>
                     <p>
-                        The barriers and challenges faced by Garment Industry in India that hinders the development of Green Garment Factory in India can be broadly classified into Internal Barriers and External Barriers.(Tao, 2016)
+                        Another 280 garment factories in Bangladesh would get the LEED certification soon, said Gopalakrishnan P, managing director of USGBC for Asia Pacific and Middle East Markets, at a programme in Dhaka.
                     </p>
+                    <p>
+                        Of the 67 running green garment factories in Bangladesh,
+                        <strong>
+                            13 are rated platinum
+                        </strong>
+                        , the highest category in LEED certification. Gold, silver, and normal are the other certifications.
+                    </p>
+                    <p>
+                        Bangladesh not only has the highest number of green garment factories, but also the highest number of the top scoring green garment factories, according to the USGBC.
+                        <strong>
+                            Seven out of 10 top scorers are in Bangladesh.
+                        </strong>
+                    </p>
+                    <p>
+                        In the case of India, one of the major competitors of Bangladesh in the&nbsp;global garment trade, only five green factories are in operation and
+                        <strong>
+                            25 will get the certification soon
+                        </strong>
+                        ,&nbsp;
+                    </p>
+                    <p>
+                        India, being one of the biggest countries in the world, should have more green garment factories, he said.
+                    </p>
+                    <p>(Source- <a href="https://www.thedailystar.net/frontpage/bangladesh-leads-the-way-1542319">Daily Star</a>)</p>
 
                     <div class="single-post-meta">
                         <div class="post-tag">

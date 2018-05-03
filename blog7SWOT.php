@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Blog Single Page | Material</title>
+    <title>SWOT Analysis of Green Garment Factories in India</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -46,7 +46,7 @@
                     <div class="col-md-12">
                         <div class="title-center">
                             <div class="title-middle">
-                                <h1 class="page-title text-center">ARRIERS AND CHALLENGES FOR GREEN GARMENT FACTORY: INDIA</h1>
+                                <h1 class="page-title text-center">SWOT Analysis of Green Garment Factories in India</h1>
                             </div>
                         </div>
                     </div>
@@ -62,25 +62,16 @@
                     <!-- Single Blog Post -->
                     <div class="single-blog-page col-md-12 col-lg-12 col-xs-12">
                         <article class="single-post wow fadeInUp animated"  data-wow-delay=".2s">
-                            <div class="post-image">
-                              <img src="assets/images/blog/blog1.png" class="img-fluid" alt="">
+                            <div class="post-image text-center">
+                              <img src="assets/images/blog/Swot.jpg" class="img-fluid " alt="">
                             </div>
-                            <h2>Green Garment Factory: Indian Scenario</h2>
-                            <p>
-                                Although there are significant benefits of Green Garment factory, but there are only 13 LEED certified buildings related to garment industry in India among which Evolve Clothing company Pvt. Ltd. Factory building (Kanchipuram) is only factory to achieve gold rating under LEED BD+C category.
-                                Apart from these certifications India’s leading garment manufacturers such as Laguna clothing,  KG denims,  Gokaldas Exports,  Orient craft,  Aquarelle India Pvt. ltd  etc. are continuously working in direction of sustainability.
+                            <p>&bull; Internal competition at the domestic level encouraged a few large-scale producers towards green growth which eventually made them competitive at the global market</p>
+                            <p>&bull; The experiences of these factories trigger the &ldquo;going green&rdquo; movement in&nbsp;India</p>
+                            <p>&bull; Building an image and reputation: For a number of factory owners, even though going green does not allow any significant benefit at this very moment, this allows them to build an image which, according to them, is consequential for the future.</p>
 
-                            </p>
-                            <h2>Barriers and Challenges for Green Garment Factory in India:</h2>
-                            <p>
-                                The barriers and challenges faced by Garment Industry in India that hinders the development of Green Garment Factory in India can be broadly classified into Internal Barriers and External Barriers.(Tao, 2016)
-                            </p>
-                            <div class="text-center">
-                                <img src="/materilaHTML/assets/images/blog/blog1_1.png" alt="" class="img-fluid">
-                            </div>
                             <div class="single-post-meta">
                                 <div class="post-tag">
-                                    <a href="#"><i class="material-icons mdi mdi-dots-horizontal"></i>Click to read more</a>
+                                    <a href="blog7Body.php"><i class="material-icons mdi mdi-dots-horizontal"></i>Click to read more</a>
                                 </div>
                                 <div class="share-post">
                                     <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-google-plus"></i></a> <a href="#"><i class="fa fa-pinterest"></i></a>

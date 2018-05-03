@@ -222,7 +222,7 @@
                 <h1 class="animated  fadeInDown hero-heading-sec" data-wow-delay=".2s">Envoy Textiles Ltd., Bangladesh</h1>
                 <h3 class="animated  fadeInDown hero-sub-heading-sec" data-wow-delay=".2s">First Denim factory in the world having LEED Platinum Certification </h3>
                 <h5 class="animated fadeInUp  hero-sub-heading-sec" data-wow-delay=".3s">(80/110 Points) Platinum Certified</h5>
-                <a href="javascript:void(0)" class="animated fadeInUp" data-wow-delay=".8s">Check best examples<div class="ripple-container"></div></a>
+                <a href="blog2CompAnalGreenBody.php" class="animated fadeInUp" data-wow-delay=".8s">Check best examples<div class="ripple-container"></div></a>
             </div>
         </div>
         <div class="carousel-item">
@@ -231,7 +231,7 @@
                 <h1 class="animated  fadeInDown hero-heading-sec" data-wow-delay=".2s">Remi Holdings, Bangladesh</h1>
                 <h3 class="animated  fadeInDown hero-sub-heading-sec" data-wow-delay=".2s">Highest LEED score ever achieved by a garment factory till date</h3>
                 <h5 class="animated fadeInUp hero-sub-heading-sec" data-wow-delay=".3s">(97/110 Points) Platinum Certified</h5>
-                <a href="javascript:void(0)" class="animated fadeInUp" data-wow-delay=".8s">Check best examples<div class="ripple-container"></div></a>
+                <a href="blog2CompAnalGreenBody.php" class="animated fadeInUp" data-wow-delay=".8s">Check best examples<div class="ripple-container"></div></a>
             </div>
         </div>
         <div class="carousel-item">
@@ -240,7 +240,7 @@
                 <h4 class="animated  fadeInDown hero-heading-sec" data-wow-delay=".2s">Plummy Fashions, Bangladesh</h4>
                 <h4 class="animated  fadeInDown hero-sub-heading-sec" data-wow-delay=".2s">Highest LEED Scoring Knitwear Factory  </h4>
                 <h6 class="animated fadeInUp  hero-sub-heading-sec" data-wow-delay=".3s">(92/110 Points) Platinum Certified</h6>
-                <a href="javascript:void(0)" class="animated fadeInUp" data-wow-delay=".8s">Check best examples<div class="ripple-container"></div></a>
+                <a href="blog2CompAnalGreenBody.php" class="animated fadeInUp" data-wow-delay=".8s">Check best examples<div class="ripple-container"></div></a>
             </div>
         </div>
         <div class="carousel-item">
@@ -249,7 +249,7 @@
                 <h1 class="animated  fadeInDown hero-heading-sec" data-wow-delay=".2s">Vintage Denim Studio, Bangladesh</h1>
                 <h3 class="animated  fadeInDown hero-sub-heading-sec" data-wow-delay=".2s">First platinum rated garment factory (BD+C)</h3>
                 <h5 class="animated fadeInUp  hero-sub-heading-sec" data-wow-delay=".3s">(90/110 Points) Platinum Certified</h5>
-                <a href="javascript:void(0)" class="animated fadeInUp" data-wow-delay=".8s">Check best examples<div class="ripple-container"></div></a>
+                <a href="blog2CompAnalGreenBody.php" class="animated fadeInUp" data-wow-delay=".8s">Check best examples<div class="ripple-container"></div></a>
             </div>
         </div>
         <div class="carousel-item">
@@ -258,7 +258,7 @@
                 <h1 class="animated  fadeInDown hero-heading-sec" data-wow-delay=".2s">MAS, Sri Lanka</h1>
                 <h3 class="animated  fadeInDown hero-sub-heading-sec" data-wow-delay=".2s">First clothing factory powered solely by carbon neutral Sources</h3>
                 <h5 class="animated fadeInUp  hero-sub-heading-sec" data-wow-delay=".3s">(53/69 Points) Platinum Certified</h5>
-                <a href="javascript:void(0)" class="animated fadeInUp" data-wow-delay=".8s">Check best examples<div class="ripple-container"></div></a>
+                <a href="blog2CompAnalGreenBody.php" class="animated fadeInUp" data-wow-delay=".8s">Check best examples<div class="ripple-container"></div></a>
             </div>
         </div>
         <div class="carousel-item">
@@ -267,7 +267,7 @@
                 <h1 class="animated  fadeInDown hero-heading-sec" data-wow-delay=".2s">Brandix, Seeduwa, Sri Lanka</h1>
                 <h3 class="animated  fadeInDown hero-sub-heading-sec" data-wow-delay=".2s">First garment manufacturing facility  in the world to be rated Platinum (O+M)</h3>
                 <h5 class="animated fadeInUp  hero-sub-heading-sec" data-wow-delay=".3s">(76/85 Points) Platinum Certified</h5>
-                <a href="javascript:void(0)" class="animated fadeInUp" data-wow-delay=".8s">Check best examples<div class="ripple-container"></div></a>
+                <a href="blog2CompAnalGreenBody.php" class="animated fadeInUp" data-wow-delay=".8s">Check best examples<div class="ripple-container"></div></a>
             </div>
         </div>
         <div class="carousel-item">
@@ -276,7 +276,7 @@
                 <h1 class="animated  fadeInDown hero-heading-sec" data-wow-delay=".2s">Hirdaramani Ltd.- Sri Lanka</h1>
                 <h3 class="animated  fadeInDown hero-sub-heading-sec" data-wow-delay=".2s">First custom built Eco friendly garment factory</h3>
                 <h5 class="animated fadeInUp  hero-sub-heading-sec" data-wow-delay=".3s">(84/110 Points) Platinum Certified</h5>
-                <a href="javascript:void(0)" class="animated fadeInUp" data-wow-delay=".8s">Check best examples<div class="ripple-container"></div></a>
+                <a href="blog2CompAnalGreenBody.php" class="animated fadeInUp" data-wow-delay=".8s">Check best examples<div class="ripple-container"></div></a>
             </div>
         </div>
         <div class="carousel-item">
@@ -285,7 +285,7 @@
                 <h1 class="animated  fadeInDown hero-heading-sec" data-wow-delay=".2s">Esquel Group</h1>
                 <h3 class="animated  fadeInDown hero-sub-heading-sec" data-wow-delay=".2s">Largest shirt manufacturer in the world </h3>
                 <h5 class="animated fadeInUp  hero-sub-heading-sec" data-wow-delay=".3s">Ranked 2nd best apparel company in China for its green supply chain</h5>
-                <a href="javascript:void(0)" class="animated fadeInUp" data-wow-delay=".8s">Check best examples<div class="ripple-container"></div></a>
+                <a href="blog2CompAnalGreenBody.php" class="animated fadeInUp" data-wow-delay=".8s">Check best examples<div class="ripple-container"></div></a>
             </div>
         </div>
         <div class="carousel-item">
@@ -294,7 +294,7 @@
                 <h1 class="animated  fadeInDown hero-heading-sec" data-wow-delay=".2s">Artistic Milliners</h1>
                 <h3 class="animated  fadeInDown hero-sub-heading-sec" data-wow-delay=".2s">Pakistan's first LEED certified garment factory</h3>
                 <h5 class="animated fadeInUp  hero-sub-heading-sec" data-wow-delay=".3s">(66/110 Points) Platinum Certified</h5>
-                <a href="javascript:void(0)" class="animated fadeInUp" data-wow-delay=".8s">Check best examples<div class="ripple-container"></div></a>
+                <a href="blog2CompAnalGreenBody.php" class="animated fadeInUp" data-wow-delay=".8s">Check best examples<div class="ripple-container"></div></a>
             </div>
         </div>
         <div class="carousel-item">
@@ -303,7 +303,7 @@
                 <h1 class="animated  fadeInDown hero-heading-sec" data-wow-delay=".2s">Echotex Limited, Bangladesh</h1>
                 <h3 class="animated  fadeInDown hero-sub-heading-sec" data-wow-delay=".2s">“National Environment Award” by the Directorate of Environment and Forest of Bangladesh</h3>
                 <h5 class="animated fadeInUp  hero-sub-heading-sec" data-wow-delay=".3s">(86/110 Points) Platinum Certified</h5>
-                <a href="javascript:void(0)" class="animated fadeInUp" data-wow-delay=".8s">Check best examples<div class="ripple-container"></div></a>
+                <a href="blog2CompAnalGreenBody.php" class="animated fadeInUp" data-wow-delay=".8s">Check best examples<div class="ripple-container"></div></a>
             </div>
         </div>
 
@@ -838,7 +838,7 @@
             <!-- Single Team Widget -->
             <div class="col-md-6 col-lg-4 col-xl-4 wow animated fadeInUp" data-wow-delay=".5s">
                 <div class="single-team-widget">
-                    <img src="assets/images/team/team3.jpg" class="img-fluid" alt="">
+                    <img src="assets/images/team/3.jpg" class="img-fluid" alt="">
                     <div class="team-member-info">
 
                         <h2 class="subtitle">Jonalee Das Bajpai</h2>
@@ -974,15 +974,15 @@
                 <article class="single-blog-post">
                     <!-- Featured Image -->
                     <div class="featured-image">
-                        <a href="#">
-                            <img src="assets/images/blog/1/1.jpg" alt="">
+                        <a href="blog1Barrier.php">
+                            <img src="assets/images/blog/1/blog1.jpg" alt="" class="text-right w-75">
                         </a>
                     </div>
                     <!-- Post Meta -->
                     <div class="post-meta">
                         <!-- Title -->
-                        <a href="blog-single.php"><h2 class="subtitle text-center">Barriers and Challenges to Green Garment Factories in India </h2></a>
-                        <p> Read about  benefits, present scenario and the limiting factors of Green garment factories in India. Explore incentives by GoI for Green factories.</p>
+                        <a href="blog1Barrier.php"><h2 class="subtitle text-center">Barriers and Challenges to Green Garment Factories in India </h2></a>
+                        <p class="text-justify"> Read about  benefits, present scenario and the limiting factors of Green garment factories in India. Explore incentives by GoI for Green factories.</p>
                     </div>
                     <div class="meta-tags">
                         <span class="comments"><a href="blog1Barrier.php"><i class="mdi mdi-comment-outline"></i> Click to read about this</a></span>
@@ -996,15 +996,15 @@
                 <article class="single-blog-post">
                     <!-- Featured Image -->
                     <div class="featured-image">
-                        <a href="#">
+                        <a href="blog2CompAnalGreen.php">
                             <img src="assets/images/blog/2/1.jpg" alt="">
                         </a>
                     </div>
                     <!-- Post Meta -->
                     <div class="post-meta">
                         <!-- Title -->
-                        <a href="blog-single.php"><h2 class="subtitle text-center">Comparative Analysis of Green garment factories of the world</h2></a>
-                        <p>Explore the best examples and lear about their best practices.</p>
+                        <a href="blog2CompAnalGreen.php"><h2 class="subtitle text-center">Comparative Analysis of Green garment factories of the world</h2></a>
+                        <p class="text-justify">Explore the best examples of Green Garment Factories from Bangladesh, Sri Lanka and China and learn about their best practices and innovative green features.</p>
                     </div>
                     <div class="meta-tags">
                         <span class="comments"><a href="blog2CompAnalGreen.php"><i class="mdi mdi-comment-outline"></i> Click to read about this</a></span>
@@ -1018,14 +1018,14 @@
                 <article class="single-blog-post">
                     <!-- Featured Image -->
                     <div class="featured-image">
-                        <a href="#">
+                        <a href="blog3CompAnalGRIHA.php">
                             <img src="assets/images/blog/6/1.jpg" alt="">
                         </a>
                     </div>
                     <!-- Post Meta -->
                     <div class="post-meta">
                         <!-- Title -->
-                        <a href="blog-single.php"><h2 class="subtitle text-center">LEED Certification Status of Indian Garment Industry</h2></a>
+                        <a href="blog3CompAnalGRIHA.php"><h2 class="subtitle text-center">LEED Certification Status of Indian Garment Industry</h2></a>
                         <p>Know about the currently certified Garment Industry buildings and on going projects.</p>
                     </div>
                     <div class="meta-tags">

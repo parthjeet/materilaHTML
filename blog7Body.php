@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>State Wise GRIHA Incentives</title>
+    <title>Non Garment Industry Case studies- Green Initiatives</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -46,7 +46,7 @@
                     <div class="col-md-12">
                         <div class="title-center">
                             <div class="title-middle">
-                                <h1 class="page-title text-center">State Wise GRIHA Incentives</h1>
+                                <h1 class="page-title text-center">SWOT Analysis of Green Garment Factories in India</h1>
                             </div>
                         </div>
                     </div>
@@ -62,29 +62,16 @@
                     <!-- Single Blog Post -->
                     <div class="single-blog-page col-md-12 col-lg-12 col-xs-12">
                         <article class="single-post wow fadeInUp animated"  data-wow-delay=".2s">
-                            <div class="post-image text-center">
-                              <img src="assets/images/blog/7/1.jpg" class="img-fluid w-75" alt="">
-                            </div>
-                            <p>
-                            <h2><strong>Green buildings in India</strong></h2>
-                            <ul>
-                                <li>India had only around 1,850 sq metres of certified commercial green floor space, in 2001.</li>
-                                <li>The first residential green rating standard, was introduced in May 2008. Seven years later, India has around 325 million sq metres of registered green floor space (pre-certified and certified), across all categories.</li>
-                                <li>The Centre for Science Environment (CSE) has warned governments against giving fiscal sops or extra built-up area to developers, without monitoring the actual energy savings and environmental performance of green-rated buildings.</li>
-                            </ul>
-                            <p><strong><em>(The writer is CEO, Track2Realty)</em><br /></strong></p>
 
-                            <p class="text-justify">Although green buildings cost slightly more than conventional ones, the higher cost can be recovered in three to four years, owing to reduced operational costs. Greater awareness about the benefits of green buildings, among developers and buyers, could also fuel investment into this segment. While developers agree that extra FAR is an incentive, they unanimously maintain that owing to the practicalities of the real estate business, this higher FAR has to be supplemented with lower taxes. The higher FAR would enable developers to earn higher profits on green buildings, in a shorter time span and the lower taxes on such buildings will result in lower monthly outgoings for home buyers.
 
-                            </p>
 
                             <div class="single-post-meta">
-                                <div class="post-tag">
-                                    <a href="blog5Body.php"><i class="material-icons mdi mdi-dots-horizontal"></i>Click to read more</a>
-                                </div>
-                                <div class="share-post">
-                                    <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-google-plus"></i></a> <a href="#"><i class="fa fa-pinterest"></i></a>
-                                </div>
+                              <object class="table-responsive">
+                                  <object width="1070" height="850" data="Swot.pdf"></object>
+
+
+                              </object>
+
                             </div>
                         </article>
 

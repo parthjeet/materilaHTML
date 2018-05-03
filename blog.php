@@ -70,7 +70,7 @@
                                 <!-- Featured Image -->
                                 <div class="featured-image">
                                     <a href="blog1Barrier.php">
-                                        <img src="assets/images/blog/blog1.png" alt="">
+                                        <img src="assets/images/blog/1/blog1.jpg" alt="">
                                     </a>
                                 </div>
                                 <!-- Post Meta -->
@@ -109,11 +109,11 @@
                                 <div class="post-meta">   
 
                                     <!-- Title -->
-                                    <a href="blog3CompAnalGRIHA.php"><h2 class="subtitle">LEED Certification Status Of Indian Garment Industry</h2></a>
-                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio perferendis assumenda ipsum maiores dolorum similique obcaecati perspiciatis.</p>                              
+                                    <a href="blog3CompAnalGRIHA.php"><h2 class="subtitle text-center">LEED CERTIFICATION STATUS OF INDIAN GARMENT INDUSTRY  </h2></a>
+                                     <p class="text-justify">India has 5 operational Green garment factories while 25 projects are undergoing for certification. 22 Projects related to garment industry have registered in IGBC</p>
                                 </div>
                                 <div class="meta-tags">
-                                  <span class="comments"><a href="blog3CompAnalGRIHA.php"><i class="mdi mdi-comment-outline"></i> Read More...</a></span>
+                                  <span class="comments"><a href="blog3CompAnalGRIHA.php"> Read More...</a></span>
                                   <!-- Read More -->
                                   <a class="btn btn-round btn-fab" href="blog3CompAnalGRIHA.php"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
                                 </div>
@@ -133,11 +133,11 @@
                                 <div class="post-meta">   
 
                                     <!-- Title -->
-                                    <a href="blog6.php"><h2 class="subtitle text-center">Non Garment Industry Case studies- Green Initiatives</h2></a>
-                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio perferendis assumenda ipsum maiores dolorum similique obcaecati perspiciatis.</p>                              
+                                    <a href="blog6.php"><h2 class="subtitle text-center">NON GARMENT INDUSTRY CASE STUDIES- GREEN INITIATIVES</h2></a>
+                                     <p>Explore few examples of green initiatives taken by non-garment industry related buildings</p>
                                 </div>
                                 <div class="meta-tags">
-                                  <span class="comments"><a href="blog6.php"><i class="mdi mdi-comment-outline"></i> 24 Comments</a></span>
+                                  <span class="comments"><a href="blog6.php"> Read More...</a></span>
                                   <!-- Read More -->
                                   <a class="btn btn-round btn-fab" href="blog6.php"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
                                 </div>
@@ -149,23 +149,21 @@
                               <article class="single-blog-post">
                                 <!-- Featured Image -->
                                 <div class="featured-image">
-                                    <a href="#">
-                                        <img src="assets/images/blog/featured4.jpg" alt="">
+                                    <a href="blog8.php">
+                                        <img src="assets/images/blog/Interview.png" alt="">
                                     </a>
                                 </div>
                                 <!-- Post Meta -->
                                 <div class="post-meta">   
-                                    <div class="post-date">
-                                      <span><b>April 25 2018</b></span>
-                                    </div>                           
+
                                     <!-- Title -->
-                                    <a href="blog-single.php"><h2 class="subtitle">We love photography</h2></a>
+                                    <a href="blog8.php"><h2 class="subtitle text-center">INTERVIEW WITH AQUARELLE INDIA PVT. LTD, AND TERI (THE ENERGY AND RESOURCE INSTITUTE) </h2></a>
                                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio perferendis assumenda ipsum maiores dolorum similique obcaecati perspiciatis.</p>                              
                                 </div>
                                 <div class="meta-tags">
-                                  <span class="comments"><a href="#"><i class="mdi mdi-comment-outline"></i> 24 Comments</a></span>
+                                  <span class="comments"><a href="blog8.php">Read More...</a></span>
                                   <!-- Read More -->
-                                  <a class="btn btn-round btn-fab" href="blog-single.php"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
+                                  <a class="btn btn-round btn-fab" href="blog8.php"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
                                 </div>
                               </article>
                             </div>
@@ -188,7 +186,7 @@
 
                                     <!-- Title -->
                                     <a href="blog2CompAnalGreen.php"><h2 class="subtitle text-center">COMPARATIVE ANALYSIS OF GREEN GARMENT FACTORIES OF THE WORLD </h2></a>
-                                     <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio perferendis assumenda ipsum maiores dolorum similique obcaecati perspiciatis.</p>
+                                     <p class="text-justify">In order for India to survive in global market of Apparel production market, India needs to learn from the practices of its neighbouring countries who are continuously giving cut throat competition to India.</p>
                                 </div>
                                 <div class="meta-tags">
                                  <a href="blog2CompAnalGreen.php"> Read More...</a>
@@ -211,8 +209,8 @@
                                   <div class="post-meta">   
 
                                       <!-- Title -->
-                                      <a href="blog4.php"><h2 class="subtitle text-center">Comparative Analysis of GRIHA certified Non-Garment related Buildings</h2></a>
-                                       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio perferendis assumenda ipsum maiores dolorum similique obcaecati perspiciatis.</p>                              
+                                      <a href="blog4.php"><h2 class="subtitle text-center">COMPARATIVE ANALYSIS OF GRIHA CERTIFIED NON-GARMENT RELATED BUILDINGS</h2></a>
+                                       <p class="text-justify">Analysis of some of the best features of GRIHA certified buildings which are from industries other than Garment industry.</p>
                                   </div>
                                   <div class="meta-tags">
                                     <span class="comments"><a href="blog4.php">Read More...</a></span>
@@ -235,8 +233,8 @@
                                 <div class="post-meta">   
 
                                     <!-- Title -->
-                                    <a href="blog5.php"><h2 class="subtitle text-center">State Wise GRIHA Incentives</h2></a>
-                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio perferendis assumenda ipsum maiores dolorum similique obcaecati perspiciatis.</p>                              
+                                    <a href="blog5.php"><h2 class="subtitle text-center">STATE WISE GRIHA INCENTIVES</h2></a>
+                                     <p>Explore the benefits and incentives provided by Government of India for establishing green buildings in India</p>
                                 </div>
                                 <div class="meta-tags">
                                   <span class="comments"><a href="blog5.php"><i class="mdi mdi-comment-outline"></i> Read More...</a></span>
@@ -251,32 +249,53 @@
                               <article class="single-blog-post">
                                 <!-- Featured Image -->
                                 <div class="featured-image">
-                                    <a href="#">
-                                        <img src="assets/images/blog/featured8.jpg" alt="">
+                                    <a href="blog7SWOT.php">
+                                        <img src="assets/images/blog/Swot.jpg" alt="">
                                     </a>
                                 </div>
                                 <!-- Post Meta -->
                                 <div class="post-meta">
-                                    <div class="post-date">
-                                      <span><b>Dec 25 2018</b></span>
-                                    </div>                           
+
+
+
+                                    <a href="blog5.php"><h2 class="subtitle text-center">LEED V/S GRIHA</h2></a>
+                                    <p>Explore the benefits and incentives provided by Government of India for establishing green buildings in India</p>
+                                </div>
+                                  <div class="meta-tags">
+                                      <span class="comments"><a href="blog5.php"><i class="mdi mdi-comment-outline"></i> Read More...</a></span>
+                                      <!-- Read More -->
+                                      <a class="btn btn-round btn-fab" href="blog5.php"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
+                                  </div>
+                              </article>
+                            </div>
+
+                            <!-- Single Blog Post -->
+                            <div class="col-md-12 wow animated fadeInUp"  data-wow-delay=".7s">
+                                <article class="single-blog-post">
+                                    <!-- Featured Image -->
+                                    <div class="featured-image">
+                                        <a href="blog7SWOT.php">
+                                            <img src="assets/images/blog/Swot.jpg" alt="">
+                                        </a>
+                                    </div>
+                                    <!-- Post Meta -->
+                                    <div class="post-meta">
+
                                     <!-- Title -->
-                                    <a href="blog-single.php"><h2 class="subtitle">Kelly Grover</h2></a>
-                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio perferendis assumenda ipsum maiores dolorum similique obcaecati perspiciatis.</p>                              
+                                    <a href="blog7SWOT.php"><h2 class="subtitle text-center">SWOT ANALYSIS OF GREEN GARMENT FACTORIES IN INDIA</h2></a>
+                                     <p>Analysis of Strengths, Weaknesses, Threats and opportunities of Green garment factories in India.</p>
                                 </div>
                                 <div class="meta-tags">
-                                  <span class="comments"><a href="#"><i class="mdi mdi-comment-outline"></i> 24 Comments</a></span>
+                                  <span class="comments"><a href="blog7SWOT.php">Read More...</a></span>
                                   <!-- Read More -->
-                                  <a class="btn btn-round btn-fab" href="blog-single.php"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
+                                  <a class="btn btn-round btn-fab" href="blog7SWOT.php"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
                                 </div>
                               </article>
                             </div>
                         </div>
 
                         <!-- pagination -->
-                        <div class="col-md-12 text-center mt-3 blog-pagination wow animated fadeInUp"  data-wow-delay=".4s">
-                            <a href="javascript:void(0)" class="btn btn-common"><i class="material-icons mdi mdi mdi-autorenew"></i> Load More Stories<div class="ripple-container"></div></a>
-                        </div>
+
                         <!-- pagination End -->
                       </div>
                     </div> 

@@ -44,10 +44,10 @@
                     <li>
                         <figure class="overlay">
                             <img class="img-fluid" src="assets/images/Layouts/PlantPlanning/layout.jpg" alt="">
-                            <figcaption><a href="blog-single.php"><i class="mdi mdi-link-variant from-top icon-xs"></i></a></figcaption>
+                            <figcaption><a href="ReferenceLayouts.php"><i class="mdi mdi-link-variant from-top icon-xs"></i></a></figcaption>
                         </figure>
                         <div class="post-content">
-                            <h6 class="post-title"><a href="blog-single.php">Plant Planning and Design</a></h6>
+                            <h6 class="post-title"><a href="ReferenceLayouts.php">Plant Planning and Design</a></h6>
                             <div class="meta"><span class="date">Calculation and Guidance</span></div>
                         </div>
                         <br>
@@ -55,10 +55,10 @@
                     <li>
                         <figure class="overlay">
                             <img class="img-fluid" src="assets/images/Facility/Juki/SNLS/0.jpg" alt="">
-                            <figcaption><a href="blog-single.php"><i class="mdi mdi-link-variant from-top icon-xs"></i></a></figcaption>
+                            <figcaption><a href="MachineryComparision.php"><i class="mdi mdi-link-variant from-top icon-xs"></i></a></figcaption>
                         </figure>
                         <div class="post-content">
-                            <h6 class="post-title"> <a href="blog-single.php">Machinery Comparison</a> </h6>
+                            <h6 class="post-title"> <a href="MachineryComparision.php">Machinery Comparison</a> </h6>
                             <div class="meta"><span class="date">Choose from best options</span></div>
                         </div>
                     </li>

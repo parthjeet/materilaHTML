@@ -65,19 +65,12 @@
                     <div class="post-image text-center">
                         <img src="assets/images/blog/6/1.jpg" class="img-fluid" alt="">
                     </div>
-                    <h2>Green Garment Factory: Indian Scenario</h2>
-                    <p>
-                        Although there are significant benefits of Green Garment factory, but there are only 13 LEED certified buildings related to garment industry in India among which Evolve Clothing company Pvt. Ltd. Factory building (Kanchipuram) is only factory to achieve gold rating under LEED BD+C category.
-                        Apart from these certifications India’s leading garment manufacturers such as Laguna clothing,  KG denims,  Gokaldas Exports,  Orient craft,  Aquarelle India Pvt. ltd  etc. are continuously working in direction of sustainability.
+                    <p class="text-justify">About 575 projects, covering 21 million square meters, are registered for certification under the GRIHA, a national rating system for green buildings in India.
 
-                    </p>
-                    <h2>Barriers and Challenges for Green Garment Factory in India:</h2>
-                    <p>
-                        The barriers and challenges faced by Garment Industry in India that hinders the development of Green Garment Factory in India can be broadly classified into Internal Barriers and External Barriers.(Tao, 2016)
-                    </p>
-                    <div class="text-center">
-                        <img src="/materilaHTML/assets/images/blog/blog1_1.png" alt="" class="img-fluid">
-                    </div>
+                        TERI, a non-profit research body, developed the Green Rating for Integrated Habitat Assessment (GRIHA), which was adopted as the national rating system for green buildings by the government in 2007.
+
+
+                       </p>
                     <div class="single-post-meta">
                         <div class="post-tag">
                             <a href="blog4Body.php"><i class="material-icons mdi mdi-dots-horizontal"></i>Click to read more</a>
