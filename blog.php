@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Blog | Material</title>
+    <title>Blog</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -45,8 +45,8 @@
                     <div class="col-md-12">
                         <div class="title-center">
                             <div class="title-middle">
-                                <h2 class="page-tagline">Know about ourselves</h2>
-                                <h1 class="page-title text-center">Our Stories</h1>
+                                <h2 class="page-tagline">Read Our Blogs</h2>
+                                <h1 class="page-title text-center">Blogs</h1>
                             </div>
                         </div>
                     </div>
@@ -69,7 +69,7 @@
                               <article class="single-blog-post">
                                 <!-- Featured Image -->
                                 <div class="featured-image">
-                                    <a href="#">
+                                    <a href="blog1Barrier.php">
                                         <img src="assets/images/blog/blog1.png" alt="">
                                     </a>
                                 </div>
@@ -80,7 +80,7 @@
                                     </div>                           
                                     <!-- Title -->
                                     <a href="blog1Barrier.php"><h2 class="subtitle">CHALLENGES FOR GREEN GARMENT FACTORY: INDIA</h2></a>
-                                    <p>
+                                    <p class="text-justify">
                                         Green Garment factories are becoming widely accepted worldwide due to their numerous benefits.
                                         Countries like Bangladesh and Sri Lanka have turned into a global player in the apparel production and exports,
                                         becoming a major supplier for many leading fashion brands, by adopting Green concepts in their production.
@@ -91,7 +91,7 @@
                                 <div class="meta-tags">
                                   <span class="comments"><a href="blog1Barrier.php">Read more...</a></span>
                                   <!-- Read More -->
-                                  <a class="btn btn-round btn-fab" href="blog.php"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
+                                  <a class="btn btn-round btn-fab" href="blog1Barrier.php"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
                                 </div>
                               </article>
                             </div>
@@ -101,23 +101,21 @@
                                 <article class="single-blog-post">
                                 <!-- Featured Image -->
                                 <div class="featured-image">
-                                    <a href="#">
-                                      <img src="assets/images/blog/featured2.jpg" alt="">
+                                    <a href="blog3CompAnalGRIHA.php">
+                                      <img src="assets/images/blog/6/1.jpg" alt="">
                                     </a>
                                 </div>
                                 <!-- Post Meta -->
                                 <div class="post-meta">   
-                                    <div class="post-date">
-                                      <span><b>Feb 25 2018</b></span>
-                                    </div>                           
+
                                     <!-- Title -->
-                                    <a href="blog-single.php"><h2 class="subtitle">Kelly Grover</h2></a>
+                                    <a href="blog3CompAnalGRIHA.php"><h2 class="subtitle">LEED Certification Status Of Indian Garment Industry</h2></a>
                                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio perferendis assumenda ipsum maiores dolorum similique obcaecati perspiciatis.</p>                              
                                 </div>
                                 <div class="meta-tags">
-                                  <span class="comments"><a href="#"><i class="mdi mdi-comment-outline"></i> 24 Comments</a></span>
+                                  <span class="comments"><a href="blog3CompAnalGRIHA.php"><i class="mdi mdi-comment-outline"></i> Read More...</a></span>
                                   <!-- Read More -->
-                                  <a class="btn btn-round btn-fab" href="blog-single.php"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
+                                  <a class="btn btn-round btn-fab" href="blog3CompAnalGRIHA.php"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
                                 </div>
                               </article>
                             </div>
@@ -127,23 +125,21 @@
                               <article class="single-blog-post ">
                                 <!-- Featured Image -->
                                 <div class="featured-image">
-                                    <a href="#">
-                                        <img src="assets/images/blog/featured3.jpg" alt="">
+                                    <a href="blog6.php">
+                                        <img src="assets/images/blog/Case.jpg" alt="">
                                     </a>
                                 </div>
                                 <!-- Post Meta -->
                                 <div class="post-meta">   
-                                    <div class="post-date">
-                                      <span><b>Mar 25 2018</b></span>
-                                    </div>                           
+
                                     <!-- Title -->
-                                    <a href="blog-single.php"><h2 class="subtitle">We support your custom</h2></a>
+                                    <a href="blog6.php"><h2 class="subtitle text-center">Non Garment Industry Case studies- Green Initiatives</h2></a>
                                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio perferendis assumenda ipsum maiores dolorum similique obcaecati perspiciatis.</p>                              
                                 </div>
                                 <div class="meta-tags">
-                                  <span class="comments"><a href="#"><i class="mdi mdi-comment-outline"></i> 24 Comments</a></span>
+                                  <span class="comments"><a href="blog6.php"><i class="mdi mdi-comment-outline"></i> 24 Comments</a></span>
                                   <!-- Read More -->
-                                  <a class="btn btn-round btn-fab" href="blog-single.php"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
+                                  <a class="btn btn-round btn-fab" href="blog6.php"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
                                 </div>
                               </article>
                             </div>
@@ -183,23 +179,21 @@
                               <article class="single-blog-post">
                                 <!-- Featured Image -->
                                 <div class="featured-image">
-                                    <a href="#">
-                                        <img src="assets/images/blog/featured5.jpg" alt="">
+                                    <a href="blog2CompAnalGreen.php">
+                                        <img src="assets/images/blog/2/1.jpg" alt="">
                                     </a>
                                 </div>
                                 <!-- Post Meta -->
                                 <div class="post-meta">   
-                                    <div class="post-date">
-                                      <span><b>Sep 25 2018</b></span>
-                                    </div>                           
+
                                     <!-- Title -->
-                                    <a href="blog-single.php"><h2 class="subtitle">Kelly Grover</h2></a>
-                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio perferendis assumenda ipsum maiores dolorum similique obcaecati perspiciatis.</p>                              
+                                    <a href="blog2CompAnalGreen.php"><h2 class="subtitle text-center">COMPARATIVE ANALYSIS OF GREEN GARMENT FACTORIES OF THE WORLD </h2></a>
+                                     <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio perferendis assumenda ipsum maiores dolorum similique obcaecati perspiciatis.</p>
                                 </div>
                                 <div class="meta-tags">
-                                  <span class="comments"><a href="#"><i class="mdi mdi-comment-outline"></i> 24 Comments</a></span>
+                                 <a href="blog2CompAnalGreen.php"> Read More...</a>
                                   <!-- Read More -->
-                                  <a class="btn btn-round btn-fab" href="blog-single.php"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
+                                  <a class="btn btn-round btn-fab" href="blog2CompAnalGreen.php"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
                                 </div>
                               </article>
                             </div>
@@ -209,23 +203,21 @@
                                 <article class="single-blog-post">
                                   <!-- Featured Image -->
                                   <div class="featured-image">
-                                      <a href="#">
-                                          <img src="assets/images/blog/featured6.jpg" alt="">
+                                      <a href="blog4.php">
+                                          <img src="assets/images/blog/Griha4.jpg" alt="">
                                       </a>
                                   </div>
                                   <!-- Post Meta -->
                                   <div class="post-meta">   
-                                      <div class="post-date">
-                                        <span><b>Oct 25 2018</b></span>
-                                      </div>                           
+
                                       <!-- Title -->
-                                      <a href="blog-single.php"><h2 class="subtitle">Kelly Grover</h2></a>
+                                      <a href="blog4.php"><h2 class="subtitle text-center">Comparative Analysis of GRIHA certified Non-Garment related Buildings</h2></a>
                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio perferendis assumenda ipsum maiores dolorum similique obcaecati perspiciatis.</p>                              
                                   </div>
                                   <div class="meta-tags">
-                                    <span class="comments"><a href="#"><i class="mdi mdi-comment-outline"></i> 24 Comments</a></span>
+                                    <span class="comments"><a href="blog4.php">Read More...</a></span>
                                     <!-- Read More -->
-                                    <a class="btn btn-round btn-fab" href="blog-single.php"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
+                                    <a class="btn btn-round btn-fab" href="blog4.php"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
                                   </div>
                                 </article>
                             </div>
@@ -235,23 +227,21 @@
                               <article class="single-blog-post">
                                 <!-- Featured Image -->
                                 <div class="featured-image">
-                                    <a href="#">
-                                        <img src="assets/images/blog/featured7.jpg" alt="">
+                                    <a href="blog5.php">
+                                        <img src="assets/images/blog/7/1.jpg" alt="">
                                     </a>
                                 </div>
                                 <!-- Post Meta -->
                                 <div class="post-meta">   
-                                    <div class="post-date">
-                                      <span><b>Nov 25 2018</b></span>
-                                    </div>                           
+
                                     <!-- Title -->
-                                    <a href="blog-single.php"><h2 class="subtitle">Kelly Grover</h2></a>
+                                    <a href="blog5.php"><h2 class="subtitle text-center">State Wise GRIHA Incentives</h2></a>
                                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio perferendis assumenda ipsum maiores dolorum similique obcaecati perspiciatis.</p>                              
                                 </div>
                                 <div class="meta-tags">
-                                  <span class="comments"><a href="#"><i class="mdi mdi-comment-outline"></i> 24 Comments</a></span>
+                                  <span class="comments"><a href="blog5.php"><i class="mdi mdi-comment-outline"></i> Read More...</a></span>
                                   <!-- Read More -->
-                                  <a class="btn btn-round btn-fab" href="blog-single.php"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
+                                  <a class="btn btn-round btn-fab" href="blog5.php"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
                                 </div>
                               </article>
                             </div>
@@ -266,7 +256,7 @@
                                     </a>
                                 </div>
                                 <!-- Post Meta -->
-                                <div class="post-meta">   
+                                <div class="post-meta">
                                     <div class="post-date">
                                       <span><b>Dec 25 2018</b></span>
                                     </div>                           

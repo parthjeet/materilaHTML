@@ -46,7 +46,7 @@
                     <div class="col-md-12">
                         <div class="title-center">
                             <div class="title-middle">
-                                <h1 class="page-title text-center">BARRIERS AND CHALLENGES FOR GREEN GARMENT FACTORY: INDIA</h1>
+                                <h1 class="page-title text-center">Barriers and Challenges for Green Garment Factory: India</h1>
                             </div>
                         </div>
                     </div>
@@ -62,8 +62,8 @@
                     <!-- Single Blog Post -->
                     <div class="single-blog-page col-md-12 col-lg-12 col-xs-12">
                         <article class="single-post wow fadeInUp animated"  data-wow-delay=".2s">
-                            <div class="post-image">
-                              <img src="assets/images/blog/blog1.png" class="img-fluid" alt="">
+                            <div class="post-image text-center">
+                              <img src="assets/images/blog/blog1.png" class="img-fluid w-75" alt="" >
                             </div>
                             <h2>Green Garment Factory: Indian Scenario</h2>
                             <p>
@@ -80,7 +80,7 @@
                             </div>
                             <div class="single-post-meta">
                                 <div class="post-tag">
-                                    <a href="#"><i class="material-icons mdi mdi-dots-horizontal"></i>Click to read more</a>
+                                    <a href="blog1BarrierBody.php"><i class="material-icons mdi mdi-dots-horizontal"></i>Click to read full blog</a>
                                 </div>
                                 <div class="share-post">
                                     <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-google-plus"></i></a> <a href="#"><i class="fa fa-pinterest"></i></a>

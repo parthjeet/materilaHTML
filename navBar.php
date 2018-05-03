@@ -88,13 +88,10 @@
                         </div>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <a class="nav-link " href="blog.php  "  aria-haspopup="true" aria-expanded="false">
                             BLOG
                         </a>
-                        <div class="dropdown-menu">
-                            <a class="dropdown-item" href="blog.php">Blog Page</a>
-                            <a class="dropdown-item" href="blog-single.php">Blog Single Page</a>
-                        </div>
+
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">

@@ -981,13 +981,13 @@
                     <!-- Post Meta -->
                     <div class="post-meta">
                         <!-- Title -->
-                        <a href="blog-single.php"><h2 class="subtitle">Barriers and Challenges to Green Garment Factories in India </h2></a>
+                        <a href="blog-single.php"><h2 class="subtitle text-center">Barriers and Challenges to Green Garment Factories in India </h2></a>
                         <p> Read about  benefits, present scenario and the limiting factors of Green garment factories in India. Explore incentives by GoI for Green factories.</p>
                     </div>
                     <div class="meta-tags">
-                        <span class="comments"><a href="blog.php"><i class="mdi mdi-comment-outline"></i> Click to read about this</a></span>
+                        <span class="comments"><a href="blog1Barrier.php"><i class="mdi mdi-comment-outline"></i> Click to read about this</a></span>
                         <!-- Read More -->
-                        <a class="btn btn-round btn-fab" href="blog-single.php"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
+                        <a class="btn btn-round btn-fab" href="blog1Barrier.php"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
                     </div>
                 </article>
             </div>
@@ -1003,13 +1003,13 @@
                     <!-- Post Meta -->
                     <div class="post-meta">
                         <!-- Title -->
-                        <a href="blog-single.php"><h2 class="subtitle">Comparative Analysis of Green garment factories of the world</h2></a>
+                        <a href="blog-single.php"><h2 class="subtitle text-center">Comparative Analysis of Green garment factories of the world</h2></a>
                         <p>Explore the best examples and lear about their best practices.</p>
                     </div>
                     <div class="meta-tags">
-                        <span class="comments"><a href="#"><i class="mdi mdi-comment-outline"></i> 24 Comments</a></span>
+                        <span class="comments"><a href="blog2CompAnalGreen.php"><i class="mdi mdi-comment-outline"></i> Click to read about this</a></span>
                         <!-- Read More -->
-                        <a class="btn btn-round btn-fab" href="blog-single.php"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
+                        <a class="btn btn-round btn-fab" href="blog2CompAnalGreen.php"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
                     </div>
                 </article>
             </div>
@@ -1025,13 +1025,13 @@
                     <!-- Post Meta -->
                     <div class="post-meta">
                         <!-- Title -->
-                        <a href="blog-single.php"><h2 class="subtitle">LEED Certification Status of Indian Garmnet Industry</h2></a>
+                        <a href="blog-single.php"><h2 class="subtitle text-center">LEED Certification Status of Indian Garment Industry</h2></a>
                         <p>Know about the currently certified Garment Industry buildings and on going projects.</p>
                     </div>
                     <div class="meta-tags">
-                        <span class="comments"><a href="#"><i class="mdi mdi-comment-outline"></i> 24 Comments</a></span>
+                        <span class="comments"><a href="blog3CompAnalGRIHA.php"><i class="mdi mdi-comment-outline"></i>Click to read more about this</a></span>
                         <!-- Read More -->
-                        <a class="btn btn-round btn-fab" href="blog-single.php"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
+                        <a class="btn btn-round btn-fab" href="blog3CompAnalGRIHA.php"><i class="material-icons mdi mdi-arrow-right"></i><div class="ripple-container"></div></a>
                     </div>
                 </article>
             </div>

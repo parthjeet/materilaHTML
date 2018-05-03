@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Blog Single Page | Material</title>
+    <title>State Wise GRIHA Incentives</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -46,7 +46,7 @@
                     <div class="col-md-12">
                         <div class="title-center">
                             <div class="title-middle">
-                                <h1 class="page-title text-center">LEED Certification Status Of Indian Garment Industry</h1>
+                                <h1 class="page-title text-center">State Wise GRIHA Incentives</h1>
                             </div>
                         </div>
                     </div>
@@ -62,29 +62,16 @@
                     <!-- Single Blog Post -->
                     <div class="single-blog-page col-md-12 col-lg-12 col-xs-12">
                         <article class="single-post wow fadeInUp animated"  data-wow-delay=".2s">
-                            <div class="post-image text-center">
-                              <img src="assets/images/blog/6/1.jpg" class="img-fluid" alt="">
-                            </div>
-                            <h2>Green Garment Factory: Indian Scenario</h2>
-                            <p>
-                                Although there are significant benefits of Green Garment factory, but there are only 13 LEED certified buildings related to garment industry in India among which Evolve Clothing company Pvt. Ltd. Factory building (Kanchipuram) is only factory to achieve gold rating under LEED BD+C category.
-                                Apart from these certifications India’s leading garment manufacturers such as Laguna clothing,  KG denims,  Gokaldas Exports,  Orient craft,  Aquarelle India Pvt. ltd  etc. are continuously working in direction of sustainability.
 
-                            </p>
-                            <h2>Barriers and Challenges for Green Garment Factory in India:</h2>
-                            <p>
-                                The barriers and challenges faced by Garment Industry in India that hinders the development of Green Garment Factory in India can be broadly classified into Internal Barriers and External Barriers.(Tao, 2016)
-                            </p>
-                            <div class="text-center">
-                                <img src="/materilaHTML/assets/images/blog/blog1_1.png" alt="" class="img-fluid">
-                            </div>
+
+
                             <div class="single-post-meta">
-                                <div class="post-tag">
-                                    <a href="blog3CompAnalGRIHABody.php"><i class="material-icons mdi mdi-dots-horizontal"></i>Click to read more</a>
-                                </div>
-                                <div class="share-post">
-                                    <a href="blog3CompAnalGRIHABody.php"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-google-plus"></i></a> <a href="#"><i class="fa fa-pinterest"></i></a>
-                                </div>
+                              <object class="table-responsive">
+                                  <object width="1070" height="850" data="Incentives.pdf"></object>
+
+
+                              </object>
+
                             </div>
                         </article>
 
