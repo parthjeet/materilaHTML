@@ -892,13 +892,12 @@
                 <div class="item">
                     <div class="testimonial-item">
                         <div class="datils">
-                            <h5>Ana Blunt</h5>
-                            <span>Creative Director</span>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's <br> standard dummy text ever since the 1500s Lorem Ipsum.</p>
+                            <h5>Sujatha R Nandan</h5>
+                            <span>GM Product Development, Max Fashion</span>
+                            <p> A BRIEF AND CONVINCING “WHY” WILL MAKE THE PROJECT
+                                COMPLETELY WELL ROUNDED. <br> Exhaustive Research work and impressive implementation.</p>
                         </div>
-                        <div class="img">
-                            <a href="#"><img class="img-fluid"  src="assets/images/testimonial/author3.jpg"  alt=""></a>
-                        </div>
+
                     </div>
                 </div>
             </div>

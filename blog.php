@@ -158,7 +158,7 @@
 
                                     <!-- Title -->
                                     <a href="blog8.php"><h2 class="subtitle text-center">INTERVIEW WITH AQUARELLE INDIA PVT. LTD, AND TERI (THE ENERGY AND RESOURCE INSTITUTE) </h2></a>
-                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio perferendis assumenda ipsum maiores dolorum similique obcaecati perspiciatis.</p>                              
+                                     <p>Read about the feedbacks of officials from Aquarelle India Pvt. Ltd. and TERI. </p>
                                 </div>
                                 <div class="meta-tags">
                                   <span class="comments"><a href="blog8.php">Read More...</a></span>
@@ -250,7 +250,7 @@
                                 <!-- Featured Image -->
                                 <div class="featured-image">
                                     <a href="blog7SWOT.php">
-                                        <img src="assets/images/blog/Swot.jpg" alt="">
+                                        <img src="assets/images/blog/certification.jpgindex" alt="">
                                     </a>
                                 </div>
                                 <!-- Post Meta -->
@@ -259,7 +259,7 @@
 
 
                                     <a href="blog5.php"><h2 class="subtitle text-center">LEED V/S GRIHA</h2></a>
-                                    <p>Explore the benefits and incentives provided by Government of India for establishing green buildings in India</p>
+                                    <p>Explore the differences in certification requirements ,areas covered,and other aspects of two major Green certification in India. </p>
                                 </div>
                                   <div class="meta-tags">
                                       <span class="comments"><a href="blog5.php"><i class="mdi mdi-comment-outline"></i> Read More...</a></span>
