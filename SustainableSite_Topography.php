@@ -61,7 +61,7 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/SiteSelection/6.Natural_Topography.jpg" class="img-fluid section-padding">
-                <p>(Source- <a href="http://wiki.ubc.ca/images/thumb/9/9b/Classification_Topography_2.jpg/500px-Classification_Topography_2.jpg">University of British Columbia</a>)</p>
+                <p>(Source- <a href="http://www.geograph.ie/photo/5320218">Geograph ie</a>)</p>
 
 
                 <div class="table-responsive text-justify">

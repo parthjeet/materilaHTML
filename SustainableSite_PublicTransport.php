@@ -46,7 +46,7 @@
             <div class="col-md-12">
                 <div class="title-center">
                     <div class="title-middle">
-                        <h1 class="page-title text-center text-center">Access to Public Transport/Shuttle ervice</h1>
+                        <h1 class="page-title text-center text-center">Access to Public Transport/Shuttle Service</h1>
                     </div>
                 </div>
             </div>
@@ -61,8 +61,8 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <div class="img-responsive section-padding">
-                    <img src="/materilaHTML/assets/images/ArchitecturalDesign/SiteSelection/4.Shuttle_Service.jpg" class="img-fluid w-75 ">
-                    <p>(Image Source- <a href="http://mariafresa.net/single/2683169.html">Maria Fresa</a>)</p>
+                    <img src="/materilaHTML/assets/images/ArchitecturalDesign/SiteSelection/4.Shuttle_Service.jpg" class="img-fluid w-50  ">
+                    <p>(Image Source- <a href="https://upload.wikimedia.org/wikipedia/commons/9/99/A_BMTC_bus_Public_Transport_Bangalore_Karnataka_India_2014.jpg">Wikimedia Commons</a>)</p>
 
                 </div>
                 <div class="table-responsive">

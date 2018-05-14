@@ -14,7 +14,7 @@
             </div>
             <div class="collapse navbar-collapse" id="main-navbar">
                 <ul class="navbar-nav mr-auto w-100 justify-content-end">
-                    <li class="nav-item dropdown active">
+                    <li class="nav-item dropdown ">
                         <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             REGULATIONS
                         </a>

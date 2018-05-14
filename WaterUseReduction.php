@@ -61,7 +61,7 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/Water/8.Recycle.png" class="img-fluid w-50">
-                <p>(Image Source: <a href="https://sienaconsulting.ro/wp-content/uploads/2016/02/AP-32.jpg">Siena Consulting</a>)</p>
+                <p>(Image Source: <a href="https://pixabay.com/p-158956/?no_redirect">Pixabay</a>)</p>
 
                 <div class="text-justify section-padding">
                     <div class="table-responsive">

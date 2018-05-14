@@ -46,7 +46,7 @@
             <div class="col-md-12">
                 <div class="title-center">
                     <div class="title-middle">
-                        <h1 class="page-title text-center text-center">Non-Fossil Fueling Facility for Vehicles</h1>
+                        <h1 class="page-title text-center text-center">Non-Fossil Fuelling Facility for Vehicles</h1>
                     </div>
                 </div>
             </div>
@@ -62,7 +62,7 @@
             <div class="col-md-12 text-justify">
                 <div class="text-center img-responsive section-padding">
                     <img src="/materilaHTML/assets/images/ArchitecturalDesign/SiteSelection/8.Non_fossil_fuel.jpg" class="img-fluid w-50">
-                    <p>(Image Source- <a href="https://www.burlingtongreen.org/images/Images/news/shutterstock_14777170greencar.jpeg">Burlington Green</a>)</p>
+                    <p>(Image Source- <a href="https://pixabay.com/p-159269/?no_redirect">Pixabay</a>)</p>
 
 
                 </div>

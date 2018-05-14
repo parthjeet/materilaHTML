@@ -61,7 +61,7 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/SiteSelection/12.Sanitation_Safety.jpg" class="img-fluid w-50">
-                <p>(Image Source: <a href="https://www.wikihow.com/Make-a-Construction-Site-Safe">WikiHow</a>)</p>
+                <p>(Image Source: <a href="https://c1.staticflickr.com/7/6070/6141150633_b0df3ac1fb_b.jpg">Flickr</a>)</p>
 
 
                 <div class="text-justify section-padding">

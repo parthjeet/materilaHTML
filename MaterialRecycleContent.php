@@ -61,7 +61,7 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/Material/3.Recycled.png" class="img-fluid w-25">
-                <p>(Image Source- <a href="https://lh3.googleusercontent.com/-pEGmjNI-wyQ/WiVe5rvaKNI/AAAAAAAAAP4/n3Msfe0UY1c8z8UTNQq4236sCenFOdIEwCJoC/w530-h530-n/FiberliteTech-FTI-Pics-Recycle_Logo.jpg">Google Plus</a>)</p>
+                <p>(Image Source- <a href="https://cdn.pixabay.com/photo/2017/05/31/18/20/recycled-2361152_960_720.png">Pixabay</a>)</p>
 
                 <div class="text-left section-padding">
                     <div class="table-responsive">

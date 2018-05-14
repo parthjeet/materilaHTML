@@ -84,11 +84,11 @@
         <tbody>
         <tr>
         <th scope="row">1</th>
-        <td><a href="MaterialWasteConstruction.php">Handling of Non-Process Waste (During Construction)</a></td>
+        <td><a href="MaterialWasteConstruction.php">Handling of Non-Process Waste (Post Occupancy)</a></td>
         </tr>
         <tr>
             <th scope="row">2</th>
-            <td><a href="MaterialWasteOccupancy.php">Handling of Non-Process Waste (Post Occupancy)</a></td>
+            <td><a href="MaterialWasteOccupancy.php">Handling of Non-Process Waste (During Construction)</a></td>
         </tr>
         <tr>
             <th scope="row">3</th>

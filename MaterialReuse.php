@@ -61,7 +61,7 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/Material/5.Reuse.png" class="img-fluid w-50">
-                <p>(Image Source- <a href="https://www.theloop.ca/wp-content/uploads/2018/04/eco-friendly-bathroom.jpg">The Loop</a>)</p>
+                <p>(Image Source- <a href="https://c1.staticflickr.com/3/2507/5717258964_eda934aff5_b.jpg">Flickr</a>)</p>
 
                 <div class="text-justify section-padding">
                     <div class="table-responsive">

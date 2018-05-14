@@ -61,7 +61,7 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/Material/4.Local.png" class="img-fluid w-50">
-                <p>(Image Source- <a href="https://static1.squarespace.com/static/556937c6e4b0e58457562a49/t/55bd914ce4b002b451c36499/1438486863318/">United4Design</a>)</p>
+                <p>(Image Source- <a href="https://c1.staticflickr.com/9/8033/7980786784_ccfa6973f7_b.jpg">Flickr</a>)</p>
 
                 <div class="text-justify section-padding">
                     <div class="table-responsive">

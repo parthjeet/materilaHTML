@@ -61,7 +61,7 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/Material/6.FSC.png" class="img-fluid w-50">
-                <p>(Image Source- <a href="https://ic.fsc.org">Forest Stewardship Council (FSC)</a>)</p>
+                <p>(Image Source- <a href="https://upload.wikimedia.org/wikipedia/commons/7/72/FSC_Certified_Lumber.jpg">Wikimedia Commons</a>)</p>
 
                 <div class="text-left section-padding">
                     <div class="table-responsive">

@@ -61,7 +61,7 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/Energy/3.Metering.png" class="img-fluid w-25">
-                <p >(Image Source- <a href="https://www.saint-gobain-sekurit.cz/media/k2/items/cache/62fb5f1024529266c6e71c0c0c9ddb3c_XL.jpg">Saint Gobain</a>)</p>
+                <p >(Image Source- <a href="https://upload.wikimedia.org/wikipedia/commons/d/de/Metering-Digital.gif">WIkimedia Commons</a>)</p>
 
                 <div class="text-left section-padding">
                     <div class="table-responsive">

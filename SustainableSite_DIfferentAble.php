@@ -62,7 +62,7 @@
             <div class="col-md-12 text-justify">
                 <div class="img-responsive text-center section-padding">
                     <img src="/materilaHTML/assets/images/ArchitecturalDesign/SiteSelection/9.Differently_abled.png" class="img-fluid w-25">
-                    <p>(Image Source- <a href="https://i.pinimg.com/736x/4a/c5/1d/4ac51da8b9e14bef62bfa51c8b11ecdd--style-guides-wheelchairs.jpg">Pinterest</a>)</p>
+                    <p>(Image Source- <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/International_Symbol_of_Access.svg/1034px-International_Symbol_of_Access.svg.png">Wikimedia Commons</a>)</p>
 
                 </div>
                 <div class="table-responsive">

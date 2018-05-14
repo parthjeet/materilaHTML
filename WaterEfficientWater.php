@@ -61,7 +61,7 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/Water/1.During.jpg" class="img-fluid w-50">
-                <p>(Image Source: <a href="http://static.wixstatic.com/media/6aeaa2_7aa3b32c13934ea89674613dfed8e361~mv2.jpg">Aiqueous</a>)</p>
+                <p>(Image Source: <a href="https://upload.wikimedia.org/wikipedia/commons/7/78/Ma_Wat_River_under_water_pipe_under_construction_2005.jpg>Wikimedia Commons</a>)</p>
 
                 <div class="text-justify section-padding">
                     <div class="table-responsive">

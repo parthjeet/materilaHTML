@@ -60,8 +60,8 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/2.Min_Fresh_Air.jpg" class="img-fluid w-50">
-                <p >(Image Source- <a href="https://png.pngtree.com/thumb_back/fw800/back_pic/00/14/80/26566e3e91e1c81.jpg">PngTree</a>)</p>
+                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/2.Min_Fresh_Air.jpg" class="img-fluid w-25">
+                <p >(Image Source- <a href="https://cdn.pixabay.com/photo/2016/04/01/10/21/gas-mask-1299859_960_720.png">Pixabay</a>)</p>
 
 
 

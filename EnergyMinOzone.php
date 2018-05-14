@@ -60,8 +60,8 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Energy/1.Ozone.jpg" class="img-fluid w-50">
-                <p >(Image Source- <a href="https://i2.wp.com/www.aapkatimes.com/wp-content/uploads/2014/10/16-02.jpg?fit=460%2C450">Aapka Times</a>)</p>
+                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Energy/1.Ozone.jpg" class="img-fluid w-25">
+                <p >(Image Source- <a href="https://c2.staticflickr.com/4/3943/15035580783_db5fac09b1_b.jpg">Flickr</a>)</p>
 
                 <div class="text-justify section-padding">
                     <div class="table-responsive">

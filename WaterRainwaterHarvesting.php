@@ -61,7 +61,7 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/Water/2.RWH.jpg" class="img-fluid w-50">
-                <p>(Image Source: <a href="http://www.greening-solution.com/wp-content/uploads/2016/02/RAINWATER-HARVESTING-SYSTEM-PROCESS-DEMONSTRATION-1.jpg">Greening Solution</a>)</p>
+                <p>(Image Source: <a href="http://www.greening-solution.com/wp-content/uploads/2016/02/RAINWATER-HARVESTING-SYSTEM-PROCESS-DEMONSTRATION-1.jpg">Wikimedia Commons</a>)</p>
 
                 <div class="text-justify section-padding">
                     <div class="table-responsive">

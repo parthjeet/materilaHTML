@@ -61,6 +61,8 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/5.Building_flush_out.jpg" class="img-fluid">
+                <p >(Image Source- <a href="#">Wikimedia Commons</a>)</p>
+
                 <div class="text-justify section-padding">
                     <div class="table-responsive">
                     <table class="table table-bordered table-striped">

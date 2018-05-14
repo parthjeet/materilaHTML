@@ -60,7 +60,9 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/10.Noise.jpg" class="img-fluid">
+                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/10.Noise.jpg" class="img-fluid w-50">
+                <p >(Image Source- <a href="https://upload.wikimedia.org/wikipedia/commons/2/26/XL2_sound_level_meter_measuring_noise_amplitude_in_decibels.png">Wikimedia Commons</a>)</p>
+
                 <div class="text-justify section-padding">
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped">

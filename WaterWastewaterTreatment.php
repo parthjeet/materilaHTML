@@ -61,7 +61,7 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/Water/7.Wastewater.png" class="img-fluid w-50">
-                <p>(Image Source: <a href="http://ctvtt.com/ctv/media/k2/items/cache/2f1d69739325f395c5d7a3562ac2280c_XL.jpg">CNMG</a>)</p>
+                <p>(Image Source: <a href="https://upload.wikimedia.org/wikipedia/commons/7/77/Taskila_Wastewater_Treatment_Plant_Oulu_20150614_03.JPG">Wikimedia Commons</a>)</p>
 
                 <div class="text-left section-padding">
                     <div class="table-responsive">

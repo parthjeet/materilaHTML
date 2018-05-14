@@ -61,6 +61,8 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/7.Break_Out_Spaces.jpg" class="img-fluid w-50">
+                <p >(Image Source- <a href="https://c1.staticflickr.com/9/8064/8269956734_279511dee9_b.jpg">Flickr</a>)</p>
+
                 <div class="text-left section-padding">
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped">

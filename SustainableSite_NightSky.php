@@ -60,7 +60,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <img src="/materilaHTML/assets/images/ArchitecturalDesign/SiteSelection/10.Nightsky.png" class="img-fluid w-50">
+                <img src="/materilaHTML/assets/images/ArchitecturalDesign/SiteSelection/10.Nightsky.png" class="img-fluid ">
                 <p>(Image Source- <a href="https://news.files.bbci.co.uk/vj/live/idt-images/image-slider-nasa_india_night_lights/india_2016_5r5qg.png">BBC</a>)</p>
 
                 <div class="text-justify section-padding">

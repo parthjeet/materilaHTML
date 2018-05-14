@@ -59,7 +59,7 @@
     <div class="text-justify">
         <div class="text-center section-padding">
             <img src="/materilaHTML/assets/images/ArchitecturalDesign/Water/0.Intro.jpg" alt="" class="img-fluid w-50">
-            <p>(Image Source: <a href="http://ec.europa.eu/environment/water/quantity/pdf/Water%20efficiency%20standards_Study2009.pdf">Study on water efficiency standards</a>)</p>
+            <p>(Image Source: <a href="https://pixabay.com/p-715264/?no_redirect">Pixabay</a>)</p>
 
         </div>
         <p>Water efficiency can be defined as</p>

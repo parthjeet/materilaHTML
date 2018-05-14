@@ -62,7 +62,7 @@
             <div class="col-md-12 text-center">
                 <div class="img-responsive section-padding">
                     <img src="/materilaHTML/assets/images/ArchitecturalDesign/SiteSelection/5.Basic_Amenties.jpg" class="img-fluid w-50">
-                    <p>(Image Source- <a href="https://palmcreekupdate.blogspot.in/2018/02/">Palm Creek Update Blogspot</a>)</p>
+                    <p>(Image Source- <a href="https://pixabay.com/p-309880/?no_redirect">Pixabay</a>)</p>
 
 
                 </div>
@@ -90,8 +90,8 @@
                             <p><strong>Steps</strong></p>
                         </td>
                         <td>
-                            <p>&middot; Provide at least three amenities as listed in Exhibit A - Category 1, within a distance of 2 Km</p>
-                            <p>from the entrance of the factory (1 point)</p>
+                            <p>&middot; Provide at least three amenities as listed in Exhibit A - Category 1, within a distance of 2 km from the entrance of the factory.</p>
+                            <p></p>
                             <p>&middot; Provide at least three in-situ amenities as listed in category 2</p>
                         </td>
                     </tr>

@@ -59,7 +59,10 @@
 <section class="section-padding">
 <div class="container">
     <div class="text-center section-padding">
-        <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/0.Intro.jpg" alt=" " class="img-fluid w-50">
+        <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/0.Intro.jpg" alt=" " class="img-fluid w-25">
+
+        <p>(Image Source- <a href="https://upload.wikimedia.org/wikipedia/commons/a/a4/HK_Kln_Tong_HKPC_Building_interior_Indoor_Air_Quality_Information_Centre_name_sign_Mar-2014_green_plant.JPG">Wikimedia Commons</a>)</p>
+
     </div>
     <div class="text-justify">
         <p><strong>Indoor environmental quality (IEQ) refers to the quality of a building&rsquo;s environment in relation to the health and wellbeing of those who occupy space within it.</strong></p>

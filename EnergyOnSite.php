@@ -61,6 +61,8 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/Energy/4.OnSite.png" class="img-fluid w-25">
+                <p >(Image Source- <a href="https://images.pexels.com/photos/159397/solar-panel-array-power-sun-electricity-159397.jpeg?cs=srgb&dl=alternative-alternative-energy-clean-159397.jpg&fm=jpg">Pexels</a>)</p>
+
                 <div class="text-justify section-padding">
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped">

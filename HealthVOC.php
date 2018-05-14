@@ -60,7 +60,9 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/6.VOC.jpg" class="img-fluid">
+                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/6.VOC.jpg" class="img-fluid w-25">
+                <p >(Image Source- <a href="https://c1.staticflickr.com/8/7554/15704962594_9751738e5e_b.jpg">Flickr</a>)</p>
+
                 <div class="text-left section-padding">
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped">

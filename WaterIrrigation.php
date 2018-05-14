@@ -62,7 +62,7 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/Water/5.Irrigation.png" class="img-fluid w-50">
-                <p>(Image Source: <a href="http://www.highamgardenservices.co.uk/media/images/header3.jpg">Higham Garden Services</a>)</p>
+                <p>(Image Source: <a href="https://upload.wikimedia.org/wikipedia/commons/6/68/Irrigation_system_%22Perrot%22_in_action.jpg">WIkimedia Commons</a>)</p>
 
                 <div class="text-left section-padding">
                     <div class="table-responsive">

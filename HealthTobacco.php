@@ -61,7 +61,7 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/1.Tobacco.jpg" class="img-fluid w-25">
-                <p >(Image Source- <a href="http://davidhowald.com/wp-content/uploads/2018/03/no-smoking-signs-awesome-file-no-smokingg-wikimedia-mons-of-no-smoking-signs.png">David Howald</a>)</p>
+                <p >(Image Source- <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/No_Smoking.svg/2000px-No_Smoking.svg.png">Wikimedia Commons</a>)</p>
 
                 <div class="text-justify section-padding">
                     <div class="table-responsive">

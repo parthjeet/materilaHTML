@@ -62,7 +62,7 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="/materilaHTML/assets/images/ArchitecturalDesign/Energy/5.Eco.png" class="img-fluid w-50">
-                <p >(Image Source- <a href="http://blog.forumias.com/wp-content/uploads/2017/09/Energy_and_Power_Gen.jpg">ForumIAS Blog</a>)</p>
+                <p >(Image Source- <a href="https://upload.wikimedia.org/wikipedia/commons/1/14/Wind_turbine_Holderness.jpg">Wikimedia Commons</a>)</p>
 
                 <div class="text-justify section-padding">
                     <div class="table-responsive">

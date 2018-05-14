@@ -60,8 +60,8 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/4.Asbestos.jpg" class="img-fluid w-50">
-                <p >(Image Source- <a href="https://s-media-cache-ak0.pinimg.com/originals/d1/11/9e/d1119e55763a677fe1f79fab69c48bcb.jpg">Pinterest</a>)</p>
+                <img src="/materilaHTML/assets/images/ArchitecturalDesign/Health/4.Asbestos.jpg" class="img-fluid w-25">
+                <p >(Image Source- <a href="https://upload.wikimedia.org/wikipedia/commons/e/e8/Asbestos_Shingles.JPG">Wikimedia Commons</a>)</p>
 
 
                 <div class="text-justify section-padding">
